@@ -130,12 +130,16 @@
   var form = document.getElementById("tb");
   var $ = function (id) { return document.getElementById(id); };
   function clamp(v, a, b) { v = parseInt(v, 10); return isNaN(v) ? a : Math.max(a, Math.min(b, v)); }
-  function r500(n) { return Math.round(n / 500) * 500; }
   function fmt(n) {
     n = Math.max(0, Math.round(n)); var s = String(n), t = s.slice(-3), h = s.slice(0, -3);
     if (h) t = h.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + "," + t; return "₹" + t;
   }
-  function range(a) { var lo = r500(a[0]), hi = r500(a[1]); if (hi < 500 && a[1] > 0) hi = 500; if (lo === hi) return fmt(lo); return fmt(lo) + "–" + fmt(hi).slice(1); }
+  function range(a) {
+    // small sums (a party's entry fees) round to ₹50 so they do not show as ₹0; everything else to ₹500
+    var step = a[1] < 1000 ? 50 : 500, lo = Math.round(a[0] / step) * step, hi = Math.round(a[1] / step) * step;
+    if (lo === hi) return (step === 50 ? "≈ " : "") + fmt(lo);
+    return fmt(lo) + "–" + fmt(hi).slice(1);
+  }
   function add(a, b) { return [a[0] + b[0], a[1] + b[1]]; }
   function mul(a, k) { return [a[0] * k, a[1] * k]; }
   function val(name) { var el = form.querySelector("input[name=" + name + "]:checked"); return el ? el.value : ""; }

@@ -1,6 +1,6 @@
 {% extends "escapes/base.html" %}{% load esc %}
-{% block title %}{{ p.name }}, {{ r.name }}: how to visit, costs{% if p.altitude_m %}, {{ p.altitude_m|metres }}{% endif %} · Sikkim Escapes{% endblock %}
-{% block description %}{{ p.meta_description|default:p.summary|truncatechars:158 }}{% endblock %}
+{% block title %}{{ p.name }}{% if p.altitude_m %} ({{ p.altitude_m|metres }}){% endif %}, {{ r.name }} guide · Sikkim Escapes{% endblock %}
+{% block description %}{% if p.meta_description %}{{ p.meta_description|truncatechars:158 }}{% else %}{{ p.summary|truncatechars:158 }}{% endif %}{% endblock %}
 {% block og_title %}{{ p.name }}, {{ r.name }} · Sikkim Escapes{% endblock %}
 {% block og_description %}{{ p.summary|truncatechars:200 }}{% endblock %}
 {% block og_image %}{% with img=p|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}

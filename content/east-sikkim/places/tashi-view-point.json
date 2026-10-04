@@ -1,0 +1,170 @@
+{
+  "slug": "tashi-view-point",
+  "name": "Tashi View Point",
+  "region": "east-sikkim",
+  "kind": "viewpoint",
+  "wiki": "",
+  "image_query": "Tashi View Point Gangtok Kangchenjunga",
+  "lat": 27.3707,
+  "lng": 88.6159,
+  "altitude_m": 1890,
+  "local_name": null,
+  "tagline": "Gangtok's sunrise point for Kangchenjunga, 8 km up the north road",
+  "meta_description": "Tashi View Point, Gangtok: sunrise over Kangchenjunga at about 1,890 m, 8 km north on the North Sikkim Highway. Taxi fares, timings, best months and tips.",
+  "summary": "Tashi View Point is a roadside viewing terrace at about 1,890 m on the North Sikkim Highway, roughly 8 km and 20–25 minutes north of MG Marg. It is Gangtok's favourite sunrise point for the Kangchenjunga range, best from mid-October to February. Tea stalls open early. No permit needed.",
+  "intro": [
+    "Tashi View Point sits on a bend of the North Sikkim Highway just beyond the northern edge of Gangtok, where the ridge opens to the north-west. A small terraced platform with railings, prayer flags and a few stalls looks across the deep valleys towards the Kangchenjunga range. Taxis start arriving well before dawn in the winter months, and by sunrise the terrace is full of families in jackets holding cups of tea.",
+    "On a clear morning, the summits catch the first light several minutes before the valleys, turning pink, then gold, then white. Kangchenjunga, at 8,586 m the third-highest mountain on earth, is the centre of the view, roughly 60 km away as the crow flies. The terrace is named, as told locally, after Tashi Namgyal, the Chogyal of Sikkim from 1914 to 1963.",
+    "Because it is on the road north, Tashi View Point is also a natural first stop on the way to Kabi Lungchok, Phodong, Mangan and the Lachung and Lachen valleys. Most visitors, though, come for a dawn trip from town as part of the three-point tour with Ganesh Tok and Hanuman Tok, and are back at their hotels for breakfast."
+  ],
+  "story": {
+    "title": "A promise to the Chogyal at the summit",
+    "text": "The mountain you watch from Tashi View Point is more than scenery in Sikkim. Kangchenjunga is honoured by Sikkim's Buddhists as a guardian deity, Dzö-nga, and is celebrated every year at Pang Lhabsol. When a British expedition set out to climb it in 1955, that belief shaped how it ended. According to Wikipedia's account of the first ascent, the team had given a promise to Tashi Namgyal, then Chogyal of Sikkim, that the top of the mountain would remain inviolate. On 25 May 1955, Joe Brown and George Band climbed the Yalung Face from the Nepal side and stopped just short of the true summit, keeping that promise; Norman Hardie and Tony Streather did the same the next day. Many climbers since have followed the tradition of stopping a few metres below the highest point. The Indian side of the mountain remains closed to climbers, and in 2016 the Khangchendzonga National Park around it became a UNESCO World Heritage Site. When the sun first strikes the summit from this terrace, you are looking at a peak whose top, by long custom, nobody stands on.",
+    "source": "Wikipedia: Kangchenjunga; Wikipedia: Tashi Namgyal"
+  },
+  "little_known": [
+    {"fact": "Until 1852 Kangchenjunga was believed to be the highest mountain in the world; survey calculations then showed Everest was higher, and in 1856 Kangchenjunga was announced as the third highest.", "source": "Wikipedia: Kangchenjunga"},
+    {"fact": "Tashi Namgyal, after whom the viewpoint is named as told locally, reigned as Chogyal of Sikkim for nearly half a century, from 1914 to 1963.", "source": "Wikipedia: Tashi Namgyal"},
+    {"fact": "At about 1,890 m, Tashi View Point is roughly the same height as the Tashiling end of the Gangtok ropeway, and about 240 m above MG Marg.", "source": "OpenStreetMap; SRTM elevation data"}
+  ],
+  "facts": [
+    ["Best months", "Mid-October to February; March–April also good"],
+    ["Nights we suggest", "Dawn trip from Gangtok, 1.5–2 hours"],
+    ["From Gangtok", "≈ 8 km · 20–25 min from MG Marg"],
+    ["Altitude", "≈ 1,890 m"],
+    ["Known for", "Kangchenjunga sunrise, first stop on the north road"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Sunrise on Kangchenjunga", "text": "On clear winter mornings, the Kangchenjunga range lights up pink and gold a few minutes before the valleys below. Arrive 20–30 minutes before sunrise to find a spot at the railing, and stay 20 minutes after it, when the colours change fastest."},
+    {"title": "Tea on the terrace", "text": "Stalls open early for the dawn crowd, selling tea, coffee, instant noodles and biscuits for about ₹30–100. A hot cup in cold hands while the light changes on the peaks is part of the ritual. Take your cups and wrappers to the bins."},
+    {"title": "Valley views to the north", "text": "Even when the high peaks are in cloud, the terrace looks over the deep, forested valleys towards North Sikkim. In spring the slopes are green and dotted with villages; in autumn, after the monsoon, the air is so clear you can see individual ridges far to the north."},
+    {"title": "First stop on the road north", "text": "If you are heading to Lachung, Lachen, Mangan or Dzongu, Tashi View Point is the first photo stop out of Gangtok. Kabi Lungchok, with its 13th-century blood-brotherhood stones, is about 9 km further along the same highway."},
+    {"title": "Bakthang Falls on the way", "text": "Between town and the viewpoint, the road passes Bakthang Falls, a roadside waterfall that is fullest from July to October. Drivers often stop for a few minutes. Admire it from the road edge and keep clear of traffic."}
+  ],
+  "how_to_reach": [
+    {"mode": "Local taxi", "text": "Book a reserved taxi the evening before. A dawn return trip from MG Marg costs about ₹500–800 a car with waiting, or ₹1,200–1,800 as part of the three-point tour with Ganesh Tok and Hanuman Tok. Shared taxis on the north road do not run early enough for sunrise."},
+    {"mode": "On the way north", "text": "Shared and private vehicles to Mangan, Lachung and Lachen pass the viewpoint about 20 minutes out of Gangtok. Private cars will stop on request; shared jeeps usually do not. Leave enough time to cross the Toong check post by 4:00 pm if you are heading to the protected areas."},
+    {"mode": "From Bagdogra / NJP", "text": "Reach Gangtok first, about 125 km and 4.5–5 hours from Bagdogra (IXB) or NJP on NH10, which closes after monsoon slides; the alternative is via Kalimpong or Algarah. Plan the sunrise for your first or second morning. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Entry", "Free"],
+    ["Dawn taxi from MG Marg, return", "≈ ₹500–800 a car"],
+    ["Three-point tour, small car", "≈ ₹1,200–1,800 a car"],
+    ["Tea or coffee at the stalls", "≈ ₹30–60"]
+  ],
+  "where_to_stay": "Stay in Gangtok, 20–30 minutes away. Hotels on the north side of town, around Tashiling and the Secretariat, and on Tibet Road shave a few minutes off the dawn drive. On a budget, Mintokling Guest House and Hotel Sonam Delek are dependable. For value, Netuk House and Hotel Tibet have friendly front desks that will book an early taxi. For a comfortable or premium stay, The Chumbi Residency, Elgin Nor-Khill and Taj Guras Kutir are all within easy reach.",
+  "stays": ["mintokling-guest-house-gangtok", "hotel-sonam-delek-gangtok", "netuk-house-gangtok", "hotel-tibet-gangtok", "chumbi-residency-gangtok", "taj-guras-kutir-gangtok"],
+  "tips": [
+    "Book the taxi the night before and leave about 40 minutes before sunrise.",
+    "Check the sky at 4:30 am: if it is thick cloud, sleep in and try the next day.",
+    "Dress for near freezing on winter mornings: thermals, jacket, cap and gloves.",
+    "Weekends and holiday weeks are crowded; arrive early for a railing spot.",
+    "Combine with Ganesh Tok and Hanuman Tok on the way back for the three-point tour."
+  ],
+  "themes": ["photography", "snow-and-winter", "honeymoons"],
+  "nearby": ["gangtok", "kabi-lungchok", "ganesh-tok", "enchey"],
+  "experiences": [
+    {
+      "slug": "tashi-view-point-sunrise",
+      "title": "Kangchenjunga sunrise at Tashi View Point",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "Sunrise, mid-October to February",
+      "cost": "≈ ₹500–800 a car return",
+      "image_query": "Kangchenjunga sunrise Tashi View Point",
+      "wiki": "Kangchenjunga",
+      "summary": "Gangtok's classic dawn outing: a pre-dawn taxi up the north road, tea at the railing and the Kangchenjunga range turning pink and gold. On a clear winter morning it is the image most people take home from Sikkim.",
+      "body": [
+        "Set your alarm about an hour before sunrise. In December and January that means waking around 5 am, in October and late February closer to 4:30 am. Your taxi takes 20–25 minutes from MG Marg, past the Secretariat and Bakthang Falls, to the terrace on a bend of the North Sikkim Highway at about 1,890 m.",
+        "Find a place at the railing and face north-west. As the sky lightens, the shape of the Kangchenjunga range appears; then, a few minutes before sunrise in the valleys, the highest summits catch the light and glow pink, then gold. The whole show lasts around 20 minutes. A telephoto lens helps, but phone cameras capture it well too.",
+        "It can be cold, around 0–6 °C in midwinter, so dress warmly. Weekends are busy with families and tour groups; weekdays are quieter. If cloud hides the peaks, try again the next morning: many of our guests see the mountain on their second or third attempt."
+      ],
+      "good_for": ["couples", "photographers", "families", "first-timers"],
+      "faqs": [
+        {"q": "What time should we leave for Tashi View Point?", "a": "About 40 minutes before sunrise. That is roughly 5:15 am in October, 5:40–5:50 am in December and January, and 5:15 am again in March. The drive from MG Marg takes 20–25 minutes, and you want 15–20 minutes at the railing before the first light hits the peaks."},
+        {"q": "Is Kangchenjunga always visible from Tashi View Point?", "a": "No. It depends on the weather. From mid-October to February the chance of a clear sunrise is good, perhaps most mornings. In March and April haze increases, and from June to September monsoon cloud usually hides the range. Keep two mornings free if the view matters to you."},
+        {"q": "Is Tashi View Point crowded at sunrise?", "a": "On weekends, holidays and in peak weeks such as Durga Puja, Diwali and Christmas, the terrace fills up and parking is tight. On weekdays in January and February it is much calmer. Arrive 20–30 minutes before sunrise to get a place at the railing."}
+      ]
+    },
+    {
+      "slug": "tashi-view-point-kabi-lungchok-half-day",
+      "title": "Tashi View Point and Kabi Lungchok half day",
+      "kind": "culture",
+      "duration": "4 hours",
+      "best_time": "Morning, October to May",
+      "cost": "≈ ₹1,800–2,500 a car",
+      "image_query": "Kabi Lungchok memorial stones Sikkim",
+      "wiki": "Kabi Lungchok",
+      "summary": "Combine the Kangchenjunga view with a drive 9 km further up the North Sikkim Highway to Kabi Lungchok, where Sikkimese tradition places the 13th-century blood-brotherhood pact between Lepcha and Bhutia leaders. A short morning that tells Sikkim's founding story.",
+      "body": [
+        "After sunrise at Tashi View Point, continue north on the highway to Kabi Lungchok, about 17 km from Gangtok and 30 minutes from the viewpoint. Here, in a grove of trees, stands a circle of memorial stones. In Sikkimese tradition, as told in Wikipedia's article on the site, the Lepcha chief Thekong Tek and the Bhutia prince Khye Bumsa swore blood brotherhood here in the 13th century, with Kangchenjunga as witness.",
+        "Life-size statues of the two leaders now stand at the site, and the grove has a quiet, sacred atmosphere. Walk slowly, keep voices low and do not climb on the stones. The pact is still honoured at Pang Lhabsol in late summer, when Sikkim's guardian mountain is worshipped.",
+        "Kabi Lungchok lies in Mangan district (North Sikkim) but outside the protected areas, so no permit is needed. Return to Gangtok for a late breakfast or lunch. A reserved small car for the morning costs about ₹1,800–2,500. In the monsoon, check the highway status before going."
+      ],
+      "good_for": ["couples", "families", "solo", "seniors"],
+      "faqs": [
+        {"q": "How far is Kabi Lungchok from Tashi View Point?", "a": "About 9 km further north on the North Sikkim Highway, roughly 25–30 minutes by car. Kabi Lungchok is about 17 km from Gangtok in all. A half-day car covering both costs indicatively ₹1,800–2,500. In the monsoon, landslides can slow the road, so check current status before you travel."},
+        {"q": "Do we need a permit for Kabi Lungchok?", "a": "No. Kabi Lungchok lies in Mangan district (North Sikkim) but outside the protected areas, so no permit is needed for Indian travellers, and foreigners with a valid Sikkim restricted area permit can go. Permits are needed only further north for Lachung, Lachen and Dzongu."},
+        {"q": "What happened at Kabi Lungchok?", "a": "In Sikkimese tradition, the Lepcha chief Thekong Tek and the Bhutia prince Khye Bumsa swore blood brotherhood here in the 13th century, with Kangchenjunga as witness, sealing friendship between the two peoples. Memorial stones and statues mark the site. Wikipedia's article on Kabi Lungchok summarises the tradition."}
+      ]
+    },
+    {
+      "slug": "tashi-view-point-telephoto-photography",
+      "title": "Photographing the Kangchenjunga range",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Dawn, November to January",
+      "cost": "≈ ₹500–800 a car return",
+      "image_query": "Kangchenjunga range from Gangtok telephoto",
+      "wiki": "",
+      "summary": "A photographer's morning at Tashi View Point: arrive early for blue-hour shots, frame the peaks with a telephoto as they catch the first light, and use valley cloud and prayer flags as foreground. Practical settings and etiquette.",
+      "body": [
+        "For the best images, arrive 30–40 minutes before sunrise, set up at the end of the railing to avoid the crowd behind you, and shoot the blue hour first, when the snow peaks glow faintly against a deep sky. A tripod is useful but bring a small one, as space is limited on busy mornings.",
+        "When the first light reaches the summits, use a telephoto of 200–400 mm to isolate Kangchenjunga and its neighbours, and bracket your exposures: the bright peaks and dark valleys make a wide range. As the light spreads, switch to a standard zoom to include valley cloud, ridges and prayer flags in the foreground.",
+        "Be considerate. Do not block the railing for long, keep tripod legs out of walkways, and ask before photographing other visitors or stall owners. Drones are not advised near Gangtok's ridges without permission from the authorities. November to January gives the cleanest air; check the forecast the night before."
+      ],
+      "good_for": ["photographers", "solo"],
+      "faqs": [
+        {"q": "What lens do I need for Kangchenjunga from Gangtok?", "a": "A telephoto of 200–400 mm lets you fill the frame with the summit area, since the peaks are about 60 km away. A standard 24–70 mm zoom works for wider views with valleys and prayer flags. Phone cameras with 3x–5x zoom also do well in clear light."},
+        {"q": "Which month is best for Kangchenjunga photography?", "a": "November to January usually gives the clearest air and the most reliable dawns, with snow-covered peaks. October is good after the monsoon clears. From March, haze from the plains builds, and June to September is mostly cloudy. Check the forecast the night before."},
+        {"q": "Can I use a tripod at Tashi View Point?", "a": "Yes, a small tripod is fine, but space at the railing is limited on busy mornings. Set up at an end, keep the legs out of walkways and share the best spots. On weekends, a compact tripod or a beanbag on the railing is more practical."}
+      ]
+    },
+    {
+      "slug": "tashi-view-point-bakthang-falls-stop",
+      "title": "Bakthang Falls and Tashi View Point by day",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Mid-morning, July to November for the falls",
+      "cost": "≈ ₹500–800 a car return",
+      "image_query": "Bakthang Falls Gangtok",
+      "wiki": "",
+      "summary": "A relaxed daytime version of the north road outing: a stop at Bakthang Falls, fullest after the monsoon, then tea and valley views at Tashi View Point. Good for families who cannot face a dawn start.",
+      "body": [
+        "Not everyone wants a 5 am alarm. A mid-morning drive up the North Sikkim Highway still makes a pleasant hour and a half. The first stop is Bakthang Falls, a waterfall by the road a few kilometres out of town. It is fullest from July to October, when a white curtain of water drops down the rock face; in the dry months it is a thinner stream.",
+        "Continue to Tashi View Point for tea at the stalls and the view over the deep valleys to the north. By mid-morning the high peaks are often in cloud, so think of this as a valley view with a chance of the mountains rather than a guaranteed panorama.",
+        "Keep children back from the road edge at both stops, as traffic to North Sikkim is steady. In heavy rain, waterfalls can bring down stones, so admire them from a distance. Add Ganesh Tok and Hanuman Tok on the way back if you have time."
+      ],
+      "good_for": ["families", "seniors", "budget"],
+      "faqs": [
+        {"q": "Where is Bakthang Falls?", "a": "Bakthang Falls is a roadside waterfall on the North Sikkim Highway between central Gangtok and Tashi View Point, a short drive from town. Most taxis stop for a few minutes on the three-point tour or the way north. It is fullest from July to October."},
+        {"q": "Is Tashi View Point worth visiting in the afternoon?", "a": "It is pleasant for tea and valley views, but the high peaks are usually in cloud by afternoon, especially from March onwards. If seeing Kangchenjunga matters, go at sunrise. An afternoon visit fits best as part of a drive north or a relaxed family outing."},
+        {"q": "Is Bakthang Falls safe for children?", "a": "Yes, from the viewing area by the road, with an adult holding small children's hands. Do not climb on wet rocks, and keep away from the base of the falls after heavy rain, when stones can fall. Watch for traffic when stepping out of the car."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Tashi View Point from Gangtok?", "a": "About 8 km from MG Marg on the North Sikkim Highway, 20–25 minutes by taxi. A dawn return trip costs about ₹500–800 for a small car, indicatively. It is also the first stop on the drive to Mangan, Lachung and Lachen."},
+    {"q": "What is the best time to visit Tashi View Point?", "a": "Sunrise between mid-October and February, when the Kangchenjunga range is most often clear. March and April mornings can be good before haze builds. During the monsoon, from June to September, cloud usually hides the peaks."},
+    {"q": "What can we see from Tashi View Point?", "a": "On clear mornings, the Kangchenjunga range, including the 8,586 m summit about 60 km away, glowing at sunrise. Below are the deep, forested valleys of North Sikkim. Even on cloudy days the valley view is wide."},
+    {"q": "Who is Tashi View Point named after?", "a": "As told locally, it is named after Tashi Namgyal, Chogyal of Sikkim from 1914 to 1963. He is the Chogyal to whom the 1955 British Kangchenjunga expedition promised to leave the summit untouched, according to Wikipedia. We have not found an official record of the viewpoint's construction date."},
+    {"q": "Is there an entry fee at Tashi View Point?", "a": "No. The terrace is free and open to all. You pay only for your taxi and anything you buy at the tea stalls. Toilets, where available, may charge a small fee. Check current status before you travel."},
+    {"q": "What is the altitude of Tashi View Point?", "a": "About 1,890 m, around 240 m higher than MG Marg. It is slightly lower than Ganesh Tok at about 1,980 m and Hanuman Tok at about 2,200 m. Altitude is not a concern for a short visit, but winter dawns are cold."},
+    {"q": "How cold is Tashi View Point at sunrise?", "a": "In December and January, around 0–6 °C at dawn, sometimes colder with wind. In October and March, roughly 7–12 °C. Wear thermals, a warm jacket, cap and gloves in winter. The stalls' hot tea helps."},
+    {"q": "Can we combine Tashi View Point with other places?", "a": "Yes. The three-point tour adds Ganesh Tok and Hanuman Tok on the ridge above town, about three hours in all. Alternatively, continue 9 km north to Kabi Lungchok for Sikkim's blood-brotherhood stones, a half-day trip with no permit needed."},
+    {"q": "Is Tashi View Point open in the monsoon?", "a": "The terrace is beside a public highway and stays accessible, but views are usually lost in cloud from June to September, and landslides occasionally slow the road. There is little reason to go for the view in those months. Check current status before you travel."}
+  ]
+}

@@ -41,12 +41,12 @@
 <section class="sec sec--paper2 sec--tight" aria-labelledby="jr-sub">
   <div class="wrap split" style="align-items:center">
     <div><p class="kicker">A monthly letter</p><h2 class="h3" id="jr-sub">Road news and prices, once a month</h2><p class="muted" style="margin:0">Which passes are open, what changed with permits, and one story from the hills. No offers dressed up as news.</p></div>
-    <form class="quick" style="grid-template-columns:1fr auto" method="post" action="{% url 'subscribe' %}">
+    <form class="quick" style="grid-template-columns:1fr auto;position:relative" method="post" action="{% url 'subscribe' %}">
       {% csrf_token %}
       <label class="sr" for="jr-email">Email</label>
       <input id="jr-email" type="email" name="email" required placeholder="Your email" autocomplete="email">
       <input type="hidden" name="source_page" value="{{ request.path }}">
-      <input type="text" name="website" class="sr" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <input type="text" name="website" class="sr" style="left:0;top:0" tabindex="-1" autocomplete="off" aria-hidden="true">
       <button class="btn btn--foil" type="submit">Subscribe</button>
     </form>
   </div>

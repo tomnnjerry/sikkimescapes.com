@@ -1,0 +1,158 @@
+{
+  "slug": "melli",
+  "name": "Melli",
+  "region": "south-sikkim",
+  "kind": "town",
+  "wiki": "Melli",
+  "image_query": "Melli Teesta river bridge Sikkim",
+  "lat": 27.0906,
+  "lng": 88.4561,
+  "altitude_m": 280,
+  "local_name": {"name": "Melli", "language": "Nepali", "meaning": "the place where the dead are cremated", "source": "Wikipedia: Melli"},
+  "tagline": "A two-state river town where South Sikkim begins",
+  "meta_description": "Melli on the Teesta: the gateway to South and West Sikkim from NJP, Teesta rafting, the bridge between two states, road tips for NH10 and honest 2026 costs.",
+  "summary": "Melli is a small town on the Teesta at about 280 m, split between Kalimpong district of West Bengal and Namchi district of Sikkim and joined by a road bridge. It is the main entry point from Siliguri and NJP into South and West Sikkim, a lunch and tea stop on NH10, and a starting point for Teesta rafting in the dry season.",
+  "intro": [
+    "Melli sits at one of the lowest points on the road into Sikkim, beside the Teesta where the river leaves the hills for the plains. The town has two markets: Melli Bazaar in Kalimpong district of West Bengal, on National Highway 10, and Melli on the Sikkim side, in Namchi district. A road bridge across the Teesta, named after Jawaharlal Nehru, joins them. Wikipedia notes that Melli is one of the few Indian towns that lies in two states.",
+    "For travellers, Melli is where South Sikkim begins. Coming up NH10 from Siliguri, vehicles bound for Namchi, Ravangla, Jorethang and Pelling turn off here, cross the river and climb into Sikkim, while traffic for Gangtok carries on towards Rangpo. It is also where the shared jeeps and private cars pause for tea, momos and a stretch. Kalimpong town is about 20 km away on the West Bengal side.",
+    "Melli's name, according to Wikipedia, means the place where the dead are cremated in Nepali. Today it is better known for the Yuksom Breweries plant on the Sikkim side and for white-water rafting on the Teesta in the dry months. Most travellers stop for an hour, not a night, and that is usually right."
+  ],
+  "story": {
+    "title": "One town, two states, one bridge",
+    "text": "The Teesta at Melli is a border as well as a river. On the east bank, Melli Bazaar belongs to Kalimpong district of West Bengal and lines National Highway 10, the main road from Siliguri to Gangtok. On the west bank, Melli belongs to Namchi district of Sikkim. Wikipedia's article on the town describes the Jawaharlal Nehru Bridge that connects the two halves, and notes that Melli Bazar on the Sikkim side is also the name of a constituency of the Sikkim Legislative Assembly. Living in Melli has long meant crossing a state line for school, shopping or work. Goods, prices and even taxi permits differ on each side, and a Sikkim check post near the bridge is where many travellers first show ID. The future will add another layer. A Melli railway station is being built on the Kalimpong side as part of the Sevoke–Rangpo railway, the line meant to bring trains towards Sikkim, with completion targeted for December 2027. Until then, Melli remains what it has been for decades: a bridge town where two states meet over the Teesta.",
+    "source": "Wikipedia: Melli; Wikipedia: Sevoke–Rangpo line"
+  },
+  "little_known": [
+    {"fact": "Yuksom Breweries, which Wikipedia describes as managed by actor Danny Denzongpa and his family, has its plant on the Sikkim side of Melli and is one of the town's main employers.", "source": "Wikipedia: Melli; Wikipedia: Yuksom Breweries"},
+    {"fact": "Wikipedia describes the Jawaharlal Nehru Bridge at Melli as the second-longest bridge in Sikkim, after the bridge at Rangpo.", "source": "Wikipedia: Melli"},
+    {"fact": "Melli lies about 7 km upstream of Teesta Bazaar, close to where the Rangeet joins the Teesta at the Tribeni confluence, so two of the region's great rivers meet just below the town.", "source": "Wikipedia: Melli; Wikipedia: Rangeet River"}
+  ],
+  "facts": [["Best months", "Oct–Mar"], ["Nights we suggest", "0"], ["From Gangtok", "≈ 60 km · 2–2.5 h"], ["Altitude", "≈ 280 m"], ["Known for", "Teesta bridge between two states, rafting, gateway to South Sikkim"], ["Permit", "Not needed for Indians; foreigners need the Sikkim RAP"]],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The bridge between two states", "text": "Walk or drive across the Jawaharlal Nehru Bridge from Melli Bazaar in West Bengal to Melli in Sikkim, with the Teesta below. Wikipedia calls it the second-longest bridge in Sikkim. A Sikkim check post stands near the Sikkim end."},
+    {"title": "Teesta rafting", "text": "From about October to March, when the river is lower and clearer, rafting trips run on the Teesta around Melli and Teesta Bazaar. Rapids are moderate in the dry season. Choose an established operator with life jackets and helmets, and never raft in the monsoon."},
+    {"title": "Tea and momos on NH10", "text": "Melli's roadside eateries on both sides of the bridge serve momos, chowmein, thali and sweet milk tea to a steady flow of jeeps and cars. A natural break about 2–2.5 hours out of Siliguri on the way to Namchi or Gangtok."},
+    {"title": "Turn-off for South Sikkim", "text": "Melli is where the road to Namchi, Ravangla, Jorethang and Pelling leaves NH10 and climbs into Sikkim. Kitam Bird Sanctuary lies near this road, and Namchi is about an hour away."},
+    {"title": "Two rivers below town", "text": "Just downstream, the Rangeet joins the Teesta at Tribeni on the Darjeeling side, a popular picnic spot. From the road near Melli you can see the Teesta's wide green channel in winter."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps from Siliguri to Namchi, Jorethang, Ravangla and Gangtok pass through Melli, about 2–2.5 hours from Siliguri, for roughly ₹200–300 a seat to Melli. Ask the driver to drop you. Onward jeeps to Namchi cost about ₹80–150. Fares are indicative; check current status before you travel."},
+    {"mode": "Private car", "text": "A reserved small car from Gangtok to Melli costs about ₹3,000–4,000 for roughly 60 km via Singtam and Rangpo. From Melli to Namchi is about 27 km and an hour. Most travellers simply pass through Melli in their own car on the way to or from South Sikkim."},
+    {"mode": "From Bagdogra / NJP", "text": "About 75 km and 2.5–3 hours on NH10 via Sevoke and Teesta Bazaar, about ₹3,500–4,500 by reserved car. NH10 between Sevoke and Melli closes after monsoon slides; the alternative is via Kalimpong or Lava, or via Darjeeling to Jorethang for South Sikkim. Check current status before you travel."}
+  ],
+  "costs": [["Shared jeep Siliguri–Melli", "≈ ₹200–300 a seat"], ["Shared jeep Melli–Namchi", "≈ ₹80–150 a seat"], ["Reserved car NJP–Melli", "≈ ₹3,500–4,500"], ["Teesta rafting (short stretch)", "≈ ₹800–2,000 per person, by stretch and operator"], ["Roadside meal", "≈ ₹100–200"]],
+  "where_to_stay": "We do not suggest a night in Melli: the town is a busy road junction with only a few basic lodges, and better options lie an hour away in either direction. For South Sikkim, push on to Namchi, about 27 km uphill, where Seven Hill Resort and Sobralia Hotels Casino Resort & Spa suit comfortable trips and the market area has clean budget rooms from about ₹1,500–2,500. For Gangtok, continue up NH10 via Rangpo.",
+  "stays": ["seven-hill-resort-namchi", "sobralia-resort-namchi"],
+  "tips": [
+    "Keep ID handy at the bridge: there is a Sikkim check post near the Sikkim end, and foreigners must show their RAP.",
+    "Plan a tea or lunch stop here rather than earlier; it breaks the NJP–Namchi drive neatly in half.",
+    "Raft only from October to March with an established operator, and wear the helmet and life jacket provided.",
+    "In the monsoon, check NH10 status the evening before; Melli itself is often fine while the road below is shut.",
+    "Hotels in Sikkim collect the ₹50 per tourist entry fee; keep the receipt for 30 days."
+  ],
+  "themes": ["family-holidays", "food-and-tea", "offbeat-sikkim"],
+  "nearby": ["namchi", "kitam-bird-sanctuary", "jorethang", "char-dham-solophok"],
+  "experiences": [
+    {
+      "slug": "melli-teesta-white-water-rafting",
+      "title": "White-water rafting on the Teesta near Melli",
+      "kind": "adventure",
+      "duration": "1.5–3 hours",
+      "best_time": "October to March, mornings",
+      "cost": "≈ ₹800–2,000 per person, by stretch and operator",
+      "image_query": "Teesta river rafting",
+      "wiki": "Teesta River",
+      "summary": "A guided raft trip on the Teesta around Melli and Teesta Bazaar in the dry season, when the river is clearer and rapids are moderate. A fun, short add-on for families with older children and groups of friends on the drive between NJP and South Sikkim.",
+      "body": [
+        "The Teesta, Sikkim's main river, leaves the hills near Melli on its way to the plains. In the dry months, from about October to March, it runs lower and clearer, and operators around Melli and Teesta Bazaar run short raft trips through moderate rapids. It is the most accessible white-water in the region.",
+        "Trips usually start with a safety briefing and fitting of helmets and life jackets, then a stretch of a few kilometres with a trained guide steering from the back. Expect to get wet, to paddle on instruction and to float through calm reaches between rapids. Longer stretches cost more.",
+        "Choose an established operator, ask about the guide's training and check the equipment. Minimum ages vary, often around 12–14. Leave valuables in the car and bring a change of clothes. Rafting stops in the monsoon, when the river is far too high. Prices and rules change; check current status before you travel."
+      ],
+      "good_for": ["couples", "first-timers"],
+      "faqs": [
+        {"q": "Is Teesta rafting safe?", "a": "With a trained guide, proper helmets and life jackets, and in the dry season, short Teesta trips are generally considered suitable for beginners. Risk is never zero. Choose an established operator, follow every instruction, and do not raft from June to September, when the river is high and dangerous."},
+        {"q": "When is the rafting season on the Teesta?", "a": "Roughly October to March, when the river is lower and clearer after the monsoon. Some operators run into April and May depending on water levels. Rafting stops during the monsoon, from June to September. Check current status before you travel, as river conditions vary each year."},
+        {"q": "How much does Teesta rafting cost?", "a": "Indicatively about ₹800–2,000 per person, depending on the length of the stretch, the operator and group size. Short trips of a few kilometres sit at the lower end. Prices change by season, so ask for a clear quote that includes equipment and transport back to the start."}
+      ]
+    },
+    {
+      "slug": "melli-two-states-bridge-walk",
+      "title": "Walk across the Teesta from Bengal into Sikkim",
+      "kind": "culture",
+      "duration": "45 minutes",
+      "best_time": "Morning or late afternoon, October to March",
+      "cost": "Free",
+      "image_query": "Melli bridge Teesta Sikkim",
+      "wiki": "",
+      "summary": "A short walk over the bridge that joins Melli Bazaar in West Bengal to Melli in Sikkim, with the Teesta below and the two markets at either end. A small, real-world lesson in how Sikkim's border works, and a good leg-stretch on a long drive.",
+      "body": [
+        "Melli is one of the few Indian towns split between two states. Melli Bazaar, on NH10, belongs to Kalimpong district of West Bengal; Melli across the river belongs to Namchi district of Sikkim. The Jawaharlal Nehru Bridge joins them, and Wikipedia describes it as the second-longest bridge in Sikkim.",
+        "Ask your driver to drop you at one end and meet you at the other. From the middle of the bridge you see the Teesta's broad green channel in winter, the forested hills of both states, and the stream of jeeps and trucks crossing into Sikkim. Near the Sikkim end is the check post where travellers enter the state.",
+        "Keep to the footpath, watch for traffic and do not photograph check post staff or security installations. Foreigners should carry their Sikkim RAP. Combine the walk with tea and momos in either market. In the monsoon, admire the river from a safe distance: it rises fast and the banks are unstable."
+      ],
+      "good_for": ["families", "first-timers", "budget", "photographers"],
+      "faqs": [
+        {"q": "Is Melli in Sikkim or West Bengal?", "a": "Both. Melli Bazaar, on NH10, is in Kalimpong district of West Bengal, and Melli across the Teesta is in Namchi district of Sikkim. A road bridge connects them. Travellers for South and West Sikkim cross here; traffic for Gangtok usually stays on NH10 towards Rangpo."},
+        {"q": "Do we need ID to cross the Melli bridge?", "a": "Carry photo ID. Indian travellers usually pass the Sikkim check post with little formality, though checks vary. Foreign nationals must show their Sikkim Restricted Area Permit, applied for online on the e-FRRO portal since January 2026. Check current status before you travel."},
+        {"q": "Can we photograph the bridge?", "a": "Photographs of the river and the view are generally fine. Avoid photographing check post staff, police or security installations, and be discreet around official buildings. If anyone asks you not to take a photograph, put the camera away politely."}
+      ]
+    },
+    {
+      "slug": "melli-nh10-tea-and-momo-stop",
+      "title": "Tea, momos and a breather on NH10 at Melli",
+      "kind": "food",
+      "duration": "45 minutes",
+      "best_time": "Mid-morning or lunchtime, any month",
+      "cost": "≈ ₹100–250 per person",
+      "image_query": "momos roadside stall Sikkim",
+      "wiki": "Momo (food)",
+      "summary": "The classic road-trip break between Siliguri and South Sikkim: steaming momos, chowmein or a rice thali at a Melli roadside eatery, sweet milk tea, and fruit for the road. Cheap, quick and right at the point where the climb into Sikkim begins.",
+      "body": [
+        "Melli is roughly halfway between NJP and Namchi in driving time, which makes it the natural place for a break. Eateries on both sides of the bridge cater to jeep passengers and drivers all day, so food is fresh and turnover fast.",
+        "Order momos, steamed or fried, with chicken, pork or vegetable filling and fiery tomato chutney, or a plate of chowmein or a simple rice thali. Sweet milk tea is the default; ask for black tea if you prefer. Fruit sellers offer bananas, oranges in winter and cucumbers in summer.",
+        "Choose busy places, and use the stop for toilets and a stretch before the winding climb. Carry small notes; UPI usually works. If anyone in the car is prone to motion sickness, keep this meal light, since the next hour to Namchi is all hairpin bends."
+      ],
+      "good_for": ["families", "budget", "first-timers", "solo"],
+      "faqs": [
+        {"q": "Where do cars stop for lunch between NJP and Namchi?", "a": "Melli is the usual stop, about 2.5–3 hours from NJP and an hour below Namchi. Roadside eateries on both sides of the Teesta bridge serve momos, chowmein, thali and tea. Drivers often have a favourite place; ask yours. Expect about ₹100–250 per person."},
+        {"q": "Are there clean toilets at Melli?", "a": "Facilities are basic. Some eateries and fuel stations have toilets for customers; standards vary. Carry tissues and hand sanitiser. It is still the most practical toilet stop between Sevoke and Namchi, so use it before the climb."},
+        {"q": "Any tips for motion sickness on the road to Namchi?", "a": "Eat a light meal at Melli, sit in the front or middle row, look at the horizon and keep a window slightly open. Ask your driver to take the bends gently. Ginger sweets or a pharmacist's motion-sickness tablet taken beforehand help many people."}
+      ]
+    },
+    {
+      "slug": "melli-teesta-riverside-winter-afternoon",
+      "title": "A winter afternoon by the Teesta at Melli",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "2–5 pm, November to February",
+      "cost": "Free",
+      "image_query": "Teesta river winter green water",
+      "wiki": "",
+      "summary": "In winter the Teesta at Melli runs low and jade-green between wide banks of sand and boulders. A quiet riverside hour, before or after the climb into the hills, shows you the river that drains almost all of Sikkim.",
+      "body": [
+        "The Teesta rises in the far north of Sikkim and gathers the waters of nearly the whole state before it reaches Melli and the plains. In the monsoon it is brown, loud and dangerous. From November to February it shrinks to a clear green channel between broad banks.",
+        "Find a safe spot on the bank near town with your driver's help, sit on the boulders and watch the light change on the hills. You might see rafts drifting past from upstream, or families picnicking. Just below, out of sight on the Darjeeling side, the Rangeet joins the Teesta at Tribeni.",
+        "Stay on firm ground, keep children close and never wade: the current is stronger than it looks even in winter, and dam releases upstream can raise the level. Carry your litter back. In the monsoon, admire the river only from the road or bridge."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Why is the Teesta green in winter?", "a": "After the monsoon, the river carries much less silt, so its water turns clear and green-blue over stones, especially from November to February. In the monsoon, heavy rain and landslides upstream load it with sediment and it runs brown and fast."},
+        {"q": "Is it safe to go down to the Teesta riverbank?", "a": "In the dry season, on firm ground with care, yes. Do not wade or swim; the current is strong and water levels can rise suddenly after rain or upstream releases. In the monsoon, stay off the banks entirely. Keep children close at all times."},
+        {"q": "Where does the Teesta meet the Rangeet?", "a": "At Tribeni, just downstream of Melli on the Darjeeling side, where the Rangeet from West Sikkim joins the Teesta. It is a popular picnic spot. From Melli it is a short drive, but it lies in West Bengal rather than Sikkim."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Melli?", "a": "Melli is on the Teesta at about 280 m, on the border between Kalimpong district of West Bengal and Namchi district (South Sikkim). It is about 75 km and 2.5–3 hours from NJP on NH10, roughly 60 km from Gangtok, and about 27 km below Namchi."},
+    {"q": "Is Melli worth a stop?", "a": "As a break, yes: tea and momos, a walk on the bridge between two states and, in the dry season, Teesta rafting. It is not a place to stay overnight. Most travellers spend 30 minutes to an hour here before climbing to Namchi or continuing to Gangtok."},
+    {"q": "How do I get from NJP to Melli?", "a": "By reserved car, about 75 km and 2.5–3 hours on NH10 via Sevoke and Teesta Bazaar, for roughly ₹3,500–4,500. Shared jeeps from Siliguri towards Namchi, Jorethang and Gangtok pass through for about ₹200–300 a seat. Check current status of NH10 before you travel."},
+    {"q": "What happens when NH10 is closed?", "a": "NH10 between Sevoke and Melli closes after monsoon slides. For Gangtok, traffic diverts via Kalimpong or Lava. For South Sikkim, the usual alternative is via Darjeeling district down to Jorethang. Both add time. Our drivers check road news each morning. Check current status before you travel."},
+    {"q": "Can we do river rafting at Melli?", "a": "Yes, from about October to March, with operators around Melli and Teesta Bazaar. Short trips cost indicatively ₹800–2,000 per person. Rafting stops in the monsoon. Choose an established operator with proper safety gear, and check minimum ages if travelling with children."},
+    {"q": "How far is Namchi from Melli?", "a": "About 27 km and an hour by car, climbing from about 280 m on the Teesta to about 1,500 m at Namchi. Shared jeeps cost roughly ₹80–150 a seat. Kitam Bird Sanctuary lies near this road, about 40–50 minutes below Namchi."},
+    {"q": "Is there a railway station at Melli?", "a": "Not yet. A Melli station is being built on the Kalimpong side as part of the Sevoke–Rangpo railway, which is not open; completion is targeted for December 2027. For now, take a train to New Jalpaiguri (NJP) and drive. Check current status before you travel."},
+    {"q": "Do we need a permit to enter Sikkim at Melli?", "a": "Indians need no permit, though carry ID. Foreign nationals need a Sikkim Restricted Area Permit, applied for online through the e-FRRO portal after arriving in India since January 2026, and may be checked at the Melli bridge. Sikkim's ₹50 entry fee is collected by hotels. Check current status before you travel."},
+    {"q": "What does the name Melli mean?", "a": "According to Wikipedia's article on the town, Melli in Nepali means the place where the dead are cremated, a reference to riverside cremation by the Teesta. The town is also spelled Malli. Today it is known mainly as a bridge town and gateway to South Sikkim."}
+  ]
+}

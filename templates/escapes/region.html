@@ -1,6 +1,6 @@
 {% extends "escapes/base.html" %}{% load esc %}
-{% block title %}{{ r.name }} travel guide: places, prices, permits · Sikkim Escapes{% endblock %}
-{% block description %}{{ r.meta_description|default:r.summary|truncatechars:158 }}{% endblock %}
+{% block title %}{{ r.name }} travel guide: places and prices · Sikkim Escapes{% endblock %}
+{% block description %}{% if r.meta_description %}{{ r.meta_description|truncatechars:158 }}{% else %}{{ r.summary|truncatechars:158 }}{% endif %}{% endblock %}
 {% block og_title %}{{ r.name }} ({{ r.official }}) · Sikkim Escapes{% endblock %}
 {% block og_description %}{{ r.summary|truncatechars:200 }}{% endblock %}
 {% block og_image %}{% with img=r|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
@@ -101,7 +101,7 @@
         {% include "escapes/partials/sechead.html" with sh_kicker="Month by month" sh_title="When to go to "|add:r.name %}
         {% include "escapes/partials/mbar.html" with bar=r.bar label=r.best_label %}
         <div class="rows mt">
-          {% if r.months %}{% for md in r.months %}<a href="{% url 'region_month' r.slug md.month|lower %}"><span><b>{{ md.month }}</b><br><small>{{ md.weather|default:md.summary|truncatechars:110 }}</small></span><small>{% if md.rating == 2 %}Best{% elif md.rating == 1 %}Good{% else %}Off season{% endif %} {% icon "arrow" %}</small></a>{% endfor %}
+          {% if r.months %}{% for md in r.months %}<a href="{% url 'region_month' r.slug md.month|lower %}"><span><b>{{ md.month }}</b><br><small>{% if md.weather %}{{ md.weather|truncatechars:110 }}{% else %}{{ md.summary|truncatechars:110 }}{% endif %}</small></span><small>{% if md.rating == 2 %}Best{% elif md.rating == 1 %}Good{% else %}Off season{% endif %} {% icon "arrow" %}</small></a>{% endfor %}
           {% else %}{% for m in months %}<a href="{% url 'region_month' r.slug m.slug %}"><b>{{ m.name }}</b><small>{% if m.rating == 2 %}Best{% elif m.rating == 1 %}Good{% else %}Off season{% endif %}</small></a>{% endfor %}{% endif %}
         </div>
       </div>

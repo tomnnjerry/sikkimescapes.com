@@ -5,9 +5,9 @@
 {% block og_image %}{% with img=r|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
 {% block content %}
-{% if rating == 2 %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Best month · "|add:r.official h_lede=md.weather h_seed=r.slug|add:month h_short=True %}
-{% elif rating == 1 %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Good month · "|add:r.official h_lede=md.weather h_seed=r.slug|add:month h_short=True %}
-{% else %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Off season · "|add:r.official h_lede=md.weather h_seed=r.slug|add:month h_short=True %}{% endif %}
+{% if rating == 2 %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Best month · "|add:r.name h_lede=md.weather h_seed=r.slug|add:month h_short=True %}
+{% elif rating == 1 %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Good month · "|add:r.name h_lede=md.weather h_seed=r.slug|add:month h_short=True %}
+{% else %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Off season · "|add:r.name h_lede=md.weather h_seed=r.slug|add:month h_short=True %}{% endif %}
 
 <section class="sec">
   <div class="wrap split">
