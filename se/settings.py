@@ -65,14 +65,14 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CONTENT_DIR = BASE_DIR / "content"
 
-# Business details. Fill these before launch; placeholders render as-is.
+# Business details. Override with SE_EMAIL / SE_PHONE / SE_WHATSAPP; set SE_ADDRESS for a full street address.
 SITE = {
     "name": "Sikkim Escapes",
     "url": "https://sikkimescapes.com",
-    "email": os.environ.get("SE_EMAIL", "[YOUR EMAIL]"),
-    "phone": os.environ.get("SE_PHONE", "[YOUR PHONE]"),
-    "whatsapp": os.environ.get("SE_WHATSAPP", ""),  # digits with country code, e.g. 919800000000
-    "address": "[YOUR OFFICE ADDRESS]",
+    "email": os.environ.get("SE_EMAIL", "hello@sikkimescapes.com"),
+    "phone": os.environ.get("SE_PHONE", "+91 99546 34102"),
+    "whatsapp": os.environ.get("SE_WHATSAPP", "919954634102"),  # digits with country code, e.g. 919800000000
+    "address": os.environ.get("SE_ADDRESS", "Gangtok, Sikkim, India"),
     "byline": "Sikkim Escapes Desk",
 }
 

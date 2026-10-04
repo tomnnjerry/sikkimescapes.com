@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=Hanken+Grotesk:wght@400;500;600;700;800&family=Young+Serif&display=swap">
 <link rel="preconnect" href="https://upload.wikimedia.org">
 <link rel="stylesheet" href="{% static 'css/milestone.css' %}?v={{ V }}">
-<style>{% for slug, L in LANDS.items %}[data-land="{{ slug }}"]{--g1:{{ L.grad.0 }};--g2:{{ L.grad.1 }};--g3:{{ L.grad.2 }};--accent:{{ L.accent }};--accent-ink:{{ L.ink }};--tint:{{ L.tint }};--f1:{{ L.foil.0 }};--f2:{{ L.foil.1 }};--f3:{{ L.foil.2 }}}{% endfor %}</style>
+<style>{% for slug, L in LANDS.items %}[data-land="{{ slug }}"]{--g1:{{ L.grad.0 }};--g2:{{ L.grad.1 }};--g3:{{ L.grad.2 }};--accent:{{ L.accent }};--accent-ink:{{ L.ink }};--tint:{{ L.tint }};--f1:{{ L.foil.0 }};--f2:{{ L.foil.1 }};--f3:{{ L.foil.2 }};--grad:linear-gradient(135deg,var(--g1) 0%,var(--g2) 55%,var(--g3) 100%);--foil:linear-gradient(115deg,var(--f1) 0%,var(--f2) 38%,var(--f3) 62%,var(--f2) 82%,var(--f1) 100%)}{% endfor %}</style>
 {% block head_extra %}{% endblock %}
 {% for block_ld in ld %}<script type="application/ld+json">{{ block_ld|safe }}</script>
 {% endfor %}

@@ -69,7 +69,7 @@ POLICIES["booking-terms"] = {
             "See our refund and cancellation policy, which forms part of these terms.",
         ]),
         ("Complaints", [
-            "If something is not right, tell your planner during the journey. If it is not resolved, write to [COMPLAINTS EMAIL] within [30] days of your return and we will reply within [14] days.",
+            "If something is not right, tell your planner during the journey. If it is not resolved, write to hello@sikkimescapes.com within [30] days of your return and we will reply within [14] days.",
         ]),
         ("Law", [
             "These terms are governed by the laws of India. Courts in [CITY] have jurisdiction.",
@@ -97,7 +97,7 @@ POLICIES["payments"] = {
             "Prices in quotes include GST at the applicable rate, shown separately on your invoice. Tax Collected at Source (TCS) may apply to some packages under Indian tax law; we show it on the invoice where it does. [Confirm with your accountant.]",
         ]),
         ("Keeping payments safe", [
-            "Our bank details are only ever sent on a signed PDF invoice from [ACCOUNTS EMAIL]. If you receive bank details from any other address, or a message asking you to pay a different account, call us on [PHONE] before paying. We never ask for card numbers, OTPs or passwords.",
+            "Our bank details are only ever sent on a signed PDF invoice from hello@sikkimescapes.com. If you receive bank details from any other address, or a message asking you to pay a different account, call us on +91 99546 34102 before paying. We never ask for card numbers, OTPs or passwords.",
         ]),
     ],
 }
@@ -120,7 +120,7 @@ POLICIES["privacy"] = {
             "Enquiries that do not lead to a booking: [24] months. Booking records: as long as Indian tax and accounting law requires, currently [8] years. Newsletter: until you unsubscribe.",
         ]),
         ("Your rights", [
-            "You can ask to see, correct or delete your personal data, or withdraw consent for our letter, by writing to [PRIVACY EMAIL]. We reply within [30] days. Under India's Digital Personal Data Protection Act you may also contact our grievance officer: [NAME, EMAIL].",
+            "You can ask to see, correct or delete your personal data, or withdraw consent for our letter, by writing to hello@sikkimescapes.com. We reply within [30] days. Under India's Digital Personal Data Protection Act you may also contact our grievance officer: [NAME, EMAIL].",
         ]),
         ("This website", [
             "The site sets a security cookie for its forms and no advertising cookies. It loads fonts from Google Fonts and photographs from Wikimedia, and those services see your IP address when your browser requests their files. Our maps are drawn on our own server, with no map service. See the cookie policy for details.",
@@ -186,7 +186,7 @@ POLICIES["accessibility"] = {
             "Many monasteries and viewpoints in Sikkim have steep steps and uneven ground. Tell us about mobility, sight, hearing or other needs and we will check hotels, vehicles and sites for you before you book.",
         ]),
         ("Contact", [
-            "Write to [ACCESSIBILITY EMAIL] or call [PHONE].",
+            "Write to hello@sikkimescapes.com or call +91 99546 34102.",
         ]),
     ],
 }
