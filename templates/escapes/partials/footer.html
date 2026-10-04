@@ -12,6 +12,11 @@
       </div>
     </div>
     <div class="foot__cols">
+      <div class="foot__brand">
+        <a class="logo" href="{% url 'home' %}" aria-label="Sikkim Escapes, home"><svg class="logo__mark" viewBox="0 0 40 40" aria-hidden="true"><path d="M6 39V18a14 14 0 0 1 28 0v21z" fill="#FCFBF6" stroke="#1A1714" stroke-width="2"/><path d="M6 18a14 14 0 0 1 28 0z" fill="#F3C318" stroke="#1A1714" stroke-width="2"/><path d="M11 33l5.5-7.5 3.2 4 3-4 6.3 7.5z" fill="#1A1714"/><path d="M11 36.5h18" stroke="#1A1714" stroke-width="1.4"/></svg><span class="logo__word">Sikkim Escapes<small>Honest trips from Gangtok</small></span></a>
+        <p>Sikkim-only trips from shared-jeep budget escapes to premium tours. Every cost shown, permits handled, and the stories behind each valley told with a source.</p>
+        <div class="foot__alt"><span>Budget to premium</span><span>Permits handled</span><span>Six districts</span></div>
+      </div>
       <div><h4>Districts</h4><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}">{{ r.name }}</a></li>{% endfor %}<li><a href="{% url 'altitude' %}">Altitude ladder</a></li></ul></div>
       <div><h4>Packages</h4><ul>{% for t in nav_tiers %}<li><a href="{% url 'tier' t.slug %}">{{ t.name }} trips</a></li>{% endfor %}<li><a href="{% url 'affordable' %}">Affordable Sikkim</a></li><li><a href="{% url 'journeys' %}">Every package</a></li></ul></div>
       <div><h4>Ideas</h4><ul><li><a href="{% url 'themes' %}">Themes</a></li><li><a href="{% url 'experiences' %}">Experiences</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li><li><a href="{% url 'seasons' %}">Month by month</a></li><li><a href="{% url 'stays' %}">Stays</a></li><li><a href="{% url 'homestays' %}">Homestays</a></li></ul></div>

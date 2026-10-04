@@ -78,7 +78,7 @@
                 {% if d.overnight %}<span>{% icon "flag" %}Overnight {{ d.overnight }}</span>{% endif %}
                 {% if d.alt_m %}<span>{% icon "altitude" %}{% if d.overnight %}Sleep at {% endif %}{{ d.alt_m|metres }}</span>{% endif %}
                 {% if d.drive %}<span>{% icon "jeep" %}{{ d.drive }}</span>{% endif %}
-                {% if d.meals %}<span>Meals: {{ d.meals }}</span>{% endif %}
+                {% if d.meals %}<span>{% if d.meals == "None" %}No meals included{% else %}Meals: {{ d.meals }}{% endif %}</span>{% endif %}
               </div>
               <p>{{ d.text }}</p>
               {% if d.place_obj %}<a class="linkarrow small" href="{{ d.place_obj.url }}" style="margin-top:8px">About {{ d.place_obj.name }} {% icon "arrow" %}</a>{% endif %}

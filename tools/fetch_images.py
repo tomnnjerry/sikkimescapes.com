@@ -28,7 +28,20 @@ BAD_TITLE = re.compile(r"(ISS\d|satellite|NASA|Landsat|Sentinel|portrait|stamp|b
 # Hand-picked sources for keys where the automatic pick was wrong or weak.
 # ("wiki", title) uses that article's images; ("query", text) a Commons search.
 OVERRIDES = {
-    # "place:some-slug": ("query", "better Commons search words"),
+    "place:gangtok": ("query", "Gangtok city"),
+    "place:zuluk": ("query", "Zuluk zig zag road"),
+    "place:jorethang": ("query", "Jorethang Sikkim India"),
+    "place:uttarey": ("query", "Uttarey Sikkim"),
+    "place:hee-bermiok": ("query", "Burmiok Wosel Choling Monastery"),
+    "place:kanchenjunga-falls": ("query", "Kanchenjunga waterfalls Pelling"),
+    "place:yangang": ("query", "Sog Yungdrung Ling Bon Monastery Yangang"),
+    "place:sombaria": ("query", "Anden Wolung Gumpa Sombaria"),
+    "place:chungthang": ("query", "CHUNGTHANG SIKKIM"),
+    "place:singhik": ("query", "Singchit Ngadag Monastery Singhik"),
+    "place:padamchen": ("query", "Eco Nature Park Padamchen Sikkim"),
+    "place:hilley": ("query", "Barsey Rhododendron Sanctuary"),
+    "place:shingba-rhododendron-sanctuary": ("query", "Yumthang Valley rhododendron"),
+    "place:soreng": ("query", "Soreng Sikkim winding road"),
 }
 
 
@@ -36,10 +49,14 @@ def read(p):
     return json.loads(Path(p).read_text(encoding="utf-8"))
 
 
+BAD_REGION = re.compile(r'(Nepal|Kathmandu|Mustang|Everest|Taplejung|Bali,|Indonesia|Darjeeling|Kalimpong|Lumbini|Pegmatit|granite|Picturesque Nepal|Sunset in Darjeeling|Nawalparasi|Magar woman|Momo nepal|C-Momo)', re.I)
+BAD_FILES = ['Guesthouse Borong, Flores.jpg', 'Southeast Sikkim (Joseph Dalton Hooker, 1854).jpg', 'A little girl and her reflection.jpg', 'Close wing resting position of Niphanda cymbia', 'Tourism offices, Melli', 'Sikkim Village.jpg', 'Pakyong to Siliguri Bus Service', 'Chains buried into solid concrete', 'Guesthouse Borong', 'Chumbi Valley', 'Geology of', 'Pegmatitic', ' wing ', 'Classroom in East Sikkim', 'The monument of Guru Padma Sambhava or Samdruptse.jpg']
+
+
 def clean(recs):
     seen, out = set(), []
     for r in recs:
-        if r["file"] in seen or BAD_TITLE.search(r["file"]):
+        if r["file"] in seen or BAD_TITLE.search(r["file"]) or BAD_REGION.search(r["file"]) or any(f in r["file"] for f in BAD_FILES):
             continue
         seen.add(r["file"])
         out.append(r)
