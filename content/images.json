@@ -874,7 +874,21 @@
   }
  ],
  "exp:ganesh-tok-evening-town-lights": [],
- "exp:ganesh-tok-ridge-walk-down-to-gangtok": [],
+ "exp:ganesh-tok-ridge-walk-down-to-gangtok": [
+  {
+   "file": "File:White Hall located on the ridge road, Gangtok.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/White_Hall_located_on_the_ridge_road%2C_Gangtok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/White_Hall_located_on_the_ridge_road%2C_Gangtok.jpg/1920px-White_Hall_located_on_the_ridge_road%2C_Gangtok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4080,
+   "height": 1792,
+   "landscape": true,
+   "description": "White Hall, Gangtok. Named after the first political agent of British India J.C.White who lived here and headed activities encompassing trade, geopolitical affairs in Tibet",
+   "author": "Laluttam",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:White_Hall_located_on_the_ridge_road,_Gangtok.jpg"
+  }
+ ],
  "place:gangtok": [
   {
    "file": "File:Kangch-Goechala.jpg",
@@ -955,7 +969,21 @@
    "source": "https://commons.wikimedia.org/wiki/File:Dro-dul_Chorten_-_Gangtok,_Sikkim.jpg"
   }
  ],
- "exp:gangtok-tibetology-and-do-drul-chorten": [],
+ "exp:gangtok-tibetology-and-do-drul-chorten": [
+  {
+   "file": "File:Buddha statue in Gangtok Museum.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Buddha_statue_in_Gangtok_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Buddha_statue_in_Gangtok_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1280,
+   "height": 960,
+   "landscape": true,
+   "description": "Buddha statue in Gangtok Museum, Sikkim, India",
+   "author": "Drmarathe",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_statue_in_Gangtok_Museum.jpg"
+  }
+ ],
  "exp:gangtok-mg-marg-lal-bazaar-food-walk": [
   {
    "file": "File:M.G. Marg, Gangtok 01.jpg",
@@ -3490,7 +3518,86 @@
    "source": "https://commons.wikimedia.org/wiki/File:Sel_Roti_at_the_Bihibare_Haat,_Kalimpong.jpg"
   }
  ],
- "place:hee-bermiok": [],
+ "place:hee-bermiok": [
+  {
+   "file": "File:Burmiokwosel Choling Monastery at Burmiok village, South Sikkim 04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_04.jpg/1920px-Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5400,
+   "height": 3600,
+   "landscape": true,
+   "description": "Burmiokwosel Choling Monastery at Burmiok village, South Sikkim. This is a Karma Kagyupa sect Monastery which was built in 1873 A.D. The monastery building was damaged by earthquake twice and the lamas had to rebuild it ",
+   "author": "Anjan Kumar Kundu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Burmiokwosel_Choling_Monastery_at_Burmiok_village,_South_Sikkim_04.jpg"
+  },
+  {
+   "file": "File:Burmiokwosel Choling Monastery at Burmiok village, South Sikkim 05.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_05.jpg/1920px-Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5400,
+   "height": 3600,
+   "landscape": true,
+   "description": "Burmiokwosel Choling Monastery at Burmiok village, South Sikkim. This is a Karma Kagyupa sect Monastery which was built in 1873 A.D. The monastery building was damaged by earthquake twice and the lamas had to rebuild it ",
+   "author": "Anjan Kumar Kundu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Burmiokwosel_Choling_Monastery_at_Burmiok_village,_South_Sikkim_05.jpg"
+  },
+  {
+   "file": "File:Burmiokwosel Choling Monastery at Burmiok village, South Sikkim 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_01.jpg/1920px-Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5400,
+   "height": 3600,
+   "landscape": true,
+   "description": "Burmiokwosel Choling Monastery at Burmiok village, South Sikkim. This is a Karma Kagyupa sect Monastery which was built in 1873 A.D. The monastery building was damaged by earthquake twice and the lamas had to rebuild it ",
+   "author": "Anjan Kumar Kundu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Burmiokwosel_Choling_Monastery_at_Burmiok_village,_South_Sikkim_01.jpg"
+  },
+  {
+   "file": "File:Burmiokwosel Choling Monastery at Burmiok village, South Sikkim 07.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_07.jpg/1920px-Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5400,
+   "height": 3600,
+   "landscape": true,
+   "description": "Burmiokwosel Choling Monastery at Burmiok village, South Sikkim. This is a Karma Kagyupa sect Monastery which was built in 1873 A.D. The monastery building was damaged by earthquake twice and the lamas had to rebuild it ",
+   "author": "Anjan Kumar Kundu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Burmiokwosel_Choling_Monastery_at_Burmiok_village,_South_Sikkim_07.jpg"
+  },
+  {
+   "file": "File:Burmiokwosel Choling Monastery at Burmiok village, South Sikkim 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_03.jpg/1920px-Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5400,
+   "height": 3600,
+   "landscape": true,
+   "description": "Burmiokwosel Choling Monastery at Burmiok village, South Sikkim. This is a Karma Kagyupa sect Monastery which was built in 1873 A.D. The monastery building was damaged by earthquake twice and the lamas had to rebuild it ",
+   "author": "Anjan Kumar Kundu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Burmiokwosel_Choling_Monastery_at_Burmiok_village,_South_Sikkim_03.jpg"
+  },
+  {
+   "file": "File:Burmiokwosel Choling Monastery at Burmiok village, South Sikkim 06.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_06.jpg/1920px-Burmiokwosel_Choling_Monastery_at_Burmiok_village%2C_South_Sikkim_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5400,
+   "height": 3600,
+   "landscape": true,
+   "description": "Burmiokwosel Choling Monastery at Burmiok village, South Sikkim. This is a Karma Kagyupa sect Monastery which was built in 1873 A.D. The monastery building was damaged by earthquake twice and the lamas had to rebuild it ",
+   "author": "Anjan Kumar Kundu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Burmiokwosel_Choling_Monastery_at_Burmiok_village,_South_Sikkim_06.jpg"
+  }
+ ],
  "exp:hee-bermiok-martam-limbu-heritage": [],
  "exp:hee-bermiok-cardamom-orange-farm-walk": [],
  "exp:hee-bermiok-ridge-forest-walk": [
@@ -3535,7 +3642,47 @@
   }
  ],
  "exp:hee-bermiok-mountain-biking": [],
- "place:kanchenjunga-falls": [],
+ "place:kanchenjunga-falls": [
+  {
+   "file": "File:Kanchenjunga waterfalls, Pelling 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kanchenjunga_waterfalls%2C_Pelling_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Kanchenjunga_waterfalls%2C_Pelling_02.jpg/1920px-Kanchenjunga_waterfalls%2C_Pelling_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3872,
+   "height": 2592,
+   "landscape": true,
+   "description": "Images from 2010 Sikkim tour",
+   "author": "Sujay25",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kanchenjunga_waterfalls,_Pelling_02.jpg"
+  },
+  {
+   "file": "File:Kanchenjunga waterfalls, Pelling 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kanchenjunga_waterfalls%2C_Pelling_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Kanchenjunga_waterfalls%2C_Pelling_01.jpg/1920px-Kanchenjunga_waterfalls%2C_Pelling_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3397,
+   "height": 2274,
+   "landscape": true,
+   "description": "Images from 2010 Sikkim tour",
+   "author": "Sujay25",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kanchenjunga_waterfalls,_Pelling_01.jpg"
+  },
+  {
+   "file": "File:Kanchenjunga waterfalls, Pelling.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kanchenjunga_waterfalls%2C_Pelling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kanchenjunga_waterfalls%2C_Pelling.jpg/1920px-Kanchenjunga_waterfalls%2C_Pelling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3872,
+   "height": 2592,
+   "landscape": true,
+   "description": "Images from 2010 Sikkim tour",
+   "author": "Sujay25",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kanchenjunga_waterfalls,_Pelling.jpg"
+  }
+ ],
  "exp:kanchenjunga-falls-viewing-stop": [
   {
    "file": "File:Kanchenjunga waterfalls, Pelling.jpg",
@@ -6298,7 +6445,86 @@
    "source": "https://commons.wikimedia.org/wiki/File:Vegetarian_Thali_5.jpg"
   }
  ],
- "place:jorethang": [],
+ "place:jorethang": [
+  {
+   "file": "File:Jorethang Sikkim India.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jorethang_Sikkim_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Jorethang_Sikkim_India.jpg/1920px-Jorethang_Sikkim_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4288,
+   "height": 2848,
+   "landscape": true,
+   "description": "Jorethang, South Sikkim District Sikkim India",
+   "author": "Sharada Prasad CS",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Jorethang_Sikkim_India.jpg"
+  },
+  {
+   "file": "File:River at Jorethang.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/River_at_Jorethang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/River_at_Jorethang.jpg/1920px-River_at_Jorethang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4608,
+   "height": 3456,
+   "landscape": true,
+   "description": "River at Jorethang, Sikkim",
+   "author": "Subhamwiki1984",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_at_Jorethang.jpg"
+  },
+  {
+   "file": "File:Bengal Sikkim Border Bridge, Jorethang.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bengal_Sikkim_Border_Bridge%2C_Jorethang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bengal_Sikkim_Border_Bridge%2C_Jorethang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1716,
+   "height": 1061,
+   "landscape": true,
+   "description": "Bengal Sikkim Border Bridge, Jorethang",
+   "author": "Himanshu Mishra",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bengal_Sikkim_Border_Bridge,_Jorethang.jpg"
+  },
+  {
+   "file": "File:Lake Tenaya in Yosemite NP.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lake_Tenaya_in_Yosemite_NP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lake_Tenaya_in_Yosemite_NP.jpg/1920px-Lake_Tenaya_in_Yosemite_NP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2000,
+   "height": 1738,
+   "landscape": true,
+   "description": "Tenaya Lake. Granite dome is reflectingin the lake. Tenaya Lake is located at Yosemite National Park at Tioga Pass.",
+   "author": "Brocken Inaglory",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake_Tenaya_in_Yosemite_NP.jpg"
+  },
+  {
+   "file": "File:Peyto Lake-Banff NP-Canada.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Peyto_Lake-Banff_NP-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/1920px-Peyto_Lake-Banff_NP-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4150,
+   "height": 2467,
+   "landscape": true,
+   "description": "An attraction of Banff National Park in the Canadian province of Alberta: the turquoise Peyto Lake seen from a viewpoint at Icefields Parkway. This water colour is caused by glacier water, carrying what is often called '",
+   "author": "Tobias Alt, Tobi 87",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Peyto_Lake-Banff_NP-Canada.jpg"
+  },
+  {
+   "file": "File:Sfs building.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sfs_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sfs_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1066,
+   "height": 1600,
+   "landscape": false,
+   "description": "Photo of the main building.",
+   "author": "Edwn112",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sfs_building.jpg"
+  }
+ ],
  "exp:jorethang-maghe-mela-riverbank-day": [
   {
    "file": "File:Gajendramochha Dham Tribeni Nawalparasi Lumbini Nepal Rajesh Dhunjgana (4).jpg",
@@ -8158,7 +8384,86 @@
   }
  ],
  "exp:tendong-damthang-village-tea-stop": [],
- "place:yangang": [],
+ "place:yangang": [
+  {
+   "file": "File:Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim 05.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_05.jpg/1920px-Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim. The monastery was founded in 2013 by Khenpo Yonten Gyatso Rinpoche. The monastery places a strong emphasis on spiritual education and the practice of Bon Tradition",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sog_Yungdrung_Ling_Bon_Monastery,_Yangang,_South_Sikkim_05.jpg"
+  },
+  {
+   "file": "File:Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim 23.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_23.jpg/1920px-Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim. The monastery was founded in 2013 by Khenpo Yonten Gyatso Rinpoche. The monastery places a strong emphasis on spiritual education and the practice of Bon Tradition",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sog_Yungdrung_Ling_Bon_Monastery,_Yangang,_South_Sikkim_23.jpg"
+  },
+  {
+   "file": "File:Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim 09.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_09.jpg/1920px-Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim. The monastery was founded in 2013 by Khenpo Yonten Gyatso Rinpoche. The monastery places a strong emphasis on spiritual education and the practice of Bon Tradition",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sog_Yungdrung_Ling_Bon_Monastery,_Yangang,_South_Sikkim_09.jpg"
+  },
+  {
+   "file": "File:Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim 04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_04.jpg/1920px-Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim. The monastery was founded in 2013 by Khenpo Yonten Gyatso Rinpoche. The monastery places a strong emphasis on spiritual education and the practice of Bon Tradition",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sog_Yungdrung_Ling_Bon_Monastery,_Yangang,_South_Sikkim_04.jpg"
+  },
+  {
+   "file": "File:Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim 21.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_21.jpg/1920px-Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 3580,
+   "landscape": true,
+   "description": "Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim. The monastery was founded in 2013 by Khenpo Yonten Gyatso Rinpoche. The monastery places a strong emphasis on spiritual education and the practice of Bon Tradition",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sog_Yungdrung_Ling_Bon_Monastery,_Yangang,_South_Sikkim_21.jpg"
+  },
+  {
+   "file": "File:Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim 06.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_06.jpg/1920px-Sog_Yungdrung_Ling_Bon_Monastery%2C_Yangang%2C_South_Sikkim_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Sog Yungdrung Ling Bon Monastery, Yangang, South Sikkim. The monastery was founded in 2013 by Khenpo Yonten Gyatso Rinpoche. The monastery places a strong emphasis on spiritual education and the practice of Bon Tradition",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sog_Yungdrung_Ling_Bon_Monastery,_Yangang,_South_Sikkim_06.jpg"
+  }
+ ],
  "exp:yangang-bhaleydhunga-guided-day-hike": [],
  "exp:yangang-neya-khola-falls-walk": [
   {
@@ -8761,7 +9066,86 @@
   }
  ],
  "exp:daramdin-sarva-dharma-kendra-stop": [],
- "place:hilley": [],
+ "place:hilley": [
+  {
+   "file": "File:Barsey Rhododendron Sanctuary in late april.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Barsey_Rhododendron_Sanctuary_in_late_april.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barsey_Rhododendron_Sanctuary_in_late_april.jpg/1920px-Barsey_Rhododendron_Sanctuary_in_late_april.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4000,
+   "height": 2500,
+   "landscape": true,
+   "description": "Barsey in full bloom in late april",
+   "author": "Spattadar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Barsey_Rhododendron_Sanctuary_in_late_april.jpg"
+  },
+  {
+   "file": "File:Barsey Rhododendron Sanctuary AJTJohnsingh P1020150.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Barsey_Rhododendron_Sanctuary_AJTJohnsingh_P1020150.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Barsey_Rhododendron_Sanctuary_AJTJohnsingh_P1020150.jpg/1920px-Barsey_Rhododendron_Sanctuary_AJTJohnsingh_P1020150.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 2448,
+   "landscape": true,
+   "description": "An ornate entrance to Barsey Rhododendron Sanctuary, Western Sikkim, India",
+   "author": "A. J. T. Johnsingh, WWF-India and NCF",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Barsey_Rhododendron_Sanctuary_AJTJohnsingh_P1020150.jpg"
+  },
+  {
+   "file": "File:Rhododendrone near barsey rhododendrone sanctuary 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rhododendrone_near_barsey_rhododendrone_sanctuary_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Rhododendrone_near_barsey_rhododendrone_sanctuary_02.jpg/1920px-Rhododendrone_near_barsey_rhododendrone_sanctuary_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4160,
+   "height": 3120,
+   "landscape": true,
+   "description": "This place is situated near barsey ,sikkim .to be precise ,west sikkim.the only sanctuary for rhododendrones",
+   "author": "Indranil banerjee",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rhododendrone_near_barsey_rhododendrone_sanctuary_02.jpg"
+  },
+  {
+   "file": "File:Rhododendrone near barsey rhododendrone sanctuary 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rhododendrone_near_barsey_rhododendrone_sanctuary_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Rhododendrone_near_barsey_rhododendrone_sanctuary_01.jpg/1920px-Rhododendrone_near_barsey_rhododendrone_sanctuary_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4160,
+   "height": 3120,
+   "landscape": true,
+   "description": "This place is situated near barsey ,sikkim .to be precise ,west sikkim.the only sanctuary for rhododendrones",
+   "author": "Indranil banerjee",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rhododendrone_near_barsey_rhododendrone_sanctuary_01.jpg"
+  },
+  {
+   "file": "File:Barsey forest floor covered in Rhododendron.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Barsey_forest_floor_covered_in_Rhododendron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Barsey_forest_floor_covered_in_Rhododendron.jpg/1920px-Barsey_forest_floor_covered_in_Rhododendron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4000,
+   "height": 2487,
+   "landscape": true,
+   "description": "Forest floor, Barsey Rhododendron Sanctuary",
+   "author": "Spattadar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Barsey_forest_floor_covered_in_Rhododendron.jpg"
+  },
+  {
+   "file": "File:Rhododendron in full bloom - Barsey.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rhododendron_in_full_bloom_-_Barsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Rhododendron_in_full_bloom_-_Barsey.jpg/1920px-Rhododendron_in_full_bloom_-_Barsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4000,
+   "height": 2500,
+   "landscape": true,
+   "description": "Barsey Rhododendron Sanctuary in full bloom",
+   "author": "Spattadar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_in_full_bloom_-_Barsey.jpg"
+  }
+ ],
  "exp:hilley-first-light-trail-walk": [],
  "exp:hilley-trailhead-homestay-night": [],
  "exp:hilley-okhrey-downhill-walk": [],
@@ -9028,7 +9412,47 @@
    "source": "https://commons.wikimedia.org/wiki/File:Crested_Black_Bulbul_A_whisper_of_shadows_crowned_in_flame_01.jpg"
   }
  ],
- "exp:mangalbarey-back-road-to-rinchenpong": [],
+ "exp:mangalbarey-back-road-to-rinchenpong": [
+  {
+   "file": "File:Buckwheat Cultivation in Sikkim.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Buckwheat_Cultivation_in_Sikkim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Buckwheat_Cultivation_in_Sikkim.jpg/1920px-Buckwheat_Cultivation_in_Sikkim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2176,
+   "height": 1450,
+   "landscape": true,
+   "description": "Buckwheat, known as Phaapar in Nepali language and scientifically known as Fagopyrum esculentum is grown in the Himalayan region. The plant bears white flowers and grain like seeds. The seeds are harvested and ground to ",
+   "author": "Praana07",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Buckwheat_Cultivation_in_Sikkim.jpg"
+  },
+  {
+   "file": "File:Kanchenjunga Range 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kanchenjunga_Range_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kanchenjunga_Range_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1024,
+   "height": 768,
+   "landscape": true,
+   "description": "The view of Kanchenjunga Range from Rinchenpong, Soreng, Sikkim",
+   "author": "Regi2023",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kanchenjunga_Range_02.jpg"
+  },
+  {
+   "file": "File:Broomstick Plantation.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Broomstick_Plantation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Broomstick_Plantation.jpg/1920px-Broomstick_Plantation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4624,
+   "height": 2600,
+   "landscape": true,
+   "description": "Broomstick Plantation",
+   "author": "SrijanaSikkim",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Broomstick_Plantation.jpg"
+  }
+ ],
  "place:okhrey": [
   {
    "file": "File:Clouds come floating by.jpg",
@@ -9045,7 +9469,47 @@
   }
  ],
  "exp:okhrey-ugen-thondroling-monastery-climb": [],
- "exp:okhrey-sherpa-kitchen-evening": [],
+ "exp:okhrey-sherpa-kitchen-evening": [
+  {
+   "file": "File:Younger Generations of Sherpa in Traditional Costumes.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Younger_Generations_of_Sherpa_in_Traditional_Costumes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Younger_Generations_of_Sherpa_in_Traditional_Costumes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1153,
+   "height": 606,
+   "landscape": true,
+   "description": "Younger Generations of Sherpa in Traditional Costumes (West Bengal Sherpa Cultural Board)",
+   "author": "TseRigs",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Younger_Generations_of_Sherpa_in_Traditional_Costumes.jpg"
+  },
+  {
+   "file": "File:Sherpa House.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sherpa_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sherpa_House.JPG/1920px-Sherpa_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3872,
+   "height": 2592,
+   "landscape": true,
+   "description": "Typical Sherpa architecture with modern conveniences.",
+   "author": "Moralist",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sherpa_House.JPG"
+  },
+  {
+   "file": "File:Thame Gompa.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Thame_Gompa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Thame_Gompa.JPG/1920px-Thame_Gompa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3872,
+   "height": 2592,
+   "landscape": true,
+   "description": "Thame Gompa in Thame village, Nepal.",
+   "author": "Moralist",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Thame_Gompa.JPG"
+  }
+ ],
  "exp:okhrey-village-lanes-walk": [
   {
    "file": "File:Clouds come floating by.jpg",
@@ -9241,7 +9705,21 @@
    "source": "https://commons.wikimedia.org/wiki/File:Terraced_rice_fields_at_Rey_Mindu,_Sikkim.jpg"
   }
  ],
- "place:sombaria": [],
+ "place:sombaria": [
+  {
+   "file": "File:Anden Wolung Gumpa, Sombaria, West Sikkim.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Anden_Wolung_Gumpa%2C_Sombaria%2C_West_Sikkim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Anden_Wolung_Gumpa%2C_Sombaria%2C_West_Sikkim.jpg/1920px-Anden_Wolung_Gumpa%2C_Sombaria%2C_West_Sikkim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4772,
+   "height": 3063,
+   "landscape": true,
+   "description": "",
+   "author": "Kanad Sanyal",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Anden_Wolung_Gumpa,_Sombaria,_West_Sikkim.jpg"
+  }
+ ],
  "exp:sombaria-bazaar-breakfast-stop": [],
  "exp:sombaria-orange-cardamom-farm-visit": [],
  "exp:sombaria-downhill-walk-to-daramdin": [
@@ -9326,7 +9804,21 @@
    "source": "https://commons.wikimedia.org/wiki/File:Rhododendrone_near_barsey_rhododendrone_sanctuary_02.jpg"
   }
  ],
- "place:soreng": [],
+ "place:soreng": [
+  {
+   "file": "File:Soreng, a view of a winding road.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Soreng%2C_a_view_of_a_winding_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Soreng%2C_a_view_of_a_winding_road.jpg/1920px-Soreng%2C_a_view_of_a_winding_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4080,
+   "height": 3060,
+   "landscape": true,
+   "description": "A winding road visible in front of Sikkim Govt BEd College, Soreng",
+   "author": "Sohel Firdos",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Soreng,_a_view_of_a_winding_road.jpg"
+  }
+ ],
  "exp:soreng-chuli-dara-sunrise-hike": [],
  "exp:soreng-ramidham-hilltop-visit": [],
  "exp:soreng-sribadam-monasteries-and-jor-pokhari": [],
@@ -9594,7 +10086,86 @@
    "source": "https://commons.wikimedia.org/wiki/File:Frances_Harriet_Henslow_Hooker_(cropped).jpg"
   }
  ],
- "place:chungthang": [],
+ "place:chungthang": [
+  {
+   "file": "File:Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_01.jpg/1920px-Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 8256,
+   "height": 5504,
+   "landscape": true,
+   "description": "Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India",
+   "author": "Biswas Dibyendu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang,_North_Sikkim,_India_01.jpg"
+  },
+  {
+   "file": "File:Interiors of Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India 13.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Interiors_of_Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Interiors_of_Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_13.jpg/1920px-Interiors_of_Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 8256,
+   "height": 5504,
+   "landscape": true,
+   "description": "Interiors of Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India",
+   "author": "Biswas Dibyendu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Interiors_of_Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang,_North_Sikkim,_India_13.jpg"
+  },
+  {
+   "file": "File:Interiors of Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India 21.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Interiors_of_Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Interiors_of_Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_21.jpg/1920px-Interiors_of_Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 8256,
+   "height": 5504,
+   "landscape": true,
+   "description": "Interiors of Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India",
+   "author": "Biswas Dibyendu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Interiors_of_Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang,_North_Sikkim,_India_21.jpg"
+  },
+  {
+   "file": "File:Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India 04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_04.jpg/1920px-Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 8256,
+   "height": 5504,
+   "landscape": true,
+   "description": "Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India",
+   "author": "Biswas Dibyendu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang,_North_Sikkim,_India_04.jpg"
+  },
+  {
+   "file": "File:Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India 05.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_05.jpg/1920px-Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang%2C_North_Sikkim%2C_India_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 8256,
+   "height": 5504,
+   "landscape": true,
+   "description": "Tsunthang Rigdzin Choeling Monastery at Chungthang, North Sikkim, India",
+   "author": "Biswas Dibyendu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsunthang_Rigdzin_Choeling_Monastery_at_Chungthang,_North_Sikkim,_India_05.jpg"
+  },
+  {
+   "file": "File:CHUNGTHANG,SIKKIM.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/CHUNGTHANG%2CSIKKIM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/CHUNGTHANG%2CSIKKIM.jpg/1920px-CHUNGTHANG%2CSIKKIM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3120,
+   "height": 4160,
+   "landscape": false,
+   "description": "CHUNGTHANG",
+   "author": "PRATAP CHAKMA",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CHUNGTHANG,SIKKIM.jpg"
+  }
+ ],
  "exp:chungthang-confluence-viewpoint-stop": [
   {
    "file": "File:Gajoldoba Barrage on Teesta river in Gajoldoba 13.jpg",
@@ -10727,7 +11298,47 @@
    "source": "https://commons.wikimedia.org/wiki/File:Teestavalley.jpg"
   }
  ],
- "exp:mangan-halfway-night-north-sikkim": [],
+ "exp:mangan-halfway-night-north-sikkim": [
+  {
+   "file": "File:Gurudongmar Lake Sikkim, India (edit).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/1920px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Partially frozen Gurudongmar Lake, a high altitude glacial lake located in the northeast Indian state of Sikkim. Located at an altitude of over 5,150 metres (16,900 ft), the lake is located to the north of the Himalayas,",
+   "author": "Original: Yoghya Derivative work: UnpetitproleX",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gurudongmar_Lake_Sikkim,_India_(edit).jpg"
+  },
+  {
+   "file": "File:Road distance in north sikkim 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Road_distance_in_north_sikkim_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Road_distance_in_north_sikkim_02.jpg/1920px-Road_distance_in_north_sikkim_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4608,
+   "height": 3456,
+   "landscape": true,
+   "description": "Road distance in north sikkim",
+   "author": "Tarunsamanta",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Road_distance_in_north_sikkim_02.jpg"
+  },
+  {
+   "file": "File:Road distance in north sikkim 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Road_distance_in_north_sikkim_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Road_distance_in_north_sikkim_03.jpg/1920px-Road_distance_in_north_sikkim_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3456,
+   "height": 4608,
+   "landscape": false,
+   "description": "Road distance in north sikkim",
+   "author": "Tarunsamanta",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Road_distance_in_north_sikkim_03.jpg"
+  }
+ ],
  "place:naga-waterfall": [
   {
    "file": "File:Naga waterfalls45.jpg",
@@ -11413,7 +12024,86 @@
    "source": "https://commons.wikimedia.org/wiki/File:Teesta_River_rgs17.jpg"
   }
  ],
- "place:singhik": [],
+ "place:singhik": [
+  {
+   "file": "File:Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India 09.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_09.jpg/1920px-Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India. The monastery was established in the year 1890 A.D. by the followers of Ngadag Rinchhen Gon (3rd successor of Ngadag Sempa Chepo) on the si",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik,_North_Sikkim,_India_09.jpg"
+  },
+  {
+   "file": "File:Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India 06.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_06.jpg/1920px-Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India. The monastery was established in the year 1890 A.D. by the followers of Ngadag Rinchhen Gon (3rd successor of Ngadag Sempa Chepo) on the si",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik,_North_Sikkim,_India_06.jpg"
+  },
+  {
+   "file": "File:Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_02.jpg/1920px-Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India. The monastery was established in the year 1890 A.D. by the followers of Ngadag Rinchhen Gon (3rd successor of Ngadag Sempa Chepo) on the si",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik,_North_Sikkim,_India_02.jpg"
+  },
+  {
+   "file": "File:Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India 15.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_15.jpg/1920px-Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India. The monastery was established in the year 1890 A.D. by the followers of Ngadag Rinchhen Gon (3rd successor of Ngadag Sempa Chepo) on the si",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik,_North_Sikkim,_India_15.jpg"
+  },
+  {
+   "file": "File:Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India 17.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_17.jpg/1920px-Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India. The monastery was established in the year 1890 A.D. by the followers of Ngadag Rinchhen Gon (3rd successor of Ngadag Sempa Chepo) on the si",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik,_North_Sikkim,_India_17.jpg"
+  },
+  {
+   "file": "File:Pathway to Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India 05.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pathway_to_Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Pathway_to_Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_05.jpg/1920px-Pathway_to_Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik%2C_North_Sikkim%2C_India_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Pathway to Singchit Ngadag Monastery alias Nadey Monastery in Singhik, North Sikkim, India. A 13rd century Chorten falls on its path which has been repaired in 1994.",
+   "author": "Amitabha Gupta",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pathway_to_Singchit_Ngadag_Monastery_alias_Nadey_Monastery_in_Singhik,_North_Sikkim,_India_05.jpg"
+  }
+ ],
  "exp:singhik-sunrise-kangchenjunga-view": [
   {
    "file": "File:Everest, Nuptse, Khumbu Glacier, Nepal, Himalayas.jpg",
@@ -13382,7 +14072,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:Snow_white_Gnathang_Valley.jpg"
   }
  ],
- "place:padamchen": [],
+ "place:padamchen": [
+  {
+   "file": "File:Eco Nature Park at Padamchen, Sikkim,4.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C4.jpg/1920px-Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3060,
+   "height": 4080,
+   "landscape": false,
+   "description": "Eco Nature Park Padamchen is a small forest park located along the Old Silk Route near Zuluk. Surrounded by pine trees, it is a peaceful stop for travelers. The park has walking paths and picnic spots, making it ideal fo",
+   "author": "Rajani Gairshail",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Eco_Nature_Park_at_Padamchen,_Sikkim,4.jpg"
+  },
+  {
+   "file": "File:Eco Nature Park at Padamchen, Sikkim,2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C2.jpg/1920px-Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3060,
+   "height": 4080,
+   "landscape": false,
+   "description": "Eco Nature Park Padamchen is a small forest park located along the Old Silk Route near Zuluk. Surrounded by pine trees, it is a peaceful stop for travelers. The park has walking paths and picnic spots, making it ideal fo",
+   "author": "Rajani Gairshail",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Eco_Nature_Park_at_Padamchen,_Sikkim,2.jpg"
+  },
+  {
+   "file": "File:Eco Nature Park at Padamchen, Sikkim,1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C1.jpg/1920px-Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2977,
+   "height": 3970,
+   "landscape": false,
+   "description": "Eco Nature Park Padamchen is a small forest park located along the Old Silk Route near Zuluk. Surrounded by pine trees, it is a peaceful stop for travelers. The park has walking paths and picnic spots, making it ideal fo",
+   "author": "Rajani Gairshail",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Eco_Nature_Park_at_Padamchen,_Sikkim,1.jpg"
+  },
+  {
+   "file": "File:Eco Nature Park at Padamchen, Sikkim,5.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C5.jpg/1920px-Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3060,
+   "height": 4080,
+   "landscape": false,
+   "description": "Eco Nature Park Padamchen is a small forest park located along the Old Silk Route near Zuluk. Surrounded by pine trees, it is a peaceful stop for travelers. The park has walking paths and picnic spots, making it ideal fo",
+   "author": "Rajani Gairshail",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Eco_Nature_Park_at_Padamchen,_Sikkim,5.jpg"
+  },
+  {
+   "file": "File:Eco Nature Park at Padamchen, Sikkim,3.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C3.jpg/1920px-Eco_Nature_Park_at_Padamchen%2C_Sikkim%2C3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3060,
+   "height": 4080,
+   "landscape": false,
+   "description": "Eco Nature Park Padamchen is a small forest park located along the Old Silk Route near Zuluk. Surrounded by pine trees, it is a peaceful stop for travelers. The park has walking paths and picnic spots, making it ideal fo",
+   "author": "Rajani Gairshail",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Eco_Nature_Park_at_Padamchen,_Sikkim,3.jpg"
+  }
+ ],
  "exp:padamchen-forest-edge-birding": [
   {
    "file": "File:Black-faced Laughingthrush (Trochalopteron affine) Echoes of laughter in the misty hills 06.jpg",
@@ -13970,7 +14726,21 @@
    "source": "https://commons.wikimedia.org/wiki/File:Rongli_Bazaar.jpg"
   }
  ],
- "exp:rongli-permit-and-bazaar-morning": [],
+ "exp:rongli-permit-and-bazaar-morning": [
+  {
+   "file": "File:Rongli Bazaar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Rongli_Bazaar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Rongli_Bazaar.jpg/1920px-Rongli_Bazaar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 2448,
+   "landscape": true,
+   "description": "Rongli Bazaar (815m), Sikkim",
+   "author": "Tsen2006",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rongli_Bazaar.jpg"
+  }
+ ],
  "exp:rongli-trade-route-history-walk": [
   {
    "file": "File:Pope1880BengalPres2.jpg",
@@ -14265,7 +15035,73 @@
   }
  ],
  "exp:thambi-winter-snow-stop": [],
- "place:zuluk": [],
+ "place:zuluk": [
+  {
+   "file": "File:Bhool Bhulaiya Zuluk East Sikkim (21617673).jpeg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bhool_Bhulaiya_Zuluk_East_Sikkim_%2821617673%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bhool_Bhulaiya_Zuluk_East_Sikkim_%2821617673%29.jpeg/1920px-Bhool_Bhulaiya_Zuluk_East_Sikkim_%2821617673%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2048,
+   "height": 1356,
+   "landscape": true,
+   "description": "500px provided description: ZULUK - EAST SIKKIM []",
+   "author": "Atimit Kundu",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhool_Bhulaiya_Zuluk_East_Sikkim_(21617673).jpeg"
+  },
+  {
+   "file": "File:Morning at Silk Route.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Morning_at_Silk_Route.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Morning_at_Silk_Route.jpg/1920px-Morning_at_Silk_Route.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5456,
+   "height": 3632,
+   "landscape": true,
+   "description": "A world famous historical path. It is in Zuluk,Sikkim.",
+   "author": "Surajit Roy",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Morning_at_Silk_Route.jpg"
+  },
+  {
+   "file": "File:Zuluk at dawn.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zuluk_at_dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Zuluk_at_dawn.jpg/1920px-Zuluk_at_dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4096,
+   "height": 3072,
+   "landscape": true,
+   "description": "Zuluk village (2750m) at dawn of 19 March 2022",
+   "author": "Tsen2006",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Zuluk_at_dawn.jpg"
+  },
+  {
+   "file": "File:Kangchenjunga India.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Kangchenjunga_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kangchenjunga_India.jpg/1920px-Kangchenjunga_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4272,
+   "height": 2848,
+   "landscape": true,
+   "description": "Kangchenjunga from Pelling, Sikkim, India",
+   "author": "Jakub Michankow",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_India.jpg"
+  },
+  {
+   "file": "File:Zuluk village.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Zuluk_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Zuluk_village.jpg/1920px-Zuluk_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6016,
+   "height": 4000,
+   "landscape": true,
+   "description": "zuluk village view from Birds eye view point.",
+   "author": "Linus pradhan",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Zuluk_village.jpg"
+  }
+ ],
  "exp:zuluk-thambi-sunrise-drive": [
   {
    "file": "File:Thambi view point.jpg",

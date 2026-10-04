@@ -28,11 +28,10 @@ BAD_TITLE = re.compile(r"(ISS\d|satellite|NASA|Landsat|Sentinel|portrait|stamp|b
 # Hand-picked sources for keys where the automatic pick was wrong or weak.
 # ("wiki", title) uses that article's images; ("query", text) a Commons search.
 OVERRIDES = {
-    "place:gangtok": ("query", "Gangtok city skyline"),
+    "place:gangtok": ("query", "Gangtok city"),
     "place:zuluk": ("query", "Zuluk zig zag road"),
     "place:jorethang": ("query", "Jorethang Sikkim India"),
-    "place:kewzing": ("query", "Kewzing Monastery South Sikkim"),
-    "place:uttarey": ("query", "Tenzing Hillary Statue Uttarey Sikkim"),
+    "place:uttarey": ("query", "Uttarey Sikkim"),
     "place:hee-bermiok": ("query", "Burmiok Wosel Choling Monastery"),
     "place:kanchenjunga-falls": ("query", "Kanchenjunga waterfalls Pelling"),
     "place:yangang": ("query", "Sog Yungdrung Ling Bon Monastery Yangang"),
@@ -41,7 +40,7 @@ OVERRIDES = {
     "place:singhik": ("query", "Singchit Ngadag Monastery Singhik"),
     "place:padamchen": ("query", "Eco Nature Park Padamchen Sikkim"),
     "place:hilley": ("query", "Barsey Rhododendron Sanctuary"),
-    "place:shingba-rhododendron-sanctuary": ("query", "Rhododendron Shingba Rhododendron Sanctuary"),
+    "place:shingba-rhododendron-sanctuary": ("query", "Yumthang Valley rhododendron"),
     "place:soreng": ("query", "Soreng Sikkim winding road"),
 }
 
