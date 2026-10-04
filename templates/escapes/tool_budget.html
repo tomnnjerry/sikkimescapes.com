@@ -7,13 +7,13 @@
 
 <section class="sec" aria-labelledby="tb-h">
   <div class="wrap split">
-    <form class="form" id="tb" onsubmit="return false" aria-labelledby="tb-h">
+    <form class="form" id="tb" onsubmit="return false" aria-labelledby="tb-h" style="min-width:0">
       <div>
         <p class="kicker">Your trip</p>
         <h2 class="h2" id="tb-h">Tell us the basics</h2>
       </div>
       <div class="field">
-        <fieldset><legend>Districts</legend>
+        <fieldset style="min-width:0"><legend>Districts</legend>
           <ul>{% for r in regions %}<li><label><input type="checkbox" name="land" value="{{ r.slug }}"{% if r.slug == "east-sikkim" %} checked{% endif %}> {{ r.name }}</label></li>{% endfor %}</ul>
         </fieldset>
       </div>
@@ -22,7 +22,7 @@
         <div class="field"><label for="tb-pax">Travellers</label><input id="tb-pax" type="number" min="1" max="12" value="2" inputmode="numeric"></div>
       </div>
       <div class="field">
-        <fieldset><legend>Comfort level</legend>
+        <fieldset style="min-width:0"><legend>Comfort level</legend>
           <ul>
             <li><label><input type="radio" name="tier" value="budget" checked> Budget</label></li>
             <li><label><input type="radio" name="tier" value="value"> Value</label></li>
@@ -33,7 +33,7 @@
         <p class="small muted" id="tb-tier-note" style="margin:8px 0 0"></p>
       </div>
       <div class="field">
-        <fieldset><legend>Getting around</legend>
+        <fieldset style="min-width:0"><legend>Getting around</legend>
           <ul>
             <li><label><input type="radio" name="move" value="shared" checked> Shared jeeps</label></li>
             <li><label><input type="radio" name="move" value="private"> Private car and driver</label></li>
@@ -41,7 +41,7 @@
         </fieldset>
       </div>
       <div class="field">
-        <fieldset><legend>Add-ons</legend>
+        <fieldset style="min-width:0"><legend>Add-ons</legend>
           <ul>
             <li><label><input type="checkbox" id="tb-north"> North Sikkim permit trip (Lachung or Lachen, 2 nights)</label></li>
             <li><label><input type="checkbox" id="tb-nathu"> Tsomgo, Baba Mandir and Nathu La day (Indians only)</label></li>
@@ -62,7 +62,7 @@
         <dl class="ledger ledger--dark" id="tb-lines"></dl>
         <p class="small" style="margin:14px 0 0">Indicative 2026 rates, rounded to ₹500. Peak weeks (October, Christmas to New Year, May) cost more; monsoon and February cost less. Our planning fee appears as its own line on a real quote. Fees, permits and roads change: check current status before you travel.</p>
       </div>
-      <a class="btn btn--foil btn--block" id="tb-plan" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="budget-tool">Get an exact, itemised quote</a>
+      <a class="btn btn--foil btn--block" id="tb-plan" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="budget-tool">Get an itemised quote</a>
     </aside>
   </div>
 </section>
@@ -237,7 +237,7 @@
     $("tb-pp").textContent = range(pp);
     $("tb-party").textContent = "Whole party of " + pax + ", " + nights + " night" + (nights === 1 ? "" : "s") + ": " + range(total);
     $("tb-lines").innerHTML = lines.map(function (l) {
-      return '<div><dt>' + esc(l[0]) + '<br><span style="text-transform:none;letter-spacing:0;font:400 .78rem var(--sans)">' + esc(l[1]) + '</span></dt><dd>' + range(l[2]) + '</dd></div>';
+      return '<div><dt style="white-space:normal">' + esc(l[0]) + '<br><span style="text-transform:none;letter-spacing:0;font:400 .78rem var(--sans)">' + esc(l[1]) + '</span></dt><dd style="white-space:nowrap">' + range(l[2]) + '</dd></div>';
     }).join("");
     var mid = (total[0] + total[1]) / 2 || 1;
     $("tb-bar").innerHTML = lines.map(function (l) { return '<i style="width:' + (((l[2][0] + l[2][1]) / 2) / mid * 100).toFixed(1) + '%" title="' + esc(l[0]) + '"></i>'; }).join("");

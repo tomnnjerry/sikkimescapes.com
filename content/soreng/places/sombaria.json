@@ -1,0 +1,172 @@
+{
+  "slug": "sombaria",
+  "name": "Sombaria",
+  "region": "soreng",
+  "kind": "town",
+  "wiki": "",
+  "image_query": "Sombaria Sikkim",
+  "lat": 27.1412,
+  "lng": 88.1476,
+  "altitude_m": 1500,
+  "local_name": null,
+  "tagline": "The last bazaar on the road to Okhrey, Hilley and Barsey",
+  "meta_description": "Sombaria, Soreng district: the bazaar and jeep hub for Okhrey and Barsey, farm visits, the walk down to Daramdin, Barsey day trips, costs and how to get there.",
+  "summary": "Sombaria is a small bazaar town at about 1,500 m in western Soreng district, roughly 30 km above Jorethang and 14 km below Okhrey. It is where shared jeeps end and reserved cars take over for Okhrey and Hilley. Stop for cash, supplies and a meal, a farm visit, or an early start for Barsey.",
+  "intro": [
+    "Sombaria sits on the road that climbs west from Jorethang through Tharpu and Daramdin towards the Singalila ridge. At about 1,500 m it is the last real bazaar before Okhrey, 14 km further up, and Hilley, the gate to the Barsey Rhododendron Sanctuary, 22 km away. The district administration counts it among the important towns of Soreng district, and for travellers it is above all a transport hub: shared jeeps from Jorethang and Siliguri end here, and most people reserve a local car for the last stretch.",
+    "The bazaar is a single busy street of shops, eateries, a bank and the jeep stand, with farms spreading down the slopes on both sides. Wikipedia's list of State Bank of Sikkim branches includes Sombaria, which matters because Okhrey and Hilley have no reliable cash machines. Buy what you need here: snacks for the trail, a rain cover, batteries and cash for homestays.",
+    "Few people stay the night, and we would not plan a holiday around Sombaria. But it is a pleasant place to pause, with orange and cardamom farms below the road, a downhill walk to Daramdin and, on clear mornings, the Singalila ridge ahead. If you arrive late from Siliguri, a night here makes an early start for Barsey practical, since Hilley is under an hour away by car."
+  ],
+  "story": {
+    "title": "The footballer from Sombaria",
+    "text": "Sombaria's best-known son is a footballer. Wikipedia records that Sanju Pradhan was born on 11 March 1989 in Sombaria, to a Newar family, and that he learned to love the game by watching people in his village play in their free time. His school had no team, so he played for others, then went to the \"Search for more Bhaichungs\" trials at the West Sikkim district headquarters. He was picked as one of 30 boys from the statewide trial in Gangtok and in April 1999 joined the Namchi Sports Hostel football academy, later moving to the Sports Academy of Sikkim. He went on to play for leading Indian clubs, won the Federation Cup in 2009–10 and 2012, and represented India. Football is played with real passion across Sikkim, and village grounds fill for local tournaments in the dry months. If you see a match on the way through Sombaria, it is worth stopping to watch.",
+    "source": "Wikipedia: Sanju Pradhan"
+  },
+  "little_known": [
+    {"fact": "Sombaria takes its name from Sombar, the Nepali word for Monday. As told locally, it points to an old weekly market day; Mangalbarey, Tuesday, is named the same way.", "source": "Nepali weekday names; as told locally"},
+    {"fact": "Indian international footballer Sanju Pradhan, a Federation Cup winner in 2009–10 and 2012, was born in Sombaria in 1989 and first learned the game watching villagers play.", "source": "Wikipedia: Sanju Pradhan"},
+    {"fact": "Wikipedia's list of State Bank of Sikkim branches in Soreng district includes Sombaria, which makes it the last dependable place to bank before Okhrey and Hilley.", "source": "Wikipedia: State Bank of Sikkim"}
+  ],
+  "facts": [
+    ["Best months", "March–May and October–December"],
+    ["Nights we suggest", "0–1"],
+    ["From Gangtok", "≈ 120–125 km · 5–5.5 h via Jorethang"],
+    ["Altitude", "≈ 1,500 m"],
+    ["Known for", "Jeep hub and last bazaar for Okhrey, Hilley and Barsey"],
+    ["Permit", "Not needed for Indians; foreigners need Sikkim's RAP (e-FRRO)"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Last stop for cash and supplies", "text": "Sombaria has a bank, shops and pharmacies, and Okhrey and Hilley have little of either. Draw cash for homestays, buy trail snacks, batteries and a rain cover, and fill your water bottles. It saves a long drive back if something runs out in Okhrey."},
+    {"title": "Jeep stand and car hire", "text": "Shared jeeps from Jorethang and some from Siliguri end in Sombaria. From here, reserve a local car for Okhrey, 14 km away, for about ₹700–1,000, or for Hilley, 22 km away, for about ₹1,000–1,500. Drivers wait at the stand from morning until mid-afternoon."},
+    {"title": "Orange and cardamom farms", "text": "The slopes below the road are farms of maize, vegetables, oranges around houses and large cardamom in the shade of alder trees. From November to January oranges ripen; cardamom is picked from about August to October. Ask in the bazaar for a farmer happy to show visitors round."},
+    {"title": "Downhill walk to Daramdin", "text": "Walk about 7 km down the road and village short-cuts from Sombaria to Daramdin, losing roughly 550 m, past farms and the village of Ambotey. Two hours is enough, and a jeep or your car can collect you at the bottom."},
+    {"title": "Early start for Barsey", "text": "Hilley, the start of the 4–5 km walk to the Barsey ridge, is about 22 km and under an hour from Sombaria. Sleeping here when you arrive late from Siliguri lets you reach the trail soon after dawn, before the cloud rises."},
+    {"title": "Village football", "text": "Sanju Pradhan, who played for India, grew up here watching villagers play. In the dry months, local grounds across Soreng district host tournaments that draw crowds from nearby villages. If a match is on as you pass, stop and watch."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run from Jorethang to Sombaria through the morning, about 1.5 hours for roughly ₹100–150 a seat, and a few run direct from Siliguri. From Siliguri otherwise take a jeep to Jorethang (3.5–4 hours, ₹250–350) and change. Jeeps also link Sombaria with Soreng and Daramdin."},
+    {"mode": "Private car", "text": "Sombaria is about 30 km from Jorethang via Nayabazar, Tharpu and Daramdin, about 16 km from Soreng, 14 km below Okhrey and 22 km below Hilley. From Gangtok, allow 5–5.5 hours for about 120–125 km via Melli and Jorethang, roughly ₹5,500–6,500 by small car."},
+    {"mode": "From Bagdogra / NJP", "text": "Sombaria is roughly 115–125 km from Bagdogra and NJP, 4.5–5 hours by car via Sevoke, Melli and Jorethang, about ₹4,500–6,000 for a small car. NH10 along the Teesta closes after monsoon slides, when drivers go via Kalimpong or Darjeeling. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Jorethang–Sombaria", "≈ ₹100–150 a seat"],
+    ["Reserved car Sombaria–Okhrey", "≈ ₹700–1,000"],
+    ["Reserved car Sombaria–Hilley", "≈ ₹1,000–1,500"],
+    ["Simple lodge or homestay", "≈ ₹1,000–2,000 per person"],
+    ["Meal (thali)", "≈ ₹120–200"]
+  ],
+  "where_to_stay": "Sombaria has a few simple lodges and homestays used mainly by people in transit, at about ₹1,000–2,000 per person; standards vary, so look at the room first. We usually plan around it instead: the Sherpa homestays of Okhrey, 14 km up the road, cost about ₹1,200–2,000 per person with meals and are far nicer, and Hilley's small homestays put you at the Barsey trailhead. Lower down, Daramdin has village homestays and Soreng town has budget hotels such as The Orchid Hotel.",
+  "stays": ["okhrey-homestays", "hilley-homestays"],
+  "tips": [
+    "Draw enough cash in Sombaria for your whole stay in Okhrey and Hilley.",
+    "Agree the fare for a reserved car to Okhrey or Hilley before you load your bags.",
+    "Shared jeeps back to Jorethang leave mostly in the early morning, so plan your departure day around them.",
+    "Carry a light rain jacket from April onwards; cloud and showers arrive quickly on this side of the Singalila ridge.",
+    "If you arrive after about 3 pm, consider a night in Sombaria rather than driving on to Hilley in fading light."
+  ],
+  "themes": ["offbeat-sikkim", "treks-and-walks", "village-homestays"],
+  "nearby": ["okhrey", "hilley", "daramdin", "soreng"],
+  "experiences": [
+    {
+      "slug": "sombaria-bazaar-breakfast-stop",
+      "title": "Breakfast and supplies in Sombaria bazaar",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "7–10 am, year-round",
+      "cost": "≈ ₹150–300 per person",
+      "image_query": "Sikkim bazaar momo stall",
+      "wiki": "",
+      "summary": "Stop in Sombaria bazaar for momos, puri-sabzi or a thali, sweet milky tea and the last supplies before Okhrey and Hilley. A practical hour that saves you trouble later, and a look at a western Sikkim market town at work.",
+      "body": [
+        "Sombaria is the place to eat and shop before the road gets quiet. Small eateries along the main street serve momos, chowmein, puri with potato curry and rice-dal thalis, with tea, for about ₹100–250. In the morning the bazaar is busy with jeeps loading and unloading, school children, farmers bringing vegetables, and drivers from Okhrey and Hilley waiting for passengers.",
+        "Use the stop well. Draw cash: Wikipedia lists a State Bank of Sikkim branch here, and Okhrey and Hilley have no machines you should rely on. Buy biscuits, dry fruit and chocolate for the Barsey walk, spare batteries or a power bank, and a rain cover or poncho if you lack one. Pharmacies stock basic medicines, but bring any prescription medicine from home.",
+        "If you have time, walk to the end of the bazaar for the view west towards the Singalila ridge, which is clearest in the early morning from October to April. Ask before photographing shopkeepers, and keep small notes, as UPI depends on the mobile signal. This is not a sight in itself, but a good stop makes the next two days easier."
+      ],
+      "good_for": ["budget", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Is there an ATM in Sombaria?", "a": "Wikipedia lists a State Bank of Sikkim branch at Sombaria, and the bazaar is the last place on this road where you can reasonably expect banking. Machines can run out of cash on holidays, so carry a reserve from Jorethang or Siliguri as well. Okhrey and Hilley have no ATMs we would rely on."},
+        {"q": "What should I buy in Sombaria before going to Okhrey and Barsey?", "a": "Cash for homestays and cars, trail snacks, water, a rain cover or poncho, spare batteries or a power bank, and any basic medicines you might need. Okhrey has small shops, Hilley very few, and prices rise with every kilometre up the road."},
+        {"q": "What food is available in Sombaria?", "a": "Simple and cheap: momos, chowmein, puri with potato curry, rice-dal thalis and tea, for about ₹100–250 a meal. Vegetarian options are easy. Eat early, as some places close by mid-afternoon once the jeep traffic slows."}
+      ]
+    },
+    {
+      "slug": "sombaria-orange-cardamom-farm-visit",
+      "title": "Orange and cardamom farm visit near Sombaria",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "November–January for oranges; August–October for cardamom",
+      "cost": "≈ ₹500–1,000 for a local guide",
+      "image_query": "large cardamom plantation Sikkim",
+      "wiki": "",
+      "summary": "Walk down from the bazaar to a family farm to see how oranges and large cardamom are grown on the slopes of western Sikkim, the crops the Soreng district site names among its most important. Seasonal, simple and arranged locally.",
+      "body": [
+        "The Soreng district administration names the Sikkim mandarin orange and large cardamom among the most important organic cash crops of the state. Around Sombaria you see both: orange trees beside houses and in small orchards, and cardamom growing in the damp shade of alder trees on the cooler slopes. The district site notes that Sikkim produces a large share of India's large cardamom, the smoky black spice used in rice and meat dishes.",
+        "A local guide, about ₹500–1,000, can take you to a farm whose family is happy to have visitors. Oranges ripen from November to January; cardamom is harvested from roughly August to October and dried over wood fires in small kilns called bhatti, which you can sometimes see in use. Your host can explain what a season brings and how weather and disease affect the crop.",
+        "Remember that these are working farms and private land. Go with a guide or an invitation, stay on paths, do not pick fruit unless offered, and ask before photographing people. Buying a kilo of oranges or a packet of cardamom directly from the family is the best way to say thank you. Allow about two hours, including a cup of tea."
+      ],
+      "good_for": ["families", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "When is the best time to see oranges near Sombaria?", "a": "November to January, when the Sikkim mandarin ripens on trees around houses and in small orchards. The Soreng district site counts it among the state's key cash crops. December is usually the peak, and you can often buy fruit directly from farmers."},
+        {"q": "Can I see large cardamom being dried?", "a": "Sometimes, in the harvest season from about August to October, when farmers dry the pods over wood fires in small kilns called bhatti. Timing depends on the farm and the weather, so ask a local guide whether any family is drying cardamom during your visit."},
+        {"q": "Do I need to book a farm visit in advance?", "a": "It helps. Ask us or your homestay to arrange it, or ask in Sombaria bazaar for a local guide. Farms are private homes and working land, so do not walk in uninvited. A guide costs about ₹500–1,000 and makes introductions."}
+      ]
+    },
+    {
+      "slug": "sombaria-downhill-walk-to-daramdin",
+      "title": "Downhill walk from Sombaria to Daramdin",
+      "kind": "nature",
+      "duration": "2–2.5 hours",
+      "best_time": "October–April, morning",
+      "cost": "Free; car pick-up ≈ ₹600–900",
+      "image_query": "Soreng district Sikkim village road",
+      "wiki": "",
+      "summary": "Walk about 7 km down the road and village short-cuts from Sombaria to Daramdin, losing roughly 550 m through farms and the village of Ambotey. An easy half-morning on foot that shows the farming country most visitors only see from a jeep window.",
+      "body": [
+        "From Sombaria at about 1,500 m, the road to Daramdin drops roughly 550 m over about 7 km. Village short-cuts cut off several bends, and a local can point them out. On the way you pass Ambotey, which Wikipedia describes as a village between Daramdin and Sombaria with several schools, so you will meet children on the path in term time. The farms change as you descend, from cardamom and vegetables to maize, paddy and orange trees.",
+        "Most people take two to two and a half hours at an easy pace. Downhill walking is hard on knees, so use a walking pole if you have one, and wear shoes with grip, as the short-cuts are steep and slippery after rain. Traffic on the road is light but drivers move fast on bends; walk facing traffic and step well off the road when vehicles pass.",
+        "Arrange for your car to meet you in Daramdin, or catch a shared jeep onward to Jorethang or Soreng; a pick-up costs about ₹600–900. October to April is best. From June to September the short-cuts are muddy and leech-ridden, and we would stick to the road or skip the walk. Carry water; there are small shops in Ambotey and Daramdin."
+      ],
+      "good_for": ["solo", "couples", "photographers", "budget"],
+      "faqs": [
+        {"q": "How long is the walk from Sombaria to Daramdin?", "a": "About 7 km by road, less with village short-cuts, dropping roughly 550 m. Most walkers take two to two and a half hours at an easy pace. It is all downhill, so it suits most fit adults, though steep sections are hard on the knees."},
+        {"q": "Do I need a guide for the Sombaria to Daramdin walk?", "a": "Not if you stay on the road. A local guide, or a shopkeeper's directions, helps you find the short-cuts through the villages, which are quieter and more interesting. If you use them, ask before crossing fields and keep to the paths."},
+        {"q": "Can children do this walk?", "a": "Yes, children used to walking can manage it with breaks, but watch them closely on the road bends and on steep short-cuts. Arrange a car to collect you in Daramdin, carry water and snacks, and avoid the monsoon months, when paths are slippery."}
+      ]
+    },
+    {
+      "slug": "sombaria-early-start-barsey-day",
+      "title": "An early start for Barsey from Sombaria",
+      "kind": "adventure",
+      "duration": "Full day",
+      "best_time": "March–May for flowers; October–December for views",
+      "cost": "≈ ₹2,000–3,000 car return, plus sanctuary entry",
+      "image_query": "Barsey rhododendron sanctuary trail",
+      "wiki": "",
+      "summary": "If you reach Sombaria late, sleep there and leave before dawn for Hilley, 22 km away, to walk the 4–5 km forest trail to the Barsey ridge at about 3,000 m. A practical plan when Okhrey's homestays are full in April.",
+      "body": [
+        "Hilley, the road-head and checkpost for the Barsey Rhododendron Sanctuary, is about 22 km and under an hour from Sombaria via Okhrey. Leave by about 5:30 am and you can be on the trail soon after sunrise, when the forest is quiet and the Kangchenjunga range is most likely to be clear from the top. The trail runs 4–5 km through rhododendron, oak and magnolia to the Guras Kunj clearing at about 3,000 m, gaining about 250 m.",
+        "The sanctuary was notified in 1996 and covers 104 km² of the Singalila Range. Rhododendrons bloom from March to May, usually peaking in April; October to December brings the clearest mountain views. Entry is paid at the Hilley checkpost, about ₹50 for Indians; foreigners pay more and need Sikkim's RAP. Check current status before you travel.",
+        "A reserved car from Sombaria to Hilley and back, waiting while you walk, costs about ₹2,000–3,000. Allow four to five hours for the walk with time at the top, and be back at the car by early afternoon, when cloud usually rises. Coming from about 1,500 m, walk slowly: the ridge is double the altitude, and breathlessness on climbs is normal."
+      ],
+      "good_for": ["photographers", "couples", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How far is Hilley from Sombaria?", "a": "About 22 km by road via Okhrey, which is 14 km from Sombaria. The drive takes 45 minutes to an hour. A reserved car costs about ₹1,000–1,500 one way, or about ₹2,000–3,000 for a return trip with the driver waiting while you walk to Barsey."},
+        {"q": "Is it better to stay in Okhrey or Sombaria for Barsey?", "a": "Okhrey, if you can get a room: it is closer, quieter and its Sherpa homestays are more comfortable. Sombaria works when Okhrey is full in April or when you arrive too late to drive further. Either way, leave early to reach the Barsey ridge before cloud."},
+        {"q": "Will I feel the altitude at Barsey coming from Sombaria?", "a": "You may feel breathless on the climbs, since Barsey is about 3,000 m and Sombaria about 1,500 m. Serious altitude sickness is uncommon at this height, but walk slowly, drink water and turn back if you feel unwell. A night in Okhrey first helps."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Sombaria in Sikkim?", "a": "Sombaria is in the west of Soreng district, which was part of West Sikkim until December 2021. It lies about 30 km above Jorethang on the road through Tharpu and Daramdin, about 16 km from Soreng town, and 14 km below Okhrey. Hilley and the Barsey Rhododendron Sanctuary are 22 km away."},
+    {"q": "Is Sombaria worth a stop?", "a": "As a stop, yes: it is the last bazaar with a bank, shops and a jeep stand before Okhrey and Hilley. As a destination, not really; there are no major sights. Most travellers eat, buy supplies and move on, or sleep here only when arriving late."},
+    {"q": "How do I get from Sombaria to Okhrey?", "a": "Reserve a local car at the Sombaria stand for the 14 km to Okhrey, about ₹700–1,000, or ask whether a shared jeep is going up. The drive takes about 30–40 minutes. Agree the fare before loading bags, and travel before dark if you can."},
+    {"q": "How do I reach Sombaria from Siliguri?", "a": "By shared jeep, a few run direct from Siliguri in the morning; otherwise go to Jorethang (3.5–4 hours, ₹250–350) and change for Sombaria (about 1.5 hours, ₹100–150). By car, allow 4.5–5 hours via Melli and Jorethang. NH10 closes after monsoon slides; check current status before you travel."},
+    {"q": "What does the name Sombaria mean?", "a": "Sombar is the Nepali word for Monday, and as told locally the name points to an old weekly market day. Mangalbarey, the subdivision headquarters in the east of the district, is named the same way after Mangalbar, Tuesday. Market days may have changed since, so ask locally."},
+    {"q": "Are there hotels in Sombaria?", "a": "There are a few simple lodges and homestays used mostly by people in transit, at about ₹1,000–2,000 per person. Look at the room before paying. For a better night, go on to Okhrey's Sherpa homestays, 14 km up, or stay in Daramdin or Soreng lower down."},
+    {"q": "Do I need a permit for Sombaria or Barsey?", "a": "Indian nationals need no special permit for Sombaria, only the ₹50 Sikkim tourist fee collected by accommodation and an entry ticket for the Barsey sanctuary at Hilley. Foreign nationals need Sikkim's Restricted Area Permit from the e-FRRO portal. Check current status before you travel."},
+    {"q": "What is the weather like in Sombaria?", "a": "At about 1,500 m, Sombaria has mild days of 15–25 °C for much of the year and cool winter nights of about 3–6 °C. June to September brings heavy rain and occasional landslides. Clouds build quickly in the afternoon, so mornings are best for views."},
+    {"q": "Is there mobile signal in Sombaria?", "a": "Usually yes in the bazaar, with patchier coverage on the road above towards Okhrey and Hilley and inside the Barsey sanctuary. Download maps, tickets and any booking details in Sombaria, and tell someone your plans before heading up to Hilley."}
+  ]
+}

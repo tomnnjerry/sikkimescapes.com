@@ -1,0 +1,171 @@
+{
+  "slug": "chungthang",
+  "name": "Chungthang",
+  "region": "north-sikkim",
+  "kind": "town",
+  "wiki": "Chungthang",
+  "image_query": "Chungthang confluence Lachen Lachung Sikkim",
+  "lat": 27.604,
+  "lng": 88.646,
+  "altitude_m": 1600,
+  "local_name": null,
+  "tagline": "Where the Lachen and Lachung rivers meet to form the Teesta",
+  "meta_description": "Chungthang, North Sikkim: the confluence town where the road splits for Lachung and Lachen. Permits, 2023 flood history, stops and honest travel tips.",
+  "summary": "Chungthang is a small town about 95 km and 4–4.5 hours north of Gangtok, at the confluence of the Lachen Chu and Lachung Chu, which join to form the Teesta. Every North Sikkim trip passes through, because the road splits here for Lachen and Lachung. It lies beyond the Toong check post, so a protected area permit is needed.",
+  "intro": [
+    "Chungthang sits in a narrow bowl where two mountain rivers meet: the Lachen Chu coming down from Lachen and Thangu, and the Lachung Chu from Lachung and Yumthang. From here the combined river is the Teesta, which runs the length of Sikkim. The town is small, with a bazaar, a few lodges and eating places, government offices, an Indian Army base with a medical centre and a gurdwara. Wikipedia gives its elevation as 1,790 m, though the valley floor near the confluence is closer to 1,600 m.",
+    "For travellers, Chungthang is a junction rather than a destination. Tour jeeps stop for tea and a stretch, permits are checked, and the road divides: left up the Lachen gorge over the Taram Chu bridge, right up the Lachung valley through forest and orchards. On the return, drivers often regroup here before the long run down to Mangan and Gangtok.",
+    "Chungthang also carries the scars of October 2023, when a glacial lake outburst from South Lhonak Lake sent a flood down the Teesta that destroyed the Teesta Stage III dam here, along with bridges, roads and buildings. Rebuilding has gone on since. Look at the riverbed and you can still see how much changed. Check current status before you travel."
+  ],
+  "story": {
+    "title": "The night the Teesta came down",
+    "text": "In the early hours of 4 October 2023, South Lhonak Lake, a glacial lake high in northwestern Sikkim, burst through its moraine after heavy rain, possibly helped by a slope collapse into the lake. Wikipedia's article on the 2023 Sikkim flash floods records that the lake had grown from about 17 hectares in 1977 to more than 160 hectares by 2023 as its glacier retreated. The water raced down the Lachen valley and reached Chungthang, where it overtopped and destroyed the dam of the 1,200 MW Teesta Stage III hydropower project. The surge then tore down the Teesta through Mangan, Singtam and Rangpo, washing away bridges and long stretches of road, damaging army camps and homes, and causing loss of life as far as the plains of West Bengal. North Sikkim was cut off for months. The road from Chungthang to Lachen needed long sections rebuilt and a new bridge at Taram Chu, and stayed closed to tourists for a long time afterwards. When you stand at the confluence today, the wide grey riverbed is the flood's mark.",
+    "source": "Wikipedia, 2023 Sikkim flash floods and Chungthang"
+  },
+  "little_known": [
+    {"fact": "Chungthang is the point where the Lachen Chu and the Lachung Chu join, and from here downstream the river is called the Teesta.", "source": "Wikipedia, Chungthang"},
+    {"fact": "The Indian Army maintains a major forward base with a medical centre at Chungthang, which is the nearest substantial medical help for many Lachung and Lachen travellers.", "source": "Wikipedia, Chungthang"},
+    {"fact": "Chungthang is about 28 km from Mangan and 95 km from Gangtok by the North Sikkim Highway.", "source": "Wikipedia, Chungthang"}
+  ],
+  "facts": [
+    ["Best months", "October–November, March–May"],
+    ["Nights we suggest", "0 (a stop on the way)"],
+    ["From Gangtok", "≈ 95 km · 4–4.5 h"],
+    ["Altitude", "≈ 1,600 m (sources give up to 1,790 m)"],
+    ["Known for", "River confluence, road junction, 2023 flood"],
+    ["Permit", "Protected area permit via a registered agent"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0",
+  "highlights": [
+    {"title": "The confluence", "text": "From the bridges and the road above, you can see the Lachen Chu and Lachung Chu meet in a wide bed of grey boulders. The water is fast and cold and the riverbed was reshaped by the 2023 flood. Look from the road; do not go down to the edge."},
+    {"title": "The road junction", "text": "Here the North Sikkim road splits. The Lachen branch climbs a steep gorge over the Taram Chu bridge to Lachen and Thangu; the Lachung branch follows the Lachung Chu through forest and orchards. Your permit is checked, and drivers often take a short tea break."},
+    {"title": "Flood memory", "text": "The remains of the Teesta Stage III dam and the widened river show the force of the October 2023 glacial lake outburst. Many local families lost homes or land. Ask with care if you want to talk about it, and avoid photographing damaged homes."},
+    {"title": "A medical lifeline", "text": "The army base and its medical centre have helped many travellers with altitude problems coming down from Gurudongmar or Zero Point. If anyone in your group feels unwell higher up, descending to Chungthang often brings quick relief."},
+    {"title": "Tea and a stretch", "text": "Chungthang's small eating places serve tea, momos, noodles and rice meals. On a long drive day it is a good place to stretch, use a toilet and buy water or snacks before the climb. Carry a refillable bottle for Lachung and Lachen."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared tour jeep", "text": "Chungthang is on every shared North Sikkim tour to Lachung or Lachen from Gangtok. You cannot normally book a seat to Chungthang alone as a tourist, because permits are tied to a registered package and vehicle."},
+    {"mode": "Private car", "text": "A registered private vehicle from Gangtok takes 4–4.5 hours for about 95 km via Mangan and the Toong check post, which tourist vehicles must cross by 4:00 pm. Your agent arranges the protected area permit."},
+    {"mode": "From Bagdogra / NJP", "text": "Spend a night in Gangtok first. The drive from NJP or Bagdogra to Gangtok takes 4.5–5 hours on NH10, longer via Kalimpong or Algarah when NH10 is closed by slides, and a same-day push north would miss the Toong cut-off."}
+  ],
+  "costs": [
+    ["Shared 2N/3D North Sikkim package", "≈ ₹6,500–9,000 per person"],
+    ["Private SUV, 2N/3D, car only", "≈ ₹16,000–22,000 per vehicle"],
+    ["Tea and snacks", "≈ ₹50–150"],
+    ["Meal (thali)", "≈ ₹150–250"],
+    ["Permit", "Arranged by your registered agent"]
+  ],
+  "where_to_stay": "Chungthang has a few small lodges used by drivers, workers and officials, but we do not normally plan tourist nights here. The town sits between Lachung and Lachen, each about an hour or so away, and both have better rooms and homestays. If a road closure forces a stop, your driver will find a simple lodge. For a planned halfway night on the way north, Mangan, below the Toong check post, is a better choice.",
+  "stays": [],
+  "tips": [
+    "Keep your permit copy and ID handy; they are checked on the North Sikkim road around Chungthang.",
+    "Use the tea stop to buy water and snacks before Lachen or Lachung.",
+    "If anyone feels unwell higher up, descending towards Chungthang is often the quickest relief.",
+    "Do not go down to the riverbed; water levels can change quickly.",
+    "Avoid photographing army installations, which is not allowed."
+  ],
+  "themes": ["lakes-and-passes", "photography", "offbeat-sikkim"],
+  "nearby": ["lachung", "lachen", "naga-waterfall", "mangan"],
+  "experiences": [
+    {
+      "slug": "chungthang-confluence-viewpoint-stop",
+      "title": "Watching two rivers become the Teesta",
+      "kind": "nature",
+      "duration": "20–30 minutes",
+      "best_time": "Late morning, October–May",
+      "cost": "Free",
+      "image_query": "Teesta river Chungthang confluence",
+      "wiki": "Teesta River",
+      "summary": "Stop above the confluence at Chungthang and watch the Lachen Chu and Lachung Chu meet to form the Teesta, Sikkim's main river. A short, simple stop that helps you read the geography of the whole north.",
+      "body": [
+        "Most of North Sikkim drains through this one point. The Lachen Chu brings water from Gurudongmar, Thangu and the glaciers of the northwest, including South Lhonak; the Lachung Chu brings it from Yumthang and the passes to the east. At Chungthang they meet, and from here the river is the Teesta, which flows south past Mangan, Singtam and Rangpo into West Bengal and Bangladesh.",
+        "Ask your driver to stop at a safe spot on the road above the confluence. In autumn and winter the water runs clear blue-green over grey stones; after rain or snowmelt it is brown and loud. The wide, bare riverbed you see today is partly the work of the October 2023 flood.",
+        "It is a quick stop, best fitted into the drive up or down. Stay by the road, away from the edge, and do not walk onto the riverbed. Photography of army areas is not allowed."
+      ],
+      "good_for": ["photographers", "families", "first-timers"],
+      "faqs": [
+        {"q": "Which rivers meet at Chungthang?", "a": "The Lachen Chu, flowing down from Lachen and Thangu, and the Lachung Chu, flowing down from Lachung and Yumthang, meet at Chungthang. From the confluence downstream the river is called the Teesta, Sikkim's main river, which flows south through the state into West Bengal and Bangladesh."},
+        {"q": "Can we go down to the river at Chungthang?", "a": "We advise against it. The riverbed was reshaped by the 2023 flood, water levels change quickly, and parts of the bank are unstable or near restricted areas. Enjoy the view from a safe place on the road, and follow your driver's advice on where to stop."},
+        {"q": "How long should we stop at Chungthang?", "a": "Twenty to thirty minutes is enough for the view, tea and a toilet break. On the way up, keep the stop short so you reach Lachung or Lachen in daylight. On the way down there is more flexibility, though you still want to reach Gangtok before dark."}
+      ]
+    },
+    {
+      "slug": "chungthang-flood-history-stop",
+      "title": "Understanding the 2023 Teesta flood",
+      "kind": "culture",
+      "duration": "30 minutes",
+      "best_time": "Any open month",
+      "cost": "Free",
+      "image_query": "2023 Sikkim flash flood Chungthang",
+      "wiki": "2023 Sikkim flash floods",
+      "summary": "At Chungthang you can see where the October 2023 glacial lake outburst destroyed the Teesta Stage III dam. A short, sober stop to understand how climate, glaciers and dams shape life and travel in North Sikkim today.",
+      "body": [
+        "On 4 October 2023 South Lhonak Lake, a glacial lake far up the Lachen valley, burst and sent a wall of water down the river. At Chungthang it destroyed the dam of the 1,200 MW Teesta Stage III project, then swept on down the Teesta, taking bridges, roads, homes and lives. The Wikipedia article on the floods records that the lake had grown more than ninefold since 1977 as its glacier retreated.",
+        "From the road you can see the scale of change: the river runs wider and rougher, and rebuilding of roads, bridges and buildings has continued for years. The long closures of the Lachen road that followed, and the reopening in stages, are part of the reason we always say check current status before you travel.",
+        "Many local people lost family, homes or land. If you talk about the flood, listen more than you ask, and do not photograph damaged homes or people without permission."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "What happened at Chungthang in 2023?", "a": "On 4 October 2023 a glacial lake outburst flood from South Lhonak Lake swept down the Lachen valley and destroyed the dam of the Teesta Stage III hydropower project at Chungthang. The flood then damaged bridges, roads and homes far down the Teesta, causing loss of life, and cut off North Sikkim for months."},
+        {"q": "Is it safe to travel through Chungthang now?", "a": "Tourist traffic to Lachung and Lachen runs through Chungthang when roads are open, and authorities monitor the glacial lakes and rivers. Monsoon landslides remain the bigger everyday risk. Travel in the dry months where possible, follow your driver's advice and check current status before you travel."},
+        {"q": "Why did the Lachen road stay closed so long?", "a": "The flood and later slides destroyed long stretches of road and the bridge on the Lachen side, and these had to be rebuilt by the Border Roads Organisation. The road reopened in March 2026, closed again in April after a landslide, and permits resumed around mid-September 2026. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "chungthang-lachung-lachen-junction-choice",
+      "title": "Lachen or Lachung first from Chungthang",
+      "kind": "adventure",
+      "duration": "Planning decision",
+      "best_time": "When booking your trip",
+      "cost": "No extra cost",
+      "image_query": "Chungthang road Lachen Lachung junction",
+      "wiki": "",
+      "summary": "Chungthang is where your route forks. Going to Lachen first and Lachung second usually suits acclimatisation and Gurudongmar timing. We explain how the junction shapes a 3-night or 4-night North Sikkim trip.",
+      "body": [
+        "Because both valleys meet at Chungthang, a North Sikkim loop means driving up one valley, coming back down to Chungthang, and climbing the other. Most operators go to Lachen first: you sleep at about 2,750 m, visit Gurudongmar at about 5,150 m early next morning, return to Lachen, then drive down through Chungthang and up to Lachung the same afternoon. Yumthang and Zero Point follow on day three.",
+        "The alternative, Lachung first, works when Lachen is closed or permits are not available. Either way, the day with Gurudongmar and the transfer through Chungthang is long, often 10–12 hours. Families and seniors may prefer a slower plan with an extra night.",
+        "Road status decides a lot. The Lachen side was closed for long periods after the 2023 flood and again in 2026, while the Lachung side has been steadier since its September 2025 reopening. We confirm the order with you a few days before travel. Check current status before you travel."
+      ],
+      "good_for": ["first-timers", "families", "couples"],
+      "faqs": [
+        {"q": "Should I go to Lachen or Lachung first?", "a": "Lachen first is usually better: you sleep lower before the early Gurudongmar trip, then transfer through Chungthang to Lachung for Yumthang. If the Lachen road is closed or permits are limited, Lachung first, or Lachung only, is the fallback. We confirm the order a few days before travel."},
+        {"q": "How far is Lachung from Chungthang?", "a": "Lachung is about 25 km from Chungthang up the Lachung Chu, roughly an hour or a little more by road. Lachen is a similar distance up the other valley. Both stretches can be slow after rain or snow, and on the Lachen side there is a single-lane bridge at Taram Chu."},
+        {"q": "Can I visit both Lachen and Lachung in two nights?", "a": "Yes, the classic 2N/3D trip spends one night in Lachen and one in Lachung, crossing at Chungthang. It is tiring, with very early starts and long drives. If you can, add a night for a gentler pace and a buffer against road closures."}
+      ]
+    },
+    {
+      "slug": "chungthang-altitude-safety-descent",
+      "title": "Chungthang as your altitude safety net",
+      "kind": "wellness",
+      "duration": "As needed",
+      "best_time": "Any trip above Lachen or Lachung",
+      "cost": "Free",
+      "image_query": "North Sikkim mountain road descent",
+      "wiki": "",
+      "summary": "At about 1,600 m, Chungthang is the lowest point between the high valleys. If someone develops altitude sickness at Gurudongmar or Zero Point, descending here, with the army medical centre nearby, is a key part of any safety plan.",
+      "body": [
+        "Altitude sickness rarely troubles people at Chungthang's height, but it can strike higher up, at Gurudongmar Lake at about 5,150 m or Zero Point at about 4,660 m. The most effective treatment is to go down. Chungthang, more than 1,000 m below Lachen and Lachung, is the natural place to head for, and the Indian Army base there has a medical centre.",
+        "Know the warning signs: a headache that does not go away, vomiting, unusual breathlessness at rest, confusion or stumbling. Any of these means turning the vehicle round and descending at once. Your driver knows the way and the people to call.",
+        "We build this into every North Sikkim plan: a phone number for your agent, a driver who knows the route, and no pressure to go higher if someone is unwell. Children under five are not permitted in North Sikkim protected areas, partly for this reason."
+      ],
+      "good_for": ["families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Is there a hospital near Lachen and Lachung?", "a": "The nearest significant medical help for many travellers is the Indian Army medical centre at Chungthang, with primary health facilities in Lachen and Lachung and the district hospital in Mangan. For serious cases, descending quickly is the priority. Your driver and agent will know whom to call."},
+        {"q": "What should we do if someone gets altitude sickness?", "a": "Stop going higher and descend as soon as possible, ideally towards Chungthang. Keep the person warm, give water and do not let them sleep off severe symptoms at altitude. Seek medical help for vomiting, confusion or breathlessness at rest. Mild headaches often ease with rest and fluids."},
+        {"q": "What altitude is Chungthang?", "a": "Chungthang's valley floor near the confluence is about 1,600 m, though Wikipedia gives the town an elevation of 1,790 m. Either way it is more than 1,000 m lower than Lachen and Lachung and over 3,000 m lower than Gurudongmar, which makes it the natural place to descend to."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Chungthang?", "a": "Chungthang is in Mangan district (North Sikkim), about 95 km north of Gangtok and 28 km beyond Mangan on the North Sikkim Highway. It sits at the confluence of the Lachen Chu and Lachung Chu, and the road divides here for Lachen and Lachung."},
+    {"q": "Do I need a permit for Chungthang?", "a": "Yes. Chungthang lies beyond the Toong check post, in the area that needs a protected area permit. Indian travellers get it through a Sikkim Tourism-registered agent with a registered vehicle, as part of a Lachung or Lachen trip. Check current status before you travel."},
+    {"q": "How far is Chungthang from Gangtok?", "a": "About 95 km, which takes 4–4.5 hours by road in normal conditions. Tourist vehicles must cross the Toong check post, before Chungthang, by 4:00 pm. Landslides can add hours, especially in the monsoon, so plan to leave Gangtok by 10 am."},
+    {"q": "Is Chungthang worth a stop?", "a": "Yes, as a short stop. The confluence view, a tea break and a look at how the 2023 flood reshaped the valley take 20–30 minutes. It is not worth a night unless a road closure forces one; Lachung and Lachen have better stays."},
+    {"q": "What happened to the Teesta dam at Chungthang?", "a": "The dam of the 1,200 MW Teesta Stage III hydropower project at Chungthang was destroyed in the early hours of 4 October 2023 by a glacial lake outburst flood from South Lhonak Lake. The flood went on to damage bridges and roads down the Teesta valley and cause loss of life."},
+    {"q": "Is there a hospital in Chungthang?", "a": "The Indian Army has a major forward base with a medical centre at Chungthang, and there is a local health centre. It is the nearest substantial medical help for many travellers coming down from Gurudongmar or Zero Point. For serious cases, your driver will also head towards Mangan's district hospital."},
+    {"q": "What is the altitude of Chungthang?", "a": "Chungthang's valley floor is about 1,600 m, while Wikipedia lists the town at 1,790 m. Either way it is well below Lachen and Lachung at around 2,700 m, so altitude is not a concern here. It is a useful point to descend to if anyone feels unwell higher up."},
+    {"q": "Can foreigners pass through Chungthang?", "a": "Foreign nationals on a group permit to Lachung, Yumthang and Zero Point pass through Chungthang. Gurudongmar is not open to foreigners, and access to Lachen and Thangu for foreigners is unclear, so ask us. All foreigners first need the online Sikkim restricted area permit. Check current status before you travel."},
+    {"q": "Are there places to eat in Chungthang?", "a": "Yes, a few small eating places serve tea, momos, noodles, and rice meals with dal and vegetables at about ₹150–250. Most tour vehicles stop for tea or a quick meal. Carry water and snacks as well, and a refillable bottle for Lachung and Lachen."}
+  ]
+}

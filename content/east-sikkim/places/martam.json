@@ -1,0 +1,344 @@
+{
+  "slug": "martam",
+  "name": "Martam",
+  "region": "east-sikkim",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Martam village terraced fields Sikkim",
+  "lat": 27.265,
+  "lng": 88.553,
+  "altitude_m": 1300,
+  "local_name": null,
+  "tagline": "Paddy terraces and family homestays an hour beyond Rumtek",
+  "meta_description": "Martam village near Rumtek, Gangtok district: paddy terraces, large cardamom, family homestays from ₹1,500 pp with meals, village walks and how to get there.",
+  "summary": "Martam is a farming village of terraced paddy, cardamom and small orchards below Rumtek, about 29–34 km and 1–1.5 hours from Gangtok, with houses spread roughly between 1,100 m and 1,500 m. It is known for family homestays, easy village walks and the Rumtek–Martam footpath. No permit needed.",
+  "intro": [
+    "Martam lies on the far side of the Ranikhola valley from Gangtok, on the slopes below Rumtek, where the road continues past the monastery and drops through hamlets towards the river. The village is spread out rather than clustered: houses with tin roofs and kitchen gardens stand among terraced rice fields, stands of bamboo, cardamom under the shade of alder trees, and patches of maize, ginger and vegetables. Bhutia and Nepali-speaking families live here side by side.",
+    "For travellers, Martam is the nearest real village stay to the capital. Several families take guests in their homes or in small guesthouses next to them, and a couple of resort-style properties sit in the valley. You come for home-cooked food, the sound of streams and roosters instead of traffic, and walks along field bunds and village paths, with Rumtek and Sang monasteries within easy reach.",
+    "The farming year sets the scene. Paddy is planted in June and July, when the terraces are flooded and bright green, and harvested in October and November, when they turn gold. Large cardamom is picked from about August to October. Sikkim declared itself a fully organic farming state in 2016, so what you eat at a Martam table has usually been grown without chemical fertilisers or pesticides."
+  ],
+  "story": {
+    "title": "How Sikkim's farms went fully organic",
+    "text": "The rice, greens and pickles on a Martam homestay table belong to one of India's most unusual farming experiments. In 2003 the Sikkim government, under Chief Minister Pawan Kumar Chamling, announced that the state would turn entirely to organic farming, and began phasing out chemical fertilisers and pesticides. A state mission later trained farmers, certified fields and built up supplies of compost and organic inputs. In January 2016 Sikkim was declared India's first fully organic state, a step recorded in Wikipedia's article on Sikkim and widely reported at the time; in 2018 the policy received the gold Future Policy Award from the World Future Council and the UN Food and Agriculture Organization. The change has not been simple. Farmers have faced lower yields for some crops, pests and the cost of organic inputs, and debates continue over how strictly the rules are enforced and whether outside food entering the state is checked. In villages like Martam, though, it shapes daily life: compost heaps by the fields, local seed varieties, and families who will tell you exactly where your dinner was grown. Ask your hosts what changed for them.",
+    "source": "Wikipedia: Sikkim; World Future Council, Future Policy Award 2018"
+  },
+  "little_known": [
+    {
+      "fact": "Sikkim was declared India's first fully organic state in January 2016, after a policy shift that began in 2003; Martam's paddy and vegetables are grown under those rules.",
+      "source": "Wikipedia: Sikkim"
+    },
+    {
+      "fact": "Large cardamom, grown in Martam under the shade of alder trees, is Sikkim's main cash crop, and the state has long been one of India's largest producers.",
+      "source": "Wikipedia: Black cardamom; Spices Board India"
+    },
+    {
+      "fact": "Paddy is planted here in June–July and harvested in October–November; the terraces are greenest in August and turn gold before the harvest.",
+      "source": "As told locally by Martam farmers"
+    }
+  ],
+  "facts": [
+    [
+      "Best months",
+      "October–November and March–May; July–August for green terraces"
+    ],
+    [
+      "Nights we suggest",
+      "1–2"
+    ],
+    [
+      "From Gangtok",
+      "≈ 29–34 km · 1–1.5 h via Ranipool and Rumtek"
+    ],
+    [
+      "Altitude",
+      "≈ 1,100–1,500 m"
+    ],
+    [
+      "Known for",
+      "Paddy terraces, family homestays, cardamom, Rumtek walk"
+    ],
+    [
+      "Permit",
+      "Not needed"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "Terraced paddy fields",
+      "text": "Martam's rice terraces step down the valley in curves. Flooded and bright green after planting in June and July, deep green in August and September, then gold before the October–November harvest. Walk the field bunds with your host, never across planted fields."
+    },
+    {
+      "title": "A family homestay",
+      "text": "Stay with a farming family for one or two nights: a simple room, dinner and breakfast from the family kitchen, and conversation by the stove. Homestays cost about ₹1,500–2,500 per person a night with meals. We match guests to houses that suit their needs."
+    },
+    {
+      "title": "The Rumtek–Martam walk",
+      "text": "A mostly downhill walk of roughly 6–8 km from Rumtek Monastery to Martam on village roads and footpaths, through hamlets, small farms and terraces, in about 2.5–3 hours. A local guide keeps you on the right paths and ends the walk at a homestay lunch."
+    },
+    {
+      "title": "Cardamom under the alders",
+      "text": "Large cardamom grows in shady, damp patches under alder trees on the slopes. From about August to October families harvest the red pods and dry them over wood fires in small kilns called bhatti. Ask your host to show you a field and a drying shed."
+    },
+    {
+      "title": "Rumtek and Sang nearby",
+      "text": "Rumtek, the Karmapa's seat in exile, is 5–8 km up the road, and Sang Monastery, a Kagyu monastery from 1912, is a short drive further on. A night in Martam lets you visit Rumtek early, before the day-trippers from Gangtok arrive."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Shared jeep",
+      "text": "Shared jeeps run from Gangtok towards Rumtek and Sang for about ₹80–150 a seat, but times change and the last returns are early. Ask your hotel for the current stand. Most homestay guests prefer a reserved car or a pickup arranged by the host."
+    },
+    {
+      "mode": "Private car",
+      "text": "A reserved small car from Gangtok to Martam costs about ₹1,500–2,000 one way, roughly 1–1.5 hours via Ranipool and Rumtek. Combine the drive with Rumtek and Lingdum for about ₹2,500–3,500. Your host can arrange a pickup for a fee."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "Martam can be reached directly from Bagdogra (IXB) or NJP in about 4.5–5 hours, turning off NH10 at Ranipool, for about ₹3,500–4,500 for a small car. NH10 closes after monsoon slides; the alternative is via Kalimpong or Algarah. Check current status before you travel."
+    }
+  ],
+  "costs": [
+    [
+      "Homestay with dinner and breakfast",
+      "≈ ₹1,500–2,500 per person a night"
+    ],
+    [
+      "Reserved small car from Gangtok, one way",
+      "≈ ₹1,500–2,000"
+    ],
+    [
+      "Shared jeep towards Rumtek or Sang",
+      "≈ ₹80–150 a seat"
+    ],
+    [
+      "Local guide for the Rumtek–Martam walk",
+      "≈ ₹800–1,500 a group"
+    ],
+    [
+      "Direct car from Bagdogra / NJP",
+      "≈ ₹3,500–4,500"
+    ]
+  ],
+  "where_to_stay": "Martam's stays are family homestays and small village guesthouses spread across the valley, with a couple of resort-style properties. We list them together as Martam village homestays and match you to a house: some have attached western bathrooms and views, others are simpler and closer to farm life. Expect about ₹1,500–2,500 per person a night with dinner and breakfast. For more comfort, stay in Gangtok, about an hour away, at Netuk House, The Chumbi Residency or Elgin Nor-Khill, and visit Martam for a day walk and lunch.",
+  "stays": [
+    "martam-village-homestays"
+  ],
+  "tips": [
+    "Walk on field bunds and paths, never across planted terraces, and close any gates behind you.",
+    "Carry cash; there are no ATMs in the village and card payments are rare.",
+    "Bring a torch and a power bank; power cuts are common in storms.",
+    "Tell hosts in advance about vegetarian, Jain or allergy needs so they can plan meals.",
+    "Wear shoes with grip and carry leech socks if you walk in June to September."
+  ],
+  "themes": [
+    "village-homestays",
+    "food-and-tea",
+    "treks-and-walks",
+    "offbeat-sikkim"
+  ],
+  "nearby": [
+    "rumtek",
+    "sang",
+    "ranka-lingdum",
+    "fambong-lho"
+  ],
+  "experiences": [
+    {
+      "slug": "martam-paddy-terraces-walk",
+      "title": "Walking Martam's paddy terraces",
+      "kind": "village",
+      "duration": "2–3 hours",
+      "best_time": "July–August for green, October–November for harvest",
+      "cost": "≈ ₹800–1,500 for a local guide",
+      "image_query": "Sikkim paddy terraces village",
+      "wiki": "",
+      "summary": "Walk the field bunds and village paths of Martam with a local guide, through rice terraces, bamboo groves and hamlets. Green in summer, gold before the autumn harvest, and always quiet.",
+      "body": [
+        "Set out after breakfast with your host or a guide from the village. Paths follow the edges of terraces, cross small streams on stepping stones or log bridges, and link clusters of houses where people are working in kitchen gardens or tending cattle. The route can be as short or as long as you like; two to three hours is a good loop.",
+        "The terraces change through the year. In June and July families plant rice seedlings in flooded fields, often working together in groups. By August the valley is deep green. In October and November the rice turns gold and is cut by hand, threshed and dried in the sun in front of the houses. Ask before photographing people at work.",
+        "Walk only on bunds and paths, not across fields, and follow your guide where paths cross private land. In the monsoon, paths are muddy and leeches are active, so wear leech socks and shoes with grip. In the dry months, carry a hat and water."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "photographers",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "When are Martam's paddy fields greenest?",
+          "a": "From late July to September, after planting in June and July, the terraces are at their greenest. In October and November they turn gold before the harvest. From December to May the fields are bare or planted with winter crops, though the village is still pleasant for walking."
+        },
+        {
+          "q": "Do we need a guide for walks in Martam?",
+          "a": "We recommend one for the first walk. Many paths cross private land, and a local guide knows which are open, introduces you to neighbours and explains what is growing. Expect about ₹800–1,500 for a group for a few hours. Your homestay host can often guide you."
+        },
+        {
+          "q": "Are there leeches in Martam?",
+          "a": "Yes, in the monsoon months from June to September, especially in grass and damp forest. Wear leech socks or tuck trousers into socks, use salt or a lighter flame carefully to remove one, and check your legs after walks. In the dry season leeches are rare."
+        }
+      ]
+    },
+    {
+      "slug": "martam-homestay-kitchen-lunch",
+      "title": "Cooking and eating in a Martam kitchen",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Lunch or dinner, all year",
+      "cost": "Included with a homestay; ≈ ₹400–700 per person as a meal visit",
+      "image_query": "Sikkimese home cooked meal gundruk",
+      "wiki": "Gundruk",
+      "summary": "Join a farming family in their kitchen for a meal of home-grown rice, dal, local greens, gundruk or pickles, and perhaps chicken or pork curry. Help cut vegetables, learn how fermented greens are made, and eat together.",
+      "body": [
+        "A Martam kitchen is usually warm and busy, with a wood or gas stove, pots of rice and dal, and greens from the garden. Hosts are often happy for guests to help: washing vegetables, rolling momos when they are on the menu, or stirring a curry. Ask questions about where each ingredient comes from; most of it will have been grown a few steps away.",
+        "Look out for dishes made with fermented foods that are part of Sikkimese home cooking: gundruk, fermented and dried leafy greens, often cooked into a sour soup; sinki, fermented radish; and soft or hard churpi, a cheese made from cow or yak milk. Pickles of chilli, bamboo shoot or radish come in jars made by the family.",
+        "This is a family meal, not a cookery class with a script, so let it unfold naturally. Vegetarian meals are easy. If you are staying in Gangtok, we can sometimes arrange a lunch visit with a family we know, paid directly to the hosts, as part of the Rumtek–Martam walk."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "solo",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "What is gundruk?",
+          "a": "Gundruk is a fermented and dried leafy green, usually made from mustard, radish or cauliflower leaves, common in Nepali and Sikkimese households. It is cooked into a sour soup or pickle and eaten with rice. Its tangy taste surprises first-timers but goes well with plain rice and dal."
+        },
+        {
+          "q": "Is Martam homestay food spicy?",
+          "a": "Everyday food is mild to medium, with chilli served on the side as pickle or the fiery dalle chilli. Tell your host if you prefer milder food; most families adjust happily. Children usually enjoy rice, dal, potatoes and momos. Vegetarian meals are easy to arrange."
+        },
+        {
+          "q": "Can we join a Martam meal without staying the night?",
+          "a": "Sometimes. We can arrange a lunch visit with a family we know, usually at the end of the Rumtek–Martam walk, for about ₹400–700 per person, paid directly to the hosts. It needs a day's notice and works best for small groups."
+        }
+      ]
+    },
+    {
+      "slug": "martam-large-cardamom-field-visit",
+      "title": "Large cardamom fields and drying kilns",
+      "kind": "craft",
+      "duration": "1.5 hours",
+      "best_time": "August to October for harvest and drying",
+      "cost": "≈ ₹500–1,000 for a local guide",
+      "image_query": "large cardamom plantation Sikkim",
+      "wiki": "Black cardamom",
+      "summary": "Visit a shady cardamom plot under alder trees with a farming family, see the red pods cut from the base of the plants, and watch them dried over a wood fire in a bhatti kiln. The story of Sikkim's main cash crop, told by the people who grow it.",
+      "body": [
+        "Large cardamom, also called black cardamom, is a tall plant that grows in damp, shady ravines and slopes, usually under alder trees that fix nitrogen in the soil. The pods grow in clusters at the base of the stems, close to the ground. Sikkim has long been one of India's largest producers of large cardamom, and for many hill families it is the main source of cash income.",
+        "From about August to October, families cut the pod clusters and carry them to a bhatti, a small kiln where they are dried over a wood fire for a day or two. The smoke gives the spice its distinctive flavour. If you visit at harvest time, you may see the drying in progress and the dried pods being cleaned and bagged for sale.",
+        "Ask your host how prices have moved and how plant diseases have affected yields in recent years. The plots are private and fragile, so walk where you are shown, do not pick pods and keep children close. Outside the harvest season, you can still see the plants and the kilns."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "families",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "When is cardamom harvested in Sikkim?",
+          "a": "Large cardamom is harvested from roughly August to October, depending on altitude and the year, with lower fields first. Drying in bhatti kilns follows within days. Outside those months you can see the plants and the kilns, but not the harvest work."
+        },
+        {
+          "q": "What is the difference between large and small cardamom?",
+          "a": "Large cardamom, grown in Sikkim, has big, dark brown pods with a smoky, camphor-like flavour from fire drying, and is used in savoury dishes and spice blends. Small green cardamom, grown mainly in southern India, is sweeter and used in tea and desserts. They come from different plants."
+        },
+        {
+          "q": "Can we buy cardamom in Martam?",
+          "a": "Sometimes, directly from a family if they have dried pods to spare, usually after the harvest. Prices follow the market, which changes from year to year. Buy only what is offered; do not ask families to sell their main crop. Shops in Gangtok also sell it."
+        }
+      ]
+    },
+    {
+      "slug": "martam-village-birding-morning",
+      "title": "Morning birding around Martam",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "6–9 am, October to May",
+      "cost": "≈ ₹1,000–2,000 for a birding guide",
+      "image_query": "Sikkim village birds bulbul sunbird",
+      "wiki": "",
+      "summary": "The mix of fields, bamboo, cardamom and forest edges around Martam draws a good variety of common Himalayan birds. An early walk with binoculars can turn up bulbuls, sunbirds, drongos, barbets and laughingthrushes.",
+      "body": [
+        "Birds are most active in the first hours after sunrise, so set out at about 6 am. Village edges, where fields meet bamboo and forest, are the richest spots. Even a short walk usually turns up common species such as bulbuls, drongos, sunbirds feeding on flowers, and the loud calls of barbets from the treetops. Laughingthrushes move in noisy groups through the undergrowth.",
+        "A local birding guide, arranged in advance from Gangtok, helps a lot with identification and knows where particular birds have been seen. For a longer, more serious outing, the forests of Fambong Lho Wildlife Sanctuary, on the ridge above the area, hold more specialised species, but need forest permission and a full day.",
+        "Bring binoculars, a field guide or app, and quiet clothes. Stay on paths and do not play recorded calls to attract birds, which disturbs breeding. October to May is the best season, with spring adding breeding plumage and song."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "What birds can we see around Martam?",
+          "a": "Common species include bulbuls, drongos, sunbirds, barbets, laughingthrushes, minivets and various flycatchers, depending on season. Rarer forest birds are more likely in Fambong Lho Wildlife Sanctuary nearby. We do not promise particular species; a good guide improves the list. Early mornings are best."
+        },
+        {
+          "q": "Do we need a guide for birding in Martam?",
+          "a": "Not for casual birdwatching on village paths, but a birding guide helps with identification and knows recent sightings. Expect about ₹1,000–2,000 for a morning, arranged from Gangtok in advance. For Fambong Lho, forest permission and a guide are needed. Bring your own binoculars."
+        },
+        {
+          "q": "What is the best season for birding near Gangtok?",
+          "a": "October to May. Winter brings clear weather and some altitudinal migrants down from higher forests, and March to May brings breeding plumage and song. The monsoon months are wet and leechy, with fewer birders about. Early mornings are best in every season."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far is Martam from Gangtok?",
+      "a": "About 29–34 km, roughly 1–1.5 hours by car via Ranipool and Rumtek. A reserved small car costs about ₹1,500–2,000 one way. Shared jeeps run towards Rumtek and Sang, but times change, so most visitors use a car or a host pickup."
+    },
+    {
+      "q": "Is Martam worth an overnight stay?",
+      "a": "Yes, if you want a quiet village night close to Gangtok. One night allows a village walk, a home-cooked dinner and an early Rumtek visit. Two nights let you slow down, add Sang Monastery or a cardamom field visit, and enjoy the place rather than pass through."
+    },
+    {
+      "q": "How much does a Martam homestay cost?",
+      "a": "Indicatively, about ₹1,500–2,500 per person a night with dinner and breakfast in 2026, depending on the house and room. Houses with attached western bathrooms and views cost more. Check current rates before you travel. A few resort-style properties in the valley cost more."
+    },
+    {
+      "q": "What is the altitude of Martam?",
+      "a": "Houses are spread across the slopes, roughly between 1,100 m and 1,500 m, below Rumtek. That is lower and milder than Gangtok, so nights are comfortable for most of the year. December and January nights are cool, and hosts provide heavy quilts."
+    },
+    {
+      "q": "Do we need a permit for Martam?",
+      "a": "No. Martam lies outside the protected areas, so Indian travellers need no permit, and foreigners only need the Sikkim restricted area permit for entering the state. Carry ID for the Rumtek security check if you visit the monastery. There are no check posts on the road."
+    },
+    {
+      "q": "Can we walk from Rumtek to Martam?",
+      "a": "Yes. It is a mostly downhill walk of roughly 6–8 km on village roads and footpaths, about 2.5–3 hours with stops. We recommend a local guide, since several paths branch through private farms. End with lunch or a night at a homestay."
+    },
+    {
+      "q": "When is the best time to visit Martam?",
+      "a": "October and November for gold terraces, clear skies and harvest activity; March to May for mild weather and spring flowers; July and August for green terraces if you can accept rain, leeches and slower roads. December to February is dry and cool."
+    },
+    {
+      "q": "Is Martam suitable for families with children?",
+      "a": "Yes. Children enjoy farm animals, streams and open space, and homestay families are used to young guests. Choose a house close to the road with an attached bathroom, carry a torch and basic medicines, and keep children away from field edges and streams after rain."
+    },
+    {
+      "q": "Is there mobile signal and electricity in Martam?",
+      "a": "Mobile signal from the main networks is usually available, though patchy in some corners of the valley. Electricity is available, but power cuts happen in storms. Carry a power bank and torch. Wi-Fi is available only in some houses; ask when booking."
+    }
+  ]
+}

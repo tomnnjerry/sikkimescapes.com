@@ -1,0 +1,228 @@
+[
+  {
+    "slug": "gangtok-to-namchi",
+    "from": "gangtok",
+    "to": "namchi",
+    "distance_km": 78,
+    "summary": "Gangtok to Namchi is about 78 km and 3–3.5 hours, down NH10 to Singtam and then south-west through the hills via Temi or Damthang. No permit is needed for Indians. Shared jeeps run through the day, and many travellers make it a sightseeing day with stops at Temi tea garden.",
+    "options": [
+      {
+        "mode": "Shared jeep",
+        "time": "3–3.5 h",
+        "cost": "≈ ₹250–350 a seat",
+        "text": "Shared jeeps for Namchi leave from Gangtok's taxi stand for the south and west districts through the morning and early afternoon. Seats fill fast in peak months, so buy your ticket early or a day ahead. Jeeps take 8–10 passengers with luggage on the roof. Fares are indicative; check current status before you travel."
+      },
+      {
+        "mode": "Private car",
+        "time": "3–3.5 h direct, 6–7 h with sightseeing",
+        "cost": "≈ ₹3,500–4,500 small car; ₹4,500–6,000 SUV, one way",
+        "text": "A reserved car lets you stop at Temi tea garden, Tendong Hill's Damthang trailhead or Ravangla on the way, turning the transfer into a full sightseeing day. Agree the route and stops with your driver before setting off, since the Temi and Ravangla roads differ. Expect to pay parking and entry fees separately at each stop."
+      }
+    ],
+    "stops_on_way": [
+      "Singtam bazaar",
+      "Temi Tea Garden",
+      "Damthang (Tendong Hill trailhead)",
+      "Ravangla Buddha Park (longer route)"
+    ],
+    "tip": "Leave Gangtok by 9 am if you want to stop at Temi or Ravangla and still reach Namchi in daylight.",
+    "faqs": [
+      {
+        "q": "How far is Namchi from Gangtok?",
+        "a": "About 78 km by road, usually 3 to 3.5 hours without long stops. The route runs down NH10 to Singtam, then climbs through the hills towards Temi or Damthang. In the monsoon, landslide clearing can add time. Check current status before you travel."
+      },
+      {
+        "q": "Is there a shared jeep from Gangtok to Namchi?",
+        "a": "Yes. Shared jeeps leave Gangtok through the morning and early afternoon for about ₹250–350 a seat, indicative. Departures thin out after about 2 pm. In peak months, from April to June and October to December, buy a ticket early in the day or the day before."
+      },
+      {
+        "q": "Can we visit Temi tea garden on the way to Namchi?",
+        "a": "Yes, in a reserved car. Temi lies on one of the two main roads between Gangtok and Namchi, so a stop of an hour or so adds little driving. A small car for the day with a Temi stop costs about ₹4,000–5,000. Shared jeeps do not wait for sightseeing."
+      },
+      {
+        "q": "Do we need a permit to travel from Gangtok to Namchi?",
+        "a": "Indian nationals need no permit. Foreign nationals need only the standard Sikkim Restricted Area Permit, applied online through the e-FRRO portal since January 2026; no protected-area permit is required for South Sikkim. Check current status before you travel. Carry photo ID on the road."
+      }
+    ]
+  },
+  {
+    "slug": "gangtok-to-ravangla",
+    "from": "gangtok",
+    "to": "ravangla",
+    "distance_km": 65,
+    "summary": "Gangtok to Ravangla is about 65 km and roughly 3 hours via Singtam and Temi or Damthang, climbing to about 2,050 m. Shared jeeps run in the morning, and a private car lets you add Temi tea garden on the way to Buddha Park.",
+    "options": [
+      {
+        "mode": "Shared jeep",
+        "time": "3 h",
+        "cost": "≈ ₹250–400 a seat",
+        "text": "Shared jeeps run from Gangtok's south and west taxi stand to Ravangla, mostly in the morning. Some jeeps for Gyalshing, Pelling or Legship also pass through Ravangla. Buy your seat early in peak months. Fares are indicative; check current status before you travel. Afternoon departures are fewer, and in the monsoon some runs are cancelled after slides."
+      },
+      {
+        "mode": "Private car",
+        "time": "3 h direct",
+        "cost": "≈ ₹3,500–4,500 small car; ₹4,500–6,000 SUV, one way",
+        "text": "A reserved car allows a stop at Temi tea garden and a direct drop at your hotel. Many guests continue the next day to Ralang, Borong or Kewzing, or on to Pelling via Legship, so ask about a multi-day car rather than one-way transfers. Hire rates rise in peak months and for SUVs."
+      }
+    ],
+    "stops_on_way": [
+      "Singtam bazaar",
+      "Temi Tea Garden",
+      "Damthang"
+    ],
+    "tip": "Ravangla is cooler than Gangtok at night, especially from November to February, so keep a warm layer handy in the car.",
+    "faqs": [
+      {
+        "q": "How far is Ravangla from Gangtok?",
+        "a": "About 65 km, roughly 3 hours by road via Singtam and either Temi or Damthang. Shared jeeps cost about ₹250–400 a seat and a small reserved car about ₹3,500–4,500 one way, indicative. The road is narrow and winding in places, and monsoon slides can add time."
+      },
+      {
+        "q": "Is Ravangla higher than Gangtok?",
+        "a": "Yes, a little. Ravangla is at about 2,050 m, against about 1,650 m in Gangtok, so nights are noticeably colder, near freezing in January. The height is not enough to cause altitude sickness for most people, but pack warm clothes from November to March."
+      },
+      {
+        "q": "Can we do Gangtok to Ravangla as a day trip?",
+        "a": "It is possible, about 6 hours of driving for the round trip, but tiring. Buddha Park and Ralang need time. We suggest a night in Ravangla, or including it on a one-way route from Gangtok to Pelling or Namchi so the driving is not wasted."
+      },
+      {
+        "q": "Does snow fall on the road to Ravangla?",
+        "a": "Occasionally, on cold winter days from late December to February, Ravangla and the higher stretches of the road see light snow, which can slow traffic for a few hours. It is unpredictable. Ask your driver about conditions the evening before, and check current status before you travel."
+      }
+    ]
+  },
+  {
+    "slug": "namchi-to-ravangla",
+    "from": "namchi",
+    "to": "ravangla",
+    "distance_km": 26,
+    "summary": "Namchi to Ravangla is about 26 km and roughly an hour via Damthang, climbing from about 1,500 m to about 2,050 m. It is one of the easiest and most rewarding short drives in South Sikkim, linking Samdruptse and Char Dham with Buddha Park and Ralang.",
+    "options": [
+      {
+        "mode": "Shared jeep",
+        "time": "1 h",
+        "cost": "≈ ₹100–150 a seat",
+        "text": "Shared jeeps between Namchi and Ravangla leave regularly through the day from the Namchi taxi stand, with fewer in the late afternoon. Ask at the stand for the next departure. Fares are indicative; check current status before you travel. Ravangla jeeps often carry school children and shoppers in the morning, so expect a full vehicle."
+      },
+      {
+        "mode": "Private car",
+        "time": "1 h direct",
+        "cost": "≈ ₹1,500–2,000 one way; ₹3,000–4,000 for a sightseeing day",
+        "text": "A reserved car lets you combine Char Dham and Samdruptse in the morning with Buddha Park in the afternoon, or stop at Damthang for the Tendong Hill walk. A full day covering both towns is one of our most popular South Sikkim days. Fares are indicative; check current status before you travel."
+      }
+    ],
+    "stops_on_way": [
+      "Damthang (Tendong Hill trailhead)",
+      "Kewzing turn-off (via Ravangla)"
+    ],
+    "tip": "Start the day in Namchi and end in Ravangla, so you catch Namchi's statues in morning light and Buddha Park in the softer afternoon.",
+    "faqs": [
+      {
+        "q": "How far is Ravangla from Namchi?",
+        "a": "About 26 km, roughly an hour by car via Damthang. Shared jeeps cost about ₹100–150 a seat and a reserved small car about ₹1,500–2,000 one way, indicative. The road climbs gently from about 1,500 m to about 2,050 m through forest and farmland."
+      },
+      {
+        "q": "Can we see Namchi and Ravangla in one day?",
+        "a": "Yes. Visit Samdruptse and Char Dham in the morning, drive an hour to Ravangla for Buddha Park after lunch, and add Ralang if time allows. It is a full but comfortable day by reserved car. Better still, sleep in Ravangla and do Ralang and Temi the next day."
+      },
+      {
+        "q": "Where does the Tendong Hill walk start?",
+        "a": "The usual trail starts near Damthang, on the Namchi–Ravangla road. It is about 6 km and 2.5–3 hours up to the top at about 2,600 m. Many guests are dropped at Damthang in the morning, walk up and down, and continue to Ravangla in the afternoon."
+      },
+      {
+        "q": "Is the Namchi–Ravangla road open in the monsoon?",
+        "a": "Usually, though heavy rain from June to September causes occasional slides that close it for a few hours. Fog is common on the higher stretch near Ravangla. Drive in daylight, and check current status before you travel. Our drivers check road news each morning."
+      }
+    ]
+  },
+  {
+    "slug": "melli-to-namchi",
+    "from": "melli",
+    "to": "namchi",
+    "distance_km": 27,
+    "summary": "Melli to Namchi is about 27 km and an hour, the climb from the Teesta at about 280 m to Namchi at about 1,500 m. It is the last leg of the usual drive from NJP or Bagdogra into South Sikkim, passing close to Kitam Bird Sanctuary.",
+    "options": [
+      {
+        "mode": "Shared jeep",
+        "time": "1 h",
+        "cost": "≈ ₹80–150 a seat",
+        "text": "Shared jeeps from Siliguri to Namchi pass through Melli; if you are already in Melli, ask at the roadside stand for jeeps heading up to Namchi. Departures are most frequent in the morning. From Siliguri the full run is about ₹300–400 a seat. Fares are indicative; check current status before you travel."
+      },
+      {
+        "mode": "Private car",
+        "time": "1 h",
+        "cost": "≈ ₹1,500–2,000 one way; NJP–Namchi ≈ ₹4,500–6,500",
+        "text": "Most guests do this leg as part of a reserved car from NJP or Bagdogra, about 96–100 km and 3.5–4 hours in all. NH10 from Sevoke to Melli closes after monsoon slides; then drivers come via Darjeeling district to Jorethang and up to Namchi instead, which adds about an hour."
+      }
+    ],
+    "stops_on_way": [
+      "Melli bridge over the Teesta",
+      "Manpur",
+      "Kitam Bird Sanctuary (short detour)"
+    ],
+    "tip": "Stop for tea at Melli before the climb, and keep the meal light if anyone in the car is prone to motion sickness.",
+    "faqs": [
+      {
+        "q": "How long does it take from NJP to Namchi?",
+        "a": "About 3.5 to 4 hours for roughly 96–100 km: around 2.5–3 hours on NH10 from NJP to Melli, then an hour climbing to Namchi. A reserved car costs about ₹4,500–6,500, indicative. If NH10 is closed, the Darjeeling–Jorethang route adds about an hour. Check current status before you travel."
+      },
+      {
+        "q": "Can we visit Kitam Bird Sanctuary on the way?",
+        "a": "Yes, Kitam lies close to the Melli–Namchi road, so a short detour is easy. Birds are most active at dawn, though, so an afternoon stop on arrival day is more of a forest walk. Serious birders should sleep in Namchi and return early the next morning."
+      },
+      {
+        "q": "What happens if NH10 is closed?",
+        "a": "NH10 between Sevoke and Melli closes after monsoon slides. For Namchi, drivers then go from Siliguri through Darjeeling district down to Jorethang and climb 18 km to Namchi, adding roughly an hour. Our drivers check road news each morning. Check current status before you travel."
+      },
+      {
+        "q": "Is the road from Melli to Namchi steep?",
+        "a": "It climbs about 1,200 m in roughly 27 km, with many hairpin bends, but it is paved and well used by jeeps and buses. Average speed is 25–30 km/h. People prone to motion sickness should sit in front, eat lightly at Melli and ask the driver to take bends gently."
+      }
+    ]
+  },
+  {
+    "slug": "ravangla-to-pelling",
+    "from": "ravangla",
+    "to": "pelling",
+    "distance_km": 48,
+    "summary": "Ravangla to Pelling is about 45–50 km and 2–2.5 hours, descending through Kewzing to Legship on the Rangeet and climbing again via Gyalshing. It links South and West Sikkim and is the usual road on a Gangtok–Ravangla–Pelling loop.",
+    "options": [
+      {
+        "mode": "Shared jeep",
+        "time": "2.5–3 h with a change",
+        "cost": "≈ ₹150–300 in total",
+        "text": "Direct shared jeeps from Ravangla to Pelling are few. More often you take a jeep to Legship or Gyalshing and change for Pelling. Morning departures are the most reliable; ask at the Ravangla taxi stand the evening before. Fares are indicative; check current status before you travel. Allow extra time for the change."
+      },
+      {
+        "mode": "Private car",
+        "time": "2–2.5 h",
+        "cost": "≈ ₹3,000–4,000 small car; ₹4,000–5,500 SUV, one way",
+        "text": "A reserved car takes you down through Kewzing to Legship, where you can stop at the Kirateshwar Mahadev temple by the Rangeet, then up via Gyalshing to Pelling. Add Ralang or Kewzing's monasteries in the morning and still reach Pelling for sunset. Fares are indicative; check current status before you travel."
+      }
+    ],
+    "stops_on_way": [
+      "Kewzing village",
+      "Legship and the Rangeet",
+      "Kirateshwar Mahadev temple",
+      "Gyalshing"
+    ],
+    "tip": "Leave Ravangla by mid-morning so you have time for Legship and still catch the late-afternoon light on Kangchenjunga from Pelling.",
+    "faqs": [
+      {
+        "q": "How far is Pelling from Ravangla?",
+        "a": "About 45–50 km, roughly 2 to 2.5 hours by car via Kewzing, Legship and Gyalshing. A reserved small car costs about ₹3,000–4,000 one way, indicative. The road drops to the Rangeet at Legship, at a low altitude, then climbs to Pelling at about 2,150 m."
+      },
+      {
+        "q": "Is there a direct shared jeep from Ravangla to Pelling?",
+        "a": "Direct jeeps are infrequent. The usual budget route is a shared jeep from Ravangla to Legship or Gyalshing, then another to Pelling, about ₹150–300 in total and 2.5–3 hours with the change. Ask at the Ravangla stand the evening before for current timings."
+      },
+      {
+        "q": "What can we see between Ravangla and Pelling?",
+        "a": "Kewzing's village and Bon monastery just below Ravangla, the Rangeet river and Kirateshwar Mahadev temple at Legship, and Gyalshing town before the final climb to Pelling. With a reserved car you can also start with Ralang Monastery, 6 km from Ravangla, in the morning."
+      },
+      {
+        "q": "Is the Ravangla–Pelling road safe in the monsoon?",
+        "a": "It stays open most of the time, but heavy rain from June to September brings occasional slides, especially on the descent to Legship and the climb to Gyalshing. Travel in daylight and allow extra time. Our drivers check conditions each morning. Check current status before you travel."
+      }
+    ]
+  }
+]

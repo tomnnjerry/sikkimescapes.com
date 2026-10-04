@@ -23,40 +23,122 @@
     "source": "Wikipedia: Hanuman Tok; the Ramayana (Yuddha Kanda)"
   },
   "little_known": [
-    {"fact": "The temple was built in 1950 by Appaji Pant, an Indian official, over a stone already held sacred; the Indian Army later took over the land and the temple's care.", "source": "Wikipedia: Hanuman Tok"},
-    {"fact": "At about 2,200 m, Hanuman Tok is roughly 550 m higher than MG Marg and higher than both Ganesh Tok (about 1,980 m) and Tashi View Point (about 1,890 m).", "source": "OpenStreetMap; SRTM elevation data"},
-    {"fact": "Ganesh Tok, the Himalayan Zoological Park and Hanuman Tok all lie along NH310, the Gangtok–Nathu La road, within about 1 km of each other as the crow flies.", "source": "OpenStreetMap"}
+    {
+      "fact": "The temple was built in 1950 by Appaji Pant, an Indian official, over a stone already held sacred; the Indian Army later took over the land and the temple's care.",
+      "source": "Wikipedia: Hanuman Tok"
+    },
+    {
+      "fact": "At about 2,200 m, Hanuman Tok is roughly 550 m higher than MG Marg and higher than both Ganesh Tok (about 1,980 m) and Tashi View Point (about 1,890 m).",
+      "source": "OpenStreetMap; SRTM elevation data"
+    },
+    {
+      "fact": "Ganesh Tok, the Himalayan Zoological Park and Hanuman Tok all lie along NH310, the Gangtok–Nathu La road, within about 1 km of each other as the crow flies.",
+      "source": "OpenStreetMap"
+    }
   ],
   "facts": [
-    ["Best months", "October–December and March–May"],
-    ["Nights we suggest", "Visit from Gangtok, about 1 hour"],
-    ["From Gangtok", "≈ 9–11 km · 25–35 min from MG Marg"],
-    ["Altitude", "≈ 2,200 m"],
-    ["Known for", "Hanuman temple, Army upkeep, Kangchenjunga view"],
-    ["Permit", "Not needed"]
+    [
+      "Best months",
+      "October–December and March–May"
+    ],
+    [
+      "Nights we suggest",
+      "Visit from Gangtok, about 1 hour"
+    ],
+    [
+      "From Gangtok",
+      "≈ 9–11 km · 25–35 min from MG Marg"
+    ],
+    [
+      "Altitude",
+      "≈ 2,200 m"
+    ],
+    [
+      "Known for",
+      "Hanuman temple, Army upkeep, Kangchenjunga view"
+    ],
+    [
+      "Permit",
+      "Not needed"
+    ]
   ],
-  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
   "nights": "0",
   "highlights": [
-    {"title": "The temple and the sacred stone", "text": "A small, bright temple to Hanuman stands at the top of the steps, built in 1950 over a stone that local devotees already worshipped. Remove shoes before the shrine. Tuesdays and Saturdays, traditional days for Hanuman worship, bring more local devotees and soldiers."},
-    {"title": "Kangchenjunga from 2,200 m", "text": "From the terrace, on clear mornings between October and March, the Kangchenjunga range spreads across the north-west horizon. It is the highest viewpoint in Gangtok town, so it often sits above morning haze that hides the peaks from MG Marg."},
-    {"title": "A view down over Gangtok", "text": "Hanuman Tok looks down on the whole sweep of Gangtok along its ridge, with Rumtek on the far side of the valley. At dusk, the town lights come on below while the sky over the peaks turns orange. Gates may close around sunset; check before planning an evening visit."},
-    {"title": "Army-kept and tidy", "text": "Because the Indian Army maintains the temple, the grounds are clean, rules are clear and the atmosphere is calm. Follow the signs on photography: shooting the temple and the view is fine, but not soldiers, vehicles or nearby installations."},
-    {"title": "Part of the three-point tour", "text": "Gangtok taxi drivers sell a 'three-point' tour of Tashi View Point, Ganesh Tok and Hanuman Tok, about 2.5–3 hours by small car. Start at Tashi View Point at sunrise, then Hanuman Tok, then Ganesh Tok and the zoo on the way down."}
+    {
+      "title": "The temple and the sacred stone",
+      "text": "A small, bright temple to Hanuman stands at the top of the steps, built in 1950 over a stone that local devotees already worshipped. Remove shoes before the shrine. Tuesdays and Saturdays, traditional days for Hanuman worship, bring more local devotees and soldiers."
+    },
+    {
+      "title": "Kangchenjunga from 2,200 m",
+      "text": "From the terrace, on clear mornings between October and March, the Kangchenjunga range spreads across the north-west horizon. It is the highest viewpoint in Gangtok town, so it often sits above morning haze that hides the peaks from MG Marg."
+    },
+    {
+      "title": "A view down over Gangtok",
+      "text": "Hanuman Tok looks down on the whole sweep of Gangtok along its ridge, with Rumtek on the far side of the valley. At dusk, the town lights come on below while the sky over the peaks turns orange. Gates may close around sunset; check before planning an evening visit."
+    },
+    {
+      "title": "Army-kept and tidy",
+      "text": "Because the Indian Army maintains the temple, the grounds are clean, rules are clear and the atmosphere is calm. Follow the signs on photography: shooting the temple and the view is fine, but not soldiers, vehicles or nearby installations."
+    },
+    {
+      "title": "Part of the three-point tour",
+      "text": "Gangtok taxi drivers sell a 'three-point' tour of Tashi View Point, Ganesh Tok and Hanuman Tok, about 2.5–3 hours by small car. Start at Tashi View Point at sunrise, then Hanuman Tok, then Ganesh Tok and the zoo on the way down."
+    }
   ],
   "how_to_reach": [
-    {"mode": "Local taxi", "text": "There is no regular shared transport to Hanuman Tok. A reserved local taxi from MG Marg costs about ₹600–900 return with 30–45 minutes of waiting, or about ₹1,200–1,800 for the three-point tour with Tashi View Point and Ganesh Tok. Agree the price before setting off."},
-    {"mode": "On foot", "text": "Fit walkers can go up from Ganesh Tok on the ridge road in about an hour, a climb of roughly 220 m. It is a public road used by army vehicles, with little pavement, so walk in daylight on the side of the road and take a taxi back."},
-    {"mode": "From Bagdogra / NJP", "text": "Reach Gangtok first, about 125 km and 4.5–5 hours from Bagdogra (IXB) or NJP on NH10, which closes after monsoon slides; the alternative is via Kalimpong or Algarah. Visit Hanuman Tok early on your first full morning. Check current status before you travel."}
+    {
+      "mode": "Local taxi",
+      "text": "There is no regular shared transport to Hanuman Tok. A reserved local taxi from MG Marg costs about ₹600–900 return with 30–45 minutes of waiting, or about ₹1,200–1,800 for the three-point tour with Tashi View Point and Ganesh Tok. Agree the price before setting off."
+    },
+    {
+      "mode": "On foot",
+      "text": "Fit walkers can go up from Ganesh Tok on the ridge road in about an hour, a climb of roughly 220 m. It is a public road used by army vehicles, with little pavement, so walk in daylight on the side of the road and take a taxi back."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "Reach Gangtok first, about 125 km and 4.5–5 hours from Bagdogra (IXB) or NJP on NH10, which closes after monsoon slides; the alternative is via Kalimpong or Algarah. Visit Hanuman Tok early on your first full morning. Check current status before you travel."
+    }
   ],
   "costs": [
-    ["Entry", "Free"],
-    ["Taxi from MG Marg, return with waiting", "≈ ₹600–900 a car"],
-    ["Three-point tour (Tashi, Ganesh, Hanuman Tok)", "≈ ₹1,200–1,800 a car"],
-    ["Full-day Gangtok sightseeing, small car", "≈ ₹3,000–4,000 a car"]
+    [
+      "Entry",
+      "Free"
+    ],
+    [
+      "Taxi from MG Marg, return with waiting",
+      "≈ ₹600–900 a car"
+    ],
+    [
+      "Three-point tour (Tashi, Ganesh, Hanuman Tok)",
+      "≈ ₹1,200–1,800 a car"
+    ],
+    [
+      "Full-day Gangtok sightseeing, small car",
+      "≈ ₹3,000–4,000 a car"
+    ]
   ],
   "where_to_stay": "There are no hotels at Hanuman Tok; it is a short trip from Gangtok. For the earliest starts, stay in the upper town around Enchey, Chandmari or Tibet Road, 20–30 minutes away. On a budget, Mintokling Guest House and Hotel Sonam Delek near MG Marg are dependable. For value, try Netuk House or Hotel Tibet. The Chumbi Residency is a comfortable mid-range choice, and Mayfair and Taj Guras Kutir are the top end. Any hotel desk can book the dawn taxi the evening before.",
-  "stays": ["mintokling-guest-house-gangtok", "hotel-sonam-delek-gangtok", "netuk-house-gangtok", "chumbi-residency-gangtok", "mayfair-spa-resort-casino-gangtok"],
+  "stays": [
+    "mintokling-guest-house-gangtok",
+    "hotel-sonam-delek-gangtok",
+    "netuk-house-gangtok",
+    "chumbi-residency-gangtok",
+    "mayfair-spa-resort-casino-gangtok"
+  ],
   "tips": [
     "Go before 9 am between October and March for the best chance of a clear Kangchenjunga view.",
     "Do not photograph soldiers, army vehicles or installations on the ridge road.",
@@ -64,8 +146,17 @@
     "Take the steps slowly: at 2,200 m you are about 550 m higher than MG Marg.",
     "Carry a warm layer; the ridge is windy and several degrees colder than the town."
   ],
-  "themes": ["photography", "family-holidays", "snow-and-winter"],
-  "nearby": ["ganesh-tok", "enchey", "tashi-view-point", "gangtok"],
+  "themes": [
+    "photography",
+    "family-holidays",
+    "snow-and-winter"
+  ],
+  "nearby": [
+    "ganesh-tok",
+    "enchey",
+    "tashi-view-point",
+    "gangtok"
+  ],
   "experiences": [
     {
       "slug": "hanuman-tok-temple-visit",
@@ -82,11 +173,24 @@
         "The temple is small, and the atmosphere is orderly rather than busy, except on Tuesdays and Saturdays, the days traditionally given to Hanuman worship, and on festival days such as Hanuman Jayanti, when soldiers and local families come in larger numbers. Prasad is sometimes given; accept it with your right hand.",
         "After the shrine, walk out to the terrace for the view down over Gangtok and across to Rumtek. Remember that the temple is in an Army-maintained area: keep to the open parts of the grounds and follow any instructions from the staff on duty."
       ],
-      "good_for": ["families", "seniors", "first-timers"],
+      "good_for": [
+        "families",
+        "seniors",
+        "first-timers"
+      ],
       "faqs": [
-        {"q": "What are the timings of Hanuman Tok temple?", "a": "The temple is generally open from early morning to around sunset, roughly 6 am to 6 pm, though hours can vary with the season and Army arrangements. Morning visits give the clearest views. Check current status before you travel, especially for evening visits."},
-        {"q": "Who looks after Hanuman Tok?", "a": "The Indian Army. According to Wikipedia, an official named Appaji Pant built the temple in 1950, and the Army later acquired the land around it and inherited the temple. That is why the grounds are well maintained and why photography of the surroundings is restricted."},
-        {"q": "Is Hanuman Tok worth visiting for non-Hindus?", "a": "Yes, as long as you behave respectfully. Many visitors come mainly for the view, which is the highest in Gangtok town. Remove shoes before the shrine, dress modestly, and do not photograph the inner sanctum unless permitted. The terrace and steps are open to everyone."}
+        {
+          "q": "What are the timings of Hanuman Tok temple?",
+          "a": "The temple is generally open from early morning to around sunset, roughly 6 am to 6 pm, though hours can vary with the season and Army arrangements. Morning visits give the clearest views. Check current status before you travel, especially for evening visits."
+        },
+        {
+          "q": "Who looks after Hanuman Tok?",
+          "a": "The Indian Army. According to Wikipedia, an official named Appaji Pant built the temple in 1950, and the Army later acquired the land around it and inherited the temple. That is why the grounds are well maintained and why photography of the surroundings is restricted."
+        },
+        {
+          "q": "Is Hanuman Tok worth visiting for non-Hindus?",
+          "a": "Yes, as long as you behave respectfully. Many visitors come mainly for the view, which is the highest in Gangtok town. Remove shoes before the shrine, dress modestly, and do not photograph the inner sanctum unless permitted. The terrace and steps are open to everyone."
+        }
       ]
     },
     {
@@ -104,11 +208,24 @@
         "From the terrace, Kangchenjunga and its neighbouring peaks spread across the north-western horizon. On the best days, mostly from mid-October to February, the summits catch the light several minutes before the valley, turning pink and then gold, while cloud fills the Teesta and Ranikhola valleys below. Cloud can roll in within half an hour, so arrive early rather than late.",
         "If the gates are not yet open when you arrive, wait at the parking area, which also has a view. Combine the sunrise with Tashi View Point on alternate days if the first attempt is cloudy, and keep the rest of the morning for Enchey and the Do Drul Chorten."
       ],
-      "good_for": ["photographers", "couples", "first-timers"],
+      "good_for": [
+        "photographers",
+        "couples",
+        "first-timers"
+      ],
       "faqs": [
-        {"q": "Which is better for sunrise, Hanuman Tok or Tashi View Point?", "a": "Both face Kangchenjunga. Tashi View Point, on the North Sikkim road, opens early and is set up for sunrise visitors with tea stalls. Hanuman Tok is higher, at about 2,200 m, and quieter, but its gate timings depend on Army arrangements. If you have two mornings, try one each."},
-        {"q": "Which months give clear Kangchenjunga views from Gangtok?", "a": "Mid-October to February gives the most clear mornings, with March and early April also good before haze builds. From June to September the monsoon usually hides the peaks. Even in good months, the view is clearest from sunrise to about 9 am."},
-        {"q": "How cold is Hanuman Tok at sunrise?", "a": "In December and January expect around 0–5 °C at dawn with wind, occasionally below freezing; in October and March about 6–10 °C. Wear thermals, a down or fleece jacket, gloves and a woollen cap. The ridge is a few degrees colder than MG Marg."}
+        {
+          "q": "Which is better for sunrise, Hanuman Tok or Tashi View Point?",
+          "a": "Both face Kangchenjunga. Tashi View Point, on the North Sikkim road, opens early and is set up for sunrise visitors with tea stalls. Hanuman Tok is higher, at about 2,200 m, and quieter, but its gate timings depend on Army arrangements. If you have two mornings, try one each."
+        },
+        {
+          "q": "Which months give clear Kangchenjunga views from Gangtok?",
+          "a": "Mid-October to February gives the most clear mornings, with March and early April also good before haze builds. From June to September the monsoon usually hides the peaks. Even in good months, the view is clearest from sunrise to about 9 am."
+        },
+        {
+          "q": "How cold is Hanuman Tok at sunrise?",
+          "a": "In December and January expect around 0–5 °C at dawn with wind, occasionally below freezing; in October and March about 6–10 °C. Wear thermals, a down or fleece jacket, gloves and a woollen cap. The ridge is a few degrees colder than MG Marg."
+        }
       ]
     },
     {
@@ -126,11 +243,25 @@
         "Start at Tashi View Point, about 8 km north, for sunrise. Then cross back over the town and climb the ridge to Hanuman Tok, the highest of the three at about 2,200 m. Finish at Ganesh Tok, where a short climb leads to a tiny shrine and a terrace over the town. The Himalayan Zoological Park is opposite, and usually opens mid-morning; add an hour for it.",
         "It is a lot of hill driving in a short time, so carry motion-sickness tablets if you need them. Children enjoy the zoo most. Back in town by 9:30 am, you still have the day for Enchey, the Institute of Tibetology and MG Marg."
       ],
-      "good_for": ["families", "first-timers", "budget", "seniors"],
+      "good_for": [
+        "families",
+        "first-timers",
+        "budget",
+        "seniors"
+      ],
       "faqs": [
-        {"q": "What is included in the Gangtok three-point tour?", "a": "Usually Tashi View Point, Ganesh Tok and Hanuman Tok, sometimes with a photo stop at Bakthang Falls on the way to Tashi View Point. The five-point and seven-point tours add places such as Enchey, the Do Drul Chorten, the Institute of Tibetology and the ropeway. Confirm the list with your driver."},
-        {"q": "How much does the three-point tour cost in Gangtok?", "a": "Indicatively, about ₹1,200–1,800 for a small car in 2026, shared by up to four people. Rates are higher in peak weeks around Durga Puja, Diwali and May school holidays. Agree the price and waiting time first, and check current rates before you travel."},
-        {"q": "Can we add the Himalayan Zoological Park to the three-point tour?", "a": "Yes. The zoo is opposite Ganesh Tok, so it is an easy add-on, but it usually opens mid-morning rather than at dawn, and walking the loop takes 1–1.5 hours. Tell your driver at the start so he can plan the waiting time; expect to pay a little more."}
+        {
+          "q": "What is included in the Gangtok three-point tour?",
+          "a": "Usually Tashi View Point, Ganesh Tok and Hanuman Tok, sometimes with a photo stop at Bakthang Falls on the way to Tashi View Point. The five-point and seven-point tours add places such as Enchey, the Do Drul Chorten, the Institute of Tibetology and the ropeway. Confirm the list with your driver."
+        },
+        {
+          "q": "How much does the three-point tour cost in Gangtok?",
+          "a": "Indicatively, about ₹1,200–1,800 for a small car in 2026, shared by up to four people. Rates are higher in peak weeks around Durga Puja, Diwali and May school holidays. Agree the price and waiting time first, and check current rates before you travel."
+        },
+        {
+          "q": "Can we add the Himalayan Zoological Park to the three-point tour?",
+          "a": "Yes. The zoo is opposite Ganesh Tok, so it is an easy add-on, but it usually opens mid-morning rather than at dawn, and walking the loop takes 1–1.5 hours. Tell your driver at the start so he can plan the waiting time; expect to pay a little more."
+        }
       ]
     },
     {
@@ -148,23 +279,62 @@
         "Climb slowly, one step at a time, and rest at each landing. At about 2,200 m, the air has noticeably less oxygen than the plains, and breathlessness on stairs is normal. Drink water, avoid a heavy breakfast, and do not hurry because others are waiting. If a family member is unsteady, one person can take offerings to the shrine while the others enjoy the view from the lower level.",
         "Those with heart or lung conditions should ask their doctor before travelling to Sikkim's higher points, and should visit Hanuman Tok only after a day or two in Gangtok. Carry regular medicines, and tell your driver if anyone feels dizzy, so you can descend at once."
       ],
-      "good_for": ["seniors", "families"],
+      "good_for": [
+        "seniors",
+        "families"
+      ],
       "faqs": [
-        {"q": "How many steps are there at Hanuman Tok?", "a": "There is a flight of steps from the parking area to the temple, which most visitors climb in five to ten minutes with rests. We do not quote an exact number because it varies with how you count landings and terraces. Take it slowly; the altitude makes it feel harder than it looks."},
-        {"q": "Is Hanuman Tok suitable for wheelchair users?", "a": "Not fully. The shrine is reached by steps, without a ramp as far as we know. Wheelchair users can enjoy the view from near the parking area, while a companion takes offerings to the temple. Call us before booking and we will describe current access."},
-        {"q": "Can altitude be a problem at Hanuman Tok?", "a": "Rarely, for a short visit. At about 2,200 m most people feel only mild breathlessness on the steps. Visit after at least one night in Gangtok, walk slowly and drink water. Anyone with heart or lung disease should take medical advice before the trip."}
+        {
+          "q": "How many steps are there at Hanuman Tok?",
+          "a": "There is a flight of steps from the parking area to the temple, which most visitors climb in five to ten minutes with rests. We do not quote an exact number because it varies with how you count landings and terraces. Take it slowly; the altitude makes it feel harder than it looks."
+        },
+        {
+          "q": "Is Hanuman Tok suitable for wheelchair users?",
+          "a": "Not fully. The shrine is reached by steps, without a ramp as far as we know. Wheelchair users can enjoy the view from near the parking area, while a companion takes offerings to the temple. Call us before booking and we will describe current access."
+        },
+        {
+          "q": "Can altitude be a problem at Hanuman Tok?",
+          "a": "Rarely, for a short visit. At about 2,200 m most people feel only mild breathlessness on the steps. Visit after at least one night in Gangtok, walk slowly and drink water. Anyone with heart or lung disease should take medical advice before the trip."
+        }
       ]
     }
   ],
   "faqs": [
-    {"q": "How far is Hanuman Tok from MG Marg?", "a": "About 9–11 km by road, 25–35 minutes in a taxi, up the ridge road towards Tsomgo and Nathu La and then a short branch. There is no shared transport. A reserved taxi costs about ₹600–900 return with waiting, or it can be included in the three-point tour."},
-    {"q": "What is the altitude of Hanuman Tok?", "a": "About 2,200 m, roughly 550 m higher than MG Marg. It is the highest of Gangtok's well-known viewpoints, above Ganesh Tok at about 1,980 m and Tashi View Point at about 1,890 m. Most visitors feel only mild breathlessness on the steps."},
-    {"q": "Who built Hanuman Tok?", "a": "According to Wikipedia, the temple was built in 1950 by Appaji Pant, an Indian official, over a stone already considered sacred. The Indian Army later acquired the surrounding land and has maintained the temple since. Local tradition holds that Hanuman rested here on his journey with the sanjeevani herb."},
-    {"q": "Can we see Kangchenjunga from Hanuman Tok?", "a": "Yes, on clear days, especially mornings from mid-October to February. The range lies to the north-west and is often visible above the valley cloud. From June to September monsoon cloud usually hides it. Go before 9 am for the best chance."},
-    {"q": "Is photography allowed at Hanuman Tok?", "a": "You may photograph the temple exterior and the view. Do not photograph soldiers, army vehicles or installations on the ridge, and ask before photographing the inner shrine. The area is maintained by the Indian Army, so follow any signs or instructions from staff at once."},
-    {"q": "Is Hanuman Tok open every day?", "a": "It is generally open daily from early morning to around sunset. Army arrangements, VIP visits or weather can occasionally change access. Tuesdays and Saturdays are busier with devotees. Check current status before you travel, especially if you plan a sunrise or evening visit."},
-    {"q": "Is there food or a toilet at Hanuman Tok?", "a": "Facilities are limited. There may be a small stall or water point, and toilets near the parking area, but do not count on a meal. Eat breakfast before or after in Gangtok. Carry water and a snack for children."},
-    {"q": "How long does a visit to Hanuman Tok take?", "a": "About 45 minutes to an hour, including the steps, the shrine and time on the terrace. As part of the three-point tour with Tashi View Point and Ganesh Tok, allow about three hours. Add an hour or more if you also visit the Himalayan Zoological Park."},
-    {"q": "Is Hanuman Tok inside a restricted area?", "a": "No permit is needed for Hanuman Tok. It lies on the Gangtok side of the ridge road, below the Tsomgo check post, so Indian and foreign visitors with valid Sikkim entry can go. Foreigners need the Sikkim restricted area permit to enter the state. Check current status before you travel."}
+    {
+      "q": "How far is Hanuman Tok from MG Marg?",
+      "a": "About 9–11 km by road, 25–35 minutes in a taxi, up the ridge road towards Tsomgo and Nathu La and then a short branch. There is no shared transport. A reserved taxi costs about ₹600–900 return with waiting, or it can be included in the three-point tour."
+    },
+    {
+      "q": "What is the altitude of Hanuman Tok?",
+      "a": "About 2,200 m, roughly 550 m higher than MG Marg. It is the highest of Gangtok's well-known viewpoints, above Ganesh Tok at about 1,980 m and Tashi View Point at about 1,890 m. Most visitors feel only mild breathlessness on the steps."
+    },
+    {
+      "q": "Who built Hanuman Tok?",
+      "a": "According to Wikipedia, the temple was built in 1950 by Appaji Pant, an Indian official, over a stone already considered sacred. The Indian Army later acquired the surrounding land and has maintained the temple since. Local tradition holds that Hanuman rested here on his journey with the sanjeevani herb."
+    },
+    {
+      "q": "Can we see Kangchenjunga from Hanuman Tok?",
+      "a": "Yes, on clear days, especially mornings from mid-October to February. The range lies to the north-west and is often visible above the valley cloud. From June to September monsoon cloud usually hides it. Go before 9 am for the best chance."
+    },
+    {
+      "q": "Is photography allowed at Hanuman Tok?",
+      "a": "You may photograph the temple exterior and the view. Do not photograph soldiers, army vehicles or installations on the ridge, and ask before photographing the inner shrine. The area is maintained by the Indian Army, so follow any signs or instructions from staff at once."
+    },
+    {
+      "q": "Is Hanuman Tok open every day?",
+      "a": "It is generally open daily from early morning to around sunset. Army arrangements, VIP visits or weather can occasionally change access. Tuesdays and Saturdays are busier with devotees. Check current status before you travel, especially if you plan a sunrise or evening visit."
+    },
+    {
+      "q": "Is there food or a toilet at Hanuman Tok?",
+      "a": "Facilities are limited. There may be a small stall or water point, and toilets near the parking area, but do not count on a meal. Eat breakfast before or after in Gangtok. Carry water and a snack for children. MG Marg is 30 minutes away."
+    },
+    {
+      "q": "How long does a visit to Hanuman Tok take?",
+      "a": "About 45 minutes to an hour, including the steps, the shrine and time on the terrace. As part of the three-point tour with Tashi View Point and Ganesh Tok, allow about three hours. Add an hour or more if you also visit the Himalayan Zoological Park."
+    },
+    {
+      "q": "Is Hanuman Tok inside a restricted area?",
+      "a": "No permit is needed for Hanuman Tok. It lies on the Gangtok side of the ridge road, below the Tsomgo check post, so Indian and foreign visitors with valid Sikkim entry can go. Foreigners need the Sikkim restricted area permit to enter the state. Check current status before you travel."
+    }
   ]
 }

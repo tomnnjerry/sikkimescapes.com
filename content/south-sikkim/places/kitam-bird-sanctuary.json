@@ -14,7 +14,7 @@
   "summary": "Kitam Bird Sanctuary is a small protected forest of about 6 sq km on the slopes above the Rangeet, roughly 19 km and 40–50 minutes below Namchi. Declared on 3 February 2005, it protects warm, low-altitude sal and pine forest between about 370 and 980 m, and is the place in Sikkim best known for wild Indian peafowl.",
   "intro": [
     "Most of Sikkim is mountain forest, but Kitam shows the state's other face: warm, dry woodland of sal and pine on the lower slopes above the Rangeet, more like the Himalayan foothills than the snow peaks most visitors picture. The sanctuary lies near Kitam and Manpur villages on the road between Namchi and Melli, at roughly 370 to 980 m. It was declared a protected area on 3 February 2005 and covers only about 6 sq km.",
-    "Kitam is the place in Sikkim best known for Indian peafowl, which roost in the tall trees and call loudly at first light. The Wikipedia article on the sanctuary also lists red junglefowl, kalij pheasant, oriental white-eye, scarlet minivet, common green magpie and Himalayan flameback among its birds, and barking deer, wild boar and Assamese macaque among its mammals. After the monsoon it is also good for butterflies.",
+    "Kitam is the place in Sikkim best known for Indian peafowl, which roost in the tall trees and call loudly at first light. The Wikipedia article on the sanctuary also lists red junglefowl, kalij pheasant, oriental white-eye, scarlet minivet, common green magpie and Himalayan flameback among its birds, and barking deer, wild boar and Assamese macaque among its mammals. After the monsoon it is also good for butterflies. Sightings are never guaranteed, but early mornings in winter give the best odds.",
     "Come early. From November to April, the first three hours of light are cool and full of birdsong; by 10 am the forest is hot and quiet. Facilities are basic: forest tracks, a few watch points, no cafe. Most visitors base themselves in Namchi, 40–50 minutes away, or stop on the drive between Melli and Namchi. Forest department entry fees and guide rules may apply; check current status before you travel."
   ],
   "story": {
@@ -23,28 +23,123 @@
     "source": "Wikipedia: Kitam Bird Sanctuary; Forest and Environment Department, Government of Sikkim"
   },
   "little_known": [
-    {"fact": "Kitam is the only protected area in Sikkim declared specifically as a bird sanctuary; the state's other sanctuaries are named as wildlife or rhododendron sanctuaries.", "source": "Forest and Environment Department, Government of Sikkim"},
-    {"fact": "At about 6 sq km, Kitam is one of the smallest protected areas in Sikkim, yet it holds habitat, low sal forest, found almost nowhere else in the state's protected network.", "source": "Wikipedia: Kitam Bird Sanctuary"},
-    {"fact": "eBird keeps a public hotspot for Kitam with recent sightings, a useful way to check which species birders have logged in the weeks before your visit.", "source": "eBird (Cornell Lab of Ornithology)"}
+    {
+      "fact": "Kitam is the only protected area in Sikkim declared specifically as a bird sanctuary; the state's other sanctuaries are named as wildlife or rhododendron sanctuaries.",
+      "source": "Forest and Environment Department, Government of Sikkim"
+    },
+    {
+      "fact": "At about 6 sq km, Kitam is one of the smallest protected areas in Sikkim, yet it holds habitat, low sal forest, found almost nowhere else in the state's protected network.",
+      "source": "Wikipedia: Kitam Bird Sanctuary"
+    },
+    {
+      "fact": "eBird keeps a public hotspot for Kitam with recent sightings, a useful way to check which species birders have logged in the weeks before your visit.",
+      "source": "eBird (Cornell Lab of Ornithology)"
+    }
   ],
-  "facts": [["Best months", "Nov–Apr, first 3 hours of light"], ["Nights we suggest", "0–1 (base in Namchi)"], ["From Gangtok", "≈ 85 km · 3.5 h"], ["Altitude", "≈ 370–980 m"], ["Known for", "Wild Indian peafowl, sal forest birds, butterflies"], ["Permit", "Not needed for Indians; forest entry rules may apply"]],
-  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 1, 2, 2],
+  "facts": [
+    [
+      "Best months",
+      "Nov–Apr, first 3 hours of light"
+    ],
+    [
+      "Nights we suggest",
+      "0–1 (base in Namchi)"
+    ],
+    [
+      "From Gangtok",
+      "≈ 85 km · 3.5 h"
+    ],
+    [
+      "Altitude",
+      "≈ 370–980 m"
+    ],
+    [
+      "Known for",
+      "Wild Indian peafowl, sal forest birds, butterflies"
+    ],
+    [
+      "Permit",
+      "Not needed for Indians; forest entry rules may apply"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+  ],
   "nights": "0–1",
   "highlights": [
-    {"title": "Peafowl at first light", "text": "Indian peafowl roost in Kitam's tall sal trees and call loudly at dawn, then feed along the forest edges. Be on the tracks by sunrise from November to April for the best chance of seeing them, and keep voices low."},
-    {"title": "Low-forest birding", "text": "Red junglefowl, kalij pheasant, scarlet minivet, common green magpie, oriental white-eye and Himalayan flameback are among the birds recorded here. A local guide who knows the calls will find far more than you would alone."},
-    {"title": "Butterflies after the monsoon", "text": "October and early November, when the forest is still green and the sun is out, bring good numbers of butterflies to the tracks, streams and flowering shrubs. Late morning, after the birds go quiet, is the time to look."},
-    {"title": "The altitude ladder", "text": "Pair Kitam with Tendong Hill or Maenam to see how birds change with height: sal forest below 1,000 m here, oak and rhododendron above 2,000 m an hour or two away. Our birding trips are built around this contrast."},
-    {"title": "An easy add-on to Namchi", "text": "Kitam is 40–50 minutes from Namchi and close to the Melli road, so it fits as an early-morning outing before breakfast or a stop on the way in from NJP or Bagdogra. No overnight is needed."}
+    {
+      "title": "Peafowl at first light",
+      "text": "Indian peafowl roost in Kitam's tall sal trees and call loudly at dawn, then feed along the forest edges. Be on the tracks by sunrise from November to April for the best chance of seeing them, and keep voices low."
+    },
+    {
+      "title": "Low-forest birding",
+      "text": "Red junglefowl, kalij pheasant, scarlet minivet, common green magpie, oriental white-eye and Himalayan flameback are among the birds recorded here. A local guide who knows the calls will find far more than you would alone."
+    },
+    {
+      "title": "Butterflies after the monsoon",
+      "text": "October and early November, when the forest is still green and the sun is out, bring good numbers of butterflies to the tracks, streams and flowering shrubs. Late morning, after the birds go quiet, is the time to look."
+    },
+    {
+      "title": "The altitude ladder",
+      "text": "Pair Kitam with Tendong Hill or Maenam to see how birds change with height: sal forest below 1,000 m here, oak and rhododendron above 2,000 m an hour or two away. Our birding trips are built around this contrast."
+    },
+    {
+      "title": "An easy add-on to Namchi",
+      "text": "Kitam is 40–50 minutes from Namchi and close to the Melli road, so it fits as an early-morning outing before breakfast or a stop on the way in from NJP or Bagdogra. No overnight is needed."
+    }
   ],
   "how_to_reach": [
-    {"mode": "Shared jeep", "text": "There is no dedicated shared service to the sanctuary. Shared jeeps between Namchi and Melli or Siliguri pass through Manpur, near Kitam, for about ₹80–150 a seat from Namchi. For a dawn visit, a reserved car is far more practical. Fares are indicative; check current status before you travel."},
-    {"mode": "Private car", "text": "A reserved small car from Namchi for a 3–4 hour dawn visit costs about ₹1,800–2,500, covering roughly 19 km each way. From Gangtok, Kitam is about 85 km and 3.5 hours via Melli; most people stay in Namchi the night before rather than drive in the dark."},
-    {"mode": "From Bagdogra / NJP", "text": "About 85–90 km and 3–3.5 hours via NH10 to Melli, then up towards Namchi. A reserved car costs about ₹4,500–6,000 to Namchi with a Kitam stop. When NH10 is closed by monsoon slides, drivers route through Darjeeling district and Jorethang instead."}
+    {
+      "mode": "Shared jeep",
+      "text": "There is no dedicated shared service to the sanctuary. Shared jeeps between Namchi and Melli or Siliguri pass through Manpur, near Kitam, for about ₹80–150 a seat from Namchi. For a dawn visit, a reserved car is far more practical. Fares are indicative; check current status before you travel."
+    },
+    {
+      "mode": "Private car",
+      "text": "A reserved small car from Namchi for a 3–4 hour dawn visit costs about ₹1,800–2,500, covering roughly 19 km each way. From Gangtok, Kitam is about 85 km and 3.5 hours via Melli; most people stay in Namchi the night before rather than drive in the dark."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "About 85–90 km and 3–3.5 hours via NH10 to Melli, then up towards Namchi. A reserved car costs about ₹4,500–6,000 to Namchi with a Kitam stop. When NH10 is closed by monsoon slides, drivers route through Darjeeling district and Jorethang instead."
+    }
   ],
-  "costs": [["Reserved car from Namchi (dawn visit)", "≈ ₹1,800–2,500"], ["Local bird guide", "≈ ₹1,000–2,000 per group for a morning"], ["Forest entry", "Fees may apply; check current status"], ["Budget room in Namchi", "≈ ₹1,500–2,500"], ["Breakfast in Namchi", "≈ ₹100–200"]],
+  "costs": [
+    [
+      "Reserved car from Namchi (dawn visit)",
+      "≈ ₹1,800–2,500"
+    ],
+    [
+      "Local bird guide",
+      "≈ ₹1,000–2,000 per group for a morning"
+    ],
+    [
+      "Forest entry",
+      "Fees may apply; check current status"
+    ],
+    [
+      "Budget room in Namchi",
+      "≈ ₹1,500–2,500"
+    ],
+    [
+      "Breakfast in Namchi",
+      "≈ ₹100–200"
+    ]
+  ],
   "where_to_stay": "There are no notable hotels inside the sanctuary, and we do not list any village homestays near Kitam that we have not checked ourselves. Most birders stay in Namchi, 40–50 minutes away, and leave before dawn. Seven Hill Resort and Sobralia Hotels Casino Resort & Spa suit those who want comfort, and Namchi's market area has clean budget rooms from about ₹1,500–2,500. Ask your hotel to pack breakfast the night before.",
-  "stays": ["seven-hill-resort-namchi", "sobralia-resort-namchi"],
+  "stays": [
+    "seven-hill-resort-namchi",
+    "sobralia-resort-namchi"
+  ],
   "tips": [
     "Leave Namchi about 45 minutes before sunrise; by 10 am the birds go quiet and the forest is hot.",
     "Wear muted colours and keep voices low; peafowl are wary and flush quickly.",
@@ -52,8 +147,17 @@
     "Carry water and a hat: Kitam is low and warm, and spring days can pass 30 °C.",
     "Forest rules, fees and guide requirements change; check current status before you travel."
   ],
-  "themes": ["birds-and-wildlife", "photography", "flowers-and-forests"],
-  "nearby": ["namchi", "melli", "jorethang", "samdruptse"],
+  "themes": [
+    "birds-and-wildlife",
+    "photography",
+    "flowers-and-forests"
+  ],
+  "nearby": [
+    "namchi",
+    "melli",
+    "jorethang",
+    "samdruptse"
+  ],
   "experiences": [
     {
       "slug": "kitam-dawn-peafowl-birding-walk",
@@ -70,11 +174,24 @@
         "Walk the tracks slowly with your guide. In the canopy look for scarlet minivets, common green magpies, Himalayan flamebacks and flocks of oriental white-eyes, all listed for the sanctuary on Wikipedia. Barking deer and Assamese macaques are sometimes seen, wild boar more rarely. Binoculars matter more than a long lens here.",
         "By about 9:30 am the forest warms up and activity drops. Head back to Namchi for breakfast or drive on towards Melli. Carry water, wear muted colours and closed shoes, and follow forest department rules. Entry fees and guide requirements may apply; check current status before you travel."
       ],
-      "good_for": ["photographers", "solo", "couples"],
+      "good_for": [
+        "photographers",
+        "solo",
+        "couples"
+      ],
       "faqs": [
-        {"q": "Will we definitely see peafowl at Kitam?", "a": "No sighting is guaranteed, but Kitam is the best place in Sikkim for wild Indian peafowl. You will very likely hear them at dawn from November to April. Seeing them depends on luck, quiet and an early start. A local guide who knows their roosting and feeding spots greatly improves your chances."},
-        {"q": "What time should we reach Kitam?", "a": "At sunrise, which is around 6:00 am in winter and about 5:15 am by April. Leave Namchi roughly 45 minutes before. The first two to three hours are by far the most productive. By mid-morning the forest heats up and the birds go quiet."},
-        {"q": "Do we need a guide at Kitam?", "a": "It is strongly recommended and may be required by forest rules. A local guide knows the calls, the tracks and where peafowl feed, and helps you stay on permitted paths. Expect about ₹1,000–2,000 per group for a morning, indicative. Ask us or your Namchi hotel a day ahead."}
+        {
+          "q": "Will we definitely see peafowl at Kitam?",
+          "a": "No sighting is guaranteed, but Kitam is the best place in Sikkim for wild Indian peafowl. You will very likely hear them at dawn from November to April. Seeing them depends on luck, quiet and an early start. A local guide who knows their roosting and feeding spots greatly improves your chances."
+        },
+        {
+          "q": "What time should we reach Kitam?",
+          "a": "At sunrise, which is around 6:00 am in winter and about 5:15 am by April. Leave Namchi roughly 45 minutes before. The first two to three hours are by far the most productive. By mid-morning the forest heats up and the birds go quiet."
+        },
+        {
+          "q": "Do we need a guide at Kitam?",
+          "a": "It is strongly recommended and may be required by forest rules. A local guide knows the calls, the tracks and where peafowl feed, and helps you stay on permitted paths. Expect about ₹1,000–2,000 per group for a morning, indicative. Ask us or your Namchi hotel a day ahead."
+        }
       ]
     },
     {
@@ -92,11 +209,24 @@
         "Walk slowly and look at damp ground, where butterflies gather to take up minerals, and at sunlit flowering shrubs along the forest edge. Swallowtails, nymphalids and small blues are typical. A guide who knows butterflies is harder to find than a bird guide, so a good field guide or an app helps.",
         "This walk starts later than birding, once the sun is up and the air warm. Wear light clothes, a hat and closed shoes, and carry water. Do not catch or handle butterflies. Forest rules apply inside the sanctuary, and fees or guide requirements may change; check current status before you travel."
       ],
-      "good_for": ["families", "photographers", "first-timers"],
+      "good_for": [
+        "families",
+        "photographers",
+        "first-timers"
+      ],
       "faqs": [
-        {"q": "When is the best time for butterflies at Kitam?", "a": "October and early November, on sunny days after the monsoon, are usually best. Activity peaks from late morning to early afternoon, when the air is warm. Spring, from March to April, is a good second season. On cloudy or rainy days butterflies stay hidden."},
-        {"q": "Is the butterfly walk suitable for children?", "a": "Yes. It starts later in the day, keeps to forest tracks and moves slowly, which suits children well. Keep them on the paths, bring water and snacks, and explain beforehand that butterflies are watched and photographed, never caught or handled."},
-        {"q": "What camera do we need for butterflies?", "a": "A phone works for butterflies on flowers if you approach slowly. A macro lens or a zoom with close focus gives better results. Move gently, avoid casting your shadow over the butterfly and be patient. Early warm mornings, when they bask, are easiest."}
+        {
+          "q": "When is the best time for butterflies at Kitam?",
+          "a": "October and early November, on sunny days after the monsoon, are usually best. Activity peaks from late morning to early afternoon, when the air is warm. Spring, from March to April, is a good second season. On cloudy or rainy days butterflies stay hidden."
+        },
+        {
+          "q": "Is the butterfly walk suitable for children?",
+          "a": "Yes. It starts later in the day, keeps to forest tracks and moves slowly, which suits children well. Keep them on the paths, bring water and snacks, and explain beforehand that butterflies are watched and photographed, never caught or handled."
+        },
+        {
+          "q": "What camera do we need for butterflies?",
+          "a": "A phone works for butterflies on flowers if you approach slowly. A macro lens or a zoom with close focus gives better results. Move gently, avoid casting your shadow over the butterfly and be patient. Early warm mornings, when they bask, are easiest."
+        }
       ]
     },
     {
@@ -114,11 +244,25 @@
         "Keep the walk short and slow. Listen for peafowl and junglefowl, look for Assamese macaques in the trees, and point out the huge, rough-barked sal trunks. A guide can show animal tracks and explain how the forest changes with the seasons, from the dry leaf-fall of spring to the green of the monsoon.",
         "Winter mornings, from November to March, are pleasant and cool. Bring water, snacks and hats, and wear closed shoes. Stay on the tracks and keep noise down. Forest department rules apply and may include entry fees or guide requirements; check current status before you travel."
       ],
-      "good_for": ["families", "seniors", "first-timers", "budget"],
+      "good_for": [
+        "families",
+        "seniors",
+        "first-timers",
+        "budget"
+      ],
       "faqs": [
-        {"q": "Is Kitam Bird Sanctuary good for children?", "a": "Yes, for a short morning walk. It is low, warm and close to Namchi, and the tracks are gentle. Children enjoy hearing peafowl and seeing monkeys. Keep visits to about two hours, avoid midday heat from April, and bring water, snacks and hats."},
-        {"q": "What is sal forest?", "a": "Sal, Shorea robusta, is a large deciduous tree that dominates much of the forest along the Himalayan foothills and in central India. In Sikkim it grows only in the warm, low valleys, which is why Kitam's sal woodland is unusual within the state's protected areas."},
-        {"q": "Are there leeches or snakes at Kitam?", "a": "Leeches are mainly a monsoon problem, from June to September, when we do not recommend visiting. Snakes live in the forest but are rarely seen and avoid people. Stay on tracks, wear closed shoes and long trousers, and watch where you step and put your hands."}
+        {
+          "q": "Is Kitam Bird Sanctuary good for children?",
+          "a": "Yes, for a short morning walk. It is low, warm and close to Namchi, and the tracks are gentle. Children enjoy hearing peafowl and seeing monkeys. Keep visits to about two hours, avoid midday heat from April, and bring water, snacks and hats."
+        },
+        {
+          "q": "What is sal forest?",
+          "a": "Sal, Shorea robusta, is a large deciduous tree that dominates much of the forest along the Himalayan foothills and in central India. In Sikkim it grows only in the warm, low valleys, which is why Kitam's sal woodland is unusual within the state's protected areas."
+        },
+        {
+          "q": "Are there leeches or snakes at Kitam?",
+          "a": "Leeches are mainly a monsoon problem, from June to September, when we do not recommend visiting. Snakes live in the forest but are rarely seen and avoid people. Stay on tracks, wear closed shoes and long trousers, and watch where you step and put your hands."
+        }
       ]
     },
     {
@@ -136,23 +280,62 @@
         "Work slowly along the tracks with your guide, and wait at edges, clearings and fruiting trees rather than chasing birds. Scarlet minivets, green magpies and woodpeckers are rewarding subjects; peafowl and junglefowl are wary and best photographed from a distance with a long lens. Shoot early: harsh light arrives by 9:30 am.",
         "Follow ethical rules. Do not use playback calls, bait or flash, and keep well away from nests. Stay on permitted paths and keep your group small and quiet. Forest department rules and any camera fees may apply inside the sanctuary; check current status before you travel."
       ],
-      "good_for": ["photographers", "solo"],
+      "good_for": [
+        "photographers",
+        "solo"
+      ],
       "faqs": [
-        {"q": "What lens do we need for birds at Kitam?", "a": "A focal length of 400–600 mm, or a bridge camera with a long zoom, gives the best results, since birds are shy and often high in the canopy. A monopod helps on long mornings. Binoculars are useful for spotting before you raise the camera."},
-        {"q": "Is there a camera fee at Kitam?", "a": "Some protected areas in Sikkim charge camera fees, and rules are revised from time to time. We cannot confirm the current charge at Kitam, so check current status before you travel, and carry cash in case fees are collected at the gate."},
-        {"q": "Can we use playback to call birds?", "a": "Please do not. Playback stresses birds, especially in the April–June breeding season, and may break forest rules. Patient waiting at feeding trees and forest edges with a good local guide works well at Kitam and leaves the birds undisturbed for the next visitor."}
+        {
+          "q": "What lens do we need for birds at Kitam?",
+          "a": "A focal length of 400–600 mm, or a bridge camera with a long zoom, gives the best results, since birds are shy and often high in the canopy. A monopod helps on long mornings. Binoculars are useful for spotting before you raise the camera."
+        },
+        {
+          "q": "Is there a camera fee at Kitam?",
+          "a": "Some protected areas in Sikkim charge camera fees, and rules are revised from time to time. We cannot confirm the current charge at Kitam, so check current status before you travel, and carry cash in case fees are collected at the gate."
+        },
+        {
+          "q": "Can we use playback to call birds?",
+          "a": "Please do not. Playback stresses birds, especially in the April–June breeding season, and may break forest rules. Patient waiting at feeding trees and forest edges with a good local guide works well at Kitam and leaves the birds undisturbed for the next visitor."
+        }
       ]
     }
   ],
   "faqs": [
-    {"q": "Where is Kitam Bird Sanctuary?", "a": "In Namchi district (South Sikkim), on the slopes above the Rangeet near Kitam and Manpur villages, about 19 km and 40–50 minutes by car from Namchi. It lies close to the road between Namchi and Melli. Coordinates are roughly 27.10 N, 88.33 E, at about 370–980 m."},
-    {"q": "When was Kitam Bird Sanctuary established?", "a": "It was declared a protected area on 3 February 2005 by the Government of Sikkim. It covers about 6 sq km of low-altitude sal and pine forest, a habitat poorly represented in the state's other protected areas, which mostly guard high mountain forest."},
-    {"q": "What birds can we see at Kitam?", "a": "The sanctuary is best known for wild Indian peafowl. Other birds recorded include red junglefowl, kalij pheasant, scarlet minivet, common green magpie, oriental white-eye and Himalayan flameback. Mammals include barking deer, wild boar and Assamese macaque. Check eBird's Kitam hotspot for recent sightings."},
-    {"q": "What is the best time to visit Kitam?", "a": "November to April, in the first two to three hours after sunrise, when the air is cool and birds are active. October is good for butterflies. Avoid June to September: heavy monsoon rain, leeches and poor visibility. By late April and May, mid-morning heat cuts activity sharply."},
-    {"q": "Is there an entry fee at Kitam Bird Sanctuary?", "a": "Forest department entry and guide fees may apply, as at other Sikkim sanctuaries, and they are revised from time to time. We cannot confirm the exact current charge, so carry cash and check current status before you travel. We confirm rules for our own guests before each trip."},
-    {"q": "How do we get to Kitam from Namchi?", "a": "By reserved car, about 19 km and 40–50 minutes, costing roughly ₹1,800–2,500 for a dawn visit with waiting time. Shared jeeps between Namchi and Melli pass through Manpur nearby, but timings do not suit an early start. Fares are indicative."},
-    {"q": "Can we visit Kitam on the way from NJP to Namchi?", "a": "Yes, but birds are most active early, so a stop on arrival day in the afternoon is mostly a forest walk rather than serious birding. Better to sleep in Namchi and return at dawn. Kitam is close to the Melli–Namchi road, so it adds little driving."},
-    {"q": "Is Kitam worth it for non-birders?", "a": "For a short morning walk, yes: it shows a warm, low forest unlike the rest of Sikkim, with peafowl calls and monkeys. If you are not interested in birds or nature at all, the Namchi monuments or Temi tea garden will reward you more."},
-    {"q": "Do foreigners need a permit for Kitam?", "a": "Foreign nationals need the standard Sikkim Restricted Area Permit, applied online through the e-FRRO portal since January 2026. No extra protected-area permit is needed for South Sikkim as we understand it, though forest entry rules apply. Indians need no permit. Check current status before you travel."}
+    {
+      "q": "Where is Kitam Bird Sanctuary?",
+      "a": "In Namchi district (South Sikkim), on the slopes above the Rangeet near Kitam and Manpur villages, about 19 km and 40–50 minutes by car from Namchi. It lies close to the road between Namchi and Melli. Coordinates are roughly 27.10 N, 88.33 E, at about 370–980 m."
+    },
+    {
+      "q": "When was Kitam Bird Sanctuary established?",
+      "a": "It was declared a protected area on 3 February 2005 by the Government of Sikkim. It covers about 6 sq km of low-altitude sal and pine forest, a habitat poorly represented in the state's other protected areas, which mostly guard high mountain forest."
+    },
+    {
+      "q": "What birds can we see at Kitam?",
+      "a": "The sanctuary is best known for wild Indian peafowl. Other birds recorded include red junglefowl, kalij pheasant, scarlet minivet, common green magpie, oriental white-eye and Himalayan flameback. Mammals include barking deer, wild boar and Assamese macaque. Check eBird's Kitam hotspot for recent sightings."
+    },
+    {
+      "q": "What is the best time to visit Kitam?",
+      "a": "November to April, in the first two to three hours after sunrise, when the air is cool and birds are active. October is good for butterflies. Avoid June to September: heavy monsoon rain, leeches and poor visibility. By late April and May, mid-morning heat cuts activity sharply."
+    },
+    {
+      "q": "Is there an entry fee at Kitam Bird Sanctuary?",
+      "a": "Forest department entry and guide fees may apply, as at other Sikkim sanctuaries, and they are revised from time to time. We cannot confirm the exact current charge, so carry cash and check current status before you travel. We confirm rules for our own guests before each trip."
+    },
+    {
+      "q": "How do we get to Kitam from Namchi?",
+      "a": "By reserved car, about 19 km and 40–50 minutes, costing roughly ₹1,800–2,500 for a dawn visit with waiting time. Shared jeeps between Namchi and Melli pass through Manpur nearby, but timings do not suit an early start. Fares are indicative."
+    },
+    {
+      "q": "Can we visit Kitam on the way from NJP to Namchi?",
+      "a": "Yes, but birds are most active early, so a stop on arrival day in the afternoon is mostly a forest walk rather than serious birding. Better to sleep in Namchi and return at dawn. Kitam is close to the Melli–Namchi road, so it adds little driving."
+    },
+    {
+      "q": "Is Kitam worth it for non-birders?",
+      "a": "For a short morning walk, yes: it shows a warm, low forest unlike the rest of Sikkim, with peafowl calls and monkeys. If you are not interested in birds or nature at all, the Namchi monuments or Temi tea garden will reward you more."
+    },
+    {
+      "q": "Do foreigners need a permit for Kitam?",
+      "a": "Foreign nationals need the standard Sikkim Restricted Area Permit, applied online through the e-FRRO portal since January 2026. No extra protected-area permit is needed for South Sikkim as we understand it, though forest entry rules apply. Indians need no permit. Check current status before you travel."
+    }
   ]
 }

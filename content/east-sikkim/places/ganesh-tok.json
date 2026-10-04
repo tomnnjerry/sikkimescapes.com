@@ -23,41 +23,127 @@
     "source": "Wikipedia: Red panda; IUCN Red List: Ailurus fulgens"
   },
   "little_known": [
-    {"fact": "Ganesh Tok, at about 1,980 m, is roughly 330 m higher than MG Marg, so the terrace is often noticeably cooler and windier than the town.", "source": "OpenStreetMap; SRTM elevation data"},
-    {"fact": "The red panda, which you can see in the zoo opposite Ganesh Tok, is Sikkim's state animal and is listed as Endangered on the IUCN Red List.", "source": "Wikipedia: Red panda"},
-    {"fact": "Ganesh Tok, Enchey Monastery and Hanuman Tok all sit on NH310, the road that runs from Ranipool through Gangtok towards Tsomgo and Nathu La.", "source": "OpenStreetMap; Wikipedia: Ranipool"}
+    {
+      "fact": "Ganesh Tok, at about 1,980 m, is roughly 330 m higher than MG Marg, so the terrace is often noticeably cooler and windier than the town.",
+      "source": "OpenStreetMap; SRTM elevation data"
+    },
+    {
+      "fact": "The red panda, which you can see in the zoo opposite Ganesh Tok, is Sikkim's state animal and is listed as Endangered on the IUCN Red List.",
+      "source": "Wikipedia: Red panda"
+    },
+    {
+      "fact": "Ganesh Tok, Enchey Monastery and Hanuman Tok all sit on NH310, the road that runs from Ranipool through Gangtok towards Tsomgo and Nathu La.",
+      "source": "OpenStreetMap; Wikipedia: Ranipool"
+    }
   ],
   "facts": [
-    ["Best months", "October–December and March–May"],
-    ["Nights we suggest", "Visit from Gangtok, 30 minutes (plus the zoo)"],
-    ["From Gangtok", "≈ 5–7 km · 20 min from MG Marg"],
-    ["Altitude", "≈ 1,980 m"],
-    ["Known for", "Ganesh shrine, view over Gangtok, zoo opposite"],
-    ["Permit", "Not needed"]
+    [
+      "Best months",
+      "October–December and March–May"
+    ],
+    [
+      "Nights we suggest",
+      "Visit from Gangtok, 30 minutes (plus the zoo)"
+    ],
+    [
+      "From Gangtok",
+      "≈ 5–7 km · 20 min from MG Marg"
+    ],
+    [
+      "Altitude",
+      "≈ 1,980 m"
+    ],
+    [
+      "Known for",
+      "Ganesh shrine, view over Gangtok, zoo opposite"
+    ],
+    [
+      "Permit",
+      "Not needed"
+    ]
   ],
-  "best_months": [2, 2, 2, 2, 1, 1, 0, 0, 1, 2, 2, 2],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
   "nights": "0",
   "highlights": [
-    {"title": "The tiny Ganesh shrine", "text": "The shrine room at the top of the steps is very small, and visitors usually stoop or crouch to enter and offer a prayer. Prayer flags, bells and marigolds surround it. Remove shoes before entering, and wait your turn quietly on busy mornings."},
-    {"title": "Gangtok from above", "text": "The terrace gives the best overview of Gangtok's layout: the ridge of the old town, the Secretariat, the stadium and the hillside of houses falling towards the Ranikhola. Across the valley you can pick out Rumtek. Bring a zoom for detail."},
-    {"title": "Kangchenjunga on clear mornings", "text": "From mid-October to February, the Kangchenjunga range often stands clear to the north-west until about 9 am. Ganesh Tok is lower than Hanuman Tok, so haze can interfere more, but it is quicker to reach for a short dawn trip."},
-    {"title": "Himalayan Zoological Park", "text": "Across the road, a forested hillside zoo keeps red pandas, Himalayan black bears, leopards and other Himalayan species in large enclosures along a loop road. Walking it takes 1–1.5 hours. It usually opens mid-morning and closes one day a week; check current status before you travel."},
-    {"title": "Evening lights", "text": "If the gate is open after sunset, the terrace becomes a balcony over thousands of lights strung along Gangtok's hillside. It is a short, easy outing after an afternoon of shopping on MG Marg, best in the dry months from October to April."}
+    {
+      "title": "The tiny Ganesh shrine",
+      "text": "The shrine room at the top of the steps is very small, and visitors usually stoop or crouch to enter and offer a prayer. Prayer flags, bells and marigolds surround it. Remove shoes before entering, and wait your turn quietly on busy mornings."
+    },
+    {
+      "title": "Gangtok from above",
+      "text": "The terrace gives the best overview of Gangtok's layout: the ridge of the old town, the Secretariat, the stadium and the hillside of houses falling towards the Ranikhola. Across the valley you can pick out Rumtek. Bring a zoom for detail."
+    },
+    {
+      "title": "Kangchenjunga on clear mornings",
+      "text": "From mid-October to February, the Kangchenjunga range often stands clear to the north-west until about 9 am. Ganesh Tok is lower than Hanuman Tok, so haze can interfere more, but it is quicker to reach for a short dawn trip."
+    },
+    {
+      "title": "Himalayan Zoological Park",
+      "text": "Across the road, a forested hillside zoo keeps red pandas, Himalayan black bears, leopards and other Himalayan species in large enclosures along a loop road. Walking it takes 1–1.5 hours. It usually opens mid-morning and closes one day a week; check current status before you travel."
+    },
+    {
+      "title": "Evening lights",
+      "text": "If the gate is open after sunset, the terrace becomes a balcony over thousands of lights strung along Gangtok's hillside. It is a short, easy outing after an afternoon of shopping on MG Marg, best in the dry months from October to April."
+    }
   ],
   "how_to_reach": [
-    {"mode": "Local taxi", "text": "A reserved local taxi from MG Marg costs about ₹300–500 one way, or ₹500–800 return with waiting. Most drivers include Ganesh Tok in the three-point tour with Tashi View Point and Hanuman Tok, about ₹1,200–1,800 a car. Shared taxis rarely run this far up the ridge."},
-    {"mode": "On foot", "text": "Walk up from Enchey Monastery along the ridge road in 40–50 minutes, about 2 km with a gentle climb, or from MG Marg in about 1.5 hours. Keep to the side of the road, as there is little pavement, and walk only in daylight."},
-    {"mode": "From Bagdogra / NJP", "text": "Reach Gangtok first, about 125 km and 4.5–5 hours from Bagdogra (IXB) or NJP on NH10. NH10 closes after monsoon slides; the alternative is via Kalimpong or Algarah. Ganesh Tok makes a good first evening or first morning outing. Check current status before you travel."}
+    {
+      "mode": "Local taxi",
+      "text": "A reserved local taxi from MG Marg costs about ₹300–500 one way, or ₹500–800 return with waiting. Most drivers include Ganesh Tok in the three-point tour with Tashi View Point and Hanuman Tok, about ₹1,200–1,800 a car. Shared taxis rarely run this far up the ridge."
+    },
+    {
+      "mode": "On foot",
+      "text": "Walk up from Enchey Monastery along the ridge road in 40–50 minutes, about 2 km with a gentle climb, or from MG Marg in about 1.5 hours. Keep to the side of the road, as there is little pavement, and walk only in daylight."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "Reach Gangtok first, about 125 km and 4.5–5 hours from Bagdogra (IXB) or NJP on NH10. NH10 closes after monsoon slides; the alternative is via Kalimpong or Algarah. Ganesh Tok makes a good first evening or first morning outing. Check current status before you travel."
+    }
   ],
   "costs": [
-    ["Entry to Ganesh Tok", "Free"],
-    ["Taxi from MG Marg, return with waiting", "≈ ₹500–800 a car"],
-    ["Himalayan Zoological Park entry", "≈ ₹50–100 per adult, plus vehicle fee (indicative)"],
-    ["Three-point tour, small car", "≈ ₹1,200–1,800 a car"],
-    ["Tea and snacks at the kiosk", "≈ ₹50–150"]
+    [
+      "Entry to Ganesh Tok",
+      "Free"
+    ],
+    [
+      "Taxi from MG Marg, return with waiting",
+      "≈ ₹500–800 a car"
+    ],
+    [
+      "Himalayan Zoological Park entry",
+      "≈ ₹50–100 per adult, plus vehicle fee (indicative)"
+    ],
+    [
+      "Three-point tour, small car",
+      "≈ ₹1,200–1,800 a car"
+    ],
+    [
+      "Tea and snacks at the kiosk",
+      "≈ ₹50–150"
+    ]
   ],
   "where_to_stay": "Stay in Gangtok; Ganesh Tok is 15–20 minutes from the centre. The upper town around Enchey and Chandmari is closest and quieter. On a budget, Mintokling Guest House and Hotel Sonam Delek are a short taxi ride away. Netuk House and Hotel Tibet are good value on the Tibet Road side, and The Chumbi Residency is a comfortable mid-range option. Families who want space and gardens may prefer Hidden Forest Retreat in lower Gangtok, a little further from the ridge.",
-  "stays": ["mintokling-guest-house-gangtok", "hotel-sonam-delek-gangtok", "netuk-house-gangtok", "hotel-tibet-gangtok", "chumbi-residency-gangtok", "hidden-forest-retreat-gangtok"],
+  "stays": [
+    "mintokling-guest-house-gangtok",
+    "hotel-sonam-delek-gangtok",
+    "netuk-house-gangtok",
+    "hotel-tibet-gangtok",
+    "chumbi-residency-gangtok",
+    "hidden-forest-retreat-gangtok"
+  ],
   "tips": [
     "Pair Ganesh Tok with the zoo opposite and plan for the zoo's mid-morning opening time.",
     "Remove shoes and stoop carefully at the low shrine entrance; mind your head.",
@@ -65,8 +151,17 @@
     "Carry a light jacket; the terrace is windy even when MG Marg feels warm.",
     "Agree taxi waiting time in advance if you add the zoo, which takes over an hour."
   ],
-  "themes": ["family-holidays", "photography", "birds-and-wildlife"],
-  "nearby": ["hanuman-tok", "enchey", "tashi-view-point", "gangtok"],
+  "themes": [
+    "family-holidays",
+    "photography",
+    "birds-and-wildlife"
+  ],
+  "nearby": [
+    "hanuman-tok",
+    "enchey",
+    "tashi-view-point",
+    "gangtok"
+  ],
   "experiences": [
     {
       "slug": "ganesh-tok-shrine-and-town-view",
@@ -83,11 +178,25 @@
         "Ganesh Tok is visited by Hindu and Buddhist Sikkimese alike, as well as by travellers from across India, and the mood is relaxed. Many people ring the bells as they leave. Offer a few coins or flowers if you wish, and keep the line moving when it is busy.",
         "Then step out onto the terrace. Gangtok falls away below in a long ridge of buildings, and on clear days the Kangchenjunga range lines the north-west. A small kiosk sells tea and snacks. Late afternoon light from the west is soft and flattering, and children enjoy picking out their hotel among the rooftops."
       ],
-      "good_for": ["families", "first-timers", "seniors", "budget"],
+      "good_for": [
+        "families",
+        "first-timers",
+        "seniors",
+        "budget"
+      ],
       "faqs": [
-        {"q": "Why is the Ganesh Tok shrine so small?", "a": "It was built on a narrow ridge-top rock with very little level ground, and the shrine room is just large enough for the image and one or two worshippers. Visitors usually have to stoop to enter. We have not found a reliable written history of its construction, so we do not repeat the stories told about it."},
-        {"q": "What are the Ganesh Tok timings?", "a": "It is generally open from early morning until early evening, roughly 6 am to 7 pm, though hours may change with the season. The zoo opposite keeps its own, shorter hours. Check current status before you travel, especially for an evening visit."},
-        {"q": "Are there many steps at Ganesh Tok?", "a": "A few flights from the car park, which take three to five minutes for most people. Seniors should climb slowly and rest, since the shrine is at about 1,980 m. The terrace is level once you are up. The shrine entrance itself is low, so mind your head."}
+        {
+          "q": "Why is the Ganesh Tok shrine so small?",
+          "a": "It was built on a narrow ridge-top rock with very little level ground, and the shrine room is just large enough for the image and one or two worshippers. Visitors usually have to stoop to enter. We have not found a reliable written history of its construction, so we do not repeat the stories told about it."
+        },
+        {
+          "q": "What are the Ganesh Tok timings?",
+          "a": "It is generally open from early morning until early evening, roughly 6 am to 7 pm, though hours may change with the season. The zoo opposite keeps its own, shorter hours. Check current status before you travel, especially for an evening visit."
+        },
+        {
+          "q": "Are there many steps at Ganesh Tok?",
+          "a": "A few flights from the car park, which take three to five minutes for most people. Seniors should climb slowly and rest, since the shrine is at about 1,980 m. The terrace is level once you are up. The shrine entrance itself is low, so mind your head."
+        }
       ]
     },
     {
@@ -105,11 +214,24 @@
         "Red pandas are the stars. They spend much of the day asleep in the branches, curled with their ringed tails over their faces, and wake to feed on bamboo. Look up rather than at the ground, and give each enclosure a few minutes. Keepers' feeding times are the most active; ask at the gate.",
         "Keep voices low, do not throw food, and never tap on fences. The zoo usually opens mid-morning and is closed one day a week; opening days and fees change, so check current status before you travel. Combine it with Ganesh Tok before or after, since they share the same parking area."
       ],
-      "good_for": ["families", "photographers", "first-timers"],
+      "good_for": [
+        "families",
+        "photographers",
+        "first-timers"
+      ],
       "faqs": [
-        {"q": "Can we see red pandas in Gangtok?", "a": "Yes. The Himalayan Zoological Park opposite Ganesh Tok keeps red pandas in large forested enclosures, and most visitors spot at least one if they are patient. Seeing a wild red panda is much harder; it needs time in forests such as Kyongnosla or Fambong Lho with a local guide, and luck."},
-        {"q": "What are the Himalayan Zoological Park timings?", "a": "It generally opens mid-morning, around 9–9:30 am, and closes in the late afternoon, with one weekly closing day. Times and the closing day can change, so check current status before you travel. We plan Ganesh Tok first and the zoo when it opens."},
-        {"q": "How long does the Himalayan Zoological Park take?", "a": "Allow 1–1.5 hours to walk the loop road at a relaxed pace, longer with small children or for photography. The road climbs and descends, so wear comfortable shoes. Carry water; there are few stalls inside."}
+        {
+          "q": "Can we see red pandas in Gangtok?",
+          "a": "Yes. The Himalayan Zoological Park opposite Ganesh Tok keeps red pandas in large forested enclosures, and most visitors spot at least one if they are patient. Seeing a wild red panda is much harder; it needs time in forests such as Kyongnosla or Fambong Lho with a local guide, and luck."
+        },
+        {
+          "q": "What are the Himalayan Zoological Park timings?",
+          "a": "It generally opens mid-morning, around 9–9:30 am, and closes in the late afternoon, with one weekly closing day. Times and the closing day can change, so check current status before you travel. We plan Ganesh Tok first and the zoo when it opens."
+        },
+        {
+          "q": "How long does the Himalayan Zoological Park take?",
+          "a": "Allow 1–1.5 hours to walk the loop road at a relaxed pace, longer with small children or for photography. The road climbs and descends, so wear comfortable shoes. Carry water; there are few stalls inside. Seniors can drive part of the loop where vehicles are allowed."
+        }
       ]
     },
     {
@@ -127,11 +249,24 @@
         "Bring a jacket: the terrace is windy and at about 1,980 m it cools fast after sunset, often to 5–8 °C in winter. Photographers should carry a small tripod or rest the camera on the parapet for the low-light shots, and should look for the moment when the sky still holds some colour above the lit town.",
         "The shrine may close earlier than the terrace, and evening access can vary, so ask your driver to check before you go. Head back down for dinner on MG Marg afterwards, about 20 minutes away."
       ],
-      "good_for": ["couples", "photographers", "families"],
+      "good_for": [
+        "couples",
+        "photographers",
+        "families"
+      ],
       "faqs": [
-        {"q": "Is Ganesh Tok open in the evening?", "a": "Usually until early evening, which allows a sunset visit, but hours vary with the season and local arrangements. Ask your hotel or driver to confirm on the day. Check current status before you travel, and plan to leave by about 7 pm."},
-        {"q": "Is Ganesh Tok safe after dark?", "a": "Yes, it is generally safe, but the steps are unlit in places and the ridge road is dark. Carry a phone torch, keep children close on the steps, and use a reserved taxi rather than walking back. Most visitors leave soon after the lights come on."},
-        {"q": "What should we wear for an evening at Ganesh Tok?", "a": "A warm jacket, even in April or October, since temperatures drop quickly after sunset at about 1,980 m. In December and January add a cap and gloves. Comfortable shoes with grip help on the steps, which can be damp."}
+        {
+          "q": "Is Ganesh Tok open in the evening?",
+          "a": "Usually until early evening, which allows a sunset visit, but hours vary with the season and local arrangements. Ask your hotel or driver to confirm on the day. Check current status before you travel, and plan to leave by about 7 pm."
+        },
+        {
+          "q": "Is Ganesh Tok safe after dark?",
+          "a": "Yes, it is generally safe, but the steps are unlit in places and the ridge road is dark. Carry a phone torch, keep children close on the steps, and use a reserved taxi rather than walking back. Most visitors leave soon after the lights come on."
+        },
+        {
+          "q": "What should we wear for an evening at Ganesh Tok?",
+          "a": "A warm jacket, even in April or October, since temperatures drop quickly after sunset at about 1,980 m. In December and January add a cap and gloves. Comfortable shoes with grip help on the steps, which can be damp. A torch helps on the way down."
+        }
       ]
     },
     {
@@ -149,23 +284,63 @@
         "From Enchey, continue down through the residential lanes of the upper town towards the Secretariat side and MG Marg, another 3 km or so. Ask locals for the footpath shortcuts, which cut out several road bends; most people are happy to point the way. Allow about 1.5 hours in all with stops.",
         "Keep to the side of the road on the highway stretch, wear shoes with grip for steep footpaths, and carry water. If you tire, any passing taxi will stop for a short ride. Avoid the walk in heavy rain, when footpaths are slippery and drains overflow."
       ],
-      "good_for": ["solo", "couples", "budget"],
+      "good_for": [
+        "solo",
+        "couples",
+        "budget"
+      ],
       "faqs": [
-        {"q": "How far is the walk from Ganesh Tok to MG Marg?", "a": "About 5 km, mostly downhill, via Enchey Monastery and the upper town. Most people take 1.5 hours with stops. Shortcuts down footpath stairways save time but are steep, so take them slowly and only in dry weather."},
-        {"q": "Do we need a guide to walk from Ganesh Tok to town?", "a": "No. The route follows the ridge road to Enchey and then town lanes, and locals readily point out footpath shortcuts. A map app works well. Walk in daylight and keep to the roadside on the highway section."},
-        {"q": "Is walking in Gangtok hard?", "a": "Uphill walking is tiring because the town is built on steep slopes at about 1,650 m, but downhill walks like this one are easy for most fit people. Wear shoes with grip, carry water, and take a taxi for any long climbs."}
+        {
+          "q": "How far is the walk from Ganesh Tok to MG Marg?",
+          "a": "About 5 km, mostly downhill, via Enchey Monastery and the upper town. Most people take 1.5 hours with stops. Shortcuts down footpath stairways save time but are steep, so take them slowly and only in dry weather. Carry water and keep to the side of the road."
+        },
+        {
+          "q": "Do we need a guide to walk from Ganesh Tok to town?",
+          "a": "No. The route follows the ridge road to Enchey and then town lanes, and locals readily point out footpath shortcuts. A map app works well. Walk in daylight and keep to the roadside on the highway section. Avoid it in heavy rain."
+        },
+        {
+          "q": "Is walking in Gangtok hard?",
+          "a": "Uphill walking is tiring because the town is built on steep slopes at about 1,650 m, but downhill walks like this one are easy for most fit people. Wear shoes with grip, carry water, and take a taxi for any long climbs."
+        }
       ]
     }
   ],
   "faqs": [
-    {"q": "How far is Ganesh Tok from MG Marg?", "a": "About 5–7 km by road, 15–20 minutes in a taxi up the ridge road past Enchey Monastery. A reserved taxi costs about ₹300–500 one way. Fit walkers can climb from MG Marg in about 1.5 hours, or from Enchey in 40–50 minutes."},
-    {"q": "What is Ganesh Tok famous for?", "a": "A tiny Ganesh shrine you stoop to enter, a terrace with one of the best views over Gangtok, and, on clear mornings, the Kangchenjunga range. It is also directly opposite the Himalayan Zoological Park, where most visitors see Sikkim's state animal, the red panda."},
-    {"q": "What is the altitude of Ganesh Tok?", "a": "About 1,980 m, roughly 330 m above MG Marg. Hanuman Tok, higher up the same ridge, is about 2,200 m. The difference is enough to feel cooler and windier than the town, so carry a jacket."},
-    {"q": "Is there an entry fee at Ganesh Tok?", "a": "No, the shrine and terrace are free. The Himalayan Zoological Park opposite charges a small entry fee, indicatively about ₹50–100 for an adult plus a vehicle fee. Check current rates before you travel."},
-    {"q": "Can we see Kangchenjunga from Ganesh Tok?", "a": "Yes, on clear days, mostly mornings from mid-October to February. The range lies to the north-west. Haze and cloud often hide it by late morning, and in the monsoon it is rarely visible. Hanuman Tok and Tashi View Point give slightly wider views."},
-    {"q": "Is Ganesh Tok good for children?", "a": "Yes. The steps are short, the terrace is fenced, and the zoo opposite is the highlight of Gangtok for many children. Hold small children's hands on the steps and at the low shrine entrance. Carry snacks and water."},
-    {"q": "How much time do we need at Ganesh Tok?", "a": "About 30 minutes for the shrine and terrace. Add 1–1.5 hours for the Himalayan Zoological Park. As part of the three-point tour with Tashi View Point and Hanuman Tok, allow around three hours in total, or four with the zoo."},
-    {"q": "What is the best time of day to visit Ganesh Tok?", "a": "Early morning for clear mountain views, mid-morning if you want to combine it with the zoo when it opens, or around sunset for the town lights. October to April gives the clearest air. Monsoon months are often misty."},
-    {"q": "Do foreigners need a permit for Ganesh Tok?", "a": "No separate permit is needed. Ganesh Tok is within Gangtok, so foreign visitors only need the Sikkim restricted area permit that allows them into the state, applied online on the e-FRRO portal. Check current status before you travel."}
+    {
+      "q": "How far is Ganesh Tok from MG Marg?",
+      "a": "About 5–7 km by road, 15–20 minutes in a taxi up the ridge road past Enchey Monastery. A reserved taxi costs about ₹300–500 one way. Fit walkers can climb from MG Marg in about 1.5 hours, or from Enchey in 40–50 minutes."
+    },
+    {
+      "q": "What is Ganesh Tok famous for?",
+      "a": "A tiny Ganesh shrine you stoop to enter, a terrace with one of the best views over Gangtok, and, on clear mornings, the Kangchenjunga range. It is also directly opposite the Himalayan Zoological Park, where most visitors see Sikkim's state animal, the red panda."
+    },
+    {
+      "q": "What is the altitude of Ganesh Tok?",
+      "a": "About 1,980 m, roughly 330 m above MG Marg. Hanuman Tok, higher up the same ridge, is about 2,200 m. The difference is enough to feel cooler and windier than the town, so carry a jacket. Altitude is not a concern for a short visit, but take the steps slowly."
+    },
+    {
+      "q": "Is there an entry fee at Ganesh Tok?",
+      "a": "No, the shrine and terrace are free. The Himalayan Zoological Park opposite charges a small entry fee, indicatively about ₹50–100 for an adult plus a vehicle fee. Check current rates before you travel. You pay only for your taxi and anything from the kiosk."
+    },
+    {
+      "q": "Can we see Kangchenjunga from Ganesh Tok?",
+      "a": "Yes, on clear days, mostly mornings from mid-October to February. The range lies to the north-west. Haze and cloud often hide it by late morning, and in the monsoon it is rarely visible. Hanuman Tok and Tashi View Point give slightly wider views."
+    },
+    {
+      "q": "Is Ganesh Tok good for children?",
+      "a": "Yes. The steps are short, the terrace is fenced, and the zoo opposite is the highlight of Gangtok for many children. Hold small children's hands on the steps and at the low shrine entrance. Carry snacks and water. Pair it with the zoo for a full morning."
+    },
+    {
+      "q": "How much time do we need at Ganesh Tok?",
+      "a": "About 30 minutes for the shrine and terrace. Add 1–1.5 hours for the Himalayan Zoological Park. As part of the three-point tour with Tashi View Point and Hanuman Tok, allow around three hours in total, or four with the zoo."
+    },
+    {
+      "q": "What is the best time of day to visit Ganesh Tok?",
+      "a": "Early morning for clear mountain views, mid-morning if you want to combine it with the zoo when it opens, or around sunset for the town lights. October to April gives the clearest air. Monsoon months are often misty. Avoid midday on weekends, when tour groups arrive."
+    },
+    {
+      "q": "Do foreigners need a permit for Ganesh Tok?",
+      "a": "No separate permit is needed. Ganesh Tok is within Gangtok, so foreign visitors only need the Sikkim restricted area permit that allows them into the state, applied online on the e-FRRO portal. Check current status before you travel. Carry a copy of it with your passport."
+    }
   ]
 }
