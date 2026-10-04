@@ -1,25 +1,56 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{% if category %}{{ category.name }} · {% endif %}Journal: luxury travel in Nepal and India · Tales of Luxury{% endblock %}
-{% block description %}Answer-first articles from our planners: where to go, when, what it costs and how to plan private journeys across Nepal, Rajasthan, Ladakh, the North East, Kerala, Goa and UP &amp; Bihar.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{% if category %}{{ category.name }}: Sikkim journal{% else %}Sikkim journal: road news, money and stories{% endif %} · Sikkim Escapes{% endblock %}
+{% block description %}{% if category %}Sikkim Escapes journal articles on {{ category.name|lower }}: practical, dated and sourced.{% else %}Dated notes from the Gangtok desk: road and permit news, what trips really cost, seasons and the stories behind Sikkim's places.{% endif %}{% endblock %}
+{% block og_title %}{% if category %}{{ category.name }} · {% endif %}Sikkim Escapes journal{% endblock %}
+{% block og_image %}{% with img=posts.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">The Journal{% if category %} · {{ category.name }}{% endif %}</p>
-  <h1 class="h-hero">{% if category %}{{ category.name }}{% else %}Read, <span class="accent">then go</span>{% endif %}</h1>
-  <p class="lede">Straight answers to the questions travellers ask before they choose: which land, which month, which hotel, and what it costs.</p></div></header>
-<section class="wrap" style="padding-bottom: 40px">
-  <nav class="chip-row" aria-label="Topics"><a class="chip{% if not category %} chip--on{% else %} chip--line{% endif %}" href="{% url 'journal' %}">All</a>{% for c in cats %}<a class="chip{% if category.slug == c.slug %} chip--on{% else %} chip--line{% endif %}" href="{% url 'journal_cat' c.slug %}">{{ c.name }}</a>{% endfor %}</nav>
+{% if category %}{% include "escapes/partials/phero.html" with h_title=category.name h_kicker="Journal" h_lede="Dated articles from the Gangtok desk. Anything about permits, roads or fees is true as of the date shown: check current status before you travel." h_seed="journal" %}
+{% else %}{% include "escapes/partials/phero.html" with h_title="The journal" h_kicker="Notes from the Gangtok desk" h_lede="Road and permit news, what trips really cost, seasons and the stories behind Sikkim's places. Every article is dated, because in Sikkim the date matters." h_seed="journal" %}{% endif %}
+
+<section class="sec" aria-labelledby="jr-h">
+  <div class="wrap">
+    {% if cats|length > 1 or category %}<nav class="pills" aria-label="Topics" style="margin-bottom:32px">
+      <a href="{% url 'journal' %}"{% if not category %} aria-current="page" style="background:var(--ink);color:#fff;border-color:var(--ink)"{% endif %}>All topics</a>
+      {% for c in cats %}<a href="{% url 'journal_cat' c.slug %}"{% if category.slug == c.slug %} aria-current="page" style="background:var(--ink);color:#fff;border-color:var(--ink)"{% endif %}>{{ c.name }} <small>{{ c.posts|length }}</small></a>{% endfor %}
+    </nav>{% endif %}
+
+    <h2 class="sr" id="jr-h">{% if category %}{{ category.name }} articles{% else %}Latest articles{% endif %}</h2>
+    {% if posts %}
+    <div class="grid g3" data-fill>
+      {% for x in posts %}<a class="card rv" href="{{ x.url }}"{% if x.land %} data-land="{{ x.land }}"{% endif %}>
+        <div class="card__media">{% include "escapes/partials/media.html" with img=x|first_img alt="" ph_icon="book" %}{% if x.category %}<span class="chip">{{ x.category }}</span>{% endif %}</div>
+        <div class="card__body">
+          <h3>{{ x.title }}</h3>
+          {% if x.summary %}<p>{{ x.summary|truncatewords:28 }}</p>{% endif %}
+          <div class="card__meta">{% if x.date_obj %}<span>{% icon "calendar" %}{{ x.date_obj|date:"j M Y" }}</span>{% endif %}<span>{% icon "book" %}{{ x.read_min }} min read</span>{% for r in x.region_objs|slice:":2" %}<span>{{ r.name }}</span>{% endfor %}</div>
+        </div>
+      </a>{% endfor %}
+      {% include "escapes/partials/fill.html" %}
+    </div>
+    {% else %}
+    <div class="empty">
+      <span class="badge" style="margin:0 auto 14px">{% icon "book" %}</span>
+      <h3 class="h3" style="color:var(--ink)">The first articles are on their way</h3>
+      <p style="max-width:52ch;margin:0 auto 18px">We are writing up road news, real costs and rooted stories from the Gangtok desk. Until then, our district guides and stories cover the same ground.</p>
+      <div class="btns" style="justify-content:center"><a class="btn btn--ghost" href="{% url 'guides' %}">{% icon "book" %} Read the guides</a><a class="btn btn--ghost" href="{% url 'stories' %}">{% icon "story" %} Rooted stories</a><a class="btn btn--ghost" href="{% url 'seasons' %}">{% icon "calendar" %} Seasons</a></div>
+    </div>
+    {% endif %}
+  </div>
 </section>
-{% with lead=posts.0 %}{% if lead and not category %}
-<section class="wrap" style="padding-bottom: 56px"><a class="jlead" href="{{ lead.url }}"{% if lead.land %} data-land="{{ lead.land }}"{% endif %}>
-  {% photo lead|first_img alt=lead.title cls="arch" eager=True sizes="(max-width: 900px) 100vw, 50vw" credit=False %}
-  <span class="jlead__text"><span class="chip">{{ lead.category }} · {{ lead.read_min }} min read</span><span class="h-l">{{ lead.title }}</span><span class="lede">{{ lead.summary }}</span><span class="link-arrow">Read the article →</span></span></a></section>
-{% endif %}{% endwith %}
-<section class="wrap" style="padding-bottom: 96px"><div class="grid grid--3" data-fill>
-  {% for d in posts %}{% if category or not forloop.first %}<a class="card card--wide rv" href="{{ d.url }}"{% if d.land %} data-land="{{ d.land }}"{% endif %}>
-    {% photo d|first_img alt=d.title sizes="(max-width: 760px) 100vw, 33vw" credit=False %}
-    <span class="chip">{{ d.category }} · {{ d.read_min }} min</span>
-    <span class="card__title card__title--s">{{ d.title }}</span>
-    <p>{{ d.summary|truncatewords:24 }}</p>
-    <span class="card__meta">{{ d.date_obj|date:"j F Y" }}</span></a>{% endif %}{% endfor %}{% include "tales/partials/fill.html" with fill_title="Turn an article into a journey" %}
-</div></section>
+
+<section class="sec sec--paper2 sec--tight" aria-labelledby="jr-sub">
+  <div class="wrap split" style="align-items:center">
+    <div><p class="kicker">A monthly letter</p><h2 class="h3" id="jr-sub">Road news and prices, once a month</h2><p class="muted" style="margin:0">Which passes are open, what changed with permits, and one story from the hills. No offers dressed up as news.</p></div>
+    <form class="quick" style="grid-template-columns:1fr auto" method="post" action="{% url 'subscribe' %}">
+      {% csrf_token %}
+      <label class="sr" for="jr-email">Email</label>
+      <input id="jr-email" type="email" name="email" required placeholder="Your email" autocomplete="email">
+      <input type="hidden" name="source_page" value="{{ request.path }}">
+      <input type="text" name="website" class="sr" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <button class="btn btn--foil" type="submit">Subscribe</button>
+    </form>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

@@ -1,0 +1,50 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim packages {{ b.name|lower }} per person · Sikkim Escapes{% endblock %}
+{% block description %}Sikkim tour packages {{ b.name|lower }} per person, twin sharing, sorted by price{% if lo %} from {{ lo|inr }}{% endif %}. Every package shows nights, altitude and a full price breakdown.{% endblock %}
+{% block og_title %}Sikkim packages {{ b.name|lower }}{% endblock %}
+{% block og_image %}{% with img=journeys.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block content %}
+{% with bl=b.name|lower %}{% include "escapes/partials/phero.html" with h_title="Sikkim trips "|add:bl h_kicker="Affordable Sikkim · price band" h_lede="Per person, twin sharing, sorted from the cheapest. Each package lists what the money pays for: rooms, the car and driver, permits and our fee." h_seed=band %}{% endwith %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="statrow">
+      <div class="stat"><small>Packages in this band</small><b>{{ journeys|length }}</b></div>
+      {% if lo %}<div class="stat"><small>Cheapest, per person</small><b>{{ lo|inr }}</b></div>{% endif %}
+      <div class="stat"><small>Price basis</small><b style="font-size:1.2rem">Twin sharing</b></div>
+    </div>
+    <div class="answer mt" style="margin-top:20px"><b>Short answer</b><p>{% if journeys %}We have {{ journeys|length }} Sikkim package{{ journeys|length|pluralize }} {{ b.name|lower }} per person{% if lo %}, starting at {{ lo|inr }}{% endif %}. Prices are indicative and move with dates, group size and room category; we send a written, itemised quote before you pay anything.{% else %}We have no fixed package in this band right now, but we build trips to this budget every week. Tell us your dates and we will send a plan with every cost shown.{% endif %}</p></div>
+  </div>
+</section>
+
+<section class="sec" style="padding-top:0" aria-labelledby="bj-h">
+  <div class="wrap">
+    <h2 class="h2 sr" id="bj-h">Packages {{ b.name|lower }}</h2>
+    {% if journeys %}<div class="grid g3" data-fill>{% for j in journeys %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_title="Build one to this budget" %}</div>
+    {% else %}<div class="empty">No packages in this band yet. <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">Tell us your budget</a> and we will build around it.</div>{% endif %}
+  </div>
+</section>
+
+{% if journeys %}<section class="sec sec--paper2" aria-labelledby="bt-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Side by side" sh_title="Compare the packages" sh_id="bt-h" %}
+    <div class="tablewrap prose" style="max-width:none"><table>
+      <thead><tr><th scope="col">Package</th><th scope="col">Nights</th><th scope="col">Tier</th><th scope="col">Highest point</th><th scope="col">Best months</th><th scope="col">From, per person</th></tr></thead>
+      <tbody>{% for j in journeys %}<tr><td><a href="{{ j.url }}">{{ j.title }}</a></td><td>{{ j.nights }}</td><td>{{ j.tier_obj.name }}</td><td>{% if j.max_altitude_m %}{{ j.max_altitude_m|metres }}{% else %}–{% endif %}</td><td>{{ j.best_label|default:"–" }}</td><td class="num">{{ j.price_from_inr|inr }}</td></tr>{% endfor %}</tbody>
+    </table></div>
+  </div>
+</section>{% endif %}
+
+<section class="sec" aria-labelledby="bo-h">
+  <div class="wrap">
+    {% url 'affordable' as aff_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Other budgets" sh_title="Look up or down a band" sh_id="bo-h" sh_more_url=aff_url sh_more="Affordable Sikkim" %}
+    <div class="bands">
+      {% for o in others %}<a class="bandcard rv" href="{% url 'band' o.slug %}">{% icon "rupee" %}<small>Per person</small><b>{{ o.name }}</b><small>See packages</small></a>{% endfor %}
+      <a class="bandcard bandcard--hot rv" href="{% url 'plan' %}?from={{ request.path|urlencode }}">{% icon "chat" %}<small>Your number</small><b>Your budget</b><small>We build around it</small></a>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2"><div class="wrap wrap--narrow">{% include "escapes/partials/faq.html" with faq_title="Questions about this budget" %}</div></section>
+{% include "escapes/partials/cta.html" with cta_title="Tell us your budget and your dates" %}
+{% endblock %}

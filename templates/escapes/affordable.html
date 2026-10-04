@@ -16,7 +16,7 @@
   <div class="wrap">
     {% include "escapes/partials/sechead.html" with sh_kicker="Start from your budget" sh_title="Four price bands" sh_id="bands-h" sh_text="Per person, twin sharing, from Bagdogra, NJP or Gangtok." %}
     <div class="bands">
-      {% for b in bands %}<a class="bandcard{% if forloop.first %} bandcard--hot{% endif %} rv" href="{% url 'band' b.slug %}">{% icon "rupee" %}<small>Per person</small><b>{{ b.name }}</b><small>{{ b.journeys|length }} package{{ b.journeys|length|pluralize }}{% if b.journeys %} · from {{ b.journeys.0.price_from_inr|inr }}{% endif %}</small></a>{% endfor %}
+      {% for b in bands %}<a class="bandcard{% if forloop.first %} bandcard--hot{% endif %} rv" href="{% url 'band' b.slug %}">{% icon "rupee" %}<small>Per person</small><b>{{ b.name }}</b><small>{% if b.journeys %}{{ b.journeys|length }} package{{ b.journeys|length|pluralize }} · from {{ b.journeys.0.price_from_inr|inr }}{% else %}Built to order{% endif %}</small></a>{% endfor %}
     </div>
 
     <div class="mt" data-tabs>
@@ -55,8 +55,7 @@
   </div>
 </section>{% endif %}
 
-<section class="sec dark" aria-labelledby="save-h">
-  {% contour "affordable-save" "contour" 12 2 %}
+<section class="sec sec--paper2" aria-labelledby="save-h">
   <div class="wrap split split--even">
     <div>
       <p class="kicker">Spend less</p>

@@ -1,0 +1,56 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Rooted stories: the people and histories of Sikkim · Sikkim Escapes{% endblock %}
+{% block description %}Sourced stories behind Sikkim's places: Lepcha, Bhutia, Limbu and Nepali histories, village councils, monasteries and place-names, each with a checkable source.{% endblock %}
+{% block og_title %}Rooted stories of Sikkim · Sikkim Escapes{% endblock %}
+{% block content %}
+{% include "escapes/partials/phero.html" with h_title="Rooted stories" h_kicker="People and histories" h_lede="The Lepcha, Bhutia, Limbu, Nepali, Sherpa and Rai histories behind the views. Every story names its source, so you can read further." h_seed="stories" %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="answer rv"><b>Why we tell these</b><p>A valley makes more sense when you know who named it and why. We only tell stories we can source: a book, a monastery, a census, a museum or a Wikipedia article you can check. Where a story is local tradition without a written source, we say so.</p></div>
+
+      {% for r in region_stories %}<article class="story rv" data-land="{{ r.slug }}">
+        {% contour r.slug "contour" 10 1 %}
+        <p class="kicker">{{ r.name }}</p>
+        <h2 class="h3"><a href="{{ r.url }}#story" style="text-decoration:none">{{ r.story.title }}</a></h2>
+        <div class="story__text"><p>{{ r.story.text|linebreaksbr }}</p></div>
+        {% if r.story.source %}<p class="story__src">{% icon "book" %}<span>Source: {{ r.story.source }}</span></p>{% endif %}
+      </article>{% endfor %}
+
+      {% for g in groups %}{% if g.stories %}<div id="st-{{ g.r.slug }}" data-land="{{ g.r.slug }}">
+        {% include "escapes/partials/sechead.html" with sh_kicker=g.r.official sh_title="Stories from "|add:g.r.name sh_more_url=g.r.url sh_more="The "|add:g.r.name|add:" guide" %}
+        <div class="grid g2">{% for s in g.stories %}<a class="card card--text rv" href="{{ s.url }}" data-land="{{ s.obj.region }}"><div class="card__body">
+          <span class="chip chip--land" style="align-self:flex-start">{% icon "story" %}{{ s.obj.name }}</span>
+          <h3>{{ s.title }}</h3>
+          <p>{{ s.text|truncatewords:40 }}</p>
+          {% if s.source %}<div class="card__foot"><span class="small muted">Source: {{ s.source|truncatechars:80 }}</span></div>{% endif %}
+        </div></a>{% endfor %}</div>
+      </div>{% endif %}{% endfor %}
+    </div>
+    <aside class="side">
+      <nav class="toc-side" aria-label="Districts">{% for g in groups %}{% if g.stories %}<a href="#st-{{ g.r.slug }}">{{ g.r.name }} <span class="muted">· {{ g.stories|length }}</span></a>{% endif %}{% endfor %}{% if facts %}<a href="#little-known">Little known</a>{% endif %}{% if guides %}<a href="#reading">Longer reads</a>{% endif %}</nav>
+      <div class="panel panel--dark">
+        <h3>Travel with the stories</h3>
+        <p class="small">We plan routes around people as much as views: a Lepcha homestay, a monastery on its festival day, a village council town.</p>
+        <a class="btn btn--foil btn--block" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="stories-plan">Get my price</a>
+      </div>
+    </aside>
+  </div>
+</section>
+
+{% if facts %}<section class="sec sec--paper2" id="little-known" aria-labelledby="lk-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Little known" sh_title="Things most visitors never hear" sh_id="lk-h" sh_text="Short, sourced facts. Each one links to the place it belongs to." %}
+    {% include "escapes/partials/flags.html" %}
+  </div>
+</section>{% endif %}
+
+{% if guides %}<section class="sec" id="reading" aria-labelledby="rd-h">
+  <div class="wrap">
+    {% url 'guides' as g_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Longer reads" sh_title="History and people, in depth" sh_id="rd-h" sh_more_url=g_url sh_more="Every guide" %}
+    <div class="grid g4" data-fill>{% for g in guides %}{% include "escapes/partials/card_guide.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+{% include "escapes/partials/cta.html" %}
+{% endblock %}

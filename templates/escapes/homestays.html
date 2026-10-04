@@ -4,7 +4,7 @@
 {% block og_title %}Sikkim homestays we book{% endblock %}
 {% block og_image %}{% with img=stays.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block content %}
-{% include "escapes/partials/phero.html" with h_title="Village homestays in Sikkim" h_img=stays.0|first_img h_kicker="Stays · Homestays" h_lede="Sleep in the house and eat in the kitchen. Registered homestays in Lepcha, Bhutia, Limbu, Sherpa and Nepali villages, booked directly with families and paid fairly." h_short=True %}
+{% include "escapes/partials/phero.html" with h_title="Village homestays in Sikkim" h_img=stays.0|first_img h_kicker="Stays · Homestays" h_lede="Sleep in the house and eat in the kitchen. Registered homestays in Lepcha, Bhutia, Limbu, Sherpa and Nepali-speaking villages, booked directly with families and paid fairly." h_short=True %}
 
 <section class="sec">
   <div class="wrap split">

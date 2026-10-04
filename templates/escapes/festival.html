@@ -1,32 +1,51 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ f.name }}: dates, where to stay and how to see it · Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ f.name }}: dates, place, what to expect · Sikkim Escapes{% endblock %}
 {% block description %}{{ f.summary|truncatechars:158 }}{% endblock %}
-{% block body_attrs %} data-land="{{ f.region_obj.slug }}"{% endblock %}
+{% block og_title %}{{ f.name }} · Sikkim Escapes{% endblock %}
+{% block og_description %}{{ f.summary|truncatechars:200 }}{% endblock %}
+{% block og_image %}{% with img=f|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ f.region }}"{% endblock %}
 {% block content %}
-<header class="phead wrap">
-  <div class="phead__grid">
-    <div class="phead__text">
-      <div class="chip-row"><a class="chip" href="{{ f.region_obj.url }}">{{ f.region_obj.name }}</a>{% if f.place_obj %}<a class="chip chip--line" href="{{ f.place_obj.url }}">{{ f.place_obj.name }}</a>{% endif %}</div>
-      <h1 class="h-xl">{{ f.name }}</h1>
-      <p class="lede" style="font-family: var(--display); font-style: italic; color: var(--ink)">{{ f.when }}</p>
-      <div class="answer">{{ f.summary }}</div>
+{% include "escapes/partials/phero.html" with h_title=f.name h_img=f|first_img h_kicker=f.community|default:"Festival"|add:" · "|add:f.region_obj.name h_lede=f.when h_seed=f.slug h_short=True %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      {% if f.summary %}<div class="answer rv"><b>{{ f.name }} in short</b><p>{{ f.summary }}</p></div>{% endif %}
+      {% if f.body %}<div class="prose">{% for para in f.body %}<p>{{ para }}</p>{% endfor %}</div>{% endif %}
+      {% if f.tips %}<div>
+        <p class="kicker">If you go</p>
+        <h2 class="h2">Tips for the day</h2>
+        <ul class="ticks">{% for t in f.tips %}<li>{{ t }}</li>{% endfor %}</ul>
+      </div>{% endif %}
+      {% include "escapes/partials/faq.html" with faqs=f.faqs faq_title="Questions about "|add:f.name %}
     </div>
-    {% photo f|first_img alt=f.name cls="arch ratio-hero" eager=True sizes="(max-width: 900px) 100vw, 40vw" %}
+    <aside class="side">
+      <dl class="ledger">
+        {% if f.when %}<div><dt>When</dt><dd>{{ f.when }}</dd></div>{% endif %}
+        {% if f.place_obj %}<div><dt>Where</dt><dd><a href="{{ f.place_obj.url }}">{{ f.place_obj.name }}</a></dd></div>{% endif %}
+        <div><dt>District</dt><dd><a href="{{ f.region_obj.url }}">{{ f.region_obj.name }}</a></dd></div>
+        {% if f.community %}<div><dt>Community</dt><dd>{{ f.community }}</dd></div>{% endif %}
+      </dl>
+      <div class="panel">
+        <p class="kicker" style="margin-bottom:8px">Usual months</p>
+        {% include "escapes/partials/mbar.html" with bar=bar label=f.when %}
+        <p class="small muted" style="margin:10px 0 0">Lunar dates move each year: check current status before you travel.</p>
+      </div>
+      <a class="btn btn--foil btn--block" href="{% url 'plan' %}?land={{ f.region }}&journey={{ f.name|urlencode }}&from={{ request.path|urlencode }}" data-cta="festival-plan">Plan a trip for {{ f.name|truncatechars:24 }}</a>
+    </aside>
   </div>
-</header>
-<section class="sec--tight"><div class="wrap split">
-  <div class="split__main">
-    <div class="block prose">{% for para in f.body %}<p>{{ para }}</p>{% endfor %}</div>
-    <div class="block"><p class="eyebrow">How to do it well</p><ol class="tips">{% for t in f.tips %}<li>{{ t }}</li>{% endfor %}</ol></div>
-    {% include "tales/partials/faq.html" with faqs=f.faqs %}
+</section>
+
+{% if f.place_obj or journeys %}<section class="sec sec--paper2" aria-labelledby="go-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Go for it" sh_title="Where it happens and how to get there" sh_id="go-h" %}
+    <div class="grid g4" data-fill>{% if f.place_obj %}{% with p=f.place_obj %}{% include "escapes/partials/card_place.html" %}{% endwith %}{% endif %}{% for j in journeys %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=f.region %}</div>
   </div>
-  <aside class="split__aside">
-    <div class="panel panel--dark"><h2 class="h-s">When it falls</h2>{% include "tales/partials/mbar.html" with bar=bar label=f.when %}
-      <p class="small" style="color: var(--mist-2); margin: 16px 0 0">Dates follow the calendar named above and move each year. Check current status before you travel.</p></div>
-    <a class="btn btn--dark" href="{% url 'plan' %}?land={{ f.region }}&from={{ request.path|urlencode }}">Plan around {{ f.name }}</a>
-    <a class="link-arrow" href="{% url 'festivals' %}">Festival calendar →</a>
-  </aside>
-</div></section>
-{% if journeys %}<section class="sec paper"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Festival journeys</p><h2 class="h-l">Routes built around the calendar</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for j in journeys %}{% include "tales/partials/card_journey.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=f.region_obj.slug %}</div></div></section>{% endif %}
+</section>{% endif %}
+
+<section class="sec sec--tight">
+  <div class="wrap"><div class="pills"><a href="{% url 'festivals' %}">{% icon "flag" %}Festival calendar</a><a href="{{ f.region_obj.url }}">{% icon f.region_obj.icon %}{{ f.region_obj.name }}</a><a href="{% url 'stories' %}">{% icon "story" %}Rooted stories</a></div></div>
+</section>
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

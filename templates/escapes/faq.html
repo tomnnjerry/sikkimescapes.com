@@ -1,10 +1,32 @@
-{% extends "tales/base.html" %}
-{% block title %}Questions about travelling with Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim travel questions, answered · Sikkim Escapes{% endblock %}
+{% block description %}Answers to the questions travellers ask us about Sikkim: prices, permits, seasons, foreigners, altitude and each of the six districts.{% endblock %}
+{% block og_title %}Sikkim travel questions, answered · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">FAQ</p><h1 class="h-hero">Asked <span class="accent">and answered</span></h1></div></header>
-<section class="wrap narrow" style="padding-bottom: 96px; display: flex; flex-direction: column; gap: 64px">
-  {% for g in groups %}<div class="block"><h2 class="h-l">{% if g.url %}<a href="{{ g.url }}" style="text-decoration: none">{{ g.name }}</a>{% else %}{{ g.name }}{% endif %}</h2>
-    <div class="faq">{% for f in g.faqs %}<details><summary>{{ f.q }}</summary><div><p>{{ f.a }}</p></div></details>{% endfor %}</div></div>{% endfor %}
+{% include "escapes/partials/phero.html" with h_title="Questions, answered" h_kicker="FAQ" h_lede="What travellers ask us most, about travelling with us and about each district. Rules, fees and roads change: check current status before you travel." h_seed="faq" %}
+
+<section class="sec" aria-label="Questions by topic">
+  <div class="wrap split">
+    <div class="stack">
+      {% for g in groups %}{% if g.faqs %}<section id="faq-{{ forloop.counter }}" aria-labelledby="faq-{{ forloop.counter }}-h">
+        <div class="sec__head" style="margin-bottom:20px"><div><p class="kicker">{% if g.url %}District{% else %}Sikkim Escapes{% endif %}</p><h2 class="h2" id="faq-{{ forloop.counter }}-h">{{ g.name }}</h2></div>{% if g.url %}<a class="sec__more" href="{{ g.url }}">The district {% icon "arrow" %}</a>{% endif %}</div>
+        <div class="faq">{% for f in g.faqs %}<details{% if forloop.first and forloop.parentloop.first %} open{% endif %}><summary>{{ f.q }}</summary><div><p>{{ f.a }}</p></div></details>{% endfor %}</div>
+      </section>{% endif %}{% endfor %}
+    </div>
+    <aside class="side">
+      <nav class="panel" aria-label="Topics">
+        <p class="kicker">Topics</p>
+        <div class="toc-side">{% for g in groups %}{% if g.faqs %}<a href="#faq-{{ forloop.counter }}">{{ g.name }} <small class="muted">({{ g.faqs|length }})</small></a>{% endif %}{% endfor %}</div>
+      </nav>
+      <div class="panel panel--dark">
+        <h3>Not here</h3>
+        <p class="small">Ask the Gangtok desk. We answer within one working day, and the good questions end up on this page.</p>
+        <a class="btn btn--foil btn--block" href="{% url 'contact' %}">Ask us</a>
+      </div>
+      <div class="pills"><a href="{% url 'tool_permits' %}">{% icon "permit" %}Permit checker</a><a href="{% url 'tool_budget' %}">{% icon "rupee" %}Trip cost</a><a href="{% url 'seasons' %}">{% icon "calendar" %}Seasons</a></div>
+    </aside>
+  </div>
 </section>
+
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

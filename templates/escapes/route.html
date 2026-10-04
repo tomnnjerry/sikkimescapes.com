@@ -1,29 +1,50 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}: distance, drive time, flights and trains · Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}: distance, time, fares · Sikkim Escapes{% endblock %}
 {% block description %}{{ rt.summary|truncatechars:158 }}{% endblock %}
-{% block body_attrs %} data-land="{{ rt.region_obj.slug }}"{% endblock %}
+{% block og_title %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }} · Sikkim Escapes{% endblock %}
+{% block og_image %}{% with img=rt|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ rt.region }}"{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain">
-  <div class="phead__text" style="margin-top: 32px">
-    <div class="chip-row"><a class="chip" href="{{ rt.region_obj.url }}">{{ rt.region_obj.name }}</a><span class="chip chip--line">≈ {{ rt.distance_km }} km</span></div>
-    <h1 class="h-xl">{{ rt.from_obj.name }} <span class="accent">to</span> {{ rt.to_obj.name }}</h1>
-    <div class="answer">{{ rt.summary }}</div>
+{% with a=rt.from_obj b=rt.to_obj %}
+{% include "escapes/partials/phero.html" with h_title=a.name|add:" to "|add:b.name h_img=rt|first_img h_kicker=rt.region_obj.name|add:" · Road guide" h_lede=rt.summary h_seed=rt.slug h_ms_cap=b.name h_ms_val=b.altitude_m|split_alt h_short=True %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      {% if rt.options %}<div>
+        {% include "escapes/partials/sechead.html" with sh_kicker="Your options" sh_title="How to make the trip" %}
+        <div class="hl">{% for o in rt.options %}<div class="rv"><h3>{{ o.mode }}</h3><p class="small" style="margin-bottom:8px">{% if o.time %}<b>{{ o.time }}</b>{% endif %}{% if o.time and o.cost %} · {% endif %}{% if o.cost %}{{ o.cost }}{% endif %}</p><p>{{ o.text }}</p></div>{% endfor %}</div>
+        <p class="small muted" style="margin-top:10px">Fares are indicative. Landslides, snow and check-post timings change journeys: check current status before you travel.</p>
+      </div>{% endif %}
+      {% if rt.stops_on_way %}<div>
+        <p class="kicker">On the way</p>
+        <h2 class="h2">Stops worth the time</h2>
+        <ol class="numlist">{% for s in rt.stops_on_way %}<li>{{ s }}</li>{% endfor %}</ol>
+      </div>{% endif %}
+      {% if rt.tip %}<div class="answer"><b>Our tip</b><p>{{ rt.tip }}</p></div>{% endif %}
+      {% if map_points != "[]" %}{% atlas map_points rt.region route=True %}{% endif %}
+      {% include "escapes/partials/faq.html" with faqs=rt.faqs faq_title=a.name|add:" to "|add:b.name|add:": questions" %}
+    </div>
+    <aside class="side">
+      <dl class="ledger">
+        <div><dt>From</dt><dd><a href="{{ a.url }}">{{ a.name }}</a>{% if a.altitude_m %} · {{ a.altitude_m|metres }}{% endif %}</dd></div>
+        <div><dt>To</dt><dd><a href="{{ b.url }}">{{ b.name }}</a>{% if b.altitude_m %} · {{ b.altitude_m|metres }}{% endif %}</dd></div>
+        {% if rt.distance_km %}<div><dt>Distance</dt><dd>≈ {{ rt.distance_km }} km</dd></div>{% endif %}
+        {% if rt.options.0.time %}<div><dt>Time</dt><dd>{{ rt.options.0.time }}</dd></div>{% endif %}
+        <div><dt>District</dt><dd><a href="{{ rt.region_obj.url }}">{{ rt.region_obj.name }}</a></dd></div>
+      </dl>
+      <a class="btn btn--foil btn--block" href="{% url 'plan' %}?land={{ rt.region }}&from={{ request.path|urlencode }}" data-cta="route-plan">Book the car and permits</a>
+    </aside>
   </div>
-</header>
-<section class="sec--tight"><div class="wrap split">
-  <div class="split__main">
-    <div class="block"><p class="eyebrow">Your options</p><h2 class="h-l">Ways to make the journey</h2>
-      <div class="reach">{% for o in rt.options %}<div class="reach__row" style="grid-template-columns: 160px 1fr"><b>{{ o.mode }}<br><span style="font-family: var(--display); font-style: italic; letter-spacing: 0; text-transform: none; font-size: 22px; color: var(--ink)">{{ o.time }}</span></b><p>{{ o.text }}</p></div>{% endfor %}</div></div>
-    {% if rt.stops_on_way %}<div class="block"><p class="eyebrow">Worth a stop</p><ol class="tips">{% for s in rt.stops_on_way %}<li>{{ s }}</li>{% endfor %}</ol></div>{% endif %}
-    {% if rt.tip %}<div class="answer" style="font-size: 17px">{{ rt.tip }}</div>{% endif %}
-    {% include "tales/partials/faq.html" with faqs=rt.faqs %}
+</section>
+
+<section class="sec sec--paper2" aria-labelledby="ends-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Either end" sh_title="The places this road joins" sh_id="ends-h" %}
+    <div class="grid g2">{% with p=a %}{% include "escapes/partials/card_place.html" %}{% endwith %}{% with p=b %}{% include "escapes/partials/card_place.html" %}{% endwith %}</div>
+    <p class="mt"><a class="linkarrow" href="{% url 'routes' %}">Every road guide {% icon "arrow" %}</a></p>
   </div>
-  <aside class="split__aside">
-    {% atlas map_points rt.region route=True %}
-    <div class="grid" style="grid-template-columns: 1fr 1fr">
-      {% with p=rt.from_obj %}{% include "tales/partials/card_place.html" %}{% endwith %}
-      {% with p=rt.to_obj %}{% include "tales/partials/card_place.html" %}{% endwith %}</div>
-    <a class="btn btn--dark" href="{% url 'plan' %}?land={{ rt.region }}&from={{ request.path|urlencode }}">Arrange a private car</a>
-  </aside>
-</div></section>
+</section>
+{% endwith %}
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

@@ -1,0 +1,43 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ n }} night Sikkim packages, {{ days }} days{% if journeys %} from {{ journeys.0.price_from_inr|inr }}{% endif %} · Sikkim Escapes{% endblock %}
+{% block description %}Every {{ n }}-night, {{ days }}-day Sikkim package we run, sorted by price{% if journeys %} from {{ journeys.0.price_from_inr|inr }} per person{% endif %}, with the route, highest point and a full price breakdown.{% endblock %}
+{% block og_title %}{{ n }} nights in Sikkim{% endblock %}
+{% block og_image %}{% with img=journeys.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block content %}
+{% with ns=n|stringformat:"d" ds=days|stringformat:"d" %}
+{% include "escapes/partials/phero.html" with h_title=ns|add:" nights in Sikkim" h_kicker="Packages · "|add:ns|add:" nights, "|add:ds|add:" days" h_lede="Every package of this length, sorted from the cheapest, with the route, the highest point and what the price pays for." h_seed="nights" %}
+{% endwith %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="answer"><b>Short answer</b><p>We run {{ journeys|length }} Sikkim package{{ journeys|length|pluralize }} of {{ n }} nights and {{ days }} days{% if journeys %}, from {{ journeys.0.price_from_inr|inr }} per person, twin sharing{% endif %}. {% if n <= 3 %}Three nights covers Gangtok and one day trip, or a short North Sikkim run from Gangtok. North Sikkim needs at least two nights of its own.{% elif n <= 5 %}Four or five nights fits Gangtok plus North Sikkim, or Gangtok plus the west, without rushing.{% else %}Six nights or more lets you combine districts with two nights per stop and a buffer day for roads.{% endif %} Prices are indicative; check current status before you travel.</p></div>
+  </div>
+</section>
+
+<section class="sec" style="padding-top:0" aria-labelledby="nj-h">
+  <div class="wrap">
+    <h2 class="h2 sr" id="nj-h">{{ n }} night packages</h2>
+    {% if journeys %}<div class="grid g3" data-fill>{% for j in journeys %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+    {% else %}<div class="empty">No packages of this length yet. <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">Tell us your dates</a>.</div>{% endif %}
+  </div>
+</section>
+
+{% if journeys %}<section class="sec sec--paper2" aria-labelledby="nt-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Side by side" sh_title="Compare them" sh_id="nt-h" %}
+    <div class="tablewrap prose" style="max-width:none"><table>
+      <thead><tr><th scope="col">Package</th><th scope="col">Route</th><th scope="col">Tier</th><th scope="col">Highest point</th><th scope="col">From, per person</th></tr></thead>
+      <tbody>{% for j in journeys %}<tr><td><a href="{{ j.url }}">{{ j.title }}</a></td><td>{% for s in j.stop_objs %}{{ s.obj.name }}{% if not forloop.last %} · {% endif %}{% endfor %}</td><td>{{ j.tier_obj.name }}</td><td>{% if j.max_altitude_m %}{{ j.max_altitude_m|metres }}{% else %}–{% endif %}</td><td class="num">{{ j.price_from_inr|inr }}</td></tr>{% endfor %}</tbody>
+    </table></div>
+  </div>
+</section>{% endif %}
+
+{% if lengths %}<section class="sec sec--tight" aria-labelledby="nl-h">
+  <div class="wrap">
+    <p class="kicker" id="nl-h">Other lengths</p>
+    <div class="pills">{% for x in lengths %}<a href="{% url 'nights' x %}">{% icon "calendar" %}{{ x }} nights, {{ x|add:1 }} days</a>{% endfor %}<a href="{% url 'journeys' %}">Every package</a><a href="{% url 'affordable' %}">{% icon "rupee" %}By price</a></div>
+  </div>
+</section>{% endif %}
+
+{% include "escapes/partials/cta.html" with cta_title="Tell us how many nights you have" %}
+{% endblock %}

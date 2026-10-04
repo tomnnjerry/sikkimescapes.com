@@ -1,14 +1,28 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Festival calendar for Nepal and India · Tales of Luxury{% endblock %}
-{% block description %}Festivals by month across Nepal, Rajasthan, Ladakh, North East India, Kerala, Goa and UP &amp; Bihar, with how to see each one well.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim festival calendar: mask dances, Losar, Losoong · Sikkim Escapes{% endblock %}
+{% block description %}Sikkim's festivals month by month: monastery mask dances, Losar, Losoong and Namsoong, Bumchu and Pang Lhabsol, with communities, places and how dates are set.{% endblock %}
+{% block og_title %}Sikkim festival calendar · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Festivals</p><h1 class="h-hero">The <span class="accent">calendar</span></h1>
-  <p class="lede">Festivals worth planning a journey around. Most follow lunar or local calendars, so dates move each year: check current status before you travel.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px">
-  {% for m in by_month %}{% if m.festivals %}<div class="day" style="grid-template-columns: 180px minmax(0, 1fr)">
-    <div class="day__n" style="font-size: 36px">{{ m.name }}</div>
-    <div class="grid grid--3" data-fill>{% for f in m.festivals %}<a class="card" href="{{ f.url }}" style="--tint: {{ f.region_obj.tint }}; --deep: {{ f.region_obj.deep }}"><span class="chip">{{ f.region_obj.name }}</span><span class="card__title card__title--s">{{ f.name }}</span><span class="card__meta">{{ f.when }}</span></a>{% endfor %}{% include "tales/partials/fill.html" %}</div>
-  </div>{% endif %}{% endfor %}
+{% include "escapes/partials/phero.html" with h_title="Festival calendar" h_kicker="Festivals" h_lede="Monastery mask dances, new years and harvest days, month by month, with the community each one belongs to." h_seed="festivals" %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="answer rv"><b>How dates work</b><p>Most Sikkim festivals follow the Tibetan or Lepcha lunar calendar, so they move by two to four weeks from year to year. We list the usual months; ask us for the exact date in the year you travel. Monasteries are places of worship: dress modestly, ask before photographing and keep out of the dance ground.</p></div>
+      {% for m in by_month %}{% if m.festivals %}<div id="{{ m.name|lower }}">
+        <h2 class="h2">{{ m.name }}</h2>
+        <div class="grid g2" data-fill>{% for f in m.festivals %}{% include "escapes/partials/card_fest.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_title="Plan a trip around a festival" %}</div>
+      </div>{% endif %}{% endfor %}
+      {% if not count %}<div class="empty">The festival calendar is being written. <a href="{% url 'plan' %}">Ask the Gangtok desk</a> for dates.</div>{% endif %}
+    </div>
+    <aside class="side">
+      <div class="panel">
+        <p class="kicker" style="margin-bottom:8px">{{ count }} festival{{ count|pluralize }}</p>
+        <nav class="toc-side" aria-label="Months">{% for m in by_month %}{% if m.festivals %}<a href="#{{ m.name|lower }}">{{ m.name }} <span class="muted">· {{ m.festivals|length }}</span></a>{% endif %}{% endfor %}</nav>
+      </div>
+      <a class="btn btn--foil btn--block" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="festivals-plan">Plan around a festival</a>
+    </aside>
+  </div>
 </section>
+{% include "escapes/partials/cta.html" with cta_title="Want to be there on the day?" cta_text="Tell us which festival and roughly when. We confirm the date for your year, book rooms early and plan the days around it." %}
 {% endblock %}

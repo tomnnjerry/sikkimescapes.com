@@ -1,0 +1,171 @@
+{
+  "slug": "dentam",
+  "name": "Dentam",
+  "region": "west-sikkim",
+  "kind": "valley",
+  "wiki": "",
+  "image_query": "Dentam valley West Sikkim",
+  "lat": 27.2612,
+  "lng": 88.1393,
+  "altitude_m": 1400,
+  "local_name": null,
+  "tagline": "A farming valley on the road to Singshore Bridge and Uttarey",
+  "meta_description": "Dentam (about 1,400 m): a farming and dairy valley 20 km from Pelling, on the way to Singshore Bridge, Uttarey and the Varsey trails. Costs and how to reach.",
+  "summary": "Dentam is a broad farming valley at about 1,400–1,500 m, roughly 20 km and an hour from Pelling, in the far west of Gyalshing district. It is a working bazaar and dairy area rather than a sight, and most travellers pass through on the way to Singshore Bridge and Uttarey. Stop for an hour, or stay a night.",
+  "intro": [
+    "Dentam sits low in a wide, open valley west of Pelling, with terraced fields of maize, paddy, vegetables and cardamom running down to the river and forest on the ridges above. The Gyalshing district administration gives its elevation as around 1,500 m and its distance from Pelling as about 20 km; our own drivers count on an hour each way. Dentam gives its name to the local assembly seat, Maneybong–Dentam, and is the market for the scattered villages around it.",
+    "There is not much to tick off here, and that is the point. The bazaar has tea shops, a few small stores and a jeep stand. Around it, families farm, keep cows and sell milk. The district administration describes Dentam as a place for birdwatchers and nature lovers, ringed by forest with rhododendrons on the higher slopes, and with Kangchenjunga visible on clear mornings from the ridges. It is a place to slow down, not to sightsee.",
+    "For most of our travellers Dentam is the valley floor on a day that runs from Pelling to Singshore Bridge and on to Uttarey. The road drops into the valley, crosses it and climbs again to the bridge, a few kilometres west. Walkers know it as one end of the old trails over the Singalila foothills towards Varsey and Hilley, now in Soreng district. Give it an hour on the way through, or a night in a homestay."
+  ],
+  "story": {
+    "title": "Cheese on a Himalayan farm road",
+    "text": "Dentam's fields and cows feed a small dairy story. Wikipedia's article on the Singshore Bridge, citing the Government of India's Incredible India site, notes that not far from the bridge is the Alpine Cheese Factory, which makes Gouda cheese. Gouda is a Dutch-style hard cheese, an unusual thing to find at the end of a Sikkimese farm road, and it reflects the dairy farming that runs through this valley, where many households keep cattle and sell milk. We have not been able to confirm from an official source who runs the unit today, how much it produces or whether visitors are received, so treat it as a possible stop rather than a fixed sight. Ask your driver or homestay host in Dentam whether it is open and whether cheese is for sale; if it is, it makes a good picnic with local bread from the Pelling bakeries. If not, the valley's tea shops still serve milk tea made with fresh local milk, which is the more everyday version of the same story.",
+    "source": "Wikipedia: Singshore Bridge, Pelling (citing Incredible India); Gyalshing district administration: Dentam"
+  },
+  "little_known": [
+    {"fact": "The Gyalshing district administration lists a rhododendron trek route that runs from Hilley or Soreng over the Barsey (Varsey) ridge and down to Dentam, then on to Pemayangtse.", "source": "Gyalshing district administration: Adventures"},
+    {"fact": "Dentam gives its name to the Maneybong–Dentam assembly constituency of the Sikkim Legislative Assembly, one of the seats in Gyalshing district.", "source": "Wikipedia: Maneybong–Dentam Assembly constituency"},
+    {"fact": "From the Kagyu monastery above Uttarey, across the gorge, the district administration notes that the Dentam peak and the river below are both visible.", "source": "Gyalshing district administration: Utteray"}
+  ],
+  "facts": [
+    ["Best months", "Oct–Dec and Mar–May"],
+    ["Nights we suggest", "0–1"],
+    ["From Gangtok", "≈ 135 km · 6–7 h (≈ 20 km beyond Pelling)"],
+    ["Altitude", "About 1,400–1,500 m"],
+    ["Known for", "Farming valley, dairy, birding, road to Singshore and Uttarey"],
+    ["Permit", "Not needed for Indians; foreigners need the Sikkim RAP"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "The drive down into the valley", "text": "The road from Pelling winds down through forest and fields into Dentam's open valley, one of the widest stretches of farmland in Gyalshing district. On a clear morning stop on the upper bends for photographs of the terraces, the river and the ridges rising towards the Nepal border."},
+    {"title": "Bazaar tea stop", "text": "Dentam bazaar is small and practical: tea shops, a few stores, a jeep stand and a school. Stop for milk tea and a plate of momos or sel roti, watch the morning jeeps load up, and ask for the latest news on the road to Uttarey."},
+    {"title": "Farm walks on the valley floor", "text": "Footpaths link the houses and terraces around the bazaar. In autumn families harvest maize and paddy; in winter fields turn to mustard and vegetables. Walk with a local guide or your host, keep to the paths and ask before photographing people or homes."},
+    {"title": "Birds on the forest edge", "text": "The district administration calls Dentam a spot for bird watchers. The mix of fields, river and forest suits barbets, bulbuls, drongos, minivets and laughingthrushes. The first two hours after dawn are best, especially in March to May and October to November."},
+    {"title": "Gateway to Singshore Bridge", "text": "Singshore Bridge, about 240 m long and more than 100 m above a gorge, lies a few kilometres west of the bazaar. Most travellers combine Dentam, the bridge and Uttarey in one day from Pelling, or stop in Dentam on the way to a night in Uttarey."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run between Gyalshing and Dentam, and on to Uttarey, a few times a day, mostly in the morning, indicatively ₹100–200 a seat. Return jeeps leave early, so a day trip by jeep is tight; check timings at the Gyalshing stand the evening before."},
+    {"mode": "Private car", "text": "From Pelling, about 20 km and 1 hour, indicatively ₹2,000–3,000 for a half day including the Singshore Bridge, or ₹3,000–4,000 for a full day on to Uttarey. From Gangtok, about 135 km and 6–7 hours via Ravangla or Melli, Legship and Gyalshing."},
+    {"mode": "From Bagdogra / NJP", "text": "About 155–165 km and 6.5–7.5 hours via Melli, Jorethang, Legship and Gyalshing, indicatively ₹6,500–8,500 by private car. Most travellers spend the first night in Pelling. NH10 closes after heavy rain; the alternative road is via Darjeeling. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Gyalshing–Dentam", "≈ ₹100–200 a seat"],
+    ["Car Pelling–Dentam–Singshore (half day)", "≈ ₹2,000–3,000 a car"],
+    ["Homestay", "≈ ₹1,200–2,000 per person with meals"],
+    ["Local guide for a farm or bird walk", "≈ ₹800–1,500"],
+    ["Meal (thali)", "≈ ₹120–250"]
+  ],
+  "where_to_stay": "Dentam has a few simple family homestays and lodges around the bazaar and the surrounding villages, used mostly by walkers, officials and visiting families; standards are basic, so ask us before you book. Most travellers stay in Pelling, an hour away, where Hotel Garuda is a budget base, Norbu Ghang Retreat and Spa suits a comfort trip and The Elgin Mount Pandim is the premium choice. For a village night on this road, we prefer the homestays of Uttarey, about 15 km further west beyond the Singshore Bridge.",
+  "stays": [],
+  "tips": [
+    "Carry cash from Pelling or Gyalshing; card and UPI payments are not reliable in Dentam.",
+    "Start from Pelling by 8–9 am so you have time for Dentam, the bridge and Uttarey before cloud builds.",
+    "Ask your driver to stop on the upper bends above the valley for the best photographs of the terraces.",
+    "If you are going on to Uttarey by jeep, buy your seat in Gyalshing early in the morning.",
+    "Avoid this road after dark and in heavy monsoon rain, when slides are common."
+  ],
+  "themes": ["village-homestays", "birds-and-wildlife", "offbeat-sikkim"],
+  "nearby": ["singshore-bridge", "uttarey", "hee-bermiok", "pelling"],
+  "experiences": [
+    {
+      "slug": "dentam-valley-farm-walk",
+      "title": "Farm walk on the Dentam valley floor",
+      "kind": "village",
+      "duration": "2–3 hours",
+      "best_time": "Oct–Dec and Mar–May, morning",
+      "cost": "≈ ₹800–1,500 for a local guide",
+      "image_query": "Dentam valley terraced fields Sikkim",
+      "wiki": "",
+      "summary": "Walk the footpaths between houses and terraces around Dentam bazaar with a local guide or homestay host, seeing how a West Sikkim farming valley grows maize, paddy, vegetables and cardamom and keeps its dairy cows.",
+      "body": [
+        "Dentam is one of the broadest farming valleys in Gyalshing district, and its footpaths are the easiest way to understand how most people in West Sikkim actually live. A local guide, or the host of your homestay, can lead you down from the bazaar through terraces and past houses to the stream and back, in about two to three hours at an easy pace.",
+        "What you see depends on the season. In October and November families harvest maize and paddy and dry them on rooftops and courtyards. In winter the terraces carry mustard, radish and other vegetables. In spring the cardamom plants under the shade trees put out flowers near the ground. Cows are kept close to the houses, and milk is sold in the bazaar.",
+        "Keep to the paths along terrace edges, close any gates you open and ask before photographing people or homes. If a family invites you in for tea, accept if you have time; a small purchase of vegetables or milk is a kind way to say thank you."
+      ],
+      "good_for": ["families", "couples", "solo", "budget"],
+      "faqs": [
+        {"q": "Do I need a guide for a farm walk in Dentam?", "a": "Not strictly, as the footpaths are public, but a local guide or your homestay host makes the walk far richer. They know which paths cross private land, can explain the crops and the farming year, and can introduce you to families. Indicatively a guide costs ₹800–1,500 for two to three hours."},
+        {"q": "What crops are grown around Dentam?", "a": "Maize and paddy are the main summer and autumn crops, with vegetables, mustard and radish in winter and black cardamom grown under shade trees on the slopes. Many families also keep cows and sell milk. What you see on a walk depends on the month; October and November are the harvest season."},
+        {"q": "Is the Dentam farm walk suitable for children and older travellers?", "a": "Yes, if you choose the route with your guide. The valley floor is gentle, but paths between terraces can be narrow, steep in places and slippery after rain. Wear shoes with grip and carry water. Older travellers can keep to the flatter paths near the bazaar."}
+      ]
+    },
+    {
+      "slug": "dentam-morning-birdwatch",
+      "title": "Early morning birding around Dentam",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "Mar–May and Oct–Nov, from dawn",
+      "cost": "≈ ₹1,000–2,000 for a local guide",
+      "image_query": "Himalayan bulbul Sikkim forest",
+      "wiki": "",
+      "summary": "Walk the edges of fields, river and forest around Dentam at dawn, when the valley is quiet and the birds are most active, with a local guide who knows the common species, the best paths and where the flocks feed.",
+      "body": [
+        "The Gyalshing district administration describes Dentam as an ideal spot for bird watchers and nature lovers. The reason is the mix of habitats in a small area: open fields on the valley floor, a river with scrub along its banks and forest on the slopes, with rhododendrons on the higher ridges.",
+        "Start at first light, when it is cool and birds call most. Along the field edges look for bulbuls, drongos, barbets and sunbirds; in the forest, flocks of minivets and laughingthrushes move through the canopy. In spring many birds are in breeding colours, and the call of the barbets carries across the whole valley.",
+        "Carry binoculars, a field guide or app, water and a light jacket, as mornings are cool even in spring. Walk slowly and quietly, keep to paths and do not use recordings to call birds. Finish with tea in the bazaar as the first jeeps leave for Gyalshing."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Is Dentam good for birdwatching?", "a": "Yes. The district administration names Dentam as an ideal spot for birdwatchers, and the mix of fields, river and forest supports a good range of common Himalayan foothill species. It is not a formal reserve, so expect pleasant general birding rather than rarities. Mornings in March to May and October to November are best."},
+        {"q": "What birds might I see in Dentam?", "a": "Commonly seen birds of these elevations include bulbuls, drongos, barbets, sunbirds, minivets, laughingthrushes and various flycatchers and warblers in season. A local guide or a field guide to the birds of the Indian subcontinent will help with identification. Sightings vary with season, weather and luck."},
+        {"q": "Can I combine Dentam birding with Uttarey?", "a": "Yes, and it is a good plan. Uttarey, at about 2,000 m, has more forest and different species from the lower Dentam valley. Bird Dentam at dawn, drive across the Singshore Bridge and spend the next morning on the forest trails around Uttarey. A night in a Uttarey homestay makes this easy."}
+      ]
+    },
+    {
+      "slug": "dentam-cheese-and-milk-tea-stop",
+      "title": "Dairy, cheese and milk tea in the valley",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Year-round, daytime",
+      "cost": "≈ ₹50–500 per person",
+      "image_query": "Sikkim dairy cows village",
+      "wiki": "",
+      "summary": "Stop in the Dentam valley for milk tea made with local milk and, if it is open, look for the Alpine Cheese Factory near the Singshore Bridge, which Incredible India lists as a maker of Gouda cheese.",
+      "body": [
+        "Dentam is cow country by Sikkim's standards, and the simplest way to taste that is a glass of milk tea in a bazaar tea shop, often with sel roti, the ring-shaped rice bread fried at home, or a plate of momos. Ask for tea made with fresh milk; most shops use it here.",
+        "The more unusual stop is cheese. Wikipedia's article on the Singshore Bridge, citing the Incredible India site, notes that the Alpine Cheese Factory, which makes Gouda cheese, lies not far from the bridge. We have not been able to confirm how it operates today or whether visitors are received, so ask your driver or host before you go out of your way.",
+        "If cheese is for sale, buy a small piece for a picnic at the bridge or for the road. Either way, this is a gentle, low-cost stop that fits into the Pelling–Singshore–Uttarey day and gives you a reason to linger in the valley."
+      ],
+      "good_for": ["families", "couples", "budget", "first-timers"],
+      "faqs": [
+        {"q": "Is there a cheese factory near Dentam?", "a": "Wikipedia's article on the Singshore Bridge, citing the Incredible India site, mentions an Alpine Cheese Factory near the bridge that makes Gouda cheese. We have not confirmed its current opening or whether visits are possible, so ask locally before you plan around it. Check current status before you travel."},
+        {"q": "What should I eat in Dentam?", "a": "Simple local food: milk tea, sel roti, momos, chowmein and rice-dal-vegetable thalis at the bazaar's small eateries, indicatively ₹120–250 for a meal. Homestays cook home-style meals with rice, dal, seasonal greens, pickles and sometimes chicken or pork. Tell your host in advance if you are vegetarian."},
+        {"q": "Are there restaurants in Dentam?", "a": "Only small local eateries and tea shops in the bazaar, which close early in the evening. There are no tourist restaurants. If you need a particular diet or a late meal, eat in Pelling or arrange dinner with your homestay. Carry snacks and water for the drive on to Uttarey."}
+      ]
+    },
+    {
+      "slug": "dentam-varsey-trail-walk",
+      "title": "Walk the old trail towards Varsey",
+      "kind": "adventure",
+      "duration": "1–2 days",
+      "best_time": "Mar–May for rhododendrons; Oct–Nov",
+      "cost": "≈ ₹2,500–4,000 per day for a guide",
+      "image_query": "Varsey rhododendron forest trail Sikkim",
+      "wiki": "Varsey Rhododendron Sanctuary",
+      "summary": "Follow part of the rhododendron trek route that the district administration lists between Dentam and the Barsey (Varsey) ridge, through farmland and forest that flowers red and pink in spring, with a local guide who knows the way.",
+      "body": [
+        "The Gyalshing district administration lists a rhododendron trek that runs from Hilley or Soreng over the Barsey ridge, at about 3,000 m, down to Dentam and on to Pemayangtse, best from March to May. Dentam is the low end of that route, so the trail from here is a long, steady climb through farmland and then forest.",
+        "With a local guide you can walk a day section up into the forest and back, or arrange a two-day crossing to Barsey and Hilley with a car waiting on the far side. The upper forest is part of the Varsey (Barsey) Rhododendron Sanctuary, now on the Soreng district side, where sanctuary entry fees apply.",
+        "These trails are steep, less used than the Hilley track and easy to lose in cloud. Go only with a guide who knows them, start early, carry water, food and rain gear, and tell your host your plan. Check current status of sanctuary rules and fees before you travel."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Can I trek from Dentam to Varsey?", "a": "Yes, with a local guide. The district administration lists a rhododendron trek between Hilley or Soreng, the Barsey ridge, Dentam and Pemayangtse. From Dentam it is a long climb of more than 1,500 m to the ridge, best done over two days. Sanctuary fees apply at Varsey. Check current status before you travel."},
+        {"q": "When do rhododendrons bloom on the Varsey trail?", "a": "Usually from late March to early May, starting lower and moving up the ridge as spring advances. April is often the peak around the Barsey ridge. Timing shifts with the weather each year, so ask us or a local guide close to your dates before you set out."},
+        {"q": "Is the Dentam–Varsey trail suitable for beginners?", "a": "Only for fit walkers. The day sections are steep and the full crossing is long, with few people on the trail and no shops. A beginner can enjoy a shorter half-day walk up into the forest with a guide. For an easier rhododendron walk, the 4 km track from Hilley to Barsey is gentler."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Dentam?", "a": "Dentam is a farming valley in Gyalshing district (West Sikkim), about 20 km and an hour west of Pelling by road. It lies at roughly 1,400–1,500 m, below the Singalila foothills near the Nepal border. The Singshore Bridge is a few kilometres further west, and Uttarey is beyond the bridge."},
+    {"q": "Is Dentam worth visiting?", "a": "As a stop, yes; as a destination on its own, only for travellers who like quiet farm villages and birding. Most people pass through on the way to the Singshore Bridge and Uttarey, stopping for tea, photographs of the valley and a short walk. A night in a homestay suits walkers and birders."},
+    {"q": "How far is Dentam from Pelling?", "a": "About 20 km by road, roughly an hour each way on a winding hill road. A private car from Pelling costs indicatively ₹2,000–3,000 for a half-day trip to Dentam and the Singshore Bridge, or ₹3,000–4,000 for a full day on to Uttarey. Shared jeeps leave from Gyalshing in the morning."},
+    {"q": "What is the altitude of Dentam?", "a": "The Gyalshing district administration gives about 1,500 m, and the valley floor around the bazaar is closer to 1,400 m. That makes Dentam warmer than Pelling at about 2,150 m and Uttarey at about 2,000 m. There is no altitude risk at this height for healthy travellers."},
+    {"q": "Do I need a permit to visit Dentam?", "a": "Indian citizens do not need a permit for Dentam. Foreign nationals need Sikkim's Restricted Area Permit, applied for online through the e-FRRO portal after arriving in India. Everyone pays Sikkim's ₹50 tourist entry fee, collected by hotels at check-in. Check current status before you travel."},
+    {"q": "Can I see Kangchenjunga from Dentam?", "a": "The district administration says Dentam has views of Kangchenjunga, but from the low valley floor the higher ridges hide much of the range. For a better view, stop on the upper bends of the road from Pelling, or go on to Uttarey or the viewpoints of Pelling on a clear morning between October and March."},
+    {"q": "Where can I stay near Dentam?", "a": "Dentam has only a few basic homestays and lodges. Most travellers stay in Pelling, an hour away, at places such as Hotel Garuda, Norbu Ghang Retreat and Spa or The Elgin Mount Pandim. For a village stay on this road, the family homestays of Uttarey beyond the Singshore Bridge are better set up for guests."},
+    {"q": "When is the best time to visit Dentam?", "a": "October to December and March to May. Autumn brings harvest scenes and clear skies; spring brings birds and rhododendrons on the higher slopes. Winter days are pleasant in the valley but mornings are cold. June to September brings heavy rain, leeches and landslides on the road, so we avoid it."},
+    {"q": "Can I do Dentam, Singshore Bridge and Uttarey in one day from Pelling?", "a": "Yes. Leave Pelling by 8–9 am, stop in Dentam for tea, walk the Singshore Bridge and drive up to Uttarey for lunch and a short walk, returning to Pelling by evening. It is about 70 km of hill road in total. A night in Uttarey makes the day far more relaxed."}
+  ]
+}
