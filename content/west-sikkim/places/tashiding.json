@@ -1,0 +1,171 @@
+{
+  "slug": "tashiding",
+  "name": "Tashiding",
+  "region": "west-sikkim",
+  "kind": "monastery",
+  "wiki": "Tashiding Monastery",
+  "image_query": "Tashiding Monastery chortens Sikkim",
+  "lat": 27.3083,
+  "lng": 88.2981,
+  "altitude_m": 1465,
+  "local_name": null,
+  "tagline": "The heart-shaped hill of chortens and the sacred Bumchu vase",
+  "meta_description": "Tashiding Monastery (1,465 m), West Sikkim: founded 1641, the Bumchu sacred vase festival, chortens and mani stones, how to reach from Yuksom and Pelling.",
+  "summary": "Tashiding Monastery stands at about 1,465 m on a heart-shaped hill between the Rathong Chu and Rangeet rivers, 19 km from Yuksom. Founded in 1641 and enlarged in 1717, it is one of the most sacred sites in Sikkim, famous for its chortens, carved mani stones and the Bumchu sacred-vase festival in February or March.",
+  "intro": [
+    "Tashiding crowns a conical, wooded hill rising between two rivers: the Rathong Chu, coming down from the Kangchenjunga glaciers, and the Rangeet. Wikipedia describes the hill as heart-shaped and records that the monastery was founded in 1641 by Ngadak Sempa Chempo Phunshok Rigzing, one of the three lamas of the Yuksom coronation, and extended and renovated in 1717 under the third Chogyal, Chakdor Namgyal. It belongs to the Nyingma order, with Guru Padmasambhava as its principal figure.",
+    "The road ends at Tashiding bazaar, and a path climbs the hill to the monastery. At the top, a broad terrace holds the main temple, a field of whitewashed chortens and long walls of flat stones carved with the mantra Om Mani Padme Hum, many said to be the work of the craftsman Yanchong Lodil. Among the chortens is the Thong-Wa-Rang-Dol, believed to cleanse anyone who looks at it.",
+    "Tashiding is best known for Bumchu, on the 14th and 15th days of the first Tibetan month, when lamas open a sealed sacred vase and read the coming year in the level of its water. On ordinary days the hill is quiet, with wide views down to the river confluence and across to Pelling's ridge."
+  ],
+  "story": {
+    "title": "A vase of water from the time of Padmasambhava",
+    "text": "Tashiding's fame rests on a vase. According to the monastery tradition recorded in Wikipedia's article, Guru Padmasambhava, who taught in Tibet in the reign of King Trisong Deutsen in the 8th century, consecrated a vase of holy water that was later found and placed at Tashiding. It is kept sealed. Once a year, on the night of the 14th day of the first Tibetan month, during the festival of Bumchu ('sacred vase'), the lamas open it before a crowd of pilgrims from Sikkim, Darjeeling, Nepal and Bhutan, and examine the water. If it is filled to the brim, the coming year will be prosperous; if it is empty, famine will follow. Some of the water is then shared with the pilgrims, who carry it home as a blessing, and the vase is sealed again. The ritual is a reminder that in Sikkim the sacred is tied to the land: the water's level is read as a forecast for harvests across the state.",
+    "source": "Wikipedia: Tashiding Monastery"
+  },
+  "little_known": [
+    {"fact": "The Thong-Wa-Rang-Dol chorten at Tashiding is believed to cleanse the soul of anyone who simply looks at it.", "source": "Wikipedia: Tashiding Monastery"},
+    {"fact": "Many of Tashiding's mani stones, carved with Om Mani Padme Hum, are attributed to the craftsman Yanchong Lodil.", "source": "Wikipedia: Tashiding Monastery"},
+    {"fact": "Tashiding was founded in 1641, a year before the coronation at Yuksom, by Ngadak Sempa Chempo, one of the three founding lamas.", "source": "Wikipedia: Tashiding Monastery"}
+  ],
+  "facts": [
+    ["Best months", "Oct–May; Feb–Mar for Bumchu"],
+    ["Nights we suggest", "0–1 (stay in Yuksom or Pelling)"],
+    ["From Gangtok", "≈ 115 km · 5–6 h via Ravangla and Legship"],
+    ["Altitude", "1,465 m"],
+    ["Known for", "Bumchu vase, chortens, mani stones, river confluence"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [1, 2, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "The chorten field", "text": "On the hilltop terrace stand dozens of whitewashed chortens of different sizes and periods. Walk among them clockwise and look for the Thong-Wa-Rang-Dol, believed to cleanse anyone who sees it. The field is especially quiet in the late afternoon."},
+    {"title": "Carved mani stones", "text": "Long walls of flat stones carved with Om Mani Padme Hum, many attributed to the craftsman Yanchong Lodil, line the paths. Some are painted. Walk to their left so they stay on your right, as tradition asks."},
+    {"title": "Bumchu sacred vase", "text": "On the 14th–15th of the first Tibetan month, in February or March, lamas open the sacred vase and read the year's fortune in its water. Pilgrims queue for the holy water through the night."},
+    {"title": "View to the confluence", "text": "From the hilltop the land falls away to the Rathong Chu and Rangeet, with Pelling's ridge to the west and forested hills all around. The site explains why the hill was chosen as sacred."},
+    {"title": "The climb from the bazaar", "text": "The path from Tashiding bazaar to the monastery takes 30–40 minutes on foot, past prayer flags and small shrines. Cars can go part of the way, but walking up is how pilgrims arrive."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps link Tashiding with Legship, Gyalshing and Yuksom a few times a day, mostly in the morning, indicatively ₹100–150 from Yuksom or Legship. During Bumchu extra jeeps run but fill quickly."},
+    {"mode": "Private car", "text": "From Yuksom about 19 km and 1 hour; from Pelling about 40 km and 2 hours via Gyalshing and Legship; from Gangtok about 115 km and 5–6 hours via Ravangla and Legship. A car from Pelling costs indicatively ₹2,500–3,500 one way."},
+    {"mode": "From Bagdogra / NJP", "text": "About 140 km and 5–6 hours via Sevoke, Melli, Jorethang and Legship, indicatively ₹5,500–7,500 by private car. NH10 can close in the monsoon; check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Yuksom–Tashiding", "≈ ₹100–150 a seat"],
+    ["Car Pelling–Tashiding", "≈ ₹2,500–3,500 one way"],
+    ["Entry", "No fixed fee; donation welcome"],
+    ["Simple guesthouse in Tashiding", "≈ ₹1,000–2,000 a room"],
+    ["Meal (thali)", "≈ ₹150–250"]
+  ],
+  "where_to_stay": "Tashiding has only a few simple guesthouses and homestays, which fill during Bumchu. Most travellers stay in Yuksom, an hour away, at Yuksum Residency, Hotel Tashigang or a village homestay, or in Pelling, two hours away, where hotels run from Hotel Garuda (budget) to The Elgin Mount Pandim (premium).",
+  "stays": ["yuksum-residency-yuksom", "hotel-tashigang-yuksom", "yuksom-village-homestays"],
+  "tips": [
+    "Walk clockwise around chortens and keep mani walls on your right.",
+    "Do not climb on chortens or remove stones; even small pebbles are offerings.",
+    "Allow 1.5–2 hours, including the climb from the bazaar.",
+    "For Bumchu, book a room weeks ahead and expect long late-night queues.",
+    "Carry water and a hat; the hilltop is exposed and warmer than Pelling."
+  ],
+  "themes": ["monasteries", "festivals", "crafts-and-culture", "photography"],
+  "nearby": ["yuksom", "norbugang", "pelling", "ravangla"],
+  "experiences": [
+    {
+      "slug": "tashiding-chorten-kora",
+      "title": "Walking the chortens and mani walls",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Year-round, late afternoon",
+      "cost": "Free; donation welcome",
+      "image_query": "Tashiding chortens mani stones",
+      "wiki": "Tashiding Monastery",
+      "summary": "Walk clockwise through Tashiding's field of chortens and past its carved mani walls in the late afternoon, as pilgrims do, and find the Thong-Wa-Rang-Dol chorten said to cleanse by sight.",
+      "body": [
+        "Tashiding's hilltop is less a single building than a sacred landscape: the main temple, smaller shrines, dozens of chortens and long walls of carved mani stones. Pilgrims walk the circuit clockwise, turning prayer wheels and murmuring mantras.",
+        "Join them at their pace. Keep chortens and mani walls on your right, do not step over or sit on stones, and do not take any away. Look for the painted stones and the variety of chorten styles, built over centuries by donors.",
+        "Ask a monk or local which is the Thong-Wa-Rang-Dol; by tradition, simply seeing it cleanses the soul. In late afternoon the light warms the whitewash and the valley below turns blue."
+      ],
+      "good_for": ["solo", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "What is the Thong-Wa-Rang-Dol chorten?", "a": "It is a chorten at Tashiding that, according to tradition recorded in Wikipedia, cleanses the soul of anyone who looks at it. Pilgrims make a point of seeing it. Ask a monk or local to point it out among the many chortens on the hilltop."},
+        {"q": "What are mani stones?", "a": "Flat stones carved, and sometimes painted, with mantras, most often Om Mani Padme Hum, the mantra of Chenrezig. They are placed in walls or heaps as offerings. At Tashiding many are attributed to the craftsman Yanchong Lodil. Never remove or step on them."},
+        {"q": "How should I behave at Tashiding?", "a": "Walk clockwise around chortens and temples, keep mani walls on your right, remove shoes and hats inside shrines, and dress modestly. Ask before photographing monks or rituals. Do not climb on chortens or take stones as souvenirs."}
+      ]
+    },
+    {
+      "slug": "tashiding-bumchu-night",
+      "title": "The night the Bumchu vase is opened",
+      "kind": "culture",
+      "duration": "Overnight",
+      "best_time": "Feb–Mar, 14th–15th of the 1st Tibetan month",
+      "cost": "Free; donation welcome",
+      "image_query": "Bumchu festival Tashiding pilgrims",
+      "wiki": "",
+      "summary": "Join the pilgrims at Tashiding for Bumchu, when lamas open the sacred vase and read the coming year's fortune in its water, then share the holy water with the crowd through the night.",
+      "body": [
+        "Bumchu falls on the 14th and 15th days of the first Tibetan month, about two weeks after Losar, usually in February or early March. On the night of the 14th, the lamas open the sealed vase in front of the gathered crowd and inspect the water. Its level is read as a forecast for Sikkim's coming year.",
+        "Pilgrims come from across Sikkim, Darjeeling, Nepal and Bhutan, and the hill fills with families, stalls and chanting. After the reading, holy water is distributed; queues last late into the night. Bring a small clean bottle if you would like some.",
+        "This is a religious event, not a performance. Dress warmly and modestly, follow volunteers' instructions, keep children close and do not push. Arrange your transport and room well in advance, as roads and beds fill."
+      ],
+      "good_for": ["photographers", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "What is Bumchu?", "a": "Bumchu, meaning 'sacred vase', is an annual ritual at Tashiding in which lamas open a sealed vase of holy water, associated with Guru Padmasambhava, and read its level as a forecast for the year. A full vase means prosperity; an empty one warns of famine. Holy water is shared with pilgrims."},
+        {"q": "When is Bumchu in 2027?", "a": "Bumchu falls on the 14th–15th days of the first Tibetan month, roughly two weeks after Losar, so usually in February or early March. Exact dates move each year with the lunar calendar. We confirm them with the monastery when you plan. Check current status before you travel."},
+        {"q": "Where can I stay for Bumchu?", "a": "Tashiding's few guesthouses fill fast. Book Yuksom (1 hour away) or Pelling (2 hours) well in advance and arrange a car for the night. Shared jeeps run more often during the festival but are crowded. Some pilgrims stay up all night at the monastery."}
+      ]
+    },
+    {
+      "slug": "tashiding-pilgrim-path-climb",
+      "title": "Climb the pilgrim path from Tashiding bazaar",
+      "kind": "adventure",
+      "duration": "1.5 hours",
+      "best_time": "Oct–May, morning",
+      "cost": "Free",
+      "image_query": "Tashiding monastery hill path",
+      "wiki": "",
+      "summary": "Walk up the hill from Tashiding bazaar to the monastery on the old pilgrim path, past prayer flags and small shrines, arriving the way devotees have for centuries.",
+      "body": [
+        "Cars can drive part of the way up, but the traditional approach is on foot from the bazaar. The path climbs steadily for 30–40 minutes past prayer flags, small shrines and village houses, with growing views of the Rathong Chu and Rangeet valleys.",
+        "Go in the morning, when it is cooler; Tashiding is lower and warmer than Pelling, and the hill is exposed. Carry water and a hat. Local people walking up may greet you with 'Tashi delek'.",
+        "At the top, rest before entering the monastery area, then walk the chortens clockwise. Come down the same way or arrange for your car to meet you at the upper road point."
+      ],
+      "good_for": ["couples", "solo", "families", "budget"],
+      "faqs": [
+        {"q": "How long is the walk from Tashiding bazaar to the monastery?", "a": "About 30–40 minutes uphill on a path with steps, and 20–30 minutes down. Cars can go part of the way if you prefer to shorten it. Allow 1.5–2 hours for the walk and your visit."},
+        {"q": "Is Tashiding hot?", "a": "At about 1,465 m it is warmer than Pelling: roughly 20–28 °C on spring and early autumn days and cool in winter. The hilltop is exposed, so carry water, a hat and sun protection, and climb in the morning."},
+        {"q": "What does Tashi delek mean?", "a": "It is a Tibetan greeting meaning roughly 'blessings and good fortune', used by Bhutia, Sherpa and other Buddhist communities in Sikkim. Reply with the same words and a smile. Namaste is also widely used and understood."}
+      ]
+    },
+    {
+      "slug": "tashiding-river-confluence-view",
+      "title": "Read the land from Tashiding hill",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Oct–Mar, morning",
+      "cost": "Free",
+      "image_query": "Rathong Chu Rangeet confluence Sikkim",
+      "wiki": "Rangeet River",
+      "summary": "From the hilltop, trace the Rathong Chu down from the Kangchenjunga glaciers to its meeting with the Rangeet, and see how rivers, ridges and monasteries fit together in West Sikkim.",
+      "body": [
+        "Tashiding stands on a hill between two rivers. The Rathong Chu flows from the glaciers of the Kangchenjunga massif past Yuksom; the Rangeet comes from the north-west and later joins the Teesta. From the edge of the monastery terrace you can follow both valleys.",
+        "On a clear morning you can pick out Pelling's ridge and Pemayangtse to the west, and the hills towards Ravangla to the east. Ask a local to point out the villages; each slope has its own community and crops.",
+        "Bring binoculars. From October to March the air is clear; in spring, haze softens the far ridges. It is a good moment to understand how West Sikkim's sacred sites face each other across the valleys."
+      ],
+      "good_for": ["photographers", "families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Which rivers meet near Tashiding?", "a": "Tashiding stands on a hill between the Rathong Chu, which drains the glaciers of the Kangchenjunga massif past Yuksom, and the Rangeet. The Rangeet later joins the Teesta near Melli on the border with West Bengal."},
+        {"q": "Can I see Kangchenjunga from Tashiding?", "a": "The high peaks are partly hidden by nearer ridges from Tashiding. The site is better for valley and river views. For Kangchenjunga, the Pelling ridge, Pemayangtse and Uttarey give clearer views on fine mornings."},
+        {"q": "When is the best time for views at Tashiding?", "a": "October to March, in the morning, when the air is clear after the monsoon. Spring haze builds by midday from April. During the monsoon, cloud often fills the valleys, though the effect of mist around the hill can be beautiful."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Why is Tashiding Monastery famous?", "a": "It is one of the most sacred monasteries in Sikkim, founded in 1641 by one of the three lamas of the Yuksom coronation. It is known for the Bumchu sacred-vase festival, a hilltop field of chortens, carved mani stones and its setting between two rivers."},
+    {"q": "How far is Tashiding from Yuksom?", "a": "About 19 km, 45 minutes to 1 hour by car. Shared jeeps run a few times a day for about ₹100–150. From Pelling it is about 40 km and 2 hours via Gyalshing and Legship."},
+    {"q": "When is the Bumchu festival at Tashiding?", "a": "On the 14th and 15th days of the first Tibetan month, about two weeks after Losar, usually in February or early March. Dates move each year with the lunar calendar. Check current status before you travel."},
+    {"q": "Is there an entry fee at Tashiding Monastery?", "a": "There is normally no fixed entry fee. Donations to the monastery are welcome. Check current status before you travel, as some sites have introduced small fees. Carry small notes for offerings and tea in the bazaar."},
+    {"q": "How long do I need at Tashiding?", "a": "About 1.5–2 hours, including the 30–40 minute climb from the bazaar and time among the chortens. On Bumchu night, plan to stay late or overnight. Most visitors combine it with Yuksom the same day."},
+    {"q": "Who founded Tashiding Monastery?", "a": "Wikipedia records that it was founded in 1641 by Ngadak Sempa Chempo Phunshok Rigzing, one of the three lamas who consecrated the first Chogyal at Yuksom, and extended in 1717 under Chogyal Chakdor Namgyal. It belongs to the Nyingma order."},
+    {"q": "Can I stay at Tashiding?", "a": "There are a few simple guesthouses and homestays in Tashiding, indicatively ₹1,000–2,000 a room, which fill during Bumchu. Most travellers stay in Yuksom or Pelling and visit Tashiding as a stop. Book early for festival dates."},
+    {"q": "How do I get from Tashiding to Gangtok?", "a": "Drive via Legship and Ravangla, about 115 km and 5–6 hours. A private car costs indicatively ₹5,000–6,500. Shared jeeps go from Legship or Gyalshing to Gangtok in the morning. NH10 near Singtam can close in the monsoon."},
+    {"q": "Is Tashiding worth visiting?", "a": "Yes, especially for anyone interested in Buddhism, sacred landscapes or festivals. It feels different from Pelling's monasteries: a whole hill of chortens and mani stones above two rivers. It is an easy addition to a night in Yuksom."}
+  ]
+}

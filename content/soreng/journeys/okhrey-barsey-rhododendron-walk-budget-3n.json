@@ -1,0 +1,184 @@
+{
+  "slug": "okhrey-barsey-rhododendron-walk-budget-3n",
+  "title": "Okhrey, Hilley and Barsey rhododendron walk",
+  "region": "soreng",
+  "tier": "budget",
+  "nights": 3,
+  "themes": [
+    "flowers-and-forests",
+    "treks-and-walks",
+    "village-homestays"
+  ],
+  "stops": [
+    {
+      "place": "okhrey",
+      "nights": 1
+    },
+    {
+      "place": "hilley",
+      "nights": 1
+    },
+    {
+      "place": "okhrey",
+      "nights": 1
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 9000,
+  "price_basis": "per person, twin sharing, 2 people, shared jeep to Sombaria plus local reserved cars, homestays with meals",
+  "price_breakdown": [
+    [
+      "Homestays, 3 nights with meals",
+      5000
+    ],
+    [
+      "Shared jeeps and local cars",
+      2200
+    ],
+    [
+      "Sanctuary fee, Sikkim fee, local guide share",
+      800
+    ],
+    [
+      "Our planning fee",
+      1000
+    ]
+  ],
+  "best_months": [
+    0,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 3000,
+  "meta_description": "3 nights in April: Okhrey Sherpa village, a night at Hilley and the dawn walk to Barsey through rhododendron forest. From ₹9,000 per person, budget.",
+  "summary": "A three-night spring trip built around the Barsey Rhododendron Sanctuary. Sleep in Okhrey, a Sherpa village at about 2,200 m, then a night at Hilley so you can walk the 4 km to Barsey at dawn, before cloud and crowds. Best from late March to late April. From ₹9,000 per person on shared jeeps and homestays.",
+  "intro": [
+    "Most people do the Barsey walk as a rushed day trip, arriving at Hilley at 11 am with everyone else just as the cloud rolls in. We do it differently. After a first night in Okhrey, you move up to a simple homestay near the Hilley check post, at about 2,730 m, and start walking at first light. You reach the Barsey clearing at about 3,000 m by 8 am, often with the forest to yourself and Kangchenjunga still clear to the north.",
+    "The trip is timed for the rhododendrons, which usually peak on the Hilley to Barsey trail from the last week of March to the last week of April. We keep it on a budget by using a shared jeep to Sombaria and short reserved cars for the last stretches, and by staying in family homestays that include meals. We check the bloom with Okhrey hosts before confirming your dates. Walkers are back in Okhrey for lunch."
+  ],
+  "highlights": [
+    "Dawn walk from Hilley to Barsey through flowering rhododendron, oak and magnolia",
+    "Sunrise or sunset over the Kangchenjunga range from the top",
+    "Two nights in Okhrey, a Sherpa farming village with a small Nyingma monastery",
+    "A night at Hilley on the edge of the forest",
+    "Home-cooked meals and simple homestays at local prices"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Okhrey via Jorethang and Sombaria",
+      "place": "okhrey",
+      "overnight": "Okhrey",
+      "alt_m": 2200,
+      "drive": "≈ 130 km · 6–7 h by shared jeep and local car",
+      "text": "Take a shared jeep from Siliguri to Jorethang, about 3–3.5 hours along NH10 to Melli and up the Rangeet valley; if NH10 is closed by slides, jeeps run via Darjeeling. From Jorethang, continue by local jeep to Sombaria, where a reserved car we arrange takes you the last stretch up to Okhrey. The road climbs through cardamom and then oak forest. Check in to your homestay, have tea, and take a short walk to stretch your legs before an early dinner.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Okhrey village and up to Hilley",
+      "place": "hilley",
+      "overnight": "Hilley",
+      "alt_m": 2730,
+      "drive": "≈ 10 km · 30 min",
+      "text": "A slow morning in Okhrey. Climb the steps through the small rhododendron park to the village monastery, then wander the terraced lanes past mani walls and chortens, keeping them on your right. After lunch at the homestay, a local car takes you 10 km up to Hilley. Settle into a simple homestay near the forest check post, then walk the first kilometre of the trail in the late light to see the flowers and get used to the altitude. Dinner is early; the start tomorrow is earlier.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dawn walk to Barsey, back to Okhrey",
+      "place": "barsey-rhododendron-sanctuary",
+      "overnight": "Okhrey",
+      "alt_m": 2200,
+      "drive": "≈ 10 km · 30 min",
+      "text": "Pay the sanctuary fee at the Hilley check post and set off around 6 am with a packed breakfast and a local guide. The 4 km trail climbs gently through rhododendron, oak and magnolia to the Barsey clearing at about 3,000 m, usually 1.5–2 hours at an easy pace. Spend time at the top while Kangchenjunga is clear, then walk back down to Hilley by late morning. A car takes you back to Okhrey for lunch and a quiet afternoon. Picking flowers is prohibited in the sanctuary.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Okhrey to NJP",
+      "place": "okhrey",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 130 km · 6–7 h",
+      "text": "Breakfast, then a reserved car down to Sombaria and a shared jeep onward to Jorethang and Siliguri, or the whole way by car if you prefer to upgrade. Leave Okhrey by 7:30–8 am to reach Siliguri by mid-afternoon. Book onward trains from NJP or flights from Bagdogra for the evening, after 6 pm, to allow for delays on the hill roads and on NH10. On the way down, look back from the bends above Sombaria for a last view of the Barsey ridge.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "okhrey-homestays",
+    "hilley-homestays"
+  ],
+  "includes": [
+    "2 nights in an Okhrey homestay and 1 night in a Hilley homestay, twin sharing",
+    "All meals from dinner on day 1 to breakfast on day 4, with a packed breakfast for the walk",
+    "Shared jeep seats Siliguri–Jorethang–Sombaria and back",
+    "Reserved local cars Sombaria–Okhrey, Okhrey–Hilley and back, and Okhrey–Sombaria",
+    "Barsey sanctuary entry fee and Sikkim tourist entry fee",
+    "Local guide for the Barsey walk, shared between 2"
+  ],
+  "excludes": [
+    "Transfer from NJP or Bagdogra to the Siliguri jeep stand",
+    "Camera fee at the Hilley check post",
+    "Tea and snacks at Barsey",
+    "Tips and anything personal",
+    "Overnight at Barsey, unless requested and available"
+  ],
+  "good_to_know": [
+    "Bloom dates move by up to two weeks with the weather; we check with Okhrey hosts before confirming.",
+    "Nights at Hilley fall close to freezing even in April: bring a warm jacket, hat and gloves.",
+    "Homestays at Okhrey and Hilley are simple; hot water depends on power and geysers.",
+    "Mobile signal is weak at Hilley and inside the sanctuary.",
+    "April weekends book out a month ahead; weekdays are quieter."
+  ],
+  "upgrade": "The value version uses a private small car throughout and the best rooms at Sherpa Lodge, for about ₹16,000 per person.",
+  "faqs": [
+    {
+      "q": "Why stay at Hilley instead of doing Barsey as a day trip?",
+      "a": "Sleeping at Hilley, at about 2,730 m, lets you start walking at first light and reach Barsey by around 8 am, before the cloud that usually builds by late morning and before day-trippers arrive. It also means a gentler day, with no long drive before the walk. Hilley homestays are simple, but the early start is worth it."
+    },
+    {
+      "q": "How hard is the walk from Hilley to Barsey?",
+      "a": "Easy to moderate. It is 4 km each way on a broad forest trail with a net gain of about 270 m, taking 1.5–2 hours up and 1–1.5 hours down. There is no scrambling or exposure. Most fit adults and children over about eight manage it at a steady pace. Walk slowly if you feel breathless."
+    },
+    {
+      "q": "When will the rhododendrons be in bloom?",
+      "a": "Usually from the last week of March to the last week of April on the Hilley to Barsey trail, with tree rhododendrons flowering lower down from late February and higher species into May. Weather shifts the peak by up to two weeks each year, so we ask homestays in Okhrey for a bloom report before we confirm your dates."
+    },
+    {
+      "q": "Is this trip suitable for children?",
+      "a": "Yes for children of about eight and over who are used to walking, as long as you dress them warmly for Hilley nights. Younger children can do part of the trail. There are no special restrictions for children in the Barsey sanctuary, unlike some protected areas in North Sikkim. Homestays will adjust meals if you ask."
+    },
+    {
+      "q": "What does the ₹9,000 price include?",
+      "a": "Three nights in homestays with all meals, shared jeeps from Siliguri to Sombaria and back, local reserved cars for the last stretches and the Hilley transfers, the Barsey and Sikkim entry fees, a shared local guide for the walk and our planning fee. Camera fees, snacks and tips are extra. Indicative for 2026."
+    },
+    {
+      "q": "Can we stay overnight at Barsey itself?",
+      "a": "Sometimes. A trekkers' hut called Guras Kunj has operated in the Barsey clearing for years, but it opens and closes, and camping needs forest department permission. We check what is running when you book. If it is open and you want a night at the top, we can swap the Hilley night for it at a small extra cost."
+    },
+    {
+      "q": "How cold is it at Hilley in April?",
+      "a": "Days are mild, around 12–16 °C in sun, but nights can fall to 2–5 °C, and lower after rain. Homestays rarely have heating, so bring a down or fleece jacket, a warm hat, gloves and thermal layers for sleeping. Okhrey, about 500 m lower, is a few degrees warmer."
+    },
+    {
+      "q": "Do foreigners need a special permit for Barsey?",
+      "a": "Foreign nationals need Sikkim's Restricted Area Permit, applied for online on the e-FRRO portal after arriving in India, usually approved in 24–48 hours. No separate protected-area permit is needed for Barsey, though the sanctuary fee is higher for foreigners. Rules change, so check current status before you travel."
+    },
+    {
+      "q": "Can we do this trip with a private car instead of shared jeeps?",
+      "a": "Yes. A private small car from NJP for all four days adds roughly ₹5,000–6,000 per person for two people, and far less per head for four. It saves the changes at Jorethang and Sombaria and gives you more time in Okhrey. Our value version of this trip is built that way."
+    }
+  ]
+}

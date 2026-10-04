@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "gangtok-to-pelling",
+    "from": "gangtok",
+    "to": "pelling",
+    "distance_km": 115,
+    "summary": "Gangtok to Pelling is about 115 km and 5–6 hours by road, via Singtam and either Ravangla or Jorethang and Legship. Shared jeeps run to Gyalshing; a private car is easier and lets you stop at Ravangla or Temi.",
+    "options": [
+      {"mode": "Shared jeep", "time": "5–6.5 h", "cost": "≈ ₹350–500 a seat", "text": "Shared jeeps (Sumos and Boleros) leave Gangtok for Gyalshing mostly in the morning, with a few going on to Pelling. Book a seat the evening before at the taxi stand or through your hotel, and ask for a front or window seat if you get carsick. From Gyalshing a local shared taxi covers the last 10 km to Pelling for indicatively ₹50–80, or a reserved one for ₹300–500."},
+      {"mode": "Private car", "time": "5–6 h", "cost": "≈ ₹5,000–6,500 a car", "text": "A reserved small car or SUV is the most comfortable way, and the price covers the whole vehicle. The usual road runs Gangtok–Ranipool–Singtam on NH10, then climbs to Ravangla and drops to Legship before rising to Gyalshing and Pelling. The alternative goes Singtam–Melli–Jorethang–Legship. Drivers choose by road condition on the day."}
+    ],
+    "stops_on_way": ["Temi Tea Garden", "Ravangla and Buddha Park", "Legship and the Rangeet river", "Gyalshing bazaar"],
+    "tip": "NH10 between Gangtok and Singtam can be blocked by slides in the monsoon, so leave early, keep a buffer day and check current status before you travel.",
+    "faqs": [
+      {"q": "How long does it take from Gangtok to Pelling?", "a": "Allow 5–6 hours by private car and up to 6.5 hours by shared jeep for about 115 km. Hill roads average 20–25 km/h, and works or slides add time. Leave Gangtok by 8–9 am to reach Pelling in daylight. In the monsoon allow a full day and check current status before you travel."},
+      {"q": "Is there a direct shared jeep from Gangtok to Pelling?", "a": "A few jeeps go direct to Pelling, but most run to Gyalshing, the district headquarters 10 km below Pelling. From Gyalshing, shared local taxis or a reserved car take you up in 20–30 minutes. Seats sell out in October and May, so book the day before. Expect ₹350–500 a seat from Gangtok."},
+      {"q": "Which is the better road from Gangtok to Pelling?", "a": "The Ravangla road is usually shorter and passes Temi Tea Garden and Buddha Park, good for a break. The Melli–Jorethang road is lower and sometimes in better repair. Drivers decide on the day depending on works and slides. Both use NH10 between Gangtok and Singtam, which can close in heavy rain."},
+      {"q": "Can I visit Ravangla on the way to Pelling?", "a": "Yes. With a private car, Ravangla's Buddha Park and the Temi Tea Garden fit into the Gangtok–Pelling drive as 30–60 minute stops, making it a 7–8 hour day. Tell us in advance so the driver plans the route that way. Shared jeeps only stop briefly for tea and lunch."}
+    ]
+  },
+  {
+    "slug": "pelling-to-yuksom",
+    "from": "pelling",
+    "to": "yuksom",
+    "distance_km": 40,
+    "summary": "Pelling to Yuksom is about 40 km and 2 hours, past Darap, the Rimbi river and the Kanchenjunga Falls. Most travellers make it a full day with Khecheopalri Lake; staying a night in Yuksom is better.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2–2.5 h", "cost": "≈ ₹150–250 a seat", "text": "Shared jeeps run between Gyalshing, Pelling and Yuksom a few times a day, mostly in the morning and early afternoon. Seats fill with villagers, school students and trekkers' porters. Ask at the Upper Pelling junction or your hotel the evening before for timings. The last jeep back from Yuksom leaves early afternoon."},
+      {"mode": "Private car", "time": "1.5–2 h", "cost": "≈ ₹2,500–3,500 one way; ₹3,500–5,000 full-day loop", "text": "A reserved car lets you stop at Rimbi, the Kanchenjunga Falls and the turn-off to Khecheopalri Lake. The standard 'Yuksom tour' from Pelling covers the lake, the falls, Norbugang and Kathok Lake and returns in the evening. A one-way drop is cheaper if you are staying in Yuksom."}
+    ],
+    "stops_on_way": ["Darap village", "Rimbi waterfall and river", "Khecheopalri Lake (side road)", "Kanchenjunga Falls"],
+    "tip": "Do Yuksom as an overnight rather than a rushed day trip; Norbugang and Dubdi deserve the time.",
+    "faqs": [
+      {"q": "How far is Yuksom from Pelling?", "a": "About 40 km by road, 1.5–2 hours by car. The road passes Darap, crosses the Rimbi river and runs past the Kanchenjunga Falls. Adding the 30-minute side road to Khecheopalri Lake makes a full-day loop of 6–8 hours with stops. Roads are narrow and steep in places."},
+      {"q": "Can I do Pelling to Yuksom and back in one day?", "a": "Yes. A full-day tour from Pelling covers Khecheopalri Lake, the Kanchenjunga Falls, Norbugang and Kathok Lake for indicatively ₹3,500–5,000 per car. You will not have time for the one-hour walk up to Dubdi Monastery, so stay a night in Yuksom if Dubdi matters to you."},
+      {"q": "Is there public transport from Pelling to Yuksom?", "a": "Shared jeeps link Gyalshing, Pelling and Yuksom a few times a day, indicatively ₹150–250 a seat. They leave mostly in the morning, and the last return from Yuksom is usually early afternoon. Timings change, so ask at the Upper Pelling taxi stand the day before."},
+      {"q": "Is the Pelling–Yuksom road safe in the monsoon?", "a": "It stays open most of the year, but heavy rain from June to September brings slides and slippery stretches, and the waterfalls run at full force. Travel in daylight, use a local driver and keep a spare half day. Check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "yuksom-to-tashiding",
+    "from": "yuksom",
+    "to": "tashiding",
+    "distance_km": 19,
+    "summary": "Yuksom to Tashiding is about 19 km and 1 hour by road, down towards the Rathong Chu. It links Sikkim's first capital with its most sacred monastery and makes a natural half-day or onward route to Legship.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1–1.5 h", "cost": "≈ ₹100–150 a seat", "text": "Shared jeeps on the Yuksom–Tashiding–Legship line run a few times a day, mostly in the morning. They are cheap and used by villagers, so expect a full vehicle. From Tashiding bazaar the monastery is a 30–40 minute walk uphill, or a short ride where the road reaches near the top."},
+      {"mode": "Private car", "time": "45 min–1 h", "cost": "≈ ₹1,500–2,500 one way", "text": "A reserved car is the easy way, especially if you continue to Legship, Ravangla or Gangtok the same day. The road drops through forest and cardamom fields towards the Rathong Chu. Allow 1.5–2 hours at Tashiding Monastery for the chortens, mani stones and the views down to the river confluence."}
+    ],
+    "stops_on_way": ["Rathong Chu valley", "Tashiding bazaar", "Tashiding Monastery"],
+    "tip": "Pair Yuksom and Tashiding on the same day by starting with Dubdi at 7 am and reaching Tashiding by early afternoon.",
+    "faqs": [
+      {"q": "How far is Tashiding from Yuksom?", "a": "About 19 km by road, around 45 minutes to 1 hour by car. Tashiding Monastery sits on a hilltop above the village at about 1,465 m, between the Rathong Chu and Rangeet rivers. From Tashiding it is another 20 km or so to Legship and the road to Gangtok or Pelling."},
+      {"q": "Can I walk from Yuksom to Tashiding?", "a": "There are old footpaths through villages and forest between Yuksom and Tashiding, used for generations before the road. They are not waymarked and involve big drops and climbs, so walk only with a local guide. Most travellers take the road and save their legs for the climb to the monastery."},
+      {"q": "Is it worth visiting Tashiding from Yuksom?", "a": "Yes. Tashiding is among the most sacred monasteries in Sikkim, linked to Guru Padmasambhava and home to the Bumchu sacred-vase ritual. Its chortens and carved mani stones are unlike Pelling's monasteries. From Yuksom it is a short drive, and you can carry on to Legship and Gangtok the same day."},
+      {"q": "Is there a place to stay in Tashiding?", "a": "Tashiding has a few simple guesthouses and homestays, but rooms are limited and fill during Bumchu in February or March. Most travellers stay in Yuksom or Pelling and visit Tashiding as a stop. Check current status before you travel, especially on festival dates."}
+    ]
+  },
+  {
+    "slug": "pelling-to-uttarey",
+    "from": "pelling",
+    "to": "uttarey",
+    "distance_km": 35,
+    "summary": "Pelling to Uttarey is about 35 km and 1.5–2 hours, down through Dentam and across the Singshore Bridge to a cool village at about 2,000 m on the Singalila Ridge, near the Nepal border.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2–2.5 h", "cost": "≈ ₹150–250 a seat", "text": "Shared jeeps run from Gyalshing to Dentam and Uttarey a few times a day, mostly in the morning. Catch one in Gyalshing, 10 km below Pelling, rather than waiting in Pelling. Return jeeps leave Uttarey early in the day. This option suits travellers staying a night in a Uttarey homestay."},
+      {"mode": "Private car", "time": "1.5–2 h", "cost": "≈ ₹2,500–3,500 one way; ₹3,500–4,500 day trip", "text": "A reserved car makes Uttarey and the Singshore Bridge an easy day trip from Pelling, with stops in Dentam valley. The road drops into the Dentam valley and climbs again past the bridge. It is narrow in places; local drivers know where to pass. Leave by 9 am for a relaxed day."}
+    ],
+    "stops_on_way": ["Dentam valley", "Singshore Bridge", "Mainebas waterfall near Uttarey"],
+    "tip": "Walk the Singshore Bridge before noon, when cloud often rises from the gorge.",
+    "faqs": [
+      {"q": "How far is Uttarey from Pelling?", "a": "About 35 km, roughly 1.5–2 hours by car, via Dentam and the Singshore Bridge. The district administration gives Uttarey's altitude as about 6,600 ft, roughly 2,000 m, so it is cooler than Pelling. A day trip by reserved car costs indicatively ₹3,500–4,500."},
+      {"q": "Is the Singshore Bridge on the way to Uttarey?", "a": "Yes. The Singshore Bridge spans a deep gorge between Dentam and Uttarey and is the usual stop on this drive. It is about 240 m long and about 100 m above the gorge, and is often called the highest bridge in Sikkim. Cars cross it, and visitors walk out for photographs."},
+      {"q": "Should I stay overnight in Uttarey?", "a": "If you like quiet, yes. Uttarey has family homestays, forest walks to the Mainebas waterfall and a Kagyu monastery, and the forest road towards Chewabhanjang on the Nepal border. A night there turns a long day trip into a relaxed one. Homestays cost indicatively ₹1,200–2,200 per person with meals."},
+      {"q": "Is the road to Uttarey open all year?", "a": "It is open most of the year, but monsoon rain from June to September brings slides, and winter can bring frost or snow near Uttarey in January and February. Drive in daylight with a local driver, and check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "jorethang-to-pelling",
+    "from": "jorethang",
+    "to": "pelling",
+    "distance_km": 50,
+    "summary": "Jorethang to Pelling is about 50 km and 2 hours via Legship and Gyalshing. Jorethang is the lowland junction where most roads from Siliguri, NJP, Bagdogra and Darjeeling enter West Sikkim.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2–2.5 h", "cost": "≈ ₹150–250 a seat", "text": "Jorethang's busy taxi stand sends shared jeeps to Legship, Gyalshing and sometimes Pelling through the day. Change at Gyalshing if no direct Pelling jeep is leaving. From Siliguri, shared jeeps to Gyalshing pass through Jorethang and cost indicatively ₹500–650 for the whole run."},
+      {"mode": "Private car", "time": "1.5–2 h", "cost": "≈ ₹2,500–3,500 one way; ₹5,500–7,500 from NJP or Bagdogra", "text": "Most of our guests coming from NJP or Bagdogra (about 135–145 km, 5–6 hours) pass through Jorethang in a private car: Siliguri–Sevoke–Teesta Bazaar–Melli on NH10, then Jorethang, Legship and Gyalshing. If NH10 is closed, drivers can come via Darjeeling to Jorethang instead."}
+    ],
+    "stops_on_way": ["Jorethang bazaar", "Rangeet river at Legship", "Gyalshing"],
+    "tip": "NH10 between Sevoke and Melli closes after monsoon slides, so check current status before you travel and ask us about the Darjeeling road.",
+    "faqs": [
+      {"q": "How do I get from NJP or Bagdogra to Pelling?", "a": "By road, about 135–145 km and 5–6 hours, via Sevoke, Melli, Jorethang, Legship and Gyalshing. A reserved car costs indicatively ₹5,500–7,500. Shared jeeps from Siliguri go to Gyalshing for about ₹500–650 a seat, then a local taxi covers the last 10 km. In the monsoon allow extra time."},
+      {"q": "How far is Jorethang from Pelling?", "a": "About 50 km, around 2 hours by car, via Legship and Gyalshing. Jorethang is a low, warm market town on the Rangeet at roughly 300 m, while Pelling sits at about 2,150 m, so the road climbs steadily for most of the way. Shared jeeps cost about ₹150–250."},
+      {"q": "What if NH10 is closed?", "a": "NH10 between Sevoke and Melli is the usual road from Siliguri, and it closes after monsoon slides. The alternative is to drive via Darjeeling and down to Jorethang, which adds an hour or two. Our drivers track road news each morning. Check current status before you travel."},
+      {"q": "Is Jorethang worth a stop?", "a": "It is mainly a transport and market town, useful for an ATM, lunch and fuel. Nearby sights such as Namchi's Char Dham and Samdruptse are in Namchi district and can be added with a private car if you have an extra 3–4 hours. Otherwise most travellers pass straight through to Pelling."}
+    ]
+  }
+]

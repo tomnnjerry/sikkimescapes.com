@@ -1,0 +1,170 @@
+{
+  "slug": "cho-la",
+  "name": "Cho La",
+  "region": "east-sikkim",
+  "kind": "pass",
+  "wiki": "Cho La (Sikkim and Tibet)",
+  "image_query": "Cho La pass Sikkim",
+  "lat": 27.4228,
+  "lng": 88.8011,
+  "altitude_m": 4593,
+  "local_name": null,
+  "tagline": "The royal road to Tibet, open to Indians since 2025",
+  "meta_description": "Cho La guide: the pass where Hooker was arrested in 1849, the 1967 clash, 2025 battlefield-tourism rules, ₹1,120 permit, vehicle limits and homestay rule.",
+  "summary": "Cho La is a border pass at about 4,593 m on the Sikkim–Tibet watershed, roughly 6 km north-west of Nathu La. Once the royal route from Tumlong to the Chumbi Valley, it saw fighting in October 1967. Since autumn 2025 Indian nationals can visit on escorted, permit-only trips with a night in a Silk Route homestay.",
+  "intro": [
+    "Cho La sits on the Chola range, the ridge that divides Sikkim from Tibet's Chumbi Valley, at about 4,593 m. For centuries it was the main route between the Sikkimese capital at Tumlong and Chumbi, where the royal family kept a summer palace, and one of the main trade routes between Sikkim and Tibet. A fair-weather road now climbs to it on the Indian side.",
+    "The pass is part of India's Bharat Ranbhoomi Darshan initiative, which opens historic battlefields along the borders to visitors. After years of being closed to civilians, Cho La and Doklam opened to Indian domestic tourists in autumn 2025, with tight controls: a limited number of vehicles a day, escorts from Kupup, and a compulsory night in an approved homestay on the Old Silk Route.",
+    "This is a serious high-altitude trip. At about 4,593 m, Cho La is higher than Nathu La, and you reach it after a night at Kupup, Gnathang, Zuluk or Padamchen in Pakyong district. Foreigners are not allowed. Permits are issued through the Sikkim Tourism Department via registered operators. Rules are new and may change; check current status before you travel."
+  ],
+  "story": {
+    "title": "Hooker and Campbell, arrested at the pass in 1849",
+    "text": "In 1849 the botanist Joseph Dalton Hooker, later director of Kew Gardens, was travelling through Sikkim collecting rhododendrons with Archibald Campbell, the British superintendent of Darjeeling. Sikkim had an agreement that kept foreigners out of Tibetan territory, and when the two men reached Cho La and tried to go on towards Chumbi, they became the first Europeans recorded at the pass, and were arrested. Their detention by the Sikkim court became a diplomatic crisis, and the British responded the next year by annexing territory in the Sikkim foothills. The pass mattered because it was the royal road: the Chogyals travelled over it between Tumlong and their summer palace in Chumbi. More than a century later, on 1 October 1967, Cho La saw a one-day clash between Indian and Chinese troops, weeks after the fighting at Nathu La; Chinese forces withdrew about three kilometres. In 2025, Cho La opened to Indian civilians for the first time in decades.",
+    "source": "Wikipedia: Cho La (Sikkim and Tibet); Joseph Dalton Hooker; Nathu La and Cho La clashes"
+  },
+  "little_known": [
+    {"fact": "Cho La, at about 4,593 m, is higher than Nathu La (4,310 m) and lies roughly 6 km north-west of it on the same ridge.", "source": "Wikipedia: Cho La (Sikkim and Tibet)"},
+    {"fact": "The daily cap when Cho La opened in 2025 was 25 tourist vehicles and 25 motorcycles, with only bikes of 1,400 cc or more permitted.", "source": "ETV Bharat, September 2025"},
+    {"fact": "On the Chinese side, a border post stands at about 4,783 m, served by an access road repaved in 2016.", "source": "Wikipedia: Cho La (Sikkim and Tibet)"}
+  ],
+  "facts": [
+    ["Best months", "April–June and October–November"],
+    ["Nights we suggest", "2 (Silk Route homestay required)"],
+    ["From Gangtok", "≈ 70–80 km · 4–5 h, escorted from Kupup"],
+    ["Altitude", "≈ 4,593 m"],
+    ["Known for", "Royal Tibet route, 1849 Hooker arrest, 1967 clash"],
+    ["Permit", "Indian nationals only; ≈ ₹1,120 per person plus vehicle permit"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 1, 0, 0, 1, 2, 1, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "A battlefield opened to civilians", "text": "Cho La is one of the border sites opened under Bharat Ranbhoomi Darshan, where Indian visitors can see the ground of the October 1967 clash with an escort. The Army briefing and memorials give context. Photography rules are strict and set on the day."},
+    {"title": "Higher than Nathu La", "text": "At about 4,593 m, Cho La is the highest point most visitors to Sikkim will ever reach by vehicle. Views across the Chumbi Valley and the bare ridges of the Chola range are vast. The air is thin; move slowly and keep the visit short."},
+    {"title": "The royal road to Chumbi", "text": "Before the 20th century, Sikkim's rulers crossed Cho La between their capital at Tumlong and their summer palace in Chumbi. Traders followed the same route. Standing at the top, you are on the old political spine of the kingdom."},
+    {"title": "A night on the Old Silk Route", "text": "The permit requires a night in an approved homestay at Kupup, Gnathang, Zuluk or Padamchen, all in Pakyong district. These high villages are cold, simple and friendly, and the night helps you acclimatise before the pass."},
+    {"title": "Few visitors", "text": "With a cap of 25 vehicles and 25 motorbikes a day when it opened, Cho La is never crowded. You share the pass with soldiers, escort staff and a handful of other travellers, in a landscape that has seen very few civilians for decades."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "No shared jeeps run to Cho La. Visits are only in tour-operator or government-approved vehicles on a permit, so even budget travellers need to join a small group in a reserved vehicle. We can help pair travellers to split the cost."},
+    {"mode": "Private car", "text": "A registered operator's vehicle with a Cho La vehicle permit (about ₹11,000–12,000 for two days when the scheme opened) takes you from Gangtok via the Tsomgo road to an approved homestay, then up to the pass with an escort from Kupup. Private cars are not allowed."},
+    {"mode": "From Bagdogra / NJP", "text": "Spend at least one night in Gangtok to arrange permits and acclimatise, then travel up to a Silk Route homestay. From Bagdogra or NJP to Gangtok allow 4–5 hours on NH10, which closes in the monsoon. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Cho La permit", "≈ ₹1,120 a person (2025 rate)"],
+    ["Vehicle permit, two days", "≈ ₹11,000–12,000 a vehicle (2025 rate)"],
+    ["Silk Route homestay with meals", "≈ ₹1,500–2,500 a person"],
+    ["2N/3D package from Gangtok, small group", "≈ ₹12,000–18,000 a person"]
+  ],
+  "where_to_stay": "The permit requires a night in an approved homestay at Kupup, Gnathang, Zuluk or Padamchen, all in Pakyong district on the Old Silk Route. Expect simple rooms, shared or attached bathrooms, heavy quilts and home-cooked meals for about ₹1,500–2,500 per person a night. Before and after, stay in Gangtok: Hotel Tibet or The Chumbi Residency for comfort, Elgin Nor-Khill for heritage, or Mintokling Guest House on a budget.",
+  "stays": [],
+  "tips": [
+    "Cho La is for Indian nationals only; carry original photo ID and photocopies.",
+    "Book early: when the scheme opened, only 25 vehicles and 25 bikes were allowed each day.",
+    "Spend at least one night in Gangtok and one at the Silk Route homestay before going up to 4,593 m.",
+    "Rules are new; confirm permit fees, open days and escort arrangements shortly before you travel.",
+    "Never photograph military installations, troops or vehicles, and never fly a drone."
+  ],
+  "themes": ["lakes-and-passes", "offbeat-sikkim", "snow-and-winter"],
+  "nearby": ["nathu-la", "kupup", "tsomgo-lake", "baba-mandir"],
+  "experiences": [
+    {
+      "slug": "cho-la-battlefield-visit",
+      "title": "Escorted visit to the Cho La battlefield",
+      "kind": "culture",
+      "duration": "Half day from the homestay",
+      "best_time": "May–June and October–November, mornings",
+      "cost": "Permit ≈ ₹1,120; vehicle permit shared",
+      "image_query": "Cho La Sikkim border pass",
+      "wiki": "Nathu La and Cho La clashes",
+      "summary": "Drive up from your Silk Route homestay with an escort from Kupup to Cho La at about 4,593 m, the site of the 1 October 1967 clash between Indian and Chinese troops. A short, controlled visit to one of India's least-seen border battlefields.",
+      "body": [
+        "On the morning of the visit, your operator's vehicle joins the escort at Kupup, where Sikkim Police and Army personnel accompany tourist vehicles up the fair-weather road to the pass. The road is rough and high, with snow possible in any month except high summer. Expect checks of permits and ID along the way.",
+        "At Cho La you stand on the watershed between Sikkim and Tibet. On 1 October 1967, weeks after the fighting at Nathu La, Indian and Chinese troops clashed here for a day, and Chinese forces withdrew about three kilometres. Figures for casualties differ widely between Indian and Chinese accounts. Memorials and briefings tell the Indian Army's story.",
+        "Visits are short for safety and security. Photography is controlled; follow instructions exactly. At about 4,593 m, walk slowly and keep warm. Medical consultation with the Army was offered when the scheme opened, but carry your own medicines. Rules are new and may change; check current status before you travel."
+      ],
+      "good_for": ["couples", "solo", "photographers"],
+      "faqs": [
+        {"q": "What happened at Cho La in 1967?", "a": "On 1 October 1967, a few weeks after clashes at Nathu La, Indian and Chinese troops fought a one-day engagement at Cho La after a confrontation on the border. Chinese forces withdrew about three kilometres. Casualty figures differ widely between Indian and Chinese sources."},
+        {"q": "Can foreigners visit Cho La?", "a": "No. When Cho La opened in 2025 it was for Indian domestic tourists only. Foreigners, including OCI cardholders, cannot visit. They can see Tsomgo Lake and Baba Mandir on a protected-area permit instead. Check current status before you travel."},
+        {"q": "Is Cho La open every day?", "a": "Cho La opened in autumn 2025 with a daily cap of 25 vehicles and 25 motorbikes, subject to weather and security. Open days and closures can change at short notice, especially in winter. Confirm with your operator shortly before travel, and check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "cho-la-silk-route-homestay-night",
+      "title": "A night in a Silk Route homestay",
+      "kind": "village",
+      "duration": "1 night",
+      "best_time": "April–June and October–November",
+      "cost": "≈ ₹1,500–2,500 per person with meals",
+      "image_query": "Gnathang valley homestay Sikkim",
+      "wiki": "",
+      "summary": "The Cho La permit requires a night in an approved homestay at Kupup, Gnathang, Zuluk or Padamchen. It is cold and simple, and it is the best part of the trip for many people: dinner by the stove, starry skies and a slow morning at altitude.",
+      "body": [
+        "The approved homestays for Cho La visitors are in the high villages of the Old Silk Route in Pakyong district: Kupup and Gnathang, both above 3,500 m, and Zuluk and Padamchen lower down. Families run them in their own houses or in small guest wings next door, with rooms of two to four beds and heavy quilts.",
+        "Dinner is usually rice, dal, vegetables, eggs or chicken, and hot tea, eaten near the kitchen stove, the warmest place in the house. Nights are well below freezing for much of the year, and power and hot water can be limited. Bring a warm sleeping layer, a torch and a power bank.",
+        "The night also helps your body adjust before the pass. Sleep may be broken at this height; that is normal. Drink water, avoid alcohol and tell your host and driver if you have a severe headache or vomiting. These villages are in Pakyong district; see our Old Silk Route pages for more."
+      ],
+      "good_for": ["couples", "solo", "budget", "photographers"],
+      "faqs": [
+        {"q": "Why do we need to stay in a homestay for the Cho La permit?", "a": "When Cho La and Doklam opened in 2025, the rules required visitors to book one night at an approved homestay at Kupup, Gnathang, Zuluk or Padamchen. The rule supports local families and helps visitors acclimatise before the pass. Check current status before you travel."},
+        {"q": "How cold is it at Kupup and Gnathang homestays?", "a": "Very cold. Nights fall below freezing for most of the year and can reach -10 °C or lower in winter. Rooms are not centrally heated; hosts provide heavy quilts. Bring thermals, a warm hat, socks and a down jacket, and sleep in layers."},
+        {"q": "Are Silk Route homestays suitable for older travellers?", "a": "Only for fit, healthy seniors who are comfortable with cold and basic facilities. Gnathang and Kupup are above 3,500 m, and bathrooms may be outside the room. Zuluk and Padamchen are lower and slightly easier. Anyone with heart or lung disease should consult a doctor first."}
+      ]
+    },
+    {
+      "slug": "cho-la-doklam-two-day-permit-trip",
+      "title": "Cho La and Doklam on one trip",
+      "kind": "adventure",
+      "duration": "2–3 days from Gangtok",
+      "best_time": "May–June and October–November",
+      "cost": "≈ ₹12,000–18,000 per person in a small group",
+      "image_query": "Old Silk Route Sikkim zig zag road",
+      "wiki": "",
+      "summary": "Cho La and Doklam (Doka La) opened together in autumn 2025 on two-day vehicle permits. With a night on the Old Silk Route, you can see both border sites, Tsomgo and Baba Mandir in one high-altitude loop from Gangtok.",
+      "body": [
+        "When the scheme opened, vehicle permits for Cho La and Doklam were issued for two days, at about ₹11,000–12,000 per vehicle, plus about ₹1,120 per person. Doklam, near the India–Bhutan–China tri-junction, is reported at about 4,200 m and Cho La at about 4,593 m. Both need escorts from Kupup and a night in an approved Silk Route homestay.",
+        "A typical plan: Day 1, Gangtok to Tsomgo and Baba Mandir, then on to a homestay at Gnathang or Kupup. Day 2, escorted visits to the border sites, then down to Zuluk or back to Gangtok. Day 3, return to Gangtok if you stayed a second night. The exact order depends on the escort schedule.",
+        "This is a demanding trip at high altitude, on rough roads, with early starts. It suits fit adults who have already spent two nights in Gangtok. Costs for a small group in a shared SUV come to about ₹12,000–18,000 per person. Rules are new; check current status before you travel."
+      ],
+      "good_for": ["couples", "solo", "photographers"],
+      "faqs": [
+        {"q": "Can we visit Cho La and Doklam on the same permit?", "a": "When the scheme opened in 2025, operators applied for vehicle permits covering two days, and many trips combined both sites with a night at a Silk Route homestay. Each person also needed a permit of about ₹1,120. Rules are new, so confirm with your operator and check current status before you travel."},
+        {"q": "How many days do we need for Cho La and Doklam?", "a": "Plan at least two days from Gangtok, with one night at an approved homestay at Kupup, Gnathang, Zuluk or Padamchen, and ideally three days for a gentler pace. Add two nights in Gangtok beforehand for permits and acclimatisation. Weather can cause delays, so keep a spare day."},
+        {"q": "Is the Cho La trip safe?", "a": "It is run under Army and police escort with strict rules, but the risks are altitude, cold and rough roads. Acclimatise in Gangtok, travel with an experienced operator, carry medicines and warm clothing, and turn back if anyone feels very unwell. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "cho-la-high-ridge-photography",
+      "title": "Photographing the Chola range",
+      "kind": "nature",
+      "duration": "Built into the visit",
+      "best_time": "October–November mornings",
+      "cost": "Included in the trip",
+      "image_query": "Chola range Sikkim mountains",
+      "wiki": "",
+      "summary": "The Chola range above the Silk Route offers some of the widest high-altitude views in Sikkim: bare ridges, frozen lakes, snowfields and Tibet's Chumbi Valley below. How to photograph it well within strict border rules.",
+      "body": [
+        "The drive to Cho La passes high lakes, snowfields and bare, rolling ridges above 4,000 m, with the Chola range forming the border to the north and east. In October and November the air is clearest and the grass gold; in May and June, snow still lies on the higher slopes.",
+        "This is a sensitive border zone. Photography of troops, posts, vehicles and installations is forbidden, and rules on landscape photography are set on the day by the escort. Drones are banned. Ask before every photograph near the pass, and delete images if asked to.",
+        "Keep camera batteries warm in an inside pocket, as they drain quickly in the cold. Use the homestay night for sunrise and sunset photographs of the Silk Route villages, where restrictions are lighter. Above all, keep your movements slow at altitude: no running up slopes for a better angle."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Is photography allowed at Cho La?", "a": "Only as permitted by the escort on the day. Photographing soldiers, posts, vehicles and installations is forbidden, and landscape photography may be restricted near the border. Drones are completely banned. Always ask first and follow instructions without argument."},
+        {"q": "What camera gear should we take to Cho La?", "a": "A phone or a light camera with a wide-to-standard zoom is enough. Bring spare batteries kept warm inside your jacket, a polarising filter for the deep sky, lens cloths for snow and dust, and gloves you can operate a camera with. Leave drones at home."},
+        {"q": "When is the best light at Cho La?", "a": "Mornings usually have the clearest skies before cloud builds, and visits are scheduled in the morning anyway. October and November are the most reliable months. Use the Silk Route homestay night for sunrise and sunset photographs, where fewer restrictions apply."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Cho La in Sikkim?", "a": "Cho La is on the Sikkim–Tibet border in Gangtok district, about 6 km north-west of Nathu La on the Chola range, at about 4,593 m. Visitors reach it by an escorted fair-weather road from the Tsomgo and Kupup side, after a night at an approved Old Silk Route homestay."},
+    {"q": "When did Cho La open to tourists?", "a": "Cho La and Doklam opened to Indian domestic tourists in autumn 2025 under the Bharat Ranbhoomi Darshan battlefield-tourism scheme. Reports give the opening as late September or 1 October 2025. Rules and open days may change; check current status before you travel."},
+    {"q": "How much is the Cho La permit?", "a": "When the scheme opened, the permit was about ₹1,120 per person, covering wildlife sanctuary entry and a contribution to the Tsomgo lake conservation committee. Vehicle permits cost about ₹11,000–12,000 for two days. Prices may change; check current status before you travel."},
+    {"q": "Who can visit Cho La?", "a": "Only Indian nationals, in tour-operator or government-approved vehicles, with permits issued through the Sikkim Tourism Department. Private vehicles are not allowed, and only motorbikes of 1,400 cc or more were permitted when the scheme opened. Foreigners cannot visit."},
+    {"q": "Do we need to stay overnight for Cho La?", "a": "Yes. The rules require booking one night at an approved homestay at Kupup, Gnathang, Zuluk or Padamchen on the Old Silk Route. This also helps you acclimatise. Plan two nights in Gangtok before the trip to arrange permits and adjust to altitude."},
+    {"q": "Is Cho La higher than Nathu La?", "a": "Yes. Cho La is about 4,593 m, compared with Nathu La at 4,310 m. Some news reports have quoted higher figures. Either way, it is very high: altitude sickness is a real risk, so acclimatise, move slowly and keep the visit short."},
+    {"q": "Can children visit Cho La?", "a": "We do not recommend Cho La for young children. The combination of about 4,593 m, a night above 3,500 m, cold and rough roads is hard on small bodies. Children under five are not permitted in North Sikkim protected areas; similar caution applies here. Consult a doctor for older children."},
+    {"q": "What is the history of Cho La?", "a": "Cho La was the royal road between the Sikkim capital at Tumlong and the Chogyals' summer palace in Chumbi, and a main Sikkim–Tibet trade route. In 1849 Joseph Hooker and Archibald Campbell were arrested there. On 1 October 1967 it saw a clash between Indian and Chinese troops."},
+    {"q": "What is the best time to visit Cho La?", "a": "May and June, and October and November, usually give the most reliable roads and clearer weather. Winter brings deep snow and frequent closures; the monsoon brings cloud and landslides lower down. Rules on open days are new, so confirm shortly before you travel."}
+  ]
+}

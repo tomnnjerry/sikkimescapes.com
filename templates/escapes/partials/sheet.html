@@ -1,0 +1,14 @@
+{% load esc %}<div class="sheet" role="dialog" aria-modal="true" aria-label="Menu">
+  <div class="sheet__top"><span class="logo__word">Sikkim Escapes</span><button class="iconbtn" type="button" data-sheet-close aria-label="Close menu">×</button></div>
+  <div class="sheet__body">
+    <button class="btn btn--ghost btn--block" type="button" data-search-open style="margin:16px 0">{% icon "search" %} Search places, packages, guides</button>
+    <details open><summary>Districts</summary><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}">{{ r.name }} <small class="muted">· {{ r.official }}</small></a></li>{% endfor %}<li><a href="{% url 'lands' %}">Map of every district</a></li></ul></details>
+    <details><summary>Packages</summary><ul>{% for t in nav_tiers %}<li><a href="{% url 'tier' t.slug %}">{{ t.name }}: {{ t.label }}</a></li>{% endfor %}<li><a href="{% url 'journeys' %}">Every package</a></li></ul></details>
+    <a class="sheet__link" href="{% url 'affordable' %}" style="color:#1F6B3E">Affordable Sikkim</a>
+    <details><summary>Ideas</summary><ul>{% for k, name in nav_kinds %}<li><a href="{% url 'experience_kind' k %}">{{ name }}</a></li>{% endfor %}<li><a href="{% url 'themes' %}">Themes</a></li><li><a href="{% url 'seasons' %}">Month by month</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li></ul></details>
+    <details><summary>Read and plan</summary><ul><li><a href="{% url 'stories' %}">Rooted stories</a></li><li><a href="{% url 'guides' %}">Guides</a></li><li><a href="{% url 'journal' %}">Journal</a></li><li><a href="{% url 'stays' %}">Stays</a></li><li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'altitude' %}">Altitude ladder</a></li></ul></details>
+    <a class="sheet__link" href="{% url 'how_we_work' %}">How we work</a>
+    <a class="sheet__link" href="{% url 'contact' %}">Contact</a>
+    <a class="btn btn--foil btn--block" href="{% url 'plan' %}?from={{ request.path|urlencode }}" style="margin-top:22px" data-cta="sheet-plan">Get my price</a>
+  </div>
+</div>

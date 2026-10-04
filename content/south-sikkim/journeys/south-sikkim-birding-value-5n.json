@@ -1,0 +1,72 @@
+{
+  "slug": "south-sikkim-birding-value-5n",
+  "title": "South Sikkim birding trip, 5 nights",
+  "region": "south-sikkim",
+  "tier": "value",
+  "nights": 5,
+  "themes": ["birds-and-wildlife", "treks-and-walks", "flowers-and-forests"],
+  "stops": [{"place": "namchi", "nights": 2}, {"place": "ravangla", "nights": 3}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 25000,
+  "price_basis": "per person, twin sharing, 2 people, private car (Dzire/Etios class), 3-star hotels with breakfast, local bird guide for 3 days",
+  "price_breakdown": [["Stays, 5 nights", 10000], ["Car and driver, 6 days", 8250], ["Local bird guide, 3 days", 3750], ["Forest entry and state fees", 500], ["Our planning fee", 2500]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 0, 1, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 2600,
+  "meta_description": "5-night South Sikkim birding trip: Kitam's peafowl at dawn, Tendong's forest flocks, Maenam's tragopans, with a local bird guide. From ₹25,000 per person.",
+  "summary": "Three bird habitats in five nights: the warm sal and pine of Kitam Bird Sanctuary at 370–980 m, the oak and rhododendron of Tendong Hill up to 2,600 m, and the temperate forest of Maenam Wildlife Sanctuary above Ravangla. Dawn starts, a local bird guide for three mornings, and comfortable 3-star bases in Namchi and Ravangla.",
+  "intro": [
+    "Birds in the eastern Himalaya sort themselves by altitude, and South Sikkim packs an unusual range into a small area: from about 300 m in the Rangeet valley to 3,263 m on the summit of Maenam, within an hour's drive. This trip works three of those bands with a local bird guide who knows the calls, the fruiting trees and the gullies where pheasants cross. Kitam, declared a sanctuary in 2005, is the place in Sikkim best known for wild Indian peafowl. Maenam and the adjoining Tendong Reserve Forest together form a BirdLife Important Bird Area.",
+    "We plan around the birds: dawn starts, slow walking until late morning, rest in the middle of the day and a second, shorter session in the afternoon. The best months are November to May; April and May bring breeding calls, including the satyr tragopan on Maenam. Non-birding partners will find plenty to do, with Buddha Park and Temi tea within easy reach."
+  ],
+  "highlights": [
+    "Dawn at Kitam Bird Sanctuary for peafowl, junglefowl and kalij pheasant",
+    "A slow morning on the Tendong forest path, with mixed flocks in oak and rhododendron",
+    "The lower and middle trails of Maenam Wildlife Sanctuary, home of the satyr tragopan",
+    "Village-edge birding around Kewzing and the Temi tea estate",
+    "A local bird guide for three mornings"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Namchi", "place": "namchi", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 100 km · 3.5–4 h", "text": "Pick-up at NJP or Bagdogra in the morning for the drive up the Teesta gorge through Sevoke, a good stretch for river birds and raptors from the car, to Melli and up to Namchi. Check in and rest. In the late afternoon, walk the ridge road towards Samdruptse for a first look at the region's common birds: bulbuls, drongos, treepies and sunbirds. Meet your bird guide in the evening to plan. Hotels collect Sikkim's ₹50 per person state fee.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Dawn at Kitam Bird Sanctuary", "place": "kitam-bird-sanctuary", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 40 km round trip · 1.5 h", "text": "Leave before first light for Kitam, about 19 km from Namchi above the Rangeet near Manpur. The sanctuary's 6 sq km of sal and pine forest, at about 370–980 m, are best in the first three hours of light. Listen for the loud calls of Indian peafowl, and look for red junglefowl, kalij pheasant, scarlet minivet, common green magpie and Himalayan flameback, with barking deer if you are lucky. Back to Namchi for lunch and rest; an optional afternoon at Char Dham or the Rock Garden.", "meals": "Breakfast"},
+    {"day": 3, "title": "Tendong Hill forest walk", "place": "tendong-hill", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 26 km · 1 h, with a walk", "text": "Drive to Damthang at dawn, between Namchi and Ravangla, and walk slowly up the forest path towards Tendong's 2,600 m summit with your guide. The oak, chestnut and rhododendron forest holds mixed flocks of laughingthrushes, sibias, minlas, yuhinas and warblers, with barbets and woodpeckers calling around them; in March and April the tree rhododendrons flower. Go as far as you like: the full climb is about 6 km. The car collects you at Damthang and continues to Ravangla for a late lunch.", "meals": "Breakfast"},
+    {"day": 4, "title": "Maenam Wildlife Sanctuary", "place": "maenam-wildlife-sanctuary", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 10 km · local", "text": "An early start on the lower and middle trails of Maenam Wildlife Sanctuary, which rises behind Ravangla to 3,263 m. In April and May the wailing calls of the satyr tragopan carry through the undergrowth; seeing one takes patience and luck. Red-faced liocichla, vivid niltava, grey-chinned minivet and kalij are among the birds regularly reported here. Return by early afternoon. Non-birders can spend the day at Buddha Park and the Rabong monastery.", "meals": "Breakfast"},
+    {"day": 5, "title": "Kewzing lanes and Temi estate edges", "place": "temi-tea-garden", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 60 km · 2.5 h in sections", "text": "A gentler day of roadside birding. At dawn, walk the quiet lanes around Kewzing with the car following, through farms, alder and cardamom, for flycatchers, whistling thrushes, sunbirds and, in winter, redstarts and thrushes down from higher up. After breakfast, drive to the Temi tea estate, whose open rows and forest edges are good for raptors and small birds, especially in the November cherry trees. Back to Ravangla for the evening.", "meals": "Breakfast"},
+    {"day": 6, "title": "Ravangla to NJP or Bagdogra", "place": "ravangla", "overnight": "", "alt_m": 120, "drive": "≈ 125 km · 4.5–5 h", "text": "A last hour of birding around the hotel at first light, then breakfast and the drive down via Namchi and Melli to NJP or Bagdogra, arriving by mid-afternoon. In the monsoon months, slides on NH10 can force a longer route; book trains or flights after 5 pm.", "meals": "Breakfast"}
+  ],
+  "stays": ["mt-narsing-village-resort-ravangla"],
+  "includes": [
+    "2 nights at a 3-star hotel in Namchi and 3 nights at Mt. Narsing Village Resort near Ravangla, twin sharing, with breakfast",
+    "Private car (Dzire/Etios class) with driver for six days, including pre-dawn starts",
+    "Local bird guide on days 2, 3 and 4",
+    "Forest entry fees where charged and Sikkim's ₹50 state fee",
+    "Packed breakfasts on early-start days on request"
+  ],
+  "excludes": [
+    "Lunch and dinner (about ₹700–1,200 per person a day)",
+    "Binoculars, cameras and field guides",
+    "Train or flight tickets",
+    "Guide days beyond the three included (about ₹2,000–3,000 a day)",
+    "Tips and personal expenses"
+  ],
+  "good_to_know": [
+    "Bring binoculars (8x42 suits forest birding) and a field guide such as Birds of the Indian Subcontinent by Grimmett, Inskipp and Inskipp.",
+    "Please avoid playback calls in the April–June breeding season and never approach nests.",
+    "Leeches appear on forest paths from June to October; carry leech socks.",
+    "Forest department rules and entry fees for Kitam and Maenam change; check current status before you travel.",
+    "Foreign nationals need Sikkim's Restricted Area Permit via e-FRRO; Indian nationals need no permit."
+  ],
+  "upgrade": "The comfort version uses Seven Hill Resort and The Barfung Retreat with a private SUV and guide every day, for about ₹15,000 more per person.",
+  "faqs": [
+    {"q": "What birds can we expect on this trip?", "a": "At Kitam, Indian peafowl, red junglefowl, kalij pheasant, scarlet minivet, green magpie and Himalayan flameback. On Tendong, mixed flocks of laughingthrushes, sibias, minlas and yuhinas. On Maenam, a chance of satyr tragopan (mostly heard), red-faced liocichla and vivid niltava. Sightings vary by season and luck."},
+    {"q": "When is the best time for birding in South Sikkim?", "a": "November to May. Winter brings clear mornings and birds moving down from higher altitudes; March to May is breeding season, with song, colour and the satyr tragopan calling on Maenam in April and May. The monsoon, June to September, is wet and leechy, and we do not run this trip then."},
+    {"q": "Do we need to be fit for this trip?", "a": "Moderately. Birding walks are slow, but the Tendong path climbs steadily and Maenam's trails are steep in places. You can turn back whenever you like, and day 5 is gentle roadside birding. Anyone who can walk uphill for two hours with rests will manage."},
+    {"q": "Is the bird guide included every day?", "a": "A local bird guide is included on days 2, 3 and 4, the Kitam, Tendong and Maenam mornings. Extra guide days cost about ₹2,000–3,000 a day and can be added. Guides know the calls, the feeding trees and where pheasants cross the trails."},
+    {"q": "Can we see the satyr tragopan?", "a": "Possibly, but it is far easier to hear than to see. The satyr tragopan lives in dense undergrowth on Maenam and calls loudly in April and May. A guide gives you the best chance. We do not use playback in the breeding season."},
+    {"q": "Are there forest permits or fees?", "a": "Indian nationals do not need protected-area permits like those in North Sikkim, but Kitam and Maenam may charge forest entry fees and set rules on guides. We include fees where charged. Foreign nationals need Sikkim's Restricted Area Permit. Check current status before you travel."},
+    {"q": "Can a non-birding partner join?", "a": "Yes. On birding mornings, a partner can sleep in and join later, visit Buddha Park, Char Dham or Ralang with the car, or simply enjoy the resort. Afternoons are free for everyone, and Temi tea estate on day 5 suits both."},
+    {"q": "Can we extend the trip for more birding?", "a": "Yes. A night at a Kewzing or Yangang homestay adds village-edge birding and easy access to Maenam's quieter trails, and a full day to the Maenam summit at 3,263 m suits fit birders. Each extra night costs about ₹3,500–5,000 per person with car and guide."},
+    {"q": "What should we bring?", "a": "Binoculars, a field guide or the eBird app, a warm layer for dawn starts even in May, a rain jacket, walking shoes with grip, a headtorch, water bottle and, from June to October, leech socks. Neutral-coloured clothing helps in the forest."}
+  ]
+}

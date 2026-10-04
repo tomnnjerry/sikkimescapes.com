@@ -1,0 +1,71 @@
+{
+  "slug": "temi-tea-village-value-4n",
+  "title": "Temi tea and Kewzing farmstay, 4 nights",
+  "region": "south-sikkim",
+  "tier": "value",
+  "nights": 4,
+  "themes": ["food-and-tea", "village-homestays", "offbeat-sikkim"],
+  "stops": [{"place": "temi-tea-garden", "nights": 2}, {"place": "kewzing", "nights": 2}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 18500,
+  "price_basis": "per person, twin sharing, 2 people, private car (Dzire/Etios class), Temi resort with breakfast and Kewzing farmstay with meals",
+  "price_breakdown": [["Stays, 4 nights", 9000], ["Car and driver", 6750], ["Entry fees, tea tasting and state fee", 500], ["Our planning fee", 2250]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "4 nights of tea and farm life: 2 nights inside the Temi tea estate, 2 at Bon Farmhouse in Kewzing, Ralang and Buddha Park. From ₹18,500 per person.",
+  "summary": "Two nights inside Sikkim's only tea estate at Temi, with dawn walks through the rows before day visitors arrive, then two nights at a family farmstay among tea, cardamom and vegetable fields in Kewzing, near Ravangla. Buddha Park and Ralang on the way, home food, and a slow pace throughout.",
+  "intro": [
+    "Temi Tea Garden was planted in 1969, in the reign of the last Chogyal, on the slopes below Tendong Hill, and it is still Sikkim's only large tea estate: about 177 hectares of organic orthodox tea. Day visitors see it for an hour. Staying inside the estate at Cherry Resort lets you walk the rows at 7 am, when pluckers start work and mist lifts off the Teesta gorge, and sit on a balcony over the tea in the evening.",
+    "The second half of the trip moves to Kewzing, a Bhutia village on the Ravangla–Legship road, and Bon Farmhouse, a family-run farmstay set among a few acres of tea, cardamom and kitchen gardens. It has a little more comfort than a homestay and the same home food. Between the two, you visit Ralang Monastery and Ravangla's Buddha Park. It is a trip about growing things, eating well and walking slowly."
+  ],
+  "highlights": [
+    "Dawn walks in the Temi tea estate before day visitors arrive",
+    "Tea tasting at the estate outlet, and the flushes explained",
+    "Ralang Monastery and Buddha Park between the two stays",
+    "Farm life at Bon Farmhouse: tea, cardamom and kitchen gardens",
+    "Kewzing's monastery walks, including its Bon monastery"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Temi", "place": "temi-tea-garden", "overnight": "Temi", "alt_m": 1500, "drive": "≈ 120 km · 4.5–5 h", "text": "Your driver meets you at NJP or Bagdogra in the morning. The road climbs the Teesta valley via Sevoke and Rangpo to Singtam, then turns up the hill to Temi. Lunch on the way. Check in at Cherry Resort, inside the estate, by mid-afternoon. Take a short walk along the estate road as the light softens over the rows and the Teesta gorge below. Hotels collect Sikkim's ₹50 per person state fee. In the monsoon, NH10 closures can force a route via Melli and Namchi instead.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "A day in the tea", "place": "temi-tea-garden", "overnight": "Temi", "alt_m": 1500, "drive": "", "text": "Walk out at 7 am, when pluckers move along the rows with baskets on their backs, taking the bud and two leaves by hand. Return for breakfast, then walk down the estate road to the factory and outlet to taste the season's tea and learn the difference between first, second and autumn flush. Factory visits depend on the day's work, so treat one as a bonus. The afternoon is free; on clear evenings the Kangchenjunga range shows above the hills.", "meals": "Breakfast"},
+    {"day": 3, "title": "Ralang and Buddha Park to Kewzing", "place": "kewzing", "overnight": "Kewzing", "alt_m": 1400, "drive": "≈ 45 km · 2 h plus stops", "text": "Leave Temi after breakfast and drive to Ralang Monastery, a Kagyu monastery founded in 1768, to see its thangka-filled hall and the older gompa nearby. Continue up to Ravangla for lunch and Buddha Park, where level paths lead to the 130 ft statue. Then drop 9 km along the Legship road to Kewzing and Bon Farmhouse. Meet your hosts and walk the farm before dinner.", "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Kewzing farm and monastery walk", "place": "kewzing", "overnight": "Kewzing", "alt_m": 1400, "drive": "", "text": "A day on foot. In the morning, walk the farm with your hosts through their tea bushes, cardamom under alder trees and kitchen gardens, and learn how the crops follow the seasons; in October and November cardamom is picked and dried in smoky kilns. After lunch, walk to Kewzing's Bon monastery, one of the few in Sikkim, and the village's Buddhist gompas along quiet lanes. Evening by the fire with farm food.", "meals": "Breakfast, lunch, dinner"},
+    {"day": 5, "title": "Kewzing to NJP or Bagdogra", "place": "kewzing", "overnight": "", "alt_m": 120, "drive": "≈ 135 km · 5 h", "text": "Leave after an early breakfast and drive via Ravangla, Namchi and Melli to NJP or Bagdogra, arriving by early afternoon. Buy tea, cardamom or pickles from the farm before you leave. Book trains or flights after 5 pm in case of delays, especially in the monsoon.", "meals": "Breakfast"}
+  ],
+  "stays": ["cherry-resort-temi", "bon-farmhouse-kewzing"],
+  "includes": [
+    "2 nights at Cherry Resort, Temi, with breakfast, and 2 nights at Bon Farmhouse, Kewzing, with breakfast and dinner (plus lunch on day 4), twin sharing",
+    "Private car (Dzire/Etios class) with driver on days 1, 3 and 5, fuel, tolls and parking",
+    "Tea tasting at the Temi outlet",
+    "Buddha Park entry and Sikkim's ₹50 state fee",
+    "Our phone support during the trip"
+  ],
+  "excludes": [
+    "Lunch and dinner at Temi, and lunch on travel days",
+    "Train or flight tickets",
+    "Tea and produce you buy",
+    "Car use on days 2 and 4 (about ₹2,000 a day if needed)",
+    "Tips and personal expenses"
+  ],
+  "good_to_know": [
+    "The first flush is plucked from late March to April and the autumn flush in October and November; plucking stops in winter.",
+    "Temi factory tours are not guaranteed and usually pause in the monsoon.",
+    "Wild Himalayan cherry blooms along the Temi estate road in November.",
+    "Indian nationals need no permit; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO.",
+    "NH10 closes after monsoon landslides; check current status before you travel."
+  ],
+  "upgrade": "The premium version stays at The Temi Bungalow inside the estate and Sobralia in Namchi with a private SUV, for about ₹45,000 more per person.",
+  "faqs": [
+    {"q": "Can we stay inside Temi Tea Garden?", "a": "Yes. This trip uses Cherry Resort, a mid-range resort inside the estate on Sikkim Tourism Development Corporation land, run privately. Rooms look over the tea towards the Teesta gorge. For a heritage stay, the premium version uses The Temi Bungalow, a restored bungalow within the estate."},
+    {"q": "When is the best time for a tea trip to Temi?", "a": "April for the first flush, with pluckers at work and clear mornings, and November for the autumn flush and wild cherry blossom along the estate road. October and May are also good. From December to February plucking stops, and July to September is wet."},
+    {"q": "Can we see tea being made?", "a": "Sometimes. When work is light, staff often let small groups see the withering, rolling and drying rooms, but there is no fixed tour and visits usually pause in the monsoon and the busiest weeks. Tasting at the estate outlet is always possible during opening hours."},
+    {"q": "What is Bon Farmhouse?", "a": "A family-run farmstay at Kewzing among a few acres of tea, cardamom and vegetable fields, below Ravangla. Responsible-travel listings have featured it for years. Rooms are simple but characterful, food comes from the farm, and Kewzing's Bon monastery is an easy walk."},
+    {"q": "Is this trip vegetarian-friendly?", "a": "Yes. Both stays cook largely vegetarian home food, rice, dal, seasonal greens and vegetable curries, and will skip meat entirely if you ask. Tell us about any dietary needs when booking so the farm can plan its shopping."},
+    {"q": "How far is Temi from Kewzing?", "a": "About 30 km, roughly 1.5 hours direct via Ravangla. With stops at Ralang Monastery and Buddha Park on day 3, plan on most of the day. Kewzing is 9 km from Ravangla on the road to Legship."},
+    {"q": "Is it good for families?", "a": "Yes, especially with children who enjoy the outdoors. Tea rows, farm animals and gardens keep them busy, drives are moderate, there are no permits for Indian families and no altitude concerns. Rooms are simple at the farmstay, so bring warm clothes."},
+    {"q": "Can we buy Temi tea direct?", "a": "Yes, at the estate outlet near the factory, where you can taste before you buy. Everyday grades start around ₹200 a packet and top first-flush grades cost several times more. Buying at the estate ensures it is genuine Temi tea."},
+    {"q": "Can we add Gangtok to this trip?", "a": "Yes. Temi is about 2.5 hours from Gangtok via Singtam, so you can start in Gangtok with one or two nights there, then follow this trip. That adds about ₹5,000–7,000 per person per night with car. Ask us to adapt it."}
+  ]
+}

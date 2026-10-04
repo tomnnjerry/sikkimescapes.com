@@ -1,0 +1,243 @@
+{
+  "slug": "silk-route-gangtok-pelling-8n",
+  "title": "Pelling, Gangtok and the Silk Route, 8 nights",
+  "region": "pakyong",
+  "tier": "value",
+  "nights": 8,
+  "themes": [
+    "monasteries",
+    "lakes-and-passes",
+    "village-homestays",
+    "family-holidays"
+  ],
+  "stops": [
+    {
+      "place": "pelling",
+      "nights": 2
+    },
+    {
+      "place": "gangtok",
+      "nights": 2
+    },
+    {
+      "place": "zuluk",
+      "nights": 1
+    },
+    {
+      "place": "nathang-valley",
+      "nights": 1
+    },
+    {
+      "place": "aritar",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 37500,
+  "price_basis": "per person, twin sharing, 2 people with a private small car, good 3-star hotels, better homestays and a lake-view hotel",
+  "price_breakdown": [
+    [
+      "Hotels 6 nights, homestays 2 nights",
+      16300
+    ],
+    [
+      "Private car and driver, 9 days",
+      18000
+    ],
+    [
+      "Permits and entry fee",
+      700
+    ],
+    [
+      "Our planning fee",
+      2500
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 4100,
+  "meta_description": "Pelling, Gangtok and the Old Silk Route, 8 nights: Pemayangtse, Rabdentse, Gangtok, Zuluk, Nathang, Kupup and Aritar. From ₹37,500 per person, private car.",
+  "summary": "A broad first look at Sikkim in eight nights: Pelling's monasteries and Kangchenjunga views in the west, two nights in Gangtok, then the Old Silk Route via Rongli to Zuluk and the Nathang plateau, ending with two slow nights by Aritar's lake. Private car for two and good rooms throughout.",
+  "intro": [
+    "If you have eight nights and want both the classic Sikkim sights and the Silk Route, this is the shape we suggest. You start in the west at Pelling, about 2,150 m, with Pemayangtse Monastery, the Rabdentse ruins of Sikkim's old capital and the closest big view of Kangchenjunga. Two nights in Gangtok follow, then the Silk Route.",
+    "By the time you reach Zuluk you have spent four nights between 1,650 m and 2,150 m, so the climb to Nathang at about 4,000 m is comfortable. The last two nights at Aritar, by Lampokhari Lake, give you a rest before the drive back to the plains. Rooms are good 3-star hotels and the better Silk Route homestays, and the car is yours throughout."
+  ],
+  "highlights": [
+    "Pemayangtse Monastery and the Rabdentse ruins at Pelling",
+    "Kangchenjunga at sunrise from Pelling on clear mornings",
+    "Gangtok's monasteries, viewpoints and MG Marg",
+    "Zuluk, Thambi sunrise and a night on the Nathang plateau",
+    "Two slow lakeside nights at Aritar to finish"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP or Bagdogra to Pelling",
+      "place": "pelling",
+      "overnight": "Pelling",
+      "alt_m": 2150,
+      "drive": "≈ 140 km · 5.5 h",
+      "text": "Pick-up at NJP or Bagdogra and the drive up the Teesta to Melli, then along the Rangeet valley via Jorethang and Legship, and up to Pelling at about 2,150 m in Gyalshing district (West Sikkim). If NH10 is closed in the monsoon, drivers take an alternative road via Darjeeling district, which adds time. Check in at a good 3-star hotel with a mountain-facing room if available, and on a clear evening watch the light fade on the Kangchenjunga range from your window.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Pemayangtse, Rabdentse and Sanga Choeling",
+      "place": "pemayangtse",
+      "overnight": "Pelling",
+      "alt_m": 2150,
+      "drive": "≈ 30 km local",
+      "text": "Rise early for sunrise on Kangchenjunga if the sky is clear. After breakfast visit Pemayangtse, one of Sikkim's oldest and most important Nyingma monasteries, then walk through forest to the ruins of Rabdentse, Sikkim's royal capital from 1670 until 1814. In the afternoon climb to Sanga Choeling Monastery on the ridge above Pelling, or visit Khecheopalri Lake, held sacred by Buddhists and Hindus. Evening free in Pelling. Overnight at your hotel.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Pelling to Gangtok via Ravangla",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 120 km · 5 h",
+      "text": "Leave Pelling after breakfast and drive east through Legship to Ravangla, where the Buddha Park and its large statue look out over the valley; stop for a walk and lunch. Continue down through Damthang and Singtam and up to Gangtok at about 1,650 m. Check in at a good 3-star hotel within walking distance of MG Marg and spend the evening on MG Marg. This long day is broken by stops, and the road gives good views of the Teesta valley and the hills of Namchi district.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Gangtok monasteries and viewpoints",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 40 km local",
+      "text": "A gentle day around Gangtok. Start at Enchey Monastery above the town, then the Namgyal Institute of Tibetology and the Do Drul Chorten, and the viewpoints at Ganesh Tok and Hanuman Tok, which look across to Kangchenjunga on clear mornings. In the afternoon visit Rumtek, the large Karma Kagyu monastery across the valley, or the Directorate of Handicrafts and Handloom for weaving and carpet work. Evening free on MG Marg. Your driver uses today to confirm Silk Route homestays and collect documents for the permits. Overnight at a good 3-star hotel within walking distance of MG Marg.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Gangtok to Zuluk via Rongli",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "alt_m": 2900,
+      "drive": "≈ 92 km · 4.5 h plus permit",
+      "text": "Leave Gangtok after breakfast and drive down through Ranipool and Pakyong to Rorathang, then up the Rangpo river valley to Rongli, where your driver processes the Silk Route permit while you have lunch. Above Rongli the road climbs through Lingtam and Padamchen and through thick forest to Zuluk at about 2,900 m. Arrive by mid to late afternoon and take a short walk around the village before the cold comes in. Because you have already spent nights in Gangtok, your body is ready for this height. Overnight at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Thambi sunrise, then up to Nathang",
+      "place": "nathang-valley",
+      "overnight": "Nathang",
+      "alt_m": 4000,
+      "drive": "≈ 24 km · 2 h plus stops",
+      "text": "Wake around 4:30 am for the drive up the zig-zag to Thambi View Point at about 3,400 m or Lungthung a little higher, in time for sunrise over the eastern Himalaya and, on a clear morning, Kangchenjunga to the west. Back to Zuluk for breakfast, then continue up through Lungthung to the Nathang plateau at about 4,000 m. In the afternoon visit the 1888 war memorial and the Gnathang monastery, and, if the road is open, drive about 12 km on past Old Baba Mandir to Kupup and Elephant Lake. Overnight at a better homestay room with an attached bathroom and geyser; drink water and keep warm.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Down from Nathang to Aritar",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "alt_m": 1400,
+      "drive": "≈ 75 km · 4 h",
+      "text": "After breakfast, leave Nathang and drive back down the loops, with a last stop at Thambi if the morning is clear. Below Zuluk the forest closes in, and by Rongli the air is warm again. Lunch at Rongli, then the short drive via Rhenock to Aritar at about 1,400 m, about 2,600 m lower than where you woke up. Everyone sleeps well tonight. Spend the late afternoon by Lampokhari Lake and take a boat out if the counter is still open. Overnight at a good lake-view hotel or the better homestays.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "A slow day at Aritar and Mankhim",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "alt_m": 1400,
+      "drive": "≈ 15 km local",
+      "text": "A rest day by the lake after the high road. Go up to Mankhim, the Rai community temple at about 1,980 m, for sunrise if you are awake, or simply walk around Lampokhari after a late breakfast. In the afternoon take a boat on the lake, visit the old dak bungalow built in 1895 by John Claude White, or walk through the cardamom and paddy around the village with a local guide. Pack in the evening for an easy drive tomorrow. Overnight at a good lake-view hotel or the better homestays.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Aritar to NJP or Bagdogra",
+      "place": "aritar",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 115 km · 4.5 h",
+      "text": "A last walk around Lampokhari Lake at dawn, when the water is still and the boats are tied up, then breakfast. Leave Aritar by about 9 am and drive down via Rorathang to Rangpo and along the Teesta on NH10 to Siliguri, reaching NJP station or Bagdogra airport by early afternoon. If NH10 is closed by a landslide in the monsoon, the driver will take the road via Reshi, Pedong and Kalimpong, which adds about an hour. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Better homestay rooms with attached bathrooms on the Silk Route and good 3-star hotels elsewhere, twin sharing",
+    "Dinner and breakfast at homestays; breakfast at hotels",
+    "A private small car or Bolero-class vehicle for your party, with fuel, tolls and driver costs",
+    "All permit processing the route needs",
+    "The ₹50 Sikkim tourist entry fee",
+    "Our planning, bookings and on-trip support"
+  ],
+  "excludes": [
+    "Train or flight tickets to NJP or Bagdogra",
+    "Lunches, snacks and drinks unless stated",
+    "Room heater charges at homestays (≈ ₹200–300 a night) where not included",
+    "Boating, entry tickets, snow-boot hire and tips",
+    "Extra nights or car days caused by snow, landslides or road closures",
+    "Personal travel insurance",
+    "Tsomgo and Nathu La day, which can be added with one more Gangtok night for about ₹4,500 per person"
+  ],
+  "good_to_know": [
+    "The Old Silk Route beyond Rongli is open to Indian nationals only; foreign nationals, including OCI holders, cannot go to Zuluk, Nathang or Kupup.",
+    "Send a clear photo ID scan and two passport photos per person at least two days ahead so the Rongli permit is quick. Check current status before you travel.",
+    "There are no ATMs above Rongli and mobile signal is patchy above Zuluk; carry enough cash for the whole route.",
+    "Carry a refillable bottle, thermals, a warm cap and gloves in every season; nights above Zuluk are cold even in May.",
+    "NH10 between Siliguri and Rangpo closes after landslides in the monsoon; the alternatives are via Kalimpong and Lava, Algarah, or Pedong and Rhenock, which add one to two hours.",
+    "Pelling and Gangtok need no special permits for Indian or foreign travellers beyond the standard entry rules; only the Silk Route section is Indians only."
+  ],
+  "upgrade": "The comfort version adds an SUV, the best mid-range hotels and a Tsomgo and Nathu La day, for about ₹60,000–65,000 per person over nine nights.",
+  "faqs": [
+    {
+      "q": "Do I need a permit for this trip?",
+      "a": "Yes. Indian travellers need the Silk Route protected-area permit, processed at Rongli for about ₹200 per person plus handling, which is included in the price. Each person needs an original photo ID and two passport photos. Send scans two days ahead and the permit is usually ready within an hour at Rongli. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals book this trip?",
+      "a": "Not this one. The Old Silk Route beyond Rongli, including Padamchen, Zuluk, Nathang and Kupup, is open to Indian nationals only, and OCI card holders count as foreign nationals here. Mixed groups can stay together at Aritar, Rhenock or Gangtok while the Indian members go up. Ask us for a version of this trip that suits everyone, and check current status before you travel."
+    },
+    {
+      "q": "How high does this trip go, and will altitude be a problem?",
+      "a": "The highest point is about 4,100 m and the highest night is at Nathang, about 4,000 m. Four nights at Pelling and Gangtok and one at Zuluk come before the plateau, so most travellers adjust easily. Drink water steadily, skip alcohol at height and keep warm. Mild headache is common; vomiting, confusion or breathlessness at rest mean going down at once. Tell us about heart or lung conditions when you book."
+    },
+    {
+      "q": "What happens if a road closes during the trip?",
+      "a": "Your driver and our team decide on the day. If snow or a landslide closes a stretch, we reshuffle the route, wait a few hours, or swap a high night for a lower village such as Padamchen or Aritar. Extra nights or car days caused by closures are charged at cost. Keep a gap before any flight, and check current status before you travel."
+    },
+    {
+      "q": "Is there mobile network and an ATM on the way?",
+      "a": "ATMs are at Rangpo, Rhenock and Rongli, but there are none at Padamchen, Zuluk, Nathang or Kupup. Mobile signal is weak to absent above Zuluk, and UPI only works where there is signal. Carry cash for heaters, tea stalls, lunches and tips. Homestay Wi-Fi, where it exists, depends on power. Tell family you may be out of reach for a day."
+    },
+    {
+      "q": "Can we add North Sikkim to this trip?",
+      "a": "Yes, but it adds at least three nights, because operators require a minimum two-night North Sikkim stay with permits for Lachung, Yumthang and beyond. A common plan is to add Lachung for two nights from Gangtok between the Gangtok and Silk Route sections. Children under 5 are not permitted in North Sikkim protected areas. Ask us for a combined quote."
+    },
+    {
+      "q": "Is eight nights too long for the Silk Route?",
+      "a": "Only three of the eight nights are on the Silk Route: Zuluk, Nathang and, below it, Aritar. The rest are in Pelling and Gangtok, which give you monasteries, views and a slow start in altitude. If you want more time on the Silk Route itself, we can swap the second Aritar night for a night at Padamchen."
+    },
+    {
+      "q": "Will we see Kangchenjunga on this trip?",
+      "a": "On clear mornings, yes: from Pelling, which faces the range directly, from Gangtok's viewpoints, and from Thambi and Lungthung above Zuluk. The best chances are from mid-October to early December. In spring, haze often hides the peaks by late morning, so plan early starts."
+    },
+    {
+      "q": "Can this trip be done in reverse?",
+      "a": "Yes, though we prefer this direction. Starting in Pelling and Gangtok lets you acclimatise before the Silk Route, and ending at Aritar gives you an easy last day to NJP. In reverse you would start at Aritar, climb the Silk Route early in the trip and finish with the long Pelling to NJP drive."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "lachen-chopta-valley-thangu-value-6n",
+  "title": "Lachen, Thangu and Chopta Valley slowly",
+  "region": "north-sikkim",
+  "tier": "value",
+  "nights": 6,
+  "themes": ["lakes-and-passes", "photography", "offbeat-sikkim", "treks-and-walks"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "lachen", "nights": 3}, {"place": "lachung", "nights": 1}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 31500,
+  "price_basis": "per person, twin sharing, 2 people, private small car for transfers, reserved Scorpio for 4 nights in North Sikkim, 3-star hotel and standard lodges",
+  "price_breakdown": [["Gangtok 3-star hotel, 2 nights with breakfast", 4500], ["Lachen standard lodge, 3 nights with dinner and breakfast", 6000], ["Lachung hotel, 1 night with dinner and breakfast", 2000], ["Reserved Scorpio for North Sikkim, 4 nights, with permits", 13500], ["Private small car for Bagdogra or NJP transfers", 3800], ["Sikkim tourist fee and entry fees", 300], ["Our planning fee", 1400]],
+  "best_months": [0, 0, 0, 1, 2, 1, 0, 0, 0, 2, 2, 0],
+  "pace": "Balanced",
+  "max_altitude_m": 5183,
+  "meta_description": "6 nights with three in Lachen: a rest day, a Thangu and Chopta Valley day, then Gurudongmar Lake well acclimatised, plus Lachung and Yumthang, from ₹31,500.",
+  "summary": "The slow way to the high plateau: three nights in Lachen with a rest day and a half-day to Thangu and Chopta Valley at about 3,900 m before you go to Gurudongmar Lake at about 5,183 m. Then Lachung and Yumthang on the way home. Private vehicles, standard lodges and time to look around.",
+  "intro": [
+    "Thangu and Chopta Valley are what most visitors see for ten minutes at dawn, half-asleep, on the way to Gurudongmar. This trip turns them into a day of their own. Three nights in Lachen let you rest on the first full day, drive up to Thangu and the Chopta Valley meadows on the second to climb high and sleep low, and go to Gurudongmar on the third morning, far better prepared than on any standard loop. Then you cross to Lachung for a night and see Yumthang on the way back.",
+    "It suits photographers, slow travellers and Indian adults who want Gurudongmar without feeling dreadful. A separate Thangu and Chopta day depends on the permit office and Army instructions in the week you travel; if it is not allowed, we use the day for walks around Lachen and a longer Chopta stop on the Gurudongmar morning. Gurudongmar is for Indian nationals only. Check current status before you travel."
+  ],
+  "highlights": [
+    "Three nights in Lachen with a proper rest day",
+    "A half-day at Thangu and the Chopta Valley meadows, about 3,900 m",
+    "Gurudongmar Lake at about 5,183 m after real acclimatisation",
+    "Quiet Lachen village and its monastery",
+    "Yumthang Valley above Lachung on the way home"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 124 km · 4.5–5 h", "text": "Your driver meets you at Bagdogra Airport or NJP station and drives up the Teesta valley through Sevoke and Rangpo to Gangtok in 4.5 to 5 hours. In the monsoon months NH10 can close after slides, and the road via Kalimpong or Lava adds time, but this trip runs outside the monsoon. Check in to your 3-star hotel and pay the ₹50 Sikkim tourist fee. We collect your ID and photos for the North Sikkim permit. Evening walk on MG Marg and an early night.", "meals": "None"},
+    {"day": 2, "title": "Gangtok to Lachen", "place": "lachen", "overnight": "Lachen", "alt_m": 2750, "drive": "≈ 125 km · 6–7 h", "text": "Your reserved Scorpio leaves at 9 am and follows the North Sikkim highway past Kabi Lungchok, the Seven Sisters Waterfall and Phodong to Mangan for lunch. Cross the Toong check post before 4 pm, then Chungthang, and climb the Lachen gorge over the single-lane Taram Chu bridge, rebuilt after the 2023 flood. Reach Lachen by late afternoon. Check in to your lodge, drink plenty of water and eat lightly. Tonight is simply about sleeping well at 2,750 m.", "meals": "Dinner"},
+    {"day": 3, "title": "Rest day in Lachen", "place": "lachen", "overnight": "Lachen", "alt_m": 2750, "drive": "", "text": "No alarm. After a slow breakfast, walk up to Lachen Monastery above the village, built in the 19th century and still the centre of village life. Lachen, like Lachung, is governed by its own Dzumsa, a council led by an elected headman, the Pipon. Wander the lanes of wooden and stone houses, watch yaks being brought down from the slopes, and talk to your lodge owner about life here during the 887 days the road was shut. Keep active but gentle, drink 3 to 4 litres of water, and sleep early.", "meals": "Breakfast, Dinner"},
+    {"day": 4, "title": "Thangu and Chopta Valley", "place": "chopta-valley", "overnight": "Lachen", "alt_m": 2750, "drive": "≈ 70 km return · 5–6 h", "text": "Leave at 7 am, a civilised hour, for Thangu, about 30 km and 1.5 hours above Lachen at roughly 3,900 m. The forest thins to scrub and then open slopes. Continue a short way to the Chopta Valley meadows, where a river winds through flat grassland under bare peaks and yaks graze in summer. Spend an hour or two walking slowly and photographing, with a picnic lunch. Climbing high and sleeping low like this is the best preparation for tomorrow. Back in Lachen by mid-afternoon to rest. Subject to permit; ask us.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Gurudongmar Lake, then Lachung", "place": "gurudongmar-lake", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 134 km return, then ≈ 50 km · 8–9 h", "text": "Leave Lachen at about 4 am with a packed breakfast. Past Thangu, which you already know, the road crosses the high plateau to Gurudongmar Lake at about 5,183 m, sacred to Buddhists and Sikhs and frozen from about November to mid-May. After two days of preparation, most people feel far better here than on a rushed loop, but still keep the visit to 20 to 30 minutes. Back to Lachen for lunch and checkout, then down to Chungthang and up to Lachung by late afternoon. Dinner and early bed.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Yumthang Valley and back to Gangtok", "place": "yumthang-valley", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 48 km return, then ≈ 118 km · 8–9 h", "text": "Leave Lachung at 6 am for Yumthang Valley, 24 km up through the Shingba Rhododendron Sanctuary, at 3,564 m. An hour among the meadows and the hot spring by the river, with Zero Point as an optional extra if the road is open. Back to Lachung for lunch and checkout, then the drive to Gangtok via Chungthang, the Naga Waterfall and Mangan, arriving by early evening. Check in to your hotel and celebrate with dinner on MG Marg.", "meals": "Breakfast, Lunch"},
+    {"day": 7, "title": "Gangtok to Bagdogra", "place": "gangtok", "overnight": "", "alt_m": 125, "drive": "≈ 124 km · 4.5–5 h", "text": "After breakfast, your small car takes you down to Bagdogra Airport or NJP station. Allow 4.5 to 5 hours, and leave by 7 am for a flight before 1 pm. If your departure is later, stop at Rumtek Monastery on the way out of Gangtok, or for lunch in Siliguri. You will have seen more of the high plateau, at a gentler pace, than almost anyone else who drove north in the same week.", "meals": "Breakfast"}
+  ],
+  "stays": ["lachen-homestays", "fortuna-lachung"],
+  "includes": [
+    "2 nights in a 3-star hotel in Gangtok with breakfast",
+    "3 nights in a standard lodge in Lachen and 1 night in a good Lachung hotel, with dinner and breakfast",
+    "Lunch on the Chopta, Gurudongmar and Yumthang days, packed breakfast for Gurudongmar",
+    "Reserved Scorpio or similar with registered North Sikkim driver for 4 nights",
+    "North Sikkim Protected Area Permit processing",
+    "Private small car for Bagdogra or NJP transfers",
+    "Sikkim ₹50 tourist fee"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Zero Point extension (≈ ₹3,000–4,000 per vehicle)",
+    "Meals in Gangtok, snow gear hire and oxygen cans",
+    "Tips, personal expenses and 5 percent GST",
+    "Extra nights if a landslide holds you up north"
+  ],
+  "good_to_know": [
+    "A separate Thangu and Chopta day depends on permits and Army instructions that week; ask us.",
+    "Gurudongmar is for Indian nationals only.",
+    "Children under 5 are not permitted in North Sikkim.",
+    "Lachen lodges are simpler than Lachung's; bring warm sleepwear.",
+    "If Lachen is closed, the trip becomes three nights in Lachung with Yumthang and Zero Point.",
+    "Check current status before you travel."
+  ],
+  "upgrade": "Our comfort photography trip adds an Innova, Summit Gangchen in Lachen and a Dzongu homestay night, from about ₹46,000 per person.",
+  "faqs": [
+    {"q": "Can you stay overnight at Thangu?", "a": "Tourist overnight stays at Thangu have not been regularly permitted in recent years, and facilities are very limited, so we base you in Lachen and visit Thangu by day. If overnight stays are allowed in the week you travel, we will tell you, but we would still sleep lower for acclimatisation."},
+    {"q": "Is a separate Chopta Valley day allowed?", "a": "It depends on the permit office and Army instructions in the week you travel. In some weeks a day visit to Thangu and Chopta is allowed separately from the Gurudongmar trip; in others it is only seen on the Gurudongmar morning. If it is not allowed, we use the day for walks around Lachen. Ask us."},
+    {"q": "Why three nights in Lachen?", "a": "Gurudongmar sits at about 5,183 m and Lachen at 2,750 m. A rest day plus a day climbing to about 3,900 m at Thangu and sleeping back in Lachen gives the body time to adapt. You reach the lake feeling far better, with lower risk of altitude sickness, than on a one-night rush."},
+    {"q": "What is Chopta Valley like?", "a": "Chopta Valley is a flat, open meadow near Thangu at about 3,900 m, with a river winding through grassland under bare peaks. Yaks graze there in summer, and it is often snow-covered from December to March. It is quiet, wide and very photogenic in clear morning light."},
+    {"q": "Who is this trip for?", "a": "Indian adults who want to see the high plateau properly: photographers, slow travellers, and anyone who has felt altitude before and wants Gurudongmar with less risk. It also suits fit seniors cleared by their doctor. It is not for children under 5, who are not permitted in North Sikkim, or for foreign nationals."},
+    {"q": "What are the Lachen lodges like?", "a": "Simpler than Lachung. Expect a clean room with heavy blankets, an attached bathroom in standard lodges, hot water by geyser or bucket, and set meals. Some properties were still reopening after the long road closure. Three nights in the same lodge means you can unpack and settle in."},
+    {"q": "When is the best time for Chopta Valley?", "a": "May and October to November. In May the snow is melting and the meadows start to green; in autumn the skies are clearest. From December to March, heavy snow can close the road above Lachen. July to September carries a high landslide risk on the Lachen road."},
+    {"q": "What if the Lachen road closes?", "a": "If Lachen permits are suspended before you leave Gangtok, we switch the trip to three nights in Lachung with Yumthang, Zero Point and the Shingba sanctuary, and refund any difference. If a slide holds you in Lachen, extra nights are at cost. Keep a spare day before your flight."},
+    {"q": "Can foreigners take this trip?", "a": "No. Gurudongmar is closed to foreign nationals, and access to Lachen and Thangu for foreigners has been unclear in 2026. Foreign groups of two or more can take our rhododendron or snow trips based in Lachung, with a Sikkim RAP and a Protected Area Permit."}
+  ]
+}

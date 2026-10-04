@@ -1,0 +1,92 @@
+{% load esc %}<nav class="nav" aria-label="Main">
+  <div class="nav__drop">
+    <button type="button" aria-expanded="false" aria-controls="mega-lands">Districts</button>
+    <div class="mega" id="mega-lands">
+      <div class="mega__in mega__in--lands">
+        <div class="mlands">
+          {% for r in nav_regions %}<a class="mland" href="{{ r.url }}" data-land="{{ r.slug }}">
+            {% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy" width="64" height="64">{% else %}<span></span>{% endif %}{% endwith %}
+            <span><b>{{ r.name }}</b><small>{{ r.palette }}</small><small>{% for p in r.top_places|slice:":3" %}{{ p.name }}{% if not forloop.last %} · {% endif %}{% endfor %}</small></span>
+            <span class="mland__icon">{% icon r.icon %}</span>
+          </a>{% endfor %}
+        </div>
+        <div class="mpromise">
+          <span class="badge">{% icon "altitude" %}</span>
+          <b style="font:400 1.3rem/1.15 var(--serif)">From 280 m to 8,586 m in under 100 km</b>
+          <p>Sikkim climbs faster than almost anywhere on earth. Every place on this site shows its altitude, so you can plan the climb.</p>
+          <a class="linkarrow" href="{% url 'altitude' %}" style="color:var(--f2)">The altitude ladder {% icon "arrow" %}</a>
+          <a class="linkarrow" href="{% url 'lands' %}" style="color:#fff">All districts and the map {% icon "arrow" %}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="nav__drop">
+    <button type="button" aria-expanded="false" aria-controls="mega-packs">Packages</button>
+    <div class="mega" id="mega-packs">
+      <div class="mega__in mega__in--packs">
+        <div>
+          <h4>By budget</h4>
+          {% for t in nav_tiers %}<a class="mtier" href="{% url 'tier' t.slug %}"><span class="chip chip--{{ t.slug }}">{{ t.name }}</span><span><b>{{ t.label }}</b></span></a>{% endfor %}
+        </div>
+        <div>
+          <h4>By length</h4>
+          <ul>{% for n in nav_nights %}<li><a href="{% url 'nights' n %}">{{ n }} nights, {{ n|add:1 }} days</a></li>{% endfor %}</ul>
+        </div>
+        <div>
+          <h4>By theme</h4>
+          <ul>{% for t in nav_themes|slice:":8" %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}
+          <li><a href="{% url 'themes' %}"><b>Every theme</b></a></li></ul>
+        </div>
+        <div>
+          <h4>Cheapest in each district</h4>
+          {% for j in nav_popular|slice:":4" %}<a class="mpick" href="{{ j.url }}">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy" width="56" height="56">{% else %}<span></span>{% endif %}{% endwith %}<span><b>{{ j.title }}</b><small>{{ j.nights }} nights · from {{ j.price_from_inr|inr }}</small></span></a>{% endfor %}
+          <a class="btn btn--sm" href="{% url 'journeys' %}" style="margin-top:10px">Every package {% icon "arrow" %}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a class="nav__hot" href="{% url 'affordable' %}" data-cta="nav-affordable">Affordable</a>
+  <div class="nav__drop">
+    <button type="button" aria-expanded="false" aria-controls="mega-ideas">Ideas</button>
+    <div class="mega" id="mega-ideas">
+      <div class="mega__in mega__in--cols">
+        <div>
+          <h4>Experiences</h4>
+          <ul>{% for k, name in nav_kinds %}<li><a href="{% url 'experience_kind' k %}">{% icon k %} {{ name }}</a></li>{% endfor %}</ul>
+        </div>
+        <div>
+          <h4>Plan by season</h4>
+          <ul>
+            <li><a href="{% url 'sikkim_month' 'april' %}">Rhododendron season</a></li>
+            <li><a href="{% url 'sikkim_month' 'october' %}">Clear-view season</a></li>
+            <li><a href="{% url 'sikkim_month' 'january' %}">Snow season</a></li>
+            <li><a href="{% url 'sikkim_month' 'july' %}">Monsoon on a budget</a></li>
+            <li><a href="{% url 'seasons' %}"><b>Month by month</b></a></li>
+            <li><a href="{% url 'festivals' %}">Festival calendar</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Read before you go</h4>
+          <ul>
+            <li><a href="{% url 'stories' %}">Rooted stories</a></li>
+            <li><a href="{% url 'guides' %}">Guides</a></li>
+            <li><a href="{% url 'journal' %}">Journal</a></li>
+            <li><a href="{% url 'routes' %}">Getting between places</a></li>
+            <li><a href="{% url 'stays' %}">Where to stay</a></li>
+            <li><a href="{% url 'homestays' %}">Homestays</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Trip tools</h4>
+          <ul>
+            <li><a href="{% url 'tool_budget' %}">{% icon "rupee" %} Trip cost calculator</a></li>
+            <li><a href="{% url 'tool_permits' %}">{% icon "permit" %} Permit checker</a></li>
+            <li><a href="{% url 'tool_altitude' %}">{% icon "altitude" %} Altitude check</a></li>
+            <li><a href="{% url 'tool_season' %}">{% icon "calendar" %} Season finder</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a href="{% url 'stories' %}">Stories</a>
+</nav>

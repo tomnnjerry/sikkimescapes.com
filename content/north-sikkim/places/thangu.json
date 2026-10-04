@@ -1,0 +1,171 @@
+{
+  "slug": "thangu",
+  "name": "Thangu",
+  "region": "north-sikkim",
+  "kind": "valley",
+  "wiki": "Thangu Valley",
+  "image_query": "Thangu valley North Sikkim",
+  "lat": 27.892,
+  "lng": 88.536,
+  "altitude_m": 3900,
+  "local_name": null,
+  "tagline": "The last village before Gurudongmar, at about 3,900 m",
+  "meta_description": "Thangu, North Sikkim: breakfast stop at 3,900 m on the Gurudongmar road, 30 km above Lachen. Yak pastures, summer flowers, permits and altitude advice.",
+  "summary": "Thangu is a small settlement at about 3,900 m, 30 km and 1.5 hours above Lachen, where vehicles stop for breakfast on the way to Gurudongmar Lake. Around it lie the summer yak pastures of the Lachen valley and the Chopta meadows. Indian travellers visit on a Lachen permit; foreigners ask us.",
+  "intro": [
+    "Thangu sits where the Lachen valley opens out above the forest, a cluster of houses, army buildings and simple eateries at about 3,900 m. For most travellers it is a half-hour stop in the dark or at first light on the way to Gurudongmar: tea, a paratha or noodles, a toilet, and a first look at the bare, high country ahead.",
+    "Thangu deserves more attention than that. It marks the change from the forested valleys of Sikkim to the high pastures and moraine of the plateau. Yak and sheep herds graze around it in summer, and the Chopta Valley meadows lie just beyond. In June and July wildflowers cover the slopes, though the monsoon makes the road unreliable then.",
+    "At about 3,900 m, Thangu is high. It is about 1,150 m above Lachen, and most people feel the thin air when they step out of the vehicle. It is also the natural turnaround point for anyone who feels unwell before the final climb to the lake. Daytime temperatures stay low even in summer, often 4–12 °C."
+  ],
+  "story": {
+    "title": "The herders of the high pastures",
+    "text": "The grasslands around Thangu and the valleys beyond, Lashar, Lhonak and Muguthang among them, have been summer pastures for generations. Lachenpa families and the Dokpa (or Drokpa), herders of Tibetan origin who live in the high valleys north of Lachen, drive yak and sheep up as the snow melts and bring them down before winter. Wikipedia's article on Lachen notes that the Dokpa of the Lashar valley celebrate a traditional festival known as Drukpa Tsechi with a local yak race. Researchers at ICIMOD, the International Centre for Integrated Mountain Development, have documented how yak pastoralism in the Lhonak valley is changing, with fewer young people taking up herding and new pressures from roads, border rules and a warming climate. The 2023 flood that began at South Lhonak Lake came out of these same high valleys. Most of the herders' country lies in restricted areas that tourists cannot enter. What you can see, from Thangu and the road above, are their herds on the slopes and their stone shelters. Watch quietly and ask before you photograph.",
+    "source": "Wikipedia, Lachen, Sikkim; ICIMOD, Yak pastoralism in transition in Lhonak Valley, Sikkim"
+  },
+  "little_known": [
+    {"fact": "Wikipedia notes that daytime temperatures at Thangu stay around 4–12 °C even in June and July, the warmest months.", "source": "Wikipedia, Lachen, Sikkim"},
+    {"fact": "The Dokpa herders of the Lashar valley, north of Thangu, hold a festival called Drukpa Tsechi that features a local yak race.", "source": "Wikipedia, Lachen, Sikkim"},
+    {"fact": "Thangu lies about 30 km north of Lachen and roughly 30–40 km south of Gurudongmar Lake along NH310C.", "source": "Wikipedia, Thangu Valley and Gurudongmar Lake"}
+  ],
+  "facts": [
+    ["Best months", "May–June, October–November"],
+    ["Nights we suggest", "0 (pass through from Lachen)"],
+    ["From Gangtok", "≈ 150 km · via a night in Lachen"],
+    ["Altitude", "3,900 m"],
+    ["Known for", "Gurudongmar breakfast stop, yak pastures, summer flowers"],
+    ["Permit", "Protected area permit via a registered agent; foreigners ask us"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 1, 1, 0, 1, 2, 2, 0],
+  "nights": "0 (stay in Lachen)",
+  "highlights": [
+    {"title": "Breakfast before the lake", "text": "Simple eateries at Thangu open early for Gurudongmar traffic, serving tea, parathas, noodles and eggs. A warm meal here helps you cope with the cold and altitude at the lake."},
+    {"title": "Where the forest ends", "text": "Around Thangu the trees give way to grassland and moraine. The change is striking at first light, as the valley widens and the plateau country appears ahead."},
+    {"title": "Yak pastures", "text": "Yak and sheep herds graze around Thangu from late spring to autumn. Watch from the road, keep your distance and ask herders before photographing them."},
+    {"title": "Summer wildflowers", "text": "In June and July the slopes around Thangu and Chopta flower with primulas, poppies and other alpine plants. It is the monsoon season, so roads are unreliable."},
+    {"title": "A safe turnaround point", "text": "If anyone feels unwell on the way up, Thangu is the place to stop and wait in a warm eatery while the others visit the lake, rather than climbing another 1,250 m."}
+  ],
+  "how_to_reach": [
+    {"mode": "Package vehicle from Lachen", "text": "Every Gurudongmar trip passes through Thangu, about 30 km and 1.5 hours above Lachen. Most vehicles stop here for breakfast on the way up."},
+    {"mode": "Private car", "text": "In a private registered SUV booked through an agent, you can stop longer at Thangu or add Chopta Valley, if permitted on the day."},
+    {"mode": "From Bagdogra / NJP", "text": "Drive to Gangtok (4.5–5 hours by NH10, or via Kalimpong when NH10 is closed), stay a night, drive to Lachen the next day and reach Thangu early the following morning."}
+  ],
+  "costs": [
+    ["Thangu stop", "Included in Lachen packages"],
+    ["Breakfast at an eatery", "≈ ₹100–250"],
+    ["Tea", "≈ ₹30–50"],
+    ["Chopta Valley add-on, if allowed", "≈ ₹1,500–2,500 per vehicle"],
+    ["Shared 2N/3D Lachen–Lachung package", "≈ ₹7,000–9,500 per person"]
+  ],
+  "where_to_stay": "Thangu has very basic lodging, but we do not recommend sleeping at about 3,900 m without proper acclimatisation, and tourist itineraries rarely allow it. Stay in Lachen, 30 km below, and pass through Thangu on the morning drive. Lachenpa family homestays are the budget option, and Summit Gangchen is the comfort choice, with heated beds and early breakfasts for Gurudongmar starts.",
+  "stays": ["lachen-homestays", "summit-gangchen-lachen"],
+  "tips": [
+    "Eat something at Thangu even if you are not hungry; it helps at the lake.",
+    "Use the toilets here; facilities at Gurudongmar are minimal.",
+    "If you feel unwell at Thangu, stay here and let the others go on.",
+    "Ask before photographing army areas, herders or shelters; some are off limits.",
+    "Carry cash in small notes for eateries; cards rarely work."
+  ],
+  "themes": ["lakes-and-passes", "flowers-and-forests", "photography"],
+  "nearby": ["chopta-valley", "gurudongmar-lake", "lachen"],
+  "experiences": [
+    {
+      "slug": "thangu-breakfast-stop",
+      "title": "Hot breakfast at 3,900 m",
+      "kind": "food",
+      "duration": "30–45 minutes",
+      "best_time": "6–7:30 am on the Gurudongmar run",
+      "cost": "≈ ₹100–250 per person",
+      "image_query": "Thangu village eatery North Sikkim",
+      "wiki": "",
+      "summary": "Stop at one of Thangu's simple eateries for tea, parathas, eggs or noodles as dawn lights the valley. A warm meal here makes the cold, high hour at Gurudongmar far easier, and the cooks know every driver on the road.",
+      "body": [
+        "Thangu's eateries open in the dark for the Gurudongmar convoy. Inside, a stove keeps the room warm, kettles of tea are ready, and the menu is short: parathas, omelettes, instant noodles, sometimes thukpa. It is plain food, but at 3,900 m and 6 am it is exactly right.",
+        "Eat even if you have little appetite. Altitude often dulls hunger, but your body needs energy for the cold and the climb. Keep it light and warm, drink a cup or two of tea or hot water, and avoid heavy, oily food. Fill your bottle if they have boiled water.",
+        "Use the toilet here, since there is little at the lake, and step outside to watch the light reach the peaks. Drivers usually allow 30 to 45 minutes before moving on."
+      ],
+      "good_for": ["families", "couples", "budget"],
+      "faqs": [
+        {"q": "Is breakfast included at Thangu?", "a": "In some packages breakfast is packed from the Lachen hotel; in others you buy breakfast at Thangu, about ₹100–250 per person. Check your package. Even with a packed breakfast, a hot drink at Thangu is welcome."},
+        {"q": "What food is available at Thangu?", "a": "Simple, warm food: tea, coffee, parathas, omelettes, instant noodles and sometimes thukpa or momos. Vegetarian options are easy. Do not expect a full menu, and carry snacks in case an eatery is closed."},
+        {"q": "Are there toilets at Thangu?", "a": "Yes, basic toilets at eateries and in the village. Standards vary, so carry tissue and hand sanitiser. Use them here, as facilities at Gurudongmar Lake are minimal or absent."}
+      ]
+    },
+    {
+      "slug": "thangu-summer-wildflowers",
+      "title": "Summer wildflowers around Thangu",
+      "kind": "nature",
+      "duration": "On the drive, plus short stops",
+      "best_time": "Late May to July",
+      "cost": "Included in Lachen packages",
+      "image_query": "alpine flowers North Sikkim primula",
+      "wiki": "Primula",
+      "summary": "From late May into July, the slopes around Thangu and Chopta flower with primulas, poppies and other alpine plants. It is a short season and overlaps with the monsoon, so it suits flexible travellers who accept the risk of road closures.",
+      "body": [
+        "When the snow melts from the high pastures, alpine flowers follow within weeks. Around Thangu and in the Chopta meadows you may see primulas, louseworts, potentillas and, in places, the blue Himalayan poppy, along with dwarf rhododendrons on the slopes. Wikipedia notes that the Thangu area is adorned with wildflowers in summer.",
+        "The catch is timing. The best flowers coincide with the monsoon, when landslides close the North Sikkim Highway often and Gurudongmar trips may be cancelled. Late May and early June offer a reasonable compromise: early flowers and roads that are still usually open.",
+        "Never pick flowers or walk across fragile meadows. Photograph from the road edge or a trail, and keep stops short in the cold, thin air."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "When do flowers bloom around Thangu?", "a": "From about late May into July, after the snow melts. Peak bloom often falls in late June and July, during the monsoon, when roads are least reliable. Late May and early June give some flowers with a better chance of open roads."},
+        {"q": "Is the blue poppy found near Thangu?", "a": "Himalayan blue poppies grow in parts of North Sikkim's high country, and some visitors report them around Thangu and Chopta. Sightings depend on season and location, so we do not promise them. A local guide gives the best chance."},
+        {"q": "Is it safe to travel to Thangu in the monsoon?", "a": "It is risky. Landslides close the highway often from June to August, and trips can be cancelled or delayed by days. If you go, buy refundable tickets, keep buffer days and check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "thangu-turnaround-point",
+      "title": "Thangu as your safe turnaround point",
+      "kind": "wellness",
+      "duration": "2–3 hours of waiting, if needed",
+      "best_time": "Any Gurudongmar morning",
+      "cost": "≈ ₹100–300 for tea and food while waiting",
+      "image_query": "Thangu Sikkim mountains morning",
+      "wiki": "",
+      "summary": "Not everyone should go on to Gurudongmar. Thangu, about 1,250 m below the lake, is where an unwell traveller can wait in a warm eatery while the rest of the group visits. Planning this in advance takes the pressure off on the day.",
+      "body": [
+        "Altitude affects people unpredictably. Someone who felt fine in Lachen may wake with a headache or feel sick by Thangu. Climbing another 1,250 m in an hour will make that worse. The sensible choice is to stop at Thangu, at about 3,900 m, and let the others continue.",
+        "Agree this possibility with your group and driver the night before, so nobody feels they are spoiling the trip. At Thangu, the waiting person should sit indoors in a warm eatery with a companion if possible, drink warm fluids and rest. The vehicle collects them on the way down, usually two to three hours later.",
+        "If symptoms are severe, such as vomiting, confusion or breathlessness at rest, do not wait at Thangu: the whole vehicle should return to Lachen at once. Going down is the only reliable treatment."
+      ],
+      "good_for": ["families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Can one person stay at Thangu while others go to Gurudongmar?", "a": "Yes, this is common. The person waits in a warm eatery, ideally with a companion, and the vehicle collects them on the way down. Agree the plan with your driver the night before so it runs smoothly."},
+        {"q": "Is Thangu itself high enough for altitude sickness?", "a": "Yes. At about 3,900 m, some people feel symptoms in Thangu too. If someone is mildly unwell, resting there is reasonable. If symptoms are severe or worsening, return to Lachen at once."},
+        {"q": "What should a waiting person do at Thangu?", "a": "Stay warm indoors, drink warm fluids, eat something light and rest. Avoid exertion and alcohol. If headache worsens or vomiting starts, ask the eatery staff to contact your driver or the army post for help in descending."}
+      ]
+    },
+    {
+      "slug": "thangu-dokpa-herding-story",
+      "title": "The Dokpa and the yak race of Lashar",
+      "kind": "culture",
+      "duration": "30 minutes, plus sightings on the drive",
+      "best_time": "May–November",
+      "cost": "Free",
+      "image_query": "yak herder North Sikkim plateau",
+      "wiki": "Yak",
+      "summary": "Thangu is the doorway to the pastures of the Dokpa, herders of the high valleys north of Lachen, who still keep yak and sheep and hold a festival with a yak race in the Lashar valley. Learn their story as you watch the herds from the road.",
+      "body": [
+        "Beyond Thangu, the valleys of Lashar, Lhonak and Muguthang are home in summer to the Dokpa, herders of Tibetan origin who graze yak and sheep on high pastures near the border. Lachenpa families also keep herds here. Wikipedia notes that the Dokpa of Lashar celebrate Drukpa Tsechi with a local yak race, a rare event that few outsiders see.",
+        "Most of this country is restricted and closed to tourists. What you can see from Thangu and the Gurudongmar road are herds grazing on the slopes, herders on foot or horseback, and stone shelters. ICIMOD researchers have documented how yak herding in these valleys is declining as young people find other work and as roads, border rules and climate change reshape the pastures.",
+        "Respect is simple: watch from the road, do not approach shelters, never feed or chase animals, and ask before photographing people. Buying churpi (hard cheese) or butter when offered supports herding families directly."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can tourists visit the Lashar or Lhonak valleys?", "a": "No, not on standard tourist permits. These valleys lie in restricted border areas beyond Thangu. Researchers and officials need special permissions. Tourists can see herds and herders along the Gurudongmar road instead."},
+        {"q": "What is Drukpa Tsechi?", "a": "Drukpa Tsechi is a Buddhist observance that marks the Buddha's first teaching, held in the sixth Tibetan month, usually around July or August. Wikipedia notes that the Dokpa of the Lashar valley celebrate it with a yak race. It takes place in a restricted area."},
+        {"q": "What is churpi?", "a": "Churpi is a cheese made from yak or cow milk, eaten across the eastern Himalaya. The hard, dried form is chewed slowly like a sweet; softer forms go into curries and soups. Herding families in North Sikkim make it, and buying some supports them."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Thangu?", "a": "Thangu is in Mangan district (North Sikkim), about 30 km north of Lachen on the road to Gurudongmar Lake, at about 3,900 m. It is the last settlement before the lake and the usual breakfast stop on the Gurudongmar trip."},
+    {"q": "What is the altitude of Thangu?", "a": "About 3,900 m (12,800 ft), though some sources give up to 4,000 m or more. It is roughly 1,150 m higher than Lachen and about 1,250 m lower than Gurudongmar Lake, so most people feel the thin air when they step out."},
+    {"q": "Can I stay overnight in Thangu?", "a": "Basic lodging exists, but tourist itineraries rarely include a night here, and sleeping at about 3,900 m without acclimatisation is risky. Stay in Lachen and pass through Thangu on the morning drive to Gurudongmar."},
+    {"q": "Do I need a permit for Thangu?", "a": "Yes. Thangu is covered by the protected area permit for Lachen and Gurudongmar, issued through a Sikkim Tourism-registered agent with a registered vehicle. Rules for foreign nationals in Lachen and Thangu are unclear, so ask us. Check current status before you travel."},
+    {"q": "Is Thangu open in 2026?", "a": "Thangu opens and closes with the Lachen road. As we understand it, permits for Lachen and Gurudongmar resumed around 11–12 September 2026 after road repairs. Snow can close the road from December. Check current status before you travel."},
+    {"q": "How cold is Thangu?", "a": "Cold all year. Summer days are around 4–12 °C, and October–November mornings are well below freezing. In winter it is often under snow and the road may close. Wear thermals, a down jacket, cap and gloves on the Gurudongmar trip."},
+    {"q": "What is the difference between Thangu and Chopta Valley?", "a": "Thangu is the small settlement on the Gurudongmar road. Chopta Valley is a high meadow nearby, at about 4,000 m, along the Lachen river, sometimes visited as a short add-on. The names are often combined as Thangu-Chopta Valley."},
+    {"q": "Can children stop at Thangu?", "a": "Children aged five and over may travel to Thangu; children under five are not permitted in North Sikkim protected areas. Thangu is a good place for older children to wait if Gurudongmar seems too high for them. Keep them warm and watch for symptoms."},
+    {"q": "Are there shops or ATMs in Thangu?", "a": "Only a few eateries and small shops, and no reliable ATM. Carry cash in small notes from Gangtok or Lachen for breakfast, tea and snacks. Mobile signal is patchy, so let someone know your plans in advance."}
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "maenam-wildlife-sanctuary",
+  "name": "Maenam Wildlife Sanctuary",
+  "region": "south-sikkim",
+  "kind": "sanctuary",
+  "wiki": "Maenam Wildlife Sanctuary",
+  "image_query": "Maenam hill Ravangla forest Sikkim",
+  "lat": 27.338,
+  "lng": 88.386,
+  "altitude_m": 3263,
+  "local_name": {"name": "Maenam-la", "language": "Bhutia", "meaning": "treasure-house of medicines", "source": "Wikipedia: Maenam Wildlife Sanctuary"},
+  "tagline": "Red panda forest and a summit of medicine plants above Ravangla",
+  "meta_description": "Maenam Wildlife Sanctuary trek from Ravangla: route, Bhaleydhunga, red panda habitat, birds, permits, costs and the best months to go.",
+  "summary": "Maenam Wildlife Sanctuary protects about 36 km² of temperate forest on the Maenam ridge above Ravangla, from about 2,300 m to the 3,263 m summit. Established in 1987, it shelters red panda, goral, serow and blood pheasant, and is reached by a steep 4-hour forest trek from Ravangla.",
+  "intro": [
+    "Maenam is the high, dark ridge that rises behind Ravangla to the north-east. Its upper slopes form a wildlife sanctuary, declared in 1987 and covering about 36.34 km², on the ridge that runs north–south through the middle of the district and divides the Teesta and Rangeet valleys. The name is translated as the treasure-house of medicines, a nod to the medicinal plants that grow here.",
+    "The forest changes with height: oak and chestnut near Ravangla, then magnolia, rhododendron, fir and bamboo near the top. The Sikkim forest department lists red panda, goral, serow, barking deer, marbled cat, leopard cat and civets among its mammals, and blood pheasant, hill partridge and many smaller birds. Seeing mammals takes luck and silence; birds are easier.",
+    "Most visitors walk up from Ravangla to the summit in about 4 hours, with wide views of Kangchenjunga and the West Sikkim peaks from the top, then either return the same way or continue down to Borong. Further along the ridge is Bhaleydhunga, a rock outcrop above a sheer drop on Maenam's south face. This is a full-day trek and needs a guide."
+  ],
+  "story": {
+    "title": "A hill named for its medicines",
+    "text": "Maenam's name is usually explained as Maenam-la, the treasure-house of medicines, and the Sikkim forest department describes the sanctuary in just those terms: a store of medicinal plants and herbs. For generations, healers from the villages around Ravangla, Yangang and Borong have gone up the ridge to gather roots, barks and leaves, and the forest is still rich in species used in traditional Sikkimese and Tibetan medicine. When the state declared about 36 km² of the ridge a wildlife sanctuary in 1987, it was protecting not only red pandas and pheasants but this living pharmacy. A small gompa stands on the ridge near the summit. In recent years a ropeway and skywalk over the Bhaleydhunga cliff have been proposed, a large and costly project; at the time of writing it is not open. For now, the only way to Maenam's medicines and views is on foot.",
+    "source": "Wikipedia: Maenam Wildlife Sanctuary; Sikkim Forest Department descriptions"
+  },
+  "little_known": [
+    {"fact": "The sanctuary was declared in 1987 and covers about 36.34 km², from roughly 2,300 m to the 3,263 m summit of Maenam.", "source": "Wikipedia: Maenam Wildlife Sanctuary"},
+    {"fact": "Bhaleydhunga, on Maenam's south face, is the site of a proposed ropeway and skywalk; none of it is open to visitors at the time of writing.", "source": "Wikipedia: Maenam Wildlife Sanctuary"},
+    {"fact": "Trekkers who cross the summit can descend the far side to Borong village instead of returning to Ravangla, a classic one-way day route.", "source": "Sikkim Forest Department; WildTrails"}
+  ],
+  "facts": [["Best months", "Oct–Dec and Mar–May"], ["Nights we suggest", "Stay in Ravangla or Borong"], ["From Gangtok", "≈ 65 km to Ravangla trailhead · 3 h"], ["Altitude", "≈ 2,300–3,263 m"], ["Known for", "Red panda habitat, medicinal plants, summit views"], ["Permit", "Forest entry fee/registration may apply; check at Ravangla"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0 (full-day trek from Ravangla)",
+  "highlights": [
+    {"title": "Summit views", "text": "From the top at about 3,263 m, look north to Kangchenjunga, Pandim and the West Sikkim peaks, and south over the Tendong ridge to the plains on very clear days. Best October to December."},
+    {"title": "Layers of forest", "text": "Oak and chestnut give way to rhododendron, magnolia, fir and bamboo as you climb. In April and May rhododendrons flower on the upper ridge in reds and pinks."},
+    {"title": "Red panda habitat", "text": "The bamboo and fir forest near the top is home to red pandas. Sightings are rare and need quiet walking with a guide, but signs such as droppings are often pointed out."},
+    {"title": "Birds of the high forest", "text": "Blood pheasant, hill partridge, laughingthrushes, sibias and many warblers live here. Early morning on the upper trail is the best time to see and hear them."},
+    {"title": "Bhaleydhunga cliff", "text": "A dramatic rock outcrop above a sheer drop on Maenam's south face, reached along the ridge with a local guide. A proposed skywalk here is not open; the walk is the experience."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Reach Ravangla by shared jeep from Gangtok (about ₹250–400) or Namchi (₹100–150). The trail starts above town; your guide will meet you at your hotel. If you end at Borong, take a local jeep or taxi back to Ravangla, about ₹600–1,000."},
+    {"mode": "Private car", "text": "No road reaches the summit. A car can drop you at the trailhead above Ravangla and collect you at Borong if you cross over, about ₹1,500–2,500 for the drop and pick-up. From Gangtok, Ravangla is about 3 hours."},
+    {"mode": "From Bagdogra / NJP", "text": "About 120–125 km and 4.5–5 hours to Ravangla by car. Sleep at least one night in Ravangla before the trek to adjust and start early. If NH10 is closed after monsoon slides, drivers route through Darjeeling district and Jorethang."}
+  ],
+  "costs": [["Local trekking guide (day)", "≈ ₹1,500–2,500"], ["Forest entry fee", "Small fee may apply; check locally"], ["Car drop and pick-up", "≈ ₹1,500–2,500"], ["Packed lunch", "≈ ₹150–300"], ["Porter (optional)", "≈ ₹1,000–1,500 a day"]],
+  "where_to_stay": "Stay in Ravangla the night before: Mt. Narsing Village Resort and The Barfung Retreat suit value and comfort budgets, and simple hotels near the market cost from about ₹1,500 a room. If you cross the summit and descend to Borong, book a night in one of the Borong homestays and soak in the hot spring the next morning. Yangang's homestays, below the ridge on the east, are another option.",
+  "stays": ["mt-narsing-village-resort-ravangla", "the-barfung-retreat-ravangla", "borong-village-homestays", "yangang-village-homestays"],
+  "tips": [
+    "Hire a local guide: side trails branch and mist can close in fast.",
+    "Start by 6:30–7 am to reach the summit before midday cloud.",
+    "Carry 2 litres of water, lunch, a warm layer and a rain jacket.",
+    "Leeches are common from June to September; we do not recommend the monsoon.",
+    "Walk quietly and stay on the trail; this is a protected sanctuary."
+  ],
+  "themes": ["treks-and-walks", "birds-and-wildlife", "flowers-and-forests", "offbeat-sikkim"],
+  "nearby": ["ravangla", "borong", "yangang", "ralang-monastery"],
+  "experiences": [
+    {
+      "slug": "maenam-summit-trek-from-ravangla",
+      "title": "Ravangla to Maenam summit in a day",
+      "kind": "adventure",
+      "duration": "7–8 hours",
+      "best_time": "Start 6:30 am, October to May",
+      "cost": "≈ ₹1,500–2,500 guide plus fees",
+      "image_query": "Maenam peak trek Sikkim",
+      "wiki": "",
+      "summary": "The classic full-day trek: about 4 hours up through oak, rhododendron and bamboo forest to the 3,263 m summit of Maenam, with Kangchenjunga on the skyline, then 3 hours back down. Steep, rewarding and best on a clear autumn day.",
+      "body": [
+        "The trail leaves from above Ravangla at about 2,100 m and climbs steadily, gaining more than 1,100 m. The lower forest is oak and chestnut, busy with birds. Higher up, rhododendron, magnolia and fir take over, with stands of bamboo near the ridge. The path is clear but steep, often rooty and muddy in places.",
+        "Near the top the forest opens and, if the day is clear, the view is enormous: Kangchenjunga, Pandim and the peaks of West Sikkim to the north, the Tendong ridge to the south, Ravangla and Buddha Park far below. A small gompa stands on the ridge. Eat lunch, rest and keep warm.",
+        "Descend the same way in about 3 hours, or cross to Borong (see the next experience). A local guide is essential: side paths branch, and mist can close in fast. Carry plenty of water, snacks, a rain jacket and a warm layer. Fit walkers manage it comfortably; first-timers should be honest about their fitness."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the Maenam trek?", "a": "Moderate to strenuous. You gain over 1,100 m to about 3,263 m in roughly 4 hours, on a steep forest trail. Regular walkers in decent shape manage it; beginners may find the climb hard. The altitude is moderate, but go slowly and drink water."},
+        {"q": "Do we need a guide for Maenam?", "a": "Yes, we strongly recommend one. The trail has side paths, mist is common and it is a protected sanctuary where staying on route matters. Local guides from Ravangla charge about ₹1,500–2,500 a day and know the forest, birds and plants."},
+        {"q": "Is there a permit or entry fee for Maenam?", "a": "As a wildlife sanctuary, Maenam may require registration and a small entry fee through the forest department. Your guide will handle this. Rules change, so check current status before you travel. Foreigners need their Sikkim RAP."}
+      ]
+    },
+    {
+      "slug": "maenam-traverse-to-borong",
+      "title": "Over the top: Maenam traverse to Borong",
+      "kind": "adventure",
+      "duration": "8–9 hours",
+      "best_time": "Start 6:30 am, October to April",
+      "cost": "≈ ₹2,000–3,000 guide plus car pick-up",
+      "image_query": "Borong village Sikkim mountains",
+      "wiki": "",
+      "summary": "Climb from Ravangla to Maenam's summit and descend the far side to Borong village, ending at a homestay and, the next morning, the hot spring by the Rangeet. A one-way day across the ridge for fit walkers.",
+      "body": [
+        "Instead of retracing your steps, cross Maenam. After reaching the summit from Ravangla in about 4 hours, the trail drops down the far side through forest and then farmland to Borong, a village at about 1,770 m with views across the Rangeet valley. The descent takes 3–4 hours and is hard on the knees.",
+        "Arrange in advance for your luggage to be driven to Borong and a homestay booked. You arrive tired, to a hot meal with the family. The next morning, walk down to the Borong tsachu on the Rangeet for a soak, especially welcome from December to February.",
+        "A guide is essential for this route. Start early, carry plenty of water and food, and use poles for the long descent. Total walking time is 7–9 hours, with roughly 1,100 m up and 1,500 m down. Not suitable in the monsoon or after heavy rain."
+      ],
+      "good_for": ["solo", "couples"],
+      "faqs": [
+        {"q": "How long is the Maenam to Borong traverse?", "a": "Typically 7–9 hours of walking: about 4 hours up from Ravangla to the summit and 3–4 hours down to Borong. With rests and lunch, plan for a full day. You climb about 1,100 m and descend about 1,500 m."},
+        {"q": "How do we get our bags to Borong?", "a": "Send them by car from Ravangla to your Borong homestay; we or your hotel can arrange it for about ₹800–1,200. Carry only a daypack with water, food, layers and rain gear on the trek."},
+        {"q": "Is the descent to Borong difficult?", "a": "It is long and steep in places, hard on the knees, and slippery when wet. Walking poles help a lot. Go slowly and stay with your guide. Do not attempt it in the monsoon or with heavy rain forecast."}
+      ]
+    },
+    {
+      "slug": "maenam-red-panda-and-pheasant-walk",
+      "title": "Looking for red panda and blood pheasant",
+      "kind": "wildlife",
+      "duration": "6–8 hours",
+      "best_time": "Dawn start, November to April",
+      "cost": "≈ ₹2,500–4,000 naturalist guide",
+      "image_query": "red panda Sikkim forest",
+      "wiki": "Red panda",
+      "summary": "A slow, quiet wildlife walk into Maenam's upper bamboo and fir forest with a naturalist, searching for signs of red panda and the blood pheasant, Sikkim's state bird. Sightings are never guaranteed; the forest itself is the reward.",
+      "body": [
+        "The red panda, Sikkim's state animal, lives in temperate forests with dense bamboo, and Maenam's upper slopes offer that habitat. The blood pheasant, Sikkim's state bird, scratches in the leaf litter of the same forests. Both are shy, and a sighting needs silence, patience and a guide who knows where to look.",
+        "Start before dawn, climb steadily to the upper forest and then slow right down. Your naturalist will look for droppings, feeding signs and calls, scanning the trees where red pandas rest. Blood pheasants are more often seen early in the morning on the trail or in clearings, especially in winter.",
+        "Be realistic: many visitors see neither, but come away with sightings of laughingthrushes, sibias, woodpeckers and perhaps a barking deer. Wear muted colours, carry binoculars and keep group size small. Never use playback calls or try to approach animals closely."
+      ],
+      "good_for": ["photographers", "solo"],
+      "faqs": [
+        {"q": "Can we see red panda in Maenam?", "a": "It is possible but rare. Red pandas live in the upper bamboo and fir forests, but are shy and often high in trees. A good naturalist improves your chances by looking for signs. Treat any sighting as a bonus rather than a promise."},
+        {"q": "What is the state bird of Sikkim?", "a": "The blood pheasant, a bird of high temperate forest with striking red and green markings on the male. It is found in Maenam's upper forests and is more often seen in winter and early morning. The state animal is the red panda."},
+        {"q": "When is the best season for wildlife in Maenam?", "a": "November to April, when foliage is thinner, trails are dry and animals may move lower in cold weather. Early morning is best. The monsoon is wet, leech-filled and poor for visibility."}
+      ]
+    },
+    {
+      "slug": "maenam-rhododendron-ridge-spring",
+      "title": "Rhododendron ridge walk in spring",
+      "kind": "nature",
+      "duration": "6–7 hours",
+      "best_time": "April to mid-May",
+      "cost": "≈ ₹1,500–2,500 guide",
+      "image_query": "rhododendron forest Sikkim spring",
+      "wiki": "Rhododendron",
+      "summary": "In April and early May, Maenam's upper ridge flowers with rhododendrons in reds, pinks and whites. A spring walk to the summit or partway along the ridge is one of the finest flower walks in South Sikkim, with birdsong all the way.",
+      "body": [
+        "Sikkim has dozens of rhododendron species, and the state tree is a rhododendron. On Maenam, they flower from around late March at lower levels to May near the top. In a good year, whole slopes of the upper ridge glow red and pink, with white and pale yellow species mixed in.",
+        "Walk up from Ravangla at a gentle pace, stopping for photos and birds, which are at their most vocal in spring. You do not need to reach the summit: the upper forest at 2,800–3,000 m often has the best flowering. A guide can show you different species and the medicinal plants that give Maenam its name.",
+        "Spring brings haze, so mountain views are less reliable than in autumn. Afternoon showers are common from May; start early and carry a rain jacket. Flowering times vary by year, so ask locally before you go."
+      ],
+      "good_for": ["photographers", "couples", "solo", "seniors"],
+      "faqs": [
+        {"q": "When do rhododendrons bloom on Maenam?", "a": "Usually from late March at lower levels to May on the upper ridge, peaking in April in most years. A cold or late spring can push flowering into May. Ask your guide or hotel a week before for the current state."},
+        {"q": "Do we have to reach the summit to see flowers?", "a": "No. Some of the best flowering is in the upper forest at around 2,800–3,000 m, below the summit. You can turn back when you have seen enough, making the walk shorter and easier."},
+        {"q": "What is Sikkim's state tree?", "a": "The rhododendron (Rhododendron niveum is often cited as the state tree). Sikkim has many species, flowering in spring across the middle and high hills. Maenam, Barsey and Shingba are among the best places to see them."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Maenam Wildlife Sanctuary?", "a": "Above Ravangla in Namchi district (South Sikkim), on the Maenam ridge. The summit is about 3,263 m. The usual trailhead is just above Ravangla town, about 3 hours by road from Gangtok."},
+    {"q": "How long is the Maenam trek?", "a": "About 4 hours up from Ravangla to the summit and 3 hours down, a full day of 7–8 hours with breaks. Crossing to Borong instead of returning takes 7–9 hours. Both need an early start and a guide."},
+    {"q": "When was Maenam Wildlife Sanctuary established?", "a": "In 1987. It covers about 36.34 km² of temperate forest from around 2,300 m to the 3,263 m summit, and protects species such as red panda, goral, serow and blood pheasant, plus a wealth of medicinal plants."},
+    {"q": "What animals live in Maenam?", "a": "The forest department lists red panda, goral, serow, barking deer, marbled cat, leopard cat and civets, and birds such as blood pheasant, hill partridge, magpies and black eagle. Most mammals are shy; birds are easier to see."},
+    {"q": "What is the best time for the Maenam trek?", "a": "October to December for clear views, and March to May for rhododendrons and birds. January and February can be clear but cold, with occasional snow on top. Avoid June to September: rain, leeches and mist."},
+    {"q": "Do we need a guide for Maenam?", "a": "Yes. The trail has branches, mist closes in quickly and it is a protected sanctuary. Local guides in Ravangla charge about ₹1,500–2,500 a day. A naturalist for wildlife walks costs more."},
+    {"q": "Is there a ropeway or skywalk at Maenam?", "a": "A ropeway from Maenam and a skywalk over the Bhaleydhunga cliff have been proposed, but at the time of writing they are not open to visitors. Do not plan around them. Check current status before you travel."},
+    {"q": "Can children do the Maenam trek?", "a": "Fit teenagers who are used to hiking can do it. For younger children, the full climb is long and steep; a short walk into the lower forest is a better choice. Families can also enjoy Maenam's edges from Yangang or Borong."},
+    {"q": "Is Maenam open to foreign tourists?", "a": "Yes, with the standard Sikkim Restricted Area Permit, applied online via e-FRRO. No extra protected-area permit has been required at the time of writing, though a forest entry fee may apply. Check current status before you travel."}
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "gangtok-to-lachung",
+    "from": "gangtok",
+    "to": "lachung",
+    "distance_km": 120,
+    "summary": "Gangtok to Lachung is about 120 km on the North Sikkim Highway via Kabi, Phodong, Mangan and Chungthang, usually 5–6 hours. Tourists travel in Sikkim Tourism-registered vehicles with a protected area permit, on a shared or private package arranged by a registered agent.",
+    "options": [
+      {"mode": "Shared tour jeep", "time": "5–6 h", "cost": "≈ ₹6,500–9,000 per person for a 2N/3D package with stay and meals", "text": "The cheapest way: you buy a seat in a registered jeep (Bolero, Sumo or Xylo class, 8–10 people) on a fixed North Sikkim tour that includes the permit, a budget hotel and meals. Jeeps leave Gangtok around 10–11 am. The local seat fare on this road is around ₹600–800, but tourists cannot simply ride a local jeep past the check posts without a permit."},
+      {"mode": "Private car or SUV", "time": "5–6 h", "cost": "≈ ₹16,000–22,000 per vehicle for 2N/3D, car only", "text": "A private registered SUV for your group, with the same permit rules, lets you stop at Seven Sisters, Naga waterfall and Singhik at your own pace. Prices rise in April–May and October. The driver must cross the Toong check post by 4:00 pm, so plan to leave Gangtok by 10 am at the latest."},
+      {"mode": "From Bagdogra or NJP", "time": "9–10 h", "cost": "Not advised in one day", "text": "Bagdogra (IXB) and NJP are about 125 km and 4.5–5 hours from Gangtok by NH10, which closes after monsoon landslides; the alternative is via Kalimpong or Algarah. Combined with the Lachung leg, you would miss the 4:00 pm Toong cut-off, so spend the first night in Gangtok."}
+    ],
+    "stops_on_way": ["Kabi Lungchok memorial stones", "Seven Sisters Waterfall", "Phodong Monastery (short detour)", "Singhik viewpoint", "Naga waterfall", "Chungthang confluence"],
+    "tip": "Leave Gangtok by 10 am, keep two passport photos and your ID handy for the check posts, and carry a refillable bottle because Lachung restricts packaged water at times.",
+    "faqs": [
+      {"q": "How long is the drive from Gangtok to Lachung?", "a": "Plan on 5 to 6 hours for about 120 km, including a lunch stop near Mangan or Chungthang and short photo stops. After rain, landslide clearing can add hours. Average speed on the North Sikkim Highway is around 20–25 km/h because of hairpins, broken stretches and army convoys."},
+      {"q": "Can I travel to Lachung by myself?", "a": "Not as an independent traveller in your own car. Permits for Lachung are issued only through Sikkim Tourism-registered agents, and you must use a registered tourist vehicle. Operators also require a minimum two-night North Sikkim stay. Solo travellers usually join a shared tour from Gangtok. Check current status before you travel."},
+      {"q": "Is the Gangtok to Lachung road open in 2026?", "a": "As we understand it, Lachung, Yumthang and Zero Point reopened to tourists on 8 September 2025 and have operated since, subject to weather. Slides can close the road for a day or more in the monsoon and after heavy snow in winter. Check current status before you travel; we confirm the evening before departure."},
+      {"q": "Where do we eat lunch between Gangtok and Lachung?", "a": "Most vehicles stop for lunch at roadside eateries around Mangan or Chungthang, about 3 to 4 hours out of Gangtok. A simple thali or noodles costs about ₹150–250. In budget packages, lunch on day one is sometimes included at a fixed stop. Carry dry snacks and water for slide delays."}
+    ]
+  },
+  {
+    "slug": "gangtok-to-lachen",
+    "from": "gangtok",
+    "to": "lachen",
+    "distance_km": 120,
+    "summary": "Gangtok to Lachen is about 120 km, 5–6 hours, on the North Sikkim Highway as far as Chungthang, then up the Lachen Chu valley. It is the first day of every Gurudongmar trip and needs a protected area permit, a registered vehicle and a registered agent.",
+    "options": [
+      {"mode": "Shared tour jeep", "time": "5–6 h", "cost": "≈ ₹7,000–9,500 per person for a 2N/3D Lachen–Lachung package", "text": "Shared tours usually run Gangtok–Lachen (night 1), Gurudongmar and on to Lachung (night 2), then Yumthang and back to Gangtok. A seat in a registered jeep with permit, budget stays and meals is the lowest-cost option. Seats fill early in May and October, so book a few days ahead."},
+      {"mode": "Private car or SUV", "time": "5–6 h", "cost": "≈ ₹18,000–24,000 per vehicle for 2N/3D Lachen–Lachung, car only", "text": "A private registered SUV gives you control over stops and an earlier start to Gurudongmar. The same permit and Toong 4:00 pm check post rule applies. Good for families with older parents who may want to turn back at Thangu if the altitude is too much."},
+      {"mode": "From Bagdogra or NJP", "time": "9–10 h", "cost": "Not advised in one day", "text": "Bagdogra and NJP are 4.5–5 hours from Gangtok on NH10, which closes after monsoon slides; the alternative is via Kalimpong or Algarah. Spend at least one night in Gangtok first, both for the Toong cut-off and to acclimatise before Gurudongmar."}
+    ],
+    "stops_on_way": ["Kabi Lungchok", "Seven Sisters Waterfall", "Singhik viewpoint", "Naga waterfall", "Chungthang, where the Lachen and Lachung rivers meet", "New bridge over the Taram Chu"],
+    "tip": "Eat a light dinner in Lachen, drink 2–3 litres of water and sleep early: the Gurudongmar departure is usually between 4 and 5 am.",
+    "faqs": [
+      {"q": "Is Lachen open for tourists now?", "a": "As we understand it, Lachen and Gurudongmar reopened on 9 March 2026 over a new Bailey bridge on the Taram Chu, closed again in April after a landslide, and permits resumed around 11–12 September 2026 after the road was repaired on 29 August. Check current status before you travel."},
+      {"q": "Why is Lachen not a same-day trip from Gangtok to Gurudongmar?", "a": "Gurudongmar lies at around 5,150–5,430 m and about 190 km from Gangtok. Going straight up from 1,650 m risks serious altitude sickness, and timings would not work with the check posts. A night at Lachen, about 2,750 m, is the minimum, and operators require at least two nights in North Sikkim."},
+      {"q": "What does the Gangtok to Lachen road look like after the 2023 flood?", "a": "The October 2023 South Lhonak flood destroyed the Teesta III dam at Chungthang and badly damaged the valley road. Rebuilt stretches and Bailey bridges are in use, but some sections are rough and slow, and monsoon slides recur. Expect 5 to 6 hours or more, and travel with an experienced North Sikkim driver."},
+      {"q": "Can children go on the Gangtok to Lachen trip?", "a": "Children under five are not permitted in North Sikkim protected areas, so Lachen and Gurudongmar are not possible with toddlers. Older children can go, but watch them closely for headache, vomiting or unusual tiredness at altitude. If symptoms appear, descend. Carry warm clothes, snacks and plenty of water."}
+    ]
+  },
+  {
+    "slug": "lachung-to-yumthang-valley",
+    "from": "lachung",
+    "to": "yumthang-valley",
+    "distance_km": 24,
+    "summary": "Lachung to Yumthang Valley is about 24 km, 1–1.5 hours, through the Shingba Rhododendron Sanctuary up to about 3,564 m. Most tours leave Lachung at 5–6 am, and many add Zero Point (Yumesamdong), about 23 km further, for an extra charge.",
+    "options": [
+      {"mode": "Included in package vehicle", "time": "1–1.5 h", "cost": "Included in North Sikkim packages", "text": "Yumthang is part of every Lachung package. Your vehicle leaves early, reaches the valley by 7–8 am, and gives you an hour or so by the river, the hot spring side and the meadows before returning to Lachung for breakfast or lunch. Snow boots and jackets can be hired in Lachung for about ₹100–300."},
+      {"mode": "Zero Point add-on", "time": "+2–3 h return", "cost": "≈ ₹3,000–4,000 per vehicle extra", "text": "Beyond Yumthang the road climbs another 23 km to Zero Point, about 4,660 m, where the civilian road ends. It is paid to the driver as an add-on. Snow, road works or army orders can stop vehicles short. Go only if everyone in the car feels well at Yumthang."}
+    ],
+    "stops_on_way": ["Shingba Rhododendron Sanctuary forests", "Yumthang hot spring area", "Yak grazing meadows", "Forest rest house at Yumthang"],
+    "tip": "Leave by 6 am: clouds usually close in on Yumthang and Zero Point by late morning.",
+    "faqs": [
+      {"q": "How far is Yumthang from Lachung?", "a": "About 24 km, which takes 1 to 1.5 hours on a mountain road climbing from about 2,700 m to about 3,564 m. Most drivers stop briefly in the rhododendron forest of the Shingba sanctuary. With Zero Point added, the full morning round trip from Lachung takes 5 to 6 hours."},
+      {"q": "Is Zero Point included in a Lachung package?", "a": "Usually not. Zero Point (Yumesamdong) is charged as an add-on, around ₹3,000–4,000 per vehicle as an indicative 2026 figure, paid to the driver or agent. Access depends on snow and army clearance. Foreign nationals: rules for Zero Point have varied, so ask us. Check current status before you travel."},
+      {"q": "When do rhododendrons bloom in Yumthang?", "a": "The main bloom runs from about late April to May, with early species from March and some flowers into June at higher levels. The Shingba Rhododendron Sanctuary protects many rhododendron species, Sikkim's state tree flower. A late spring snowfall can delay the season by a couple of weeks."},
+      {"q": "Is Yumthang open in winter?", "a": "Yumthang often receives heavy snow from December to March and the road can close for days at a time. When it opens, the snow-covered valley is beautiful but cold, around −5 to 5 °C. Zero Point is frequently unreachable in winter. Check current status before you travel and keep a flexible day."}
+    ]
+  },
+  {
+    "slug": "lachen-to-gurudongmar-lake",
+    "from": "lachen",
+    "to": "gurudongmar-lake",
+    "distance_km": 67,
+    "summary": "Lachen to Gurudongmar Lake is about 67 km, 3–3.5 hours each way via Thangu, climbing from about 2,750 m to the lake at around 5,150–5,430 m. Vehicles leave Lachen around 4–5 am and turn back by late morning. Indians only; foreigners are not permitted.",
+    "options": [
+      {"mode": "Included in package vehicle", "time": "3–3.5 h each way", "cost": "Included in Lachen–Lachung packages", "text": "Every Lachen package includes the Gurudongmar run. Breakfast is often taken at Thangu, about 30 km and 1.5 hours from Lachen. Beyond Thangu the road crosses high, bare plateau to the army check post and the lake. You spend 30–45 minutes there, then drive back to Lachen for lunch and usually on to Lachung."},
+      {"mode": "Chopta Valley add-on", "time": "+30–45 min", "cost": "≈ ₹1,500–2,500 per vehicle extra, if allowed", "text": "Some drivers offer a short detour into Chopta Valley near Thangu on the return. Availability depends on army and permit rules on the day. It is a gentle stop at about 4,000 m and a good alternative for anyone who did not feel well enough to go to the lake."}
+    ],
+    "stops_on_way": ["Thangu village for breakfast", "Chopta Valley meadows", "High plateau with yaks", "Army check post before the lake"],
+    "tip": "Climb slowly at the lake, walk rather than run, and turn back at the first sign of a severe headache, breathlessness at rest or confusion.",
+    "faqs": [
+      {"q": "How long does Lachen to Gurudongmar take?", "a": "About 3 to 3.5 hours each way for roughly 67 km, so a typical day runs from about 4:30 am to 12:30 pm, then you continue to Lachung or Gangtok. Road works, snow and convoys can add time. Leave early: winds rise and clouds build at the lake after about 10 am."},
+      {"q": "What is the altitude of Gurudongmar Lake?", "a": "The Government of Sikkim gives 5,430 m (17,800 ft), and that figure is on most signs and brochures. Satellite elevation data put the water surface nearer 5,150 m. Either way it is extremely high, close to the height of Everest Base Camp in Nepal, and enough to cause altitude sickness in fit, healthy people who climb too fast."},
+      {"q": "Can foreigners visit Gurudongmar Lake?", "a": "No. Gurudongmar Lake is close to the China border and is open to Indian nationals only, with a protected area permit through a registered agent. Foreign nationals can usually visit Lachung, Yumthang and Zero Point instead, with a group permit. Check current status before you travel."},
+      {"q": "How do I avoid altitude sickness at Gurudongmar?", "a": "Spend a night in Gangtok and a night in Lachen first, drink plenty of water, avoid alcohol the night before, and eat a light breakfast. At the lake, move slowly and stay 30 to 45 minutes. Many travellers carry camphor or sweets, which do not prevent illness. Ask your doctor about acetazolamide before the trip."}
+    ]
+  },
+  {
+    "slug": "mangan-to-dzongu",
+    "from": "mangan",
+    "to": "dzongu",
+    "distance_km": 20,
+    "summary": "Dzongu, the Lepcha reserve, lies just across the Teesta from Mangan. Upper Dzongu villages such as Passingdang and Lingthem are about 15–25 km and 45 minutes to 1.5 hours from Mangan by car. Outsiders need a Dzongu permit, usually obtained at Mangan.",
+    "options": [
+      {"mode": "Local shared jeep", "time": "1–1.5 h", "cost": "≈ ₹100–200 a seat", "text": "A few shared jeeps run between Mangan bazaar and Dzongu villages, mostly in the morning and afternoon, carrying villagers, school children and goods. They are cheap but irregular. Ask your homestay host which jeep to take and where it waits; hosts often send a message to the driver for you."},
+      {"mode": "Reserved car", "time": "45 min–1.5 h", "cost": "≈ ₹1,200–2,000 one way", "text": "A reserved small car or jeep from Mangan to your homestay village is simplest, especially with luggage. Roads inside Dzongu are narrow and in places rough after the 2023 flood and the 2024 monsoon slides, so local drivers are best. Your host can arrange pick-up."},
+      {"mode": "From Gangtok", "time": "3.5–4.5 h", "cost": "≈ ₹4,500–6,500 reserved car", "text": "Gangtok to Mangan is about 67 km and 2.5–3 hours on the North Sikkim Highway, then another hour or so into Dzongu. Shared jeeps from Gangtok to Mangan cost about ₹250–350 a seat, and you can switch to a local vehicle at Mangan."}
+    ],
+    "stops_on_way": ["Mangan bazaar for the permit and supplies", "Teesta crossing into Dzongu", "Namprikdang riverside ground", "Lepcha villages and cardamom fields"],
+    "tip": "Sort your Dzongu permit in Mangan before noon on a working day, with ID and photos; your homestay host can usually help.",
+    "faqs": [
+      {"q": "Do I need a permit to enter Dzongu?", "a": "Yes. Dzongu is a reserved area for the Lepcha people, and outsiders, including Indian citizens from outside Sikkim, need a permit, usually issued in Mangan with ID and photos. Homestay hosts and registered agents can help. Foreign nationals face tighter rules, so ask us. Check current status before you travel."},
+      {"q": "How far is Dzongu from Mangan?", "a": "Very close: Dzongu begins across the Teesta from Mangan. Lower Dzongu villages are 20–45 minutes away, and Upper Dzongu villages such as Passingdang and Lingthem are about 45 minutes to 1.5 hours. Tholung Monastery needs a further drive to the road head near Bey and a long walk."},
+      {"q": "Is the road to Dzongu safe?", "a": "It is a narrow village road, damaged in places by the October 2023 flood and the 2024 monsoon landslides. In dry months it is fine with a local driver. From June to August slides are common and travel can stop for days. Check current status before you travel and keep a spare day."},
+      {"q": "Can I visit Dzongu as a day trip from Gangtok?", "a": "You can, but it is a long day: about 7 to 9 hours of driving for a few hours in Dzongu, and the permit takes time in Mangan. We suggest at least two nights in a Lepcha homestay. Dzongu rewards slow walking, conversations and meals far more than a quick look."}
+    ]
+  }
+]

@@ -1,0 +1,261 @@
+{
+  "slug": "goecha-la-trek-group-budget-10n",
+  "title": "Goecha La trek, group departure",
+  "region": "west-sikkim",
+  "tier": "budget",
+  "nights": 10,
+  "themes": [
+    "treks-and-walks",
+    "lakes-and-passes",
+    "flowers-and-forests",
+    "photography"
+  ],
+  "stops": [
+    {
+      "place": "yuksom",
+      "nights": 1
+    },
+    {
+      "place": "dzongri-goecha-la",
+      "nights": 8
+    },
+    {
+      "place": "yuksom",
+      "nights": 1
+    }
+  ],
+  "start": "NJP station",
+  "end": "NJP station",
+  "price_from_inr": 28500,
+  "price_basis": "per person, fixed group departure of 8–14 trekkers, shared vehicle from NJP, twin-share tents, all meals on the trail, lodge twin or triple in Yuksom, GST included",
+  "price_breakdown": [
+    [
+      "Trek team, tents and meals, 8 nights",
+      19500
+    ],
+    [
+      "Yuksom lodge, 2 nights with meals",
+      2000
+    ],
+    [
+      "Shared vehicle NJP–Yuksom–NJP",
+      3000
+    ],
+    [
+      "Park permits, camping and guide fees",
+      1500
+    ],
+    [
+      "Our planning and safety support",
+      2500
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 4570,
+  "meta_description": "Goecha La group trek, 10 nights from NJP: Yuksom, Tshoka, Dzongri, Thansing and the Kangchenjunga viewpoint at about 4,570 m. From ₹28,500 per person.",
+  "summary": "The classic Goecha La trek on a fixed group departure: eleven days from NJP through Khangchendzonga National Park to the viewpoint at about 4,570 m facing Kangchenjunga, with an acclimatisation day at Dzongri. A local team from Yuksom, tents, all trail meals and permits included. From ₹28,500 per person.",
+  "intro": [
+    "Goecha La is the great trek of West Sikkim, and joining a group is the most affordable way to do it well. You walk from Yuksom, the first capital of the Sikkimese kingdom, up the Prek Chu valley through oak, magnolia and rhododendron to the meadows of Dzongri, then on to Thansing, Lamuney and the viewpoint below the pass, where the south-east face of Kangchenjunga fills the sky. The Sikkim Forest Department gives 4,570 m for that viewpoint.",
+    "Our groups run with guides, cooks and porters from Yuksom and nearby villages, a ratio of one guide to no more than eight trekkers, oxygen and a pulse oximeter. We keep the rest day at Dzongri because acclimatisation matters more than speed. You carry a daypack; your rucksack can travel by porter or pack animal for a daily fee. Booking a group spot means fixed dates and shared tents, but it also means company on the trail and a price close to half that of a private trek."
+  ],
+  "highlights": [
+    "Sunrise from Dzongri Top over Kabru, Rathong, Kangchenjunga and Pandim",
+    "Goecha La viewpoint at about 4,570 m facing Kangchenjunga",
+    "Rhododendron forests between Bakhim and Phedang in spring",
+    "Samiti Lake, sacred to Bhutia and Lepcha communities",
+    "A local trek team from Yuksom and a built-in acclimatisation day"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Drive from NJP to Yuksom",
+      "place": "yuksom",
+      "overnight": "Yuksom",
+      "alt_m": 1780,
+      "drive": "≈ 170 km · 6.5–7.5 h",
+      "text": "The group meets at NJP station at 9 am for the shared vehicle. The road runs up the Teesta gorge on NH10 to Melli, west to Jorethang, along the Rangeet to Legship and up to Yuksom at 1,780 m. If NH10 is closed after rain, we go via Kurseong and Darjeeling, adding 1–2 hours. Evening briefing at the lodge: gear check, permit paperwork with your photo ID, and an introduction to the guide, cook and porters who will walk with you for the next nine days.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Yuksom to Sachen through forest",
+      "place": "dzongri-goecha-la",
+      "overnight": "Sachen camp",
+      "alt_m": 2200,
+      "drive": "",
+      "text": "After registering at the park gate, the trail leaves Yuksom and contours above the Prek Chu through warm, mossy forest, crossing several side streams on bridges. It is about 8 km and 5–6 hours, with gentle climbs and a few steeper sections near the end. Watch for orchids, ferns and birds such as sunbirds and laughingthrushes. Camp at Sachen, at about 2,200 m, in a forest clearing. Dinner is early, and your guide will explain how to spot the first signs of altitude sickness.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Sachen to Tshoka via Bakhim",
+      "place": "dzongri-goecha-la",
+      "overnight": "Tshoka",
+      "alt_m": 3000,
+      "drive": "",
+      "text": "A short but steep day of about 7 km and 4–5 hours. The trail drops to cross the Prek Chu on a high suspension bridge, then climbs hard to Bakhim, where the forest opens and you may get the first glimpse of snow peaks. Above Bakhim the path eases into Tshoka at about 3,000 m, a small settlement with a monastery and a pond that reflects Pandim on clear evenings. Rest in the afternoon, drink plenty of water and walk a little uphill and back to help acclimatise.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tshoka to Dzongri through rhododendron",
+      "place": "dzongri-goecha-la",
+      "overnight": "Dzongri",
+      "alt_m": 4020,
+      "drive": "",
+      "text": "The biggest climb so far: about 9 km and 6–7 hours, gaining over 1,000 m. The path climbs through dense rhododendron forest, in flower in April and May, on log steps and stone paving to Phedang meadow for lunch. Above Phedang the trees thin and the trail rises over open ridges to Dzongri at about 4,020 m, a wide meadow with prayer flags and stone huts. Go slowly and steadily; the guide sets the pace. Nights here are cold, often below freezing in October and November.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Dzongri Top sunrise and rest day",
+      "place": "dzongri-goecha-la",
+      "overnight": "Dzongri",
+      "alt_m": 4020,
+      "drive": "",
+      "text": "Wake around 4 am for the climb to Dzongri Top, about 45–60 minutes to roughly 4,200 m. On a clear morning the whole range appears as the light comes up: Kabru, Rathong, Kokthang, Kangchenjunga and Pandim, close enough to see the glaciers. Back at camp for breakfast, then a true rest day. Climbing high and sleeping at the same height helps your body adjust before the long days ahead. The guide checks everyone's oxygen saturation and pulse in the evening.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Dzongri to Thansing via Kokchurang",
+      "place": "dzongri-goecha-la",
+      "overnight": "Thansing",
+      "alt_m": 3930,
+      "drive": "",
+      "text": "About 10 km and 5–6 hours. The trail crosses the Dzongri meadows, then drops steeply through rhododendron scrub to Kokchurang and the Prek Chu, crossed by a bridge. From there it climbs gently up the valley floor to Thansing at about 3,930 m, a broad, open campsite directly beneath Pandim. The descent is hard on the knees, so use trekking poles if you have them. In the afternoon, rest and watch the light change on Pandim and the moraine walls of the upper valley.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Short walk up to Lamuney",
+      "place": "dzongri-goecha-la",
+      "overnight": "Lamuney",
+      "alt_m": 4180,
+      "drive": "",
+      "text": "A deliberately short day of about 4 km and 2–3 hours, gaining only a little height to Lamuney at about 4,180 m, the last campsite before the viewpoint. The trail follows the valley along the moraine, with Kangchenjunga's ridges growing ahead. Samiti Lake lies a short way beyond; it is sacred to Bhutia and Lepcha communities, and the Forest Department does not allow camping beside it. Eat an early dinner and sleep by 7 pm: tomorrow starts around 3 am.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Goecha La viewpoint, back to Thansing",
+      "place": "dzongri-goecha-la",
+      "overnight": "Thansing",
+      "alt_m": 3930,
+      "drive": "",
+      "text": "The summit day. Leave Lamuney by headlamp around 3 am, pass Samiti Lake in the dark and climb over moraine and boulders to the viewpoint below Goecha La, at about 4,570 m by the Forest Department's figure, reached around sunrise. The south-east face of Kangchenjunga rises straight ahead. The pass itself is off-limits. After photographs and tea, return the same way to Lamuney for breakfast and walk on down to Thansing. It is a 10–12 hour day of about 14–16 km, and the guide will turn back anyone unwell.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Thansing to Tshoka via Phedang",
+      "place": "dzongri-goecha-la",
+      "overnight": "Tshoka",
+      "alt_m": 3000,
+      "drive": "",
+      "text": "A long day of about 15 km and 7–8 hours, but mostly downhill or level. From Kokchurang the trail takes a high contouring path through rhododendron forest that bypasses Dzongri and joins the main trail at Phedang. From there it is a steady descent through the forest to Tshoka. The thicker air makes everything feel easier. Celebrate with the team at dinner; our cooks sometimes mark it with a cake baked on a kerosene stove.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Tshoka down to Yuksom",
+      "place": "yuksom",
+      "overnight": "Yuksom",
+      "alt_m": 1780,
+      "drive": "",
+      "text": "The final walking day, about 15 km and 6–7 hours, retracing the trail past Bakhim, across the high bridge over the Prek Chu and back through the lower forest to Yuksom. Check out at the park gate, where permits are checked and waste is weighed. A hot shower, a bed in the lodge and a farewell dinner with the team close the trek. It is customary to tip the guide, cook and porters; we suggest a group pool and will advise on amounts.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Drive from Yuksom to NJP",
+      "place": "yuksom",
+      "overnight": "",
+      "alt_m": 114,
+      "drive": "≈ 170 km · 6.5–7.5 h",
+      "text": "Breakfast and an 8 am departure in the shared vehicle, via Legship, Jorethang and Melli to NJP, arriving around 3–4 pm. Please book trains after 6 pm and avoid flights from Bagdogra on this day. In the monsoon shoulder weeks of late September and early June, keep an extra half-day in hand in case of slides on NH10. If you have time, a night in Pelling or Siliguri before travelling home is a comfortable way to finish.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "yuksom-village-homestays"
+  ],
+  "includes": [
+    "Shared vehicle NJP–Yuksom–NJP",
+    "2 nights in a Yuksom lodge or homestay, twin or triple sharing, with meals",
+    "8 nights in twin-share tents with sleeping mats; dining and toilet tents",
+    "All meals on the trail, prepared by our cook",
+    "Registered trek guide (1 per 8 trekkers), assistant guides, cooks and porters for group gear",
+    "Khangchendzonga National Park permits, camping and guide fees for Indian nationals",
+    "Oxygen cylinder, pulse oximeter and first-aid kit",
+    "Our planning and safety support"
+  ],
+  "excludes": [
+    "Offloading your rucksack, about ₹400–600 a day",
+    "Sleeping bag and personal gear (rental available)",
+    "Extra park fees and Protected Area Permit for foreign nationals",
+    "Tips for the trek team",
+    "Travel to NJP, and any extra nights from weather or road delays",
+    "Personal insurance with high-altitude cover"
+  ],
+  "good_to_know": [
+    "Fitness matters: aim to jog 5 km in 35 minutes, or walk 10 km with a light pack, before you come.",
+    "Minimum age on our group departures is 12, with a parent or guardian for under-18s.",
+    "Foreign nationals need a Restricted Area Permit and a Protected Area Permit, issued to groups of two or more through a registered agent.",
+    "No camping at Samiti Lake and no single-use plastic in the park; carry a refillable bottle.",
+    "Rules, fees and openings change; check current status before you travel."
+  ],
+  "upgrade": "Our private Goecha La trek gives you your own guide, cook and porters, flexible dates and a Pelling night to acclimatise, from about ₹52,000 per person for two.",
+  "faqs": [
+    {
+      "q": "How fit do I need to be for the Goecha La group trek?",
+      "a": "Reasonably fit. You will walk 5–8 hours on most days, gain over 1,000 m on the day to Dzongri and face a 10–12 hour summit day. We ask trekkers to be able to jog 5 km in about 35 minutes or walk 10 km with a light pack comfortably. Six to eight weeks of training makes the trek far more enjoyable."
+    },
+    {
+      "q": "What is the group size?",
+      "a": "Our fixed departures take 8 to 14 trekkers, with one registered guide for every eight people plus assistant guides, cooks and porters. Groups are mixed: solo travellers, couples and friends from across India and some from abroad. Solo travellers are paired with a same-gender tent partner unless they pay for a single tent."
+    },
+    {
+      "q": "Is offloading my rucksack worth it?",
+      "a": "For most people, yes, especially on a first high trek. A porter or pack animal carries your main bag, up to about 10–12 kg, for roughly ₹400–600 a day, leaving you with a daypack of water, snacks and layers. It makes the climb to Dzongri and the summit day much easier. Book it in advance."
+    },
+    {
+      "q": "Can foreigners join this group departure?",
+      "a": "Yes. Foreign nationals need Sikkim's Restricted Area Permit, applied for online on the e-FRRO portal after arriving in India, and a Protected Area Permit for Dzongri and Goecha La, which we arrange through our registered agency. Foreign nationals also pay higher park fees, billed separately. Check current status before you travel."
+    },
+    {
+      "q": "What happens if I get altitude sickness?",
+      "a": "Tell your guide at once. Mild headaches often pass with rest, fluids and a slower pace. If symptoms worsen, the guide will arrange for you to descend with a staff member; descending is the real treatment, and our team carries oxygen and a pulse oximeter. Others in the group continue with the remaining guides. Insurance with high-altitude cover is strongly advised."
+    },
+    {
+      "q": "What are the toilets and washing like on the trail?",
+      "a": "We set up toilet tents with a dug pit at each camp and fill them in when we leave. Tshoka and Dzongri also have basic forest department toilets. Hot water for washing comes in a bowl each morning and evening. There are no showers between Yuksom and Yuksom; wet wipes and biodegradable soap help."
+    },
+    {
+      "q": "What sleeping bag do I need?",
+      "a": "One rated to about -10 °C comfort for October to December, and -5 °C for April and May. Nights at Lamuney and Dzongri regularly drop below freezing. If you do not own one, we can rent you a clean bag in Yuksom for about ₹1,000–1,500 for the trek. A liner adds warmth and hygiene."
+    },
+    {
+      "q": "Is there mobile signal on the Goecha La trek?",
+      "a": "Only patchily. You may get a weak signal at Tshoka and on parts of the ridge near Dzongri, but most of the trek has none. Tell your family that you will be out of contact for about eight days. Our team carries communication equipment for emergencies and checks in with our Gangtok office when signal allows."
+    },
+    {
+      "q": "When are your group departures?",
+      "a": "We run departures from late March or April to mid-May, and from late September to early December, roughly weekly in peak weeks. We do not run treks from June to August because of monsoon rain and leeches. Exact dates depend on park openings and weather each year; check current status with us before you book travel."
+    }
+  ]
+}

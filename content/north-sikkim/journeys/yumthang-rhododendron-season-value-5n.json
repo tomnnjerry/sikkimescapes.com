@@ -1,0 +1,74 @@
+{
+  "slug": "yumthang-rhododendron-season-value-5n",
+  "title": "Yumthang rhododendron season",
+  "region": "north-sikkim",
+  "tier": "value",
+  "nights": 5,
+  "themes": ["flowers-and-forests", "photography", "treks-and-walks"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "lachung", "nights": 3}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 27500,
+  "price_basis": "per person, twin sharing, 2 people, private small car for transfers, reserved Scorpio for North Sikkim, 3-star hotel in Gangtok and a good Lachung hotel, peak-season rates",
+  "price_breakdown": [["Gangtok 3-star hotel, 2 nights with breakfast", 4500], ["Lachung hotel, 3 nights with dinner and breakfast, peak season", 7000], ["Reserved Scorpio for North Sikkim, 3 nights, with permits", 9500], ["Private small car for Bagdogra or NJP transfers", 3800], ["Zero Point extension", 1500], ["Sikkim tourist fee and entry fees", 300], ["Our planning fee", 900]],
+  "best_months": [0, 0, 0, 2, 2, 1, 0, 0, 0, 0, 0, 0],
+  "pace": "Easy",
+  "max_altitude_m": 4700,
+  "meta_description": "5 nights for the Yumthang rhododendron bloom, mid-April to May: three nights in Lachung, two valley mornings, Zero Point and a private car, from ₹27,500.",
+  "summary": "Built for the rhododendron season, mid-April to the end of May: three nights in Lachung instead of the usual two, so you get two unhurried mornings in the Shingba Rhododendron Sanctuary and Yumthang Valley, plus Zero Point. A private car, a reserved Scorpio and a good Lachung hotel at peak-season rates.",
+  "intro": [
+    "For about six weeks each spring, the slopes above Lachung turn red, pink, white and yellow. The Shingba Rhododendron Sanctuary, set up in 1984 along the road to Yumthang, protects forests of rhododendron including Rhododendron niveum, Sikkim's state tree. On a standard two-night trip you see it once, at speed, from a car window, in a queue of vehicles. This trip gives you three nights in Lachung and two mornings in the valley, one for the drive to Zero Point and one for walking slowly through the flowers.",
+    "May is also the busiest month in North Sikkim, with Indian school holidays, so prices here are peak-season and we book Lachung rooms weeks ahead. The last ten days of April are often as good and quieter. Children under 5 are not permitted in North Sikkim, and the North leg needs at least two nights, which this trip comfortably meets. Bloom timing shifts by two or three weeks with the winter. Check current status before you travel."
+  ],
+  "highlights": [
+    "Two mornings in Yumthang Valley and the Shingba Rhododendron Sanctuary",
+    "Rhododendron niveum, Sikkim's state tree, in flower",
+    "Zero Point at about 4,700 m, with spring snow at the top",
+    "A free afternoon for Lachung village, its monastery and orchards",
+    "An easy pace with no 4 am starts"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 124 km · 4.5–5 h", "text": "Your driver meets you at Bagdogra Airport or NJP station and takes the Teesta valley road through Sevoke and Rangpo up to Gangtok. Spring is usually dry and NH10 open, though pre-monsoon storms in late May can cause delays; the Kalimpong road is the fallback. Check in to your 3-star hotel and pay the ₹50 Sikkim tourist fee at reception. We collect your ID and photos for the North Sikkim permit. If you arrive early, walk MG Marg and visit the flower exhibition centre near Ridge Park, which shows orchids in spring.", "meals": "None"},
+    {"day": 2, "title": "Gangtok to Lachung", "place": "lachung", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 118 km · 5–7 h", "text": "Your reserved Scorpio leaves at 9:30 am. The highway runs past the Seven Sisters Waterfall, Phodong and Mangan, with lunch on the way. In spring the lower slopes are full of wild orchids and the first rhododendrons start appearing above Chungthang. Cross the Toong check post before 4 pm and climb the Lachung Chu to Lachung, arriving by late afternoon. Check in to your hotel and take a short walk along the river as the light fades. Dinner and an early night.", "meals": "Dinner"},
+    {"day": 3, "title": "Yumthang and Zero Point", "place": "zero-point", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 94 km return · 5–6 h", "text": "Leave at 6 am, before the convoys, for the high run. Drive through the sanctuary without stopping long, up to Yumthang Valley at 3,564 m and on to Zero Point at about 4,700 m, where snow usually lies until June. Stay 20 to 30 minutes at the top, walking slowly. On the way down, stop at Yumthang for tea and the hot spring by the river. Back in Lachung for lunch. In the afternoon, walk up to Lachung Monastery across the river, or through the apple orchards in blossom.", "meals": "Breakfast, Dinner"},
+    {"day": 4, "title": "A slow morning among the rhododendrons", "place": "shingba-rhododendron-sanctuary", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 48 km return · 4–5 h", "text": "Today is for the flowers. Leave at 6:30 am and ask your driver to stop at the best stretches of the Shingba Rhododendron Sanctuary between Lachung and Yumthang, where you can walk a few hundred metres along the road and the herders' paths. Look for the pale yellow of Rhododendron niveum's relatives, deep reds and pinks, and white magnolias. Please do not pick flowers or break branches. Continue to Yumthang, where primulas carpet the meadow in late May, for a picnic breakfast. Back to Lachung by noon for a lazy afternoon.", "meals": "Breakfast, Dinner"},
+    {"day": 5, "title": "Back to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 118 km · 5–6 h", "text": "After breakfast, drive back down the Lachung Chu to Chungthang and along the Teesta to Gangtok, with a stop at the Naga Waterfall and lunch near Mangan. Reach Gangtok by mid-afternoon. If you have energy, visit Enchey Monastery or the Namgyal Institute of Tibetology before dinner; otherwise rest and sort your photographs. Spring evenings in Gangtok are mild, about 12 to 18 °C, and MG Marg is pleasant for a last walk and a bowl of thukpa.", "meals": "Breakfast"},
+    {"day": 6, "title": "Gangtok to Bagdogra", "place": "gangtok", "overnight": "", "alt_m": 125, "drive": "≈ 124 km · 4.5–5 h", "text": "Your small car takes you down to Bagdogra Airport or NJP station after breakfast. Allow 4.5 to 5 hours, and leave by 7 am for a flight before 1 pm. In late May, afternoon storms can slow the road, so do not cut it fine. If time allows, the driver can stop at a viewpoint above the Teesta near Melli or for lunch in Siliguri. If you loved the flowers, ask us about the Barsey Rhododendron Sanctuary in Soreng district for next spring.", "meals": "Breakfast"}
+  ],
+  "stays": ["fortuna-lachung", "snow-lion-mountain-resort-lachung"],
+  "includes": [
+    "2 nights in a 3-star hotel in Gangtok with breakfast",
+    "3 nights in a good Lachung hotel with dinner and breakfast",
+    "Reserved Scorpio or similar with registered North Sikkim driver for 3 nights",
+    "North Sikkim Protected Area Permit processing and the Zero Point extension",
+    "Private small car for Bagdogra or NJP transfers",
+    "Sikkim ₹50 tourist fee"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Lunches, and dinners in Gangtok",
+    "Snow gear hire, tips and personal expenses",
+    "5 percent GST",
+    "Extra nights if a landslide holds you up north"
+  ],
+  "good_to_know": [
+    "Bloom timing varies by two to three weeks; the main show is usually mid-April to end of May.",
+    "May is peak season; book four to six weeks ahead.",
+    "The sanctuary is protected: do not pick flowers or break branches.",
+    "Children under 5 are not permitted in North Sikkim.",
+    "Foreign groups of two or more can take this trip with a RAP and PAP.",
+    "Check current status before you travel."
+  ],
+  "upgrade": "Our premium rhododendron trip adds a top Gangtok hotel, The Yarlam Resort in Lachung and an Innova Crysta, from about ₹1,10,000 per person.",
+  "faqs": [
+    {"q": "When exactly do the rhododendrons bloom?", "a": "Lower bushes start in late March and early April; the main bloom in the Shingba Rhododendron Sanctuary and Yumthang usually runs from mid-April to the end of May. A cold winter can push it later. The last ten days of April and the first week of May are often the best balance of colour and crowds."},
+    {"q": "Why three nights in Lachung?", "a": "Two nights give you one rushed morning in Yumthang, shared with every other vehicle. Three nights give you one morning for Zero Point and a second, slower morning among the flowers, plus a spare if the weather is poor. The extra night costs about ₹4,000–5,000 per person."},
+    {"q": "Can foreigners take this trip?", "a": "Yes. Lachung, Yumthang and Zero Point are open to foreign nationals with a Protected Area Permit, issued for groups of two or more through a registered agent, after you get the Sikkim RAP online via e-FRRO. This makes it one of the best North Sikkim trips for international visitors."},
+    {"q": "Is the sanctuary crowded in May?", "a": "Yes, May is the busiest month, with Indian school holidays, and the road to Yumthang can see long lines of vehicles from about 7:30 am. Leaving Lachung by 6 am helps a lot. The last ten days of April are quieter and often just as colourful."},
+    {"q": "What else flowers in Yumthang in spring?", "a": "Besides rhododendrons, look for magnolias on the lower slopes, primulas carpeting the Yumthang meadow in late May and early June, and wild orchids along the lower highway. Later, in June, poppies and other alpine flowers appear, though the monsoon makes that season riskier for travel."},
+    {"q": "How cold is Lachung in April and May?", "a": "Expect about 0 to 5 °C at dawn and 12 to 15 °C at midday in Lachung, colder at Yumthang and well below freezing at Zero Point with wind. Pack thermals, a fleece and a padded jacket, and a light rain shell for late-May showers."},
+    {"q": "Is this trip suitable for seniors?", "a": "Yes, it is one of our gentlest North Sikkim trips. There are no 4 am starts, the highest night is 2,700 m, and Zero Point can be skipped. The drives from Gangtok are 5 to 7 hours, so plan stops. Seniors with heart or lung conditions should talk to their doctor first."},
+    {"q": "Can I photograph the rhododendrons properly?", "a": "Yes. The second valley morning is set aside for slow stops and walks along the road and herders' paths. Light is best from about 6:30 to 9 am. Bring a zoom lens rather than walking into the bushes. Drones are generally not allowed near the border areas."},
+    {"q": "What if the road closes in spring?", "a": "Spring is usually reliable, but pre-monsoon storms in late May can cause slides. If permits stop before you leave Gangtok, we refund the North Sikkim portion or move your dates. If you are held in Lachung, extra nights are at cost. Keep a spare day before your flight."}
+  ]
+}

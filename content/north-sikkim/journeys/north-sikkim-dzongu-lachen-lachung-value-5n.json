@@ -1,0 +1,75 @@
+{
+  "slug": "north-sikkim-dzongu-lachen-lachung-value-5n",
+  "title": "Dzongu homestay and North Sikkim",
+  "region": "north-sikkim",
+  "tier": "value",
+  "nights": 5,
+  "themes": ["village-homestays", "lakes-and-passes", "crafts-and-culture", "offbeat-sikkim"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "dzongu", "nights": 1}, {"place": "lachen", "nights": 1}, {"place": "lachung", "nights": 1}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 29500,
+  "price_basis": "per person, twin sharing, 2 people, private small car for transfers, private SUV for Dzongu and North Sikkim, 3-star hotel, Lepcha homestay and standard lodges",
+  "price_breakdown": [["Gangtok 3-star hotel, 2 nights with breakfast", 4500], ["Dzongu Lepcha homestay, 1 night with all meals", 2300], ["Lachen and Lachung standard lodges, 2 nights with dinner and breakfast", 4000], ["Private SUV Gangtok–Dzongu–Lachen–Lachung–Gangtok, with permits", 13000], ["Private small car for Bagdogra or NJP transfers", 4000], ["Dzongu permit, Sikkim tourist fee and entry tickets", 300], ["Our planning fee", 1400]],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 0, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 5183,
+  "meta_description": "5 nights from Bagdogra with a Lepcha homestay in Dzongu, then Lachen, Gurudongmar Lake, Lachung and Yumthang in a private SUV, from ₹29,500 per person.",
+  "summary": "North Sikkim with a gentler climb and a human story: a night with a Lepcha family in Dzongu at about 1,200 m, then Lachen, Gurudongmar Lake at dawn, Lachung and Yumthang Valley, all in your own SUV. The Dzongu night breaks the long drive and helps your body before the high valleys.",
+  "intro": [
+    "Most North Sikkim trips race past Mangan without a glance across the Teesta. This one stops. Dzongu, the reserved homeland of the Lepcha, lies on the far bank, and a night with a Lepcha family there turns the trip from a sightseeing run into something you will talk about. You eat home-cooked food, walk to a waterfall or cardamom grove, and hear how the people of Dzongu stopped four dams in 2007–2010. Then you continue north to Lachen, Gurudongmar and Lachung with the same private SUV.",
+    "The Dzongu night also does a practical job. At about 1,200 m it is a gentle first step up, and it cuts the drive to Lachen to about four hours, so you arrive rested. Dzongu needs its own permit from Mangan, and Lachen and Lachung need the North Sikkim permit; we file both. Gurudongmar is for Indian nationals only, and children under 5 are not permitted in North Sikkim. Check current status before you travel."
+  ],
+  "highlights": [
+    "A night with a Lepcha family in Dzongu, Sikkim's reserved Lepcha homeland",
+    "A gentler climb: 1,650 m, then 1,200 m, then 2,750 m before Gurudongmar",
+    "Gurudongmar Lake at about 5,183 m at dawn",
+    "Yumthang Valley and the Shingba Rhododendron Sanctuary above Lachung",
+    "One private SUV from Gangtok to Dzongu, Lachen, Lachung and back"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 124 km · 4.5–5 h", "text": "Your driver meets you at Bagdogra Airport or NJP station and drives up the Teesta valley through Sevoke and Rangpo to Gangtok. In the monsoon, NH10 can close after slides and the Kalimpong or Lava road adds 1.5 to 3 hours. Check in to your 3-star hotel and pay the ₹50 Sikkim tourist fee at reception. We collect your ID and photos this evening for both the Dzongu permit and the North Sikkim permit. Walk down to MG Marg for dinner and an early night.", "meals": "None"},
+    {"day": 2, "title": "Gangtok to a Dzongu homestay", "place": "dzongu", "overnight": "Dzongu", "alt_m": 1200, "drive": "≈ 70–80 km · 3–4 h", "text": "Your private SUV collects you at 9:30 am and follows the North Sikkim highway past Kabi Lungchok and Phodong Monastery to Mangan, then drops to the Teesta and crosses into Dzongu. Your Lepcha hosts welcome you with tea. After lunch, walk with a family member to a nearby waterfall or through cardamom groves and paddy terraces. In the evening, sit by the kitchen fire as dinner is cooked; ask about Lepcha words for the rivers and mountains, and about the Affected Citizens of Teesta, whose hunger strike began in June 2007.", "meals": "Lunch, Dinner"},
+    {"day": 3, "title": "Dzongu to Lachen", "place": "lachen", "overnight": "Lachen", "alt_m": 2750, "drive": "≈ 75 km · 4 h", "text": "A slow breakfast and a short morning walk, then back across the Teesta to Mangan and north along the highway. Stop at the Singhik viewpoint for a last look into Dzongu, and at the Naga Waterfall near Toong; the vehicle crosses the Toong check post well before the 4 pm cut-off. At Chungthang the road turns up the Lachen gorge and crosses the single-lane Taram Chu bridge. Reach Lachen by mid-afternoon with time to rest and walk up towards Lachen Monastery if you feel well. Early dinner and bed.", "meals": "Breakfast, Dinner"},
+    {"day": 4, "title": "Gurudongmar Lake, then Lachung", "place": "gurudongmar-lake", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 134 km return, then ≈ 50 km · 8–9 h", "text": "Leave Lachen at about 4 am with a packed breakfast. Tea at Thangu, about 3,900 m, then across the plateau to Gurudongmar Lake at about 5,183 m. Twenty to thirty minutes at the shore, walking slowly, then back down. Turn back early if anyone has a worsening headache. Return to Lachen for lunch, then drive down to Chungthang and up to Lachung, arriving by late afternoon. Your driver will stop as often as you like. Hire snow gear this evening if Yumthang has snow. Dinner at the lodge.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Yumthang Valley and back to Gangtok", "place": "yumthang-valley", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 48 km return, then ≈ 118 km · 8–9 h", "text": "Leave Lachung at 6 am for Yumthang Valley, 24 km up through the Shingba Rhododendron Sanctuary, at 3,564 m. From mid-April to May the slopes are in flower; in winter the valley is often white. Walk slowly, see the hot spring by the river, and add Zero Point at about 4,700 m for an extra charge if the road is open and you feel well. Back to Lachung for lunch and checkout, then the drive to Gangtok, arriving by early evening. Check in and rest.", "meals": "Breakfast, Lunch"},
+    {"day": 6, "title": "Gangtok to Bagdogra", "place": "gangtok", "overnight": "", "alt_m": 125, "drive": "≈ 124 km · 4.5–5 h", "text": "After breakfast, your small car takes you down to Bagdogra Airport or NJP station. Allow 4.5 to 5 hours, and leave by 7 am for a flight before 1 pm. In the monsoon, NH10 can close after slides, and the detour via Kalimpong or Lava adds time. If your flight is late in the day, ask the driver to stop at Rumtek Monastery on the way out of Gangtok, or for lunch in Siliguri. We would love to hear what your Dzongu hosts cooked for you.", "meals": "Breakfast"}
+  ],
+  "stays": ["mayal-lyang-homestay-dzongu", "dzongu-lepcha-homestays", "fortuna-lachung"],
+  "includes": [
+    "2 nights in a 3-star hotel in Gangtok with breakfast",
+    "1 night in a Lepcha family homestay in Dzongu with lunch, dinner and breakfast",
+    "1 night in Lachen and 1 night in Lachung in standard lodges with dinner and breakfast",
+    "Lunch on the Gurudongmar and Yumthang days and a packed breakfast for Gurudongmar",
+    "Private SUV with registered North Sikkim driver from Gangtok to Dzongu, Lachen, Lachung and back",
+    "Private small car for Bagdogra or NJP transfers",
+    "Dzongu permit, North Sikkim permit processing and the Sikkim ₹50 tourist fee"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Zero Point extension (≈ ₹3,000–4,000 per vehicle)",
+    "Meals in Gangtok, snow gear hire and oxygen cans",
+    "Tips, personal expenses and 5 percent GST",
+    "Extra nights if a landslide holds you up north"
+  ],
+  "good_to_know": [
+    "Dzongu and the high valleys need separate permits; send ID and photos when you book.",
+    "Gurudongmar is for Indian nationals only.",
+    "Children under 5 are not permitted in North Sikkim.",
+    "Dzongu homestays are simple family homes; bring cash, as there are no ATMs.",
+    "If Lachen is closed, you get a second Dzongu night and a night in Lachung instead.",
+    "Check current status before you travel."
+  ],
+  "upgrade": "Our comfort photography trip adds a second Lachen night, an Innova and Summit Gangchen, from about ₹46,000 per person for six nights.",
+  "faqs": [
+    {"q": "Why stop in Dzongu?", "a": "Two reasons. It is the reserved homeland of the Lepcha, Sikkim's earliest people, and a night with a family there is the most personal part of any North Sikkim trip. And at about 1,200 m it breaks the climb and the drive, so you reach Lachen after four hours on the road instead of seven."},
+    {"q": "What is the Dzongu homestay like?", "a": "A simple, clean room in a family home, with shared or attached toilet depending on the house, and all meals cooked by your hosts. Expect rice, dal, local greens, vegetables and chicken or pork, and perhaps millet beer. There is no room service or television, and that is part of the charm."},
+    {"q": "Do I need a separate permit for Dzongu?", "a": "Yes. Dzongu is a reserved Lepcha area with its own permit from the district administration in Mangan, separate from the North Sikkim permit for Lachen and Lachung. We file both with the same ID and photos. Foreign nationals need a Protected Area Permit for Dzongu through a registered agent."},
+    {"q": "Is this trip better for acclimatisation?", "a": "Yes. You sleep at 1,650 m in Gangtok, 1,200 m in Dzongu and 2,750 m in Lachen before Gurudongmar, with a shorter, calmer drive to Lachen. It is still a single night in Lachen before the lake, so seniors or anyone who has felt altitude before may want to add a second Lachen night."},
+    {"q": "Can we spend two nights in Dzongu?", "a": "Yes, and many guests wish they had. A second Dzongu night costs about ₹2,500–3,500 per person with meals and the extra vehicle day. It gives you time for a hot spring, a longer walk or simply a slow day. The trip becomes six nights."},
+    {"q": "Is this trip suitable for families?", "a": "Yes for families with children aged 5 and above. Children usually love Dzongu, with its farm animals and space to roam. Day 4 is long and Gurudongmar very high; one parent can stay in Lachen with younger children while the other goes. Children under 5 are not permitted in North Sikkim."},
+    {"q": "What if the Lachen road is closed?", "a": "We switch to a second night in Dzongu and a night in Lachung with Yumthang, keeping the same vehicle and refunding any difference. If all North Sikkim permits stop, Dzongu itself usually remains open, and we can add Gangtok, Rumtek or Tsomgo Lake to fill the days."},
+    {"q": "When is the best time for this trip?", "a": "April to May and October to November. Spring brings rhododendrons at Yumthang and flowers in Dzongu; autumn brings clear skies and the cardamom harvest in Dzongu. December to March risks snow closures above Thangu. June to September is wet, leech-heavy in Dzongu and risky on the roads."},
+    {"q": "How do we pay the homestay?", "a": "The homestay night is included in the price and paid by us, so you do not need to settle anything for the room or included meals. Extras such as drinks, an additional guided walk or a hot spring drive are paid in cash directly to your hosts. There are no ATMs in Dzongu."}
+  ]
+}

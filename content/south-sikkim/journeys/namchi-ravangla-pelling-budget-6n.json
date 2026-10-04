@@ -1,0 +1,72 @@
+{
+  "slug": "namchi-ravangla-pelling-budget-6n",
+  "title": "Namchi, Ravangla and Pelling, 6 nights",
+  "region": "south-sikkim",
+  "tier": "budget",
+  "nights": 6,
+  "themes": ["monasteries", "family-holidays", "photography"],
+  "stops": [{"place": "namchi", "nights": 2}, {"place": "ravangla", "nights": 2}, {"place": "pelling", "nights": 2}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 19000,
+  "price_basis": "per person, twin sharing, 2 people, small private car (Alto/WagonR class), budget hotels with breakfast",
+  "price_breakdown": [["Stays, 6 nights", 6000], ["Car and driver, 7 days", 11500], ["Entry fees and state fee", 400], ["Our planning fee", 1100]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2150,
+  "meta_description": "6 nights through South and West Sikkim: Namchi's Char Dham, Ravangla's Buddha Park and Temi tea, then Pelling and Pemayangtse. From ₹19,000 per person.",
+  "summary": "A budget loop through the two quieter halves of Sikkim: Namchi for Char Dham and Samdruptse, Ravangla for Buddha Park, Ralang and Temi tea, then over the Rangeet to Pelling for Pemayangtse, the Rabdentse ruins and close-up Kangchenjunga views. No permits for Indians, two nights everywhere, one small car throughout.",
+  "intro": [
+    "Most first-timers in Sikkim spend their week on the Gangtok–Lachung road. This trip goes the other way, through the south and west, where the roads are quieter, permits are not needed for Indian travellers, and children of any age are welcome. You start in Namchi, the South Sikkim district town with its giant Shiva and Guru Rinpoche statues, climb an hour to Ravangla and its 130 ft Buddha, then cross the Rangeet valley via Legship to Pelling, the ridge town facing Kangchenjunga at closer range than anywhere a car can reach.",
+    "Two nights in each place keeps the driving short: apart from the first and last days, no drive is longer than about two hours. We use clean budget hotels with breakfast and one small car and driver from start to finish. It is the trip we suggest to families who want a full week in Sikkim on a tight budget."
+  ],
+  "highlights": [
+    "Char Dham and the 135 ft Guru Rinpoche at Samdruptse in Namchi",
+    "Buddha Park, Ralang Monastery and the Temi tea estate from Ravangla",
+    "Pemayangtse Monastery and the Rabdentse ruins, seat of Sikkim's second capital",
+    "Kangchenjunga at sunrise from Pelling",
+    "Two nights in each town, short drives, no permits for Indians"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Namchi", "place": "namchi", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 100 km · 3.5–4 h", "text": "Your driver meets you at NJP or Bagdogra in the morning for the drive through Sevoke and up the Teesta gorge to Melli, where you enter Sikkim, then the climb to Namchi. Check in by early afternoon and rest. In the evening, walk to Namchi's central plaza for momos and tea, with the Samdruptse statue lit on the ridge above. Hotels collect Sikkim's ₹50 per person state fee at check-in.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Char Dham, Samdruptse and Rock Garden", "place": "char-dham-solophok", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 30 km in short hops · local", "text": "Arrive at Char Dham on Solophok hill near opening time, around 8 am, and take two to three hours for the Shiva statue, the four dham replicas and the twelve jyotirlingas. After lunch, drive up the ridge to the 135 ft Guru Padmasambhava statue at Samdruptse, then walk the terraced paths of Namchi Rock Garden on the way down. On a clear afternoon the snow peaks show above the hills to the north-west.", "meals": "Breakfast"},
+    {"day": 3, "title": "Ravangla and Buddha Park", "place": "buddha-park-ravangla", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 26 km · 1 h", "text": "An easy morning, then the hour's drive up to Ravangla via Damthang. Check in and have lunch. In the afternoon, visit Buddha Park, 1 km from the market, where level paths lead to the 130 ft statue consecrated by the Dalai Lama in 2013, and a spiral gallery inside its base tells the Buddha's life. Ravangla is about 6 °C colder than Namchi; carry a warm layer for the evening.", "meals": "Breakfast"},
+    {"day": 4, "title": "Ralang Monastery and Temi tea", "place": "temi-tea-garden", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 55 km round trip · 2.5 h", "text": "Watch for the Kangchenjunga range at sunrise. After breakfast, drive 6 km down to Ralang Monastery, a Kagyu monastery founded in 1768, with a large modern hall full of thangkas and the old gompa nearby. Continue to Temi Tea Garden, Sikkim's only tea estate, to walk the rows and taste tea at the estate outlet. Return to Ravangla for the evening.", "meals": "Breakfast"},
+    {"day": 5, "title": "Across the Rangeet to Pelling", "place": "pelling", "overnight": "Pelling", "alt_m": 2150, "drive": "≈ 45 km · 2 h", "text": "Drive down past Kewzing to Legship on the Rangeet and up the far side to Pelling in West Sikkim. After lunch, visit Pemayangtse Monastery, one of Sikkim's oldest and most important Nyingma monasteries, with its seven-tiered wooden model of Guru Rinpoche's celestial palace on the top floor. Walk the forest path to the Rabdentse ruins, the seat of the Namgyal kings from 1670 until 1814. Sunset over the Kangchenjunga range from Pelling.", "meals": "Breakfast"},
+    {"day": 6, "title": "Pelling: lake, falls and monastery", "place": "khecheopalri-lake", "overnight": "Pelling", "alt_m": 2150, "drive": "≈ 70 km round trip · 4 h", "text": "Be up at first light: Kangchenjunga fills the sky from Pelling on clear mornings. After breakfast, drive to Khecheopalri Lake, a small forest lake held sacred by Buddhists and Hindus, where, as told locally, birds lift away any leaf that falls on the water. Stop at Kanchenjunga Falls on the way back and, if time allows, at the Singshore Bridge, one of the highest suspension bridges in the region. Evening in Pelling.", "meals": "Breakfast"},
+    {"day": 7, "title": "Pelling to NJP or Bagdogra", "place": "pelling", "overnight": "", "alt_m": 120, "drive": "≈ 135 km · 5–5.5 h", "text": "Leave after an early breakfast for the drive via Legship, Jorethang and Melli to NJP or Bagdogra, arriving by mid-afternoon. In the monsoon, slides on NH10 can force a detour via Kalimpong; book departures after 5 pm on this day.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "6 nights in budget hotels in Namchi, Ravangla and Pelling, twin sharing, with breakfast",
+    "Small private car with driver for seven days, fuel, tolls and parking",
+    "Char Dham, Buddha Park and Pemayangtse entry, Sikkim's ₹50 state fee",
+    "Route notes and our phone support during the trip"
+  ],
+  "excludes": [
+    "Lunch and dinner (about ₹500–700 per person a day)",
+    "Train or flight tickets",
+    "Other entry and camera fees (Rabdentse, Khecheopalri, Singshore and others)",
+    "Tips and personal expenses",
+    "Extra costs from road closures or weather"
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for any stop; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO.",
+    "Pelling's best Kangchenjunga views are from October to December and in March, at sunrise.",
+    "The Rabdentse ruins are reached by a 15–20 minute forest walk from the road.",
+    "NH10 closes after monsoon landslides; detours via Kalimpong add hours. Check current status before you travel.",
+    "Budget rooms with full mountain views are not guaranteed; a view-room supplement is available."
+  ],
+  "upgrade": "The value Gangtok, Namchi and Pelling trip adds Gangtok, 3-star view hotels and two more nights for about ₹14,000 more per person.",
+  "faqs": [
+    {"q": "Why go south and west instead of North Sikkim?", "a": "South and West Sikkim need no permits for Indians, allow children of any age, stay below about 2,200 m and have short drives. North Sikkim offers snow and high lakes but needs permits, a minimum two-night stay and long, high days. This trip suits families and first-timers who want comfort over altitude."},
+    {"q": "How long are the drives on this trip?", "a": "About 3.5–4 hours from NJP to Namchi on day 1 and 5–5.5 hours from Pelling back on day 7. In between, the longest drive is about two hours, from Ravangla to Pelling. Sightseeing days involve short hops of under an hour."},
+    {"q": "Can we see Kangchenjunga on this trip?", "a": "Very likely, on clear mornings between October and April. Pelling has the closest and widest views; Ravangla and Samdruptse also face the range. Views are best at sunrise and fade as cloud builds after 9–10 am. In the monsoon, the peaks are usually hidden."},
+    {"q": "What is Pemayangtse Monastery?", "a": "One of Sikkim's oldest and most important monasteries, of the Nyingma school, on a ridge near Pelling. Its top floor holds a seven-tiered carved wooden model of Zangdok Palri, Guru Rinpoche's celestial palace. Entry is a small fee; check current status before you travel."},
+    {"q": "Is this trip suitable for elderly travellers?", "a": "Yes, at the planned pace. Char Dham has steps, and Rabdentse needs a 15–20 minute forest walk, but both can be shortened or skipped. Hotels at this price may have stairs; tell us about mobility needs and we will pick suitable rooms."},
+    {"q": "Can we add Gangtok to this trip?", "a": "Yes. Gangtok can be added at the start, with two nights for the city and an optional Tsomgo Lake day. That turns this into an eight-night trip. See our value Gangtok, Namchi and Pelling trip or ask us to adapt this one."},
+    {"q": "What will meals cost?", "a": "About ₹500–700 per person a day for lunch and dinner at local restaurants. Breakfast is included. Pelling restaurants are a little pricier than Namchi's. Vegetarian food is easy to find everywhere."},
+    {"q": "Can foreigners join this trip?", "a": "Yes. Foreign nationals need Sikkim's Restricted Area Permit, applied for online on the e-FRRO portal after arriving in India, which covers Namchi, Ravangla and Pelling. Allow 24–48 hours for approval. Check current status before you travel."},
+    {"q": "What if a road is blocked?", "a": "Our drivers know the alternative roads, such as via Kalimpong when NH10 is shut, and we adjust the day's plan. In the monsoon we keep a buffer on the last day. Costs from major closures, such as an extra night, are not included."}
+  ]
+}

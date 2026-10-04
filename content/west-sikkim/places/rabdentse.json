@@ -1,0 +1,170 @@
+{
+  "slug": "rabdentse",
+  "name": "Rabdentse Ruins",
+  "region": "west-sikkim",
+  "kind": "heritage site",
+  "wiki": "Rabdentse",
+  "image_query": "Rabdentse ruins Pelling Sikkim",
+  "lat": 27.3011,
+  "lng": 88.2539,
+  "altitude_m": 2000,
+  "local_name": null,
+  "tagline": "Forest ruins of the royal capital of Sikkim from 1670",
+  "meta_description": "Rabdentse Ruins near Pelling: Sikkim's second royal capital from 1670, its chortens and stone throne, the forest walk, entry, timings and history.",
+  "summary": "Rabdentse, about 3 km from Pelling near Pemayangtse, holds the ruins of Sikkim's second capital, founded by the second Chogyal in 1670 and later abandoned after Nepalese (Gorkha) invasions. A 15–20 minute forest path leads to palace walls, three chortens and a stone throne facing Kangchenjunga.",
+  "intro": [
+    "Rabdentse sits on a forested spur just below Pemayangtse Monastery, close to the Pelling–Gyalshing road. In 1670 the second Chogyal, Tensung Namgyal, moved his court here from Yuksom, and for over a century this hilltop was the seat of the Namgyal kings. Today it is a quiet ruin under oak, chestnut and rhododendron, protected by the Archaeological Survey of India as a monument of national importance.",
+    "The path starts at an ornamental gate on the main road and runs for 15–20 minutes through forest, past a small pond, to the ruins. What survives are the stone walls of the palace's northern and southern wings, the Taphap Chorten that marked the entrance, the Dab Lhagang prayer hall with its marble slab, three chortens where the royal family prayed, and the Namphogang, a stone throne used for judicial pronouncements.",
+    "The end of the capital came in stages. Wikipedia records that Chogyal Tsugphud Namgyal moved the capital east to Tumlong in 1793, finding Rabdentse too exposed to raids from Nepal, and gives 1814 as the end of its time as capital; the town was later destroyed by the invading Gorkha army. On a clear day the terrace at the far end faces Kangchenjunga, as the court once did."
+  ],
+  "story": {
+    "title": "A capital caught between Bhutan and Nepal",
+    "text": "Rabdentse's 150 years as a royal seat were rarely peaceful. Soon after the third Chogyal, Chakdor Namgyal, came to the throne in 1700, his half-sister Pende Ongmu, who opposed his succession, invited forces from Bhutan into Sikkim, according to Wikipedia's article on the Chogyal. The young king fled to Lhasa, and Bhutanese troops occupied Sikkim until about 1708, when Tibetan mediation restored him, at the cost of land east of the Teesta. Pende Ongmu's feud did not end there: in 1716 a physician in her pay bled the king to death at the Ralang hot springs, and both she and the physician were executed. Later in the 18th century the threat came from the west, as the expanding Gorkha kingdom of Nepal raided across the Singalila Ridge. The capital moved east to Tumlong in the 1790s, and the Gorkha army reduced Rabdentse to the ruins you walk through today.",
+    "source": "Wikipedia: Rabdentse; Chakdor Namgyal"
+  },
+  "little_known": [
+    {"fact": "The Namphogang at Rabdentse is a stone throne where judgements were pronounced, a rare surviving piece of the kingdom's system of justice.", "source": "Wikipedia: Rabdentse"},
+    {"fact": "The Archaeological Survey of India declared Rabdentse a monument of national importance and has carried out conservation of its walls and chortens.", "source": "Wikipedia: Rabdentse"},
+    {"fact": "Wikipedia records that the capital moved to Tumlong in 1793 because Rabdentse was too vulnerable to attack from Nepal, across the Singalila Ridge to the west.", "source": "Wikipedia: Rabdentse"}
+  ],
+  "facts": [
+    ["Best months", "Oct–May"],
+    ["Nights we suggest", "Visit from Pelling (0 extra)"],
+    ["From Gangtok", "≈ 115 km · 5–6 h (3 km from Pelling)"],
+    ["Altitude", "About 2,000 m"],
+    ["Known for", "Royal capital ruins, chortens, Namphogang throne"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [1, 2, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "0 (visit from Pelling)",
+  "highlights": [
+    {"title": "The forest path", "text": "The 15–20 minute walk from the ornamental gate on the Pelling–Gyalshing road runs through oak and rhododendron forest, past a small pond. Birds are active in the early morning, and the path is gentle enough for children and most older visitors."},
+    {"title": "Three royal chortens", "text": "At the heart of the ruins stand three chortens where the royal family offered prayers. They are among the best-preserved structures on the site and frame Kangchenjunga beautifully on clear mornings from October to March."},
+    {"title": "The Namphogang throne", "text": "A stone seat where the king's judgements were pronounced. It is easy to miss without a guide, but it is one of the few physical traces of how the kingdom was governed in the 18th century."},
+    {"title": "Palace walls and the Dab Lhagang", "text": "Low stone walls trace the palace's northern and southern wings. The Dab Lhagang, a prayer hall marked by a white marble slab, stood within the complex. ASI conservation has stabilised the remains."},
+    {"title": "View from the far terrace", "text": "At the end of the ruins a terrace looks north across the Rangeet valley to Kangchenjunga, Kabru and Pandim, with Pemayangtse on the ridge above. Sit here for 10 minutes and the reason the Chogyals chose this hill becomes clear."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Pemayangtse, walk a few minutes to the ornamental gate on the Pelling–Gyalshing road, then 15–20 minutes on the forest path. From Upper Pelling, allow about 45 minutes on foot to the gate."},
+    {"mode": "Private car", "text": "Included in every Pelling half-day tour, indicatively ₹2,500–3,500 per car. The car drops you at the gate and waits while you walk in. A one-way taxi from Upper Pelling costs about ₹200–400."},
+    {"mode": "From Bagdogra / NJP", "text": "Reach Pelling first via Melli, Jorethang, Legship and Gyalshing, about 135–145 km and 5–6 hours. The gate is on the same road, a few minutes before Pelling, so you can visit on arrival if there is daylight."}
+  ],
+  "costs": [
+    ["Entry fee", "Free or a small fee; check current status"],
+    ["Taxi from Upper Pelling", "≈ ₹200–400 one way"],
+    ["Half-day Pelling tour", "≈ ₹2,500–3,500 a car"],
+    ["Local history guide", "≈ ₹1,500–2,500 for a morning"]
+  ],
+  "where_to_stay": "Stay in Pelling, 3 km away. The Elgin Mount Pandim, near Pemayangtse, is the closest premium hotel and an easy walk to the Rabdentse gate. Summit Newa Regency is a few minutes' drive. Upper Pelling has budget rooms at Hotel Garuda and comfort rooms at Norbu Ghang Retreat and Spa.",
+  "stays": ["the-elgin-mount-pandim-pelling", "summit-newa-regency-pelling", "hotel-garuda-pelling"],
+  "tips": [
+    "Visit in the morning, when the forest is cool, birds are active and the mountains are clearest.",
+    "Wear shoes with grip: the path and stones are slippery after rain and in the monsoon.",
+    "Do not climb on chortens or walls; the site is a protected monument.",
+    "Pair it with Pemayangtse on foot for a 3-hour heritage morning.",
+    "Carry insect repellent from May to September."
+  ],
+  "themes": ["crafts-and-culture", "treks-and-walks", "photography", "family-holidays"],
+  "nearby": ["pemayangtse", "pelling", "gyalshing", "sangacholing"],
+  "experiences": [
+    {
+      "slug": "rabdentse-history-walk",
+      "title": "Rabdentse history walk with a local guide",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Oct–May, 8–11 am",
+      "cost": "≈ ₹1,500–2,500 per group for a guide",
+      "image_query": "Rabdentse palace ruins chortens",
+      "wiki": "Rabdentse",
+      "summary": "Walk the forest path and ruins of Rabdentse with a guide who explains the palace wings, chortens and Namphogang throne, and the Bhutanese and Gorkha wars that shaped the capital's fate.",
+      "body": [
+        "Without a guide, Rabdentse can look like a pleasant ruin in a forest. With one, the stones turn into a story: the second Chogyal moving his court from Yuksom in 1670, the third Chogyal fleeing to Lhasa when Bhutanese troops arrived around 1700, and the long pressure from the Gorkha kingdom of Nepal that ended with the capital moving east in the 1790s.",
+        "The guide will point out the Taphap Chorten at the entrance, the walls of the northern and southern palace wings, the Dab Lhagang prayer hall and the Namphogang stone throne, and the three chortens at the centre. Each has a role in the court's daily and ritual life.",
+        "Finish on the terrace that faces Kangchenjunga. On a clear morning you understand why the site was chosen: the view runs from the high peaks down to the Rangeet, and Pemayangtse watches from the ridge behind."
+      ],
+      "good_for": ["families", "first-timers", "seniors", "solo"],
+      "faqs": [
+        {"q": "How long does a Rabdentse visit take?", "a": "About 1–1.5 hours: 15–20 minutes each way on the forest path and 30–45 minutes at the ruins. With Pemayangtse, plan 3 hours. Most Pelling half-day tours give about an hour, which is enough if you walk steadily."},
+        {"q": "Is the Rabdentse walk suitable for children?", "a": "Yes. The path is mostly level with a few steps and roots, and children enjoy the forest and the open ruins. Keep them off walls and chortens, which are protected. Strollers are not practical. Carry water and snacks, as there are no shops inside."},
+        {"q": "Why was Rabdentse abandoned?", "a": "It was vulnerable to raids from Nepal across the Singalila Ridge. Wikipedia records that the capital moved east to Tumlong in 1793 and that the Gorkha army later destroyed the town. Earlier, around 1700, Bhutanese forces had also occupied Sikkim during a succession dispute."}
+      ]
+    },
+    {
+      "slug": "rabdentse-morning-birdwatch",
+      "title": "Early birding on the Rabdentse forest path",
+      "kind": "wildlife",
+      "duration": "2 hours",
+      "best_time": "Mar–May and Oct–Dec, 6–8 am",
+      "cost": "Free; ≈ ₹2,000–3,500 for a birding guide",
+      "image_query": "Sikkim forest birds Pelling",
+      "wiki": "",
+      "summary": "The oak and rhododendron forest around Rabdentse is a gentle, quiet place to look for mid-hill Himalayan birds in the first two hours of daylight, before visitors arrive.",
+      "body": [
+        "The forest on the Rabdentse spur, between about 1,900 and 2,100 m, is typical of Sikkim's mid-hills: oaks, chestnuts, rhododendrons and a thick understorey. In the early morning it is noisy with birds, and the wide path makes it easy to stop and look without disturbing anyone.",
+        "Commonly seen mid-hill species in this belt of Sikkim include laughingthrushes, sibias, minivets, bulbuls, tits, barbets and sunbirds, with flocks moving through the canopy together. We do not promise particular species; a local birding guide will know what has been showing that season.",
+        "Go at first light, in muted clothes, with binoculars. Walk slowly, stop often and listen. By 8:30 am, as sightseeing cars arrive, activity drops. Pair the walk with breakfast in Pelling and Pemayangtse at opening time."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Is Rabdentse good for birdwatching?", "a": "It is a pleasant, easy spot for mid-hill forest birds in the first hours of daylight, especially in spring and autumn. It is not a dedicated reserve, so numbers vary. For serious birding, combine it with longer forest walks near Uttarey, Yuksom or the Khangchendzonga National Park trail."},
+        {"q": "What time does Rabdentse open?", "a": "The site usually opens in the morning and closes late afternoon, but timings set by the Archaeological Survey of India can change. Early-morning access to the forest path may vary. Check current status before you travel, and ask your hotel the evening before."},
+        {"q": "Do I need a guide for birding at Rabdentse?", "a": "Not essential, but a local birding guide, indicatively ₹2,000–3,500 for a morning, finds and identifies far more species. If you go alone, carry binoculars and a field guide or app for Himalayan birds and walk slowly in silence."}
+      ]
+    },
+    {
+      "slug": "rabdentse-sunrise-photography",
+      "title": "Kangchenjunga behind the royal chortens",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Oct–Mar, early morning",
+      "cost": "Free or small entry",
+      "image_query": "Rabdentse chorten Kangchenjunga view",
+      "wiki": "",
+      "summary": "Photograph the three royal chortens and palace walls of Rabdentse with Kangchenjunga rising behind, a frame that joins Sikkim's history and its guardian mountain.",
+      "body": [
+        "Rabdentse's chortens and walls face north towards Kangchenjunga, which makes the site one of the best places in West Sikkim to photograph heritage and mountain in one frame. From October to March, mornings are usually clear, and the peaks catch light before the forest does.",
+        "Check opening times the day before, as you need access to the site. A wide-angle lens works for the chortens against the range; a short telephoto compresses the summit behind the walls. Mist rising from the Rangeet valley can add depth, especially in November.",
+        "Respect the monument: no climbing on walls or chortens, no tripods on the structures, and no drones without permission. Leave before the sightseeing groups arrive, and walk up to Pemayangtse for the same view from the monastery steps."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can I use a drone at Rabdentse?", "a": "Drones are generally not allowed over protected monuments and monasteries without official permission, and Sikkim has security-sensitive airspace. Do not fly one at Rabdentse or Pemayangtse unless you hold written clearance. Check current status before you travel."},
+        {"q": "Is Kangchenjunga visible from Rabdentse?", "a": "Yes, on clear days. The terrace and chortens face north across the Rangeet valley to Kangchenjunga, Kabru and Pandim. The best chances are early mornings between October and March. Cloud often rises by mid-morning, especially in spring."},
+        {"q": "Are tripods allowed at Rabdentse?", "a": "Small tripods on the ground are usually fine away from the structures, but never place them on walls or chortens. Rules at ASI monuments can change, and staff may ask you to remove equipment. Keep paths clear for other visitors."}
+      ]
+    },
+    {
+      "slug": "rabdentse-pemayangtse-loop",
+      "title": "Rabdentse and Pemayangtse loop on foot",
+      "kind": "adventure",
+      "duration": "3 hours",
+      "best_time": "Oct–May, morning",
+      "cost": "≈ ₹20–50 monastery entry",
+      "image_query": "Pemayangtse ridge Pelling walk",
+      "wiki": "",
+      "summary": "A gentle half-day walk from Upper Pelling down to Pemayangtse, through the forest to Rabdentse and back, covering the kingdom's second chapter on foot.",
+      "body": [
+        "Leave Upper Pelling after breakfast and walk about 2 km down the road to Pemayangtse, 25–30 minutes. Spend 45 minutes in the monastery, including the Zangdok Palri model on the top floor.",
+        "From Pemayangtse walk to the ornamental gate on the Pelling–Gyalshing road and take the forest path to Rabdentse, 15–20 minutes. Explore the ruins and rest on the terrace that faces Kangchenjunga.",
+        "Return the same way. The climb back to Upper Pelling is steady; if your legs are tired, flag down a shared taxi on the road or ask your hotel to send a car from the gate. Carry water, a light jacket and rain gear outside the dry season."
+      ],
+      "good_for": ["families", "couples", "budget", "solo"],
+      "faqs": [
+        {"q": "How long is the Pelling–Pemayangtse–Rabdentse walk?", "a": "About 6–7 km in total on road and forest path, taking 3 hours with visits. The descent to Pemayangtse is easy; the walk back up to Upper Pelling is the hardest part. You can shorten it by taking a taxi back from the Rabdentse gate."},
+        {"q": "Is it safe to walk the Pelling roads?", "a": "Generally yes. Walk on the valley side facing traffic, wear something visible, and take care on bends. The forest path to Rabdentse is car-free. Avoid walking after dark, when unlit stretches and fast jeeps make it unsafe."},
+        {"q": "What should I carry for the walk?", "a": "Water, a light jacket, sun protection, small cash for entry and offerings, and comfortable shoes with grip. Outside October to March carry a rain jacket. From May to September add insect repellent and check for leeches after the forest path."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is Rabdentse famous for?", "a": "Rabdentse is the second capital of the Kingdom of Sikkim, founded in 1670 by the second Chogyal, Tensung Namgyal. Its ruins, including palace walls, three chortens and the Namphogang stone throne, are protected by the Archaeological Survey of India and look across to Kangchenjunga."},
+    {"q": "How far is Rabdentse from Pelling?", "a": "About 3 km by road from Upper Pelling to the gate on the Pelling–Gyalshing road, then a 15–20 minute walk on a forest path. It is a few minutes from Pemayangtse Monastery, and most visitors see both together."},
+    {"q": "Is there an entry fee for Rabdentse?", "a": "The site has been free or charged a small fee in recent years under the Archaeological Survey of India. Fees and timings change, so check current status before you travel. Keep small notes handy for entry and parking."},
+    {"q": "When was Rabdentse the capital of Sikkim?", "a": "From 1670, when the second Chogyal moved the court from Yuksom. Wikipedia records that Chogyal Tsugphud Namgyal moved the capital to Tumlong in 1793 because of raids from Nepal, and gives 1814 as the end of Rabdentse's time as capital. The Gorkha army later destroyed the town."},
+    {"q": "How much time do I need at Rabdentse?", "a": "About 1–1.5 hours including the walk in and out. Combine it with Pemayangtse for a 3-hour morning. Photographers and history readers may want longer on the terrace and at the chortens."},
+    {"q": "Is Rabdentse open in the monsoon?", "a": "Usually yes, but the forest path is slippery and leeches are common from June to September, and views are often clouded. Wear grippy shoes and leech socks, carry an umbrella and check current status before you travel."},
+    {"q": "Who destroyed Rabdentse?", "a": "According to Wikipedia, the invading Gorkha army from Nepal destroyed Rabdentse after decades of raids across the western border in the late 18th and early 19th centuries. The court had already moved east to Tumlong in the 1790s for safety."},
+    {"q": "Can elderly travellers visit Rabdentse?", "a": "Most can. The forest path is about 15–20 minutes each way, mostly gentle but uneven with roots and some steps. Take it slowly at about 2,000 m and use a walking stick if helpful. There are no facilities inside, so use toilets in Pelling first."},
+    {"q": "Is Rabdentse worth visiting?", "a": "Yes, if you are interested in Sikkim's history or want a quiet forest walk. It is the most complete surviving royal site in West Sikkim, it is close to Pelling, and on clear mornings the view of Kangchenjunga from the ruins is superb."}
+  ]
+}

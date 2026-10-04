@@ -1,0 +1,171 @@
+{
+  "slug": "gyalshing",
+  "name": "Gyalshing",
+  "region": "west-sikkim",
+  "kind": "town",
+  "wiki": "Gyalshing",
+  "image_query": "Gyalshing town West Sikkim",
+  "lat": 27.2889,
+  "lng": 88.2575,
+  "altitude_m": 1600,
+  "local_name": null,
+  "tagline": "District headquarters and the transport hub below Pelling",
+  "meta_description": "Gyalshing (Geyzing), HQ of Gyalshing district (West Sikkim): shared jeeps, ATMs, markets, how it links Pelling, Yuksom and Uttarey, and what it costs.",
+  "summary": "Gyalshing, also spelled Geyzing, is the headquarters of Gyalshing district (West Sikkim), about 10 km below Pelling. It is a working market town rather than a sight: the main hub for shared jeeps to Gangtok, Siliguri, Yuksom and Uttarey, with banks, ATMs and shops. Most travellers pass through.",
+  "intro": [
+    "Gyalshing is the administrative centre of the district that carries its name since the 2021 reorganisation, when West Sikkim was split into Gyalshing and Soreng districts. It sits on a slope below the Pelling ridge, about 10 km by road from Upper Pelling and close to Pemayangtse. Government offices, the district hospital, schools, banks and the main market are here, and its spellings vary: Geyzing, Gezing and Gyalshing all appear on signs.",
+    "For travellers, Gyalshing matters mainly as a transport hub. Shared jeeps from Gangtok and Siliguri terminate here, and local jeeps fan out to Pelling, Yuksom, Tashiding, Legship, Dentam and Uttarey. If you are travelling on a budget, you will likely change vehicles here, buy snacks and use an ATM.",
+    "The town has a mostly Nepali-speaking population with Limbu, Bhutia and Lepcha communities around it. It is busy in the morning when jeeps leave and quieter by afternoon. There is little to see as such, but a walk through the market shows everyday West Sikkim: vegetable sellers from the villages, cardamom traders and school crowds."
+  ],
+  "story": {
+    "title": "A new district, an old name",
+    "text": "In December 2021 Sikkim reorganised its four districts into six. The old West district, with Gyalshing as its headquarters, was divided: the northern part kept Gyalshing as headquarters and took its name, and the southern part, around Soreng, Rinchenpong and Kaluk, became Soreng district. The other old districts were also renamed after their headquarters: Gangtok, Mangan and Namchi. This is why maps and signboards now say 'Gyalshing district' where older guidebooks say 'West Sikkim'. For travellers little has changed on the ground, but the distinction helps when reading official notices about road closures, permits or festivals. Gyalshing itself has long been the place where West Sikkim's roads meet. Before Pelling grew into a hotel town, travellers coming to Pemayangtse or setting out for Yuksom and the Kangchenjunga treks passed through Gyalshing's bazaar, and Wikipedia still notes it as a base for trekking and expeditions towards Kangchenjunga.",
+    "source": "Wikipedia: Gyalshing; Gyalshing district; Soreng district"
+  },
+  "little_known": [
+    {"fact": "Gyalshing district and Soreng district were created on 13 December 2021 from the old West Sikkim district; Soreng district took the Soreng and Mangalbarey subdivisions.", "source": "Soreng district administration; Wikipedia: Soreng district"},
+    {"fact": "The town's name appears as Geyzing, Gezing and Gyalshing on signs and maps; all refer to the same place.", "source": "Wikipedia: Gyalshing"},
+    {"fact": "The Kirateshwar Mahadev temple at Legship, a Hindu pilgrimage site on the Rangeet, lies in Gyalshing district a short drive below the town.", "source": "Wikipedia: Gyalshing district"}
+  ],
+  "facts": [
+    ["Best months", "Oct–May"],
+    ["Nights we suggest", "0 (pass through)"],
+    ["From Gangtok", "≈ 105 km · 4.5–5.5 h"],
+    ["Altitude", "About 1,600 m"],
+    ["Known for", "District HQ, shared jeep hub, banks and market"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0",
+  "highlights": [
+    {"title": "Shared jeep hub", "text": "Jeeps to Gangtok, Siliguri, Jorethang, Pelling, Yuksom, Tashiding, Dentam and Uttarey leave from Gyalshing, mostly in the morning. Book long-distance seats the day before at the counters or through your hotel."},
+    {"title": "Banks and ATMs", "text": "Gyalshing has several banks and ATMs, more reliable than those in Pelling, Yuksom or Uttarey. Withdraw cash here before heading to villages where card and UPI acceptance is patchy."},
+    {"title": "Morning market", "text": "Walk the market in the morning to see vegetables, greens, local cheese (chhurpi), pickles and fermented foods brought from surrounding villages. It is a working market, not a tourist bazaar."},
+    {"title": "Close to Pemayangtse", "text": "Pemayangtse Monastery and the Rabdentse ruins lie on the road between Gyalshing and Pelling, so you can visit them while changing jeeps or on the way up to Pelling."},
+    {"title": "Gateway to Legship", "text": "Below Gyalshing, Legship sits on the Rangeet with the Kirateshwar Mahadev temple, a Hindu pilgrimage site, and the roads to Tashiding, Ravangla and Jorethang."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "From Gangtok about ₹350–500 a seat, 4.5–5.5 hours; from Siliguri about ₹500–650, 5–6 hours. Local jeeps to Pelling cost about ₹50–80. Most long-distance jeeps leave early morning."},
+    {"mode": "Private car", "text": "From Gangtok about 105 km via Singtam and Ravangla or Jorethang and Legship, indicatively ₹4,500–6,000. Gyalshing to Pelling is 10 km, 20–30 minutes."},
+    {"mode": "From Bagdogra / NJP", "text": "About 125–135 km and 5 hours via Sevoke, Melli, Jorethang and Legship, indicatively ₹5,000–7,000 by private car. NH10 closes after monsoon slides; check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Gangtok–Gyalshing", "≈ ₹350–500 a seat"],
+    ["Shared jeep Siliguri–Gyalshing", "≈ ₹500–650 a seat"],
+    ["Local jeep Gyalshing–Pelling", "≈ ₹50–80 a seat"],
+    ["Reserved taxi Gyalshing–Pelling", "≈ ₹300–500"],
+    ["Meal (thali or momos)", "≈ ₹120–250"]
+  ],
+  "where_to_stay": "Gyalshing has a few local hotels used by officials and business travellers, but we do not usually book them for holidays. Stay in Pelling, 10 km up the road, where options run from Hotel Garuda (budget) to Norbu Ghang and Summit Newa Regency (comfort) and The Elgin Mount Pandim (premium), or in Darap's village homestays.",
+  "stays": ["hotel-garuda-pelling", "summit-newa-regency-pelling", "the-elgin-mount-pandim-pelling"],
+  "tips": [
+    "Book long-distance shared jeep seats the evening before; morning departures fill fast.",
+    "Use Gyalshing's ATMs before heading to Yuksom, Uttarey or Dentam.",
+    "Signs may say Geyzing or Gezing; they all mean Gyalshing.",
+    "Shops close early in the evening; buy snacks and supplies by late afternoon.",
+    "If NH10 is closed, ask the jeep counters about the Darjeeling route to Siliguri."
+  ],
+  "themes": ["food-and-tea", "crafts-and-culture", "offbeat-sikkim"],
+  "nearby": ["pelling", "pemayangtse", "rabdentse", "dentam"],
+  "experiences": [
+    {
+      "slug": "gyalshing-morning-market-walk",
+      "title": "Morning market walk in Gyalshing",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Year-round, 7–10 am",
+      "cost": "Free; snacks ≈ ₹50–200",
+      "image_query": "Sikkim local market vegetables",
+      "wiki": "",
+      "summary": "Walk Gyalshing's market in the morning to see what West Sikkim's villages grow and ferment: greens, chillies, chhurpi cheese, gundruk and seasonal fruit, with a cup of tea at a local stall.",
+      "body": [
+        "Gyalshing is where villagers from the surrounding hills come to sell and buy. In the morning the market fills with seasonal vegetables, wild and cultivated greens, chillies, beans, squash and, in winter, oranges from the lower valleys.",
+        "Look for chhurpi, a cheese made from cow or yak milk, sold soft or hard; gundruk, fermented dried greens; kinema, fermented soybean; and pickles of bamboo shoot or chilli. Ask sellers what things are; most are happy to explain.",
+        "Finish with tea and a plate of momos or sel roti, a ring-shaped rice bread, at a local stall. Carry cash in small notes. Photograph produce freely, but ask before photographing sellers."
+      ],
+      "good_for": ["budget", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "What is chhurpi?", "a": "Chhurpi is a traditional cheese of the Himalaya made from cow or yak milk. Soft chhurpi is used in curries and pickles; hard chhurpi is dried into small blocks and chewed slowly for hours. You will find both in Gyalshing's market."},
+        {"q": "When is the Gyalshing market busiest?", "a": "Mornings, roughly 7–11 am, are busiest, when villagers bring produce and jeeps arrive and leave. Some towns in Sikkim have a weekly haat day with extra stalls; ask locally which day it falls in Gyalshing during your visit."},
+        {"q": "Can I buy local food to take home?", "a": "Yes. Hard chhurpi, dried gundruk, pickles and large cardamom travel well. Buy sealed packets where possible. Check airline rules for liquids and strong-smelling foods, and keep fermented items well wrapped."}
+      ]
+    },
+    {
+      "slug": "gyalshing-legship-kirateshwar",
+      "title": "Kirateshwar Mahadev temple at Legship",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Year-round; busy at Shivaratri",
+      "cost": "Free; taxi ≈ ₹800–1,500 return",
+      "image_query": "Kirateshwar Mahadev temple Legship",
+      "wiki": "Legship",
+      "summary": "Drive down from Gyalshing to Legship on the Rangeet to visit the Kirateshwar Mahadev temple, a Hindu pilgrimage site of West Sikkim, and walk by the river.",
+      "body": [
+        "Legship is a small river town below Gyalshing, on the Rangeet, where the roads to Tashiding, Ravangla, Jorethang and Gyalshing meet. On the riverbank stands the Kirateshwar Mahadev temple, which Wikipedia describes as a major Hindu pilgrimage centre in the district.",
+        "The temple is dedicated to Shiva as Kirateshwar and draws large crowds on festival days such as Maha Shivaratri.",
+        "Visit respectfully, remove shoes, and dress modestly. Afterwards walk by the river, which is warmer and lower than Pelling. Combine with the drive to Tashiding or on to Ravangla."
+      ],
+      "good_for": ["families", "seniors", "solo"],
+      "faqs": [
+        {"q": "Where is the Kirateshwar Mahadev temple?", "a": "At Legship, on the bank of the Rangeet river below Gyalshing, at the junction of the roads to Tashiding, Ravangla and Jorethang. It is about 30–45 minutes by car from Gyalshing and an hour from Pelling."},
+        {"q": "When is the Kirateshwar temple busiest?", "a": "On Hindu festival days, especially Maha Shivaratri in February or March, when pilgrims come from across Sikkim and Darjeeling. Expect crowds and traffic. On ordinary days it is quiet."},
+        {"q": "Can I combine Legship with Tashiding?", "a": "Yes. Legship is on the road to Tashiding, about 20 km further. A day from Pelling can include Legship, Tashiding and Yuksom, though it is long. Most people visit Legship on the way to or from Tashiding."}
+      ]
+    },
+    {
+      "slug": "gyalshing-jeep-hub-local-travel",
+      "title": "Travel like a local on Gyalshing's jeeps",
+      "kind": "village",
+      "duration": "Half day",
+      "best_time": "Oct–May, mornings",
+      "cost": "≈ ₹50–250 per ride",
+      "image_query": "Sikkim shared jeep mountain road",
+      "wiki": "",
+      "summary": "Use Gyalshing's shared jeep network to reach Pelling, Yuksom, Dentam or Uttarey for a fraction of a reserved car's cost, riding with villagers, students and traders.",
+      "body": [
+        "Most people in West Sikkim travel by shared jeep: Mahindra Boleros and Tata Sumos that run fixed routes when full. Gyalshing is the hub. Counters or informal stands sell seats for Gangtok, Siliguri and Jorethang, while local jeeps go to Pelling, Yuksom, Tashiding, Legship, Dentam and Uttarey.",
+        "Ask at the stand the day before for departure times; many leave early morning and return in the afternoon. Fares are low, indicatively ₹50–80 to Pelling and ₹150–250 to Yuksom or Uttarey. Luggage goes on the roof under a tarpaulin.",
+        "Seats are tight and the roads winding, so take motion-sickness tablets if needed and ask for a front or window seat. It is the cheapest and most local way to explore the district."
+      ],
+      "good_for": ["budget", "solo", "couples"],
+      "faqs": [
+        {"q": "How do shared jeeps work in Sikkim?", "a": "Jeeps run fixed routes and leave when full or at set times. You buy a seat at a counter or from the driver. Long-distance seats can be booked a day ahead. Fares are fixed per seat. Luggage goes on the roof, tied under a tarpaulin."},
+        {"q": "Are shared jeeps safe in West Sikkim?", "a": "They are the normal way locals travel and are generally safe, driven by experienced local drivers. Roads are narrow and winding. Avoid night travel, keep valuables with you and ask for a seat that suits you. Reserved cars are more comfortable."},
+        {"q": "Can I reserve a whole jeep?", "a": "Yes. You can book a whole vehicle, called 'reserved', for a fixed price, which is more comfortable and flexible. A reserved car from Gyalshing to Pelling costs about ₹300–500 and to Yuksom about ₹2,000–3,000."}
+      ]
+    },
+    {
+      "slug": "gyalshing-sel-roti-tea-stop",
+      "title": "Sel roti and tea at a Gyalshing stall",
+      "kind": "food",
+      "duration": "30 minutes",
+      "best_time": "Year-round, morning",
+      "cost": "≈ ₹50–150",
+      "image_query": "sel roti Nepali rice bread",
+      "wiki": "",
+      "summary": "Wait for your jeep with a cup of milky tea and sel roti, the ring-shaped sweet rice bread of Nepali kitchens, at one of Gyalshing's morning stalls.",
+      "body": [
+        "Sel roti is a ring of lightly sweetened rice batter, fried until crisp outside and soft inside. It is made at home for festivals such as Tihar and sold at morning stalls across Sikkim's market towns, often with aloo dum (spiced potatoes) or a cup of milky tea.",
+        "Gyalshing's stalls near the jeep stand serve travellers from early morning. Ask for it fresh; it is best warm. Momos, thukpa (noodle soup) and puri-sabzi are other common breakfast choices.",
+        "Prices are low and portions generous. Carry small notes, and avoid uncooked salads and unfiltered water if your stomach is sensitive."
+      ],
+      "good_for": ["budget", "solo", "families"],
+      "faqs": [
+        {"q": "What is sel roti?", "a": "A traditional Nepali ring-shaped bread made from fermented rice batter, sugar and sometimes ghee, deep-fried until golden. It is made at home for festivals like Tihar and sold at morning stalls across Sikkim, often with potatoes or tea."},
+        {"q": "Is street food safe in Gyalshing?", "a": "Freshly fried or cooked hot food, such as sel roti, momos and thukpa, is generally safe. Avoid raw salads and unfiltered water if your stomach is sensitive, and choose busy stalls with quick turnover. Carry a refillable bottle and treated water."},
+        {"q": "What should I eat for breakfast in West Sikkim?", "a": "Common choices are sel roti with aloo dum, momos, thukpa, puri with vegetables, or bread, eggs and tea. In homestays, breakfast may be rice-based. Try local tea with milk, and ask for less sugar if you prefer."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Gyalshing the same as Geyzing?", "a": "Yes. Gyalshing, Geyzing and Gezing are different spellings of the same town, the headquarters of Gyalshing district (formerly West Sikkim). Signboards, jeep counters and maps use all three. It lies about 10 km below Pelling."},
+    {"q": "How far is Gyalshing from Pelling?", "a": "About 10 km, or 20–30 minutes by road, passing Pemayangtse Monastery and the Rabdentse gate. Shared local jeeps cost about ₹50–80 a seat and a reserved taxi about ₹300–500."},
+    {"q": "Should I stay in Gyalshing or Pelling?", "a": "Stay in Pelling. Gyalshing is a working district town with few holiday hotels and no mountain views to match Pelling's. Use Gyalshing for jeeps, banks and supplies, and stay up the hill in Pelling or in a village homestay."},
+    {"q": "How do I get a shared jeep from Gyalshing to Gangtok?", "a": "Jeeps leave Gyalshing for Gangtok mostly in the early morning; buy a seat the evening before at the counter. Fares are about ₹350–500 and the trip takes 4.5–5.5 hours. Check current status before you travel in the monsoon."},
+    {"q": "Is there an ATM in Gyalshing?", "a": "Yes, Gyalshing has several banks and ATMs, generally more reliable than those in Pelling, Yuksom or Uttarey. Withdraw enough cash here before heading to villages. Card and UPI acceptance varies in remote areas."},
+    {"q": "What is Gyalshing district?", "a": "Gyalshing district is the official name of most of the former West Sikkim district since December 2021, with its headquarters at Gyalshing. It includes Pelling, Yuksom, Tashiding, Dentam and Uttarey. The southern part became Soreng district."},
+    {"q": "What can I do in Gyalshing?", "a": "Walk the morning market, use banks and ATMs, catch shared jeeps, and visit nearby Pemayangtse and Rabdentse. A trip down to Legship's Kirateshwar Mahadev temple on the Rangeet is easy. Otherwise, it is a transit town."},
+    {"q": "What is the altitude of Gyalshing?", "a": "Gyalshing lies at roughly 1,600 m, lower than Pelling at about 2,150 m. Sources vary because the town spreads across a slope. It is milder than Pelling in winter and warmer in summer."},
+    {"q": "How do I reach Gyalshing from Siliguri?", "a": "Shared jeeps from Siliguri to Gyalshing cost about ₹500–650 and take 5–6 hours via Sevoke, Melli, Jorethang and Legship. A private car costs indicatively ₹5,000–7,000. NH10 closes after monsoon slides; check current status before you travel."}
+  ]
+}

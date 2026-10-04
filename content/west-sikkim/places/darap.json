@@ -1,0 +1,170 @@
+{
+  "slug": "darap",
+  "name": "Darap",
+  "region": "west-sikkim",
+  "kind": "village",
+  "wiki": "Darap",
+  "image_query": "Darap village Pelling Sikkim",
+  "lat": 27.3063,
+  "lng": 88.1862,
+  "altitude_m": 1800,
+  "local_name": null,
+  "tagline": "A Limbu farming village 8 km from Pelling, with homestays",
+  "meta_description": "Darap (1,800 m), a Limbu village 8 km from Pelling: homestays, farm walks, Rimbi river, Limbu food and culture, costs and how to reach.",
+  "summary": "Darap is a farming village at about 1,800 m, 8 km from Pelling on the road to Rimbi and Yuksom, home mainly to Limbu families. It has community homestays, including the award-winning Daragaon Village Retreat, and is the easiest place near Pelling to stay with a family, walk through fields and eat home cooking.",
+  "intro": [
+    "Darap spreads across a slope below Pelling, with houses among terraces of maize, millet, vegetables and cardamom, and forest above. It covers about 565 hectares and had 1,743 residents at the 2011 census. Most families are Limbu (Yakthung), one of the oldest communities of the eastern Himalaya, with their own language, script and Mundhum oral tradition.",
+    "The village took up tourism carefully, through homestays rather than hotels, and has its own tourism committee. Daragaon Village Retreat, its best-known homestay, received silver in Outlook Traveller's Responsible Tourism Awards in 2017 in the community-based homestay category. Other families host guests in simpler rooms.",
+    "From Darap, short walks lead down to the Rimbi river and waterfall and up to viewpoints facing Kangchenjunga. Pelling's monasteries are 25–30 minutes away by car, and Khecheopalri Lake and Yuksom are on the same road. A night or two here gives you Pelling's sights with a village's quiet."
+  ],
+  "story": {
+    "title": "The Limbu of Darap and the Mundhum",
+    "text": "The Limbu, who call themselves Yakthung, are one of the indigenous peoples of the eastern Himalaya, living across eastern Nepal and West Sikkim, where Gyalshing district has a large Limbu population. Their traditional religion is guided by the Mundhum, a body of oral scripture recited by priests called phedangma and other ritual specialists, covering creation, ancestry and the rites of birth, marriage and death. The Limbu have their own script, revived in the 18th century by the scholar Te-ongsi Sirijunga, who was killed in West Sikkim around 1741. In villages such as Darap, Limbu identity shows in language, food, dress on festival days and dances such as the chyabrung, performed with a large two-sided drum. Wikipedia's articles on the Limbu people and the Limbu script are a good starting point; better still is to ask your homestay family which traditions they keep. Do not expect performances on demand: ceremonies happen for the community, on their own calendar.",
+    "source": "Wikipedia: Limbu people; Limbu script; Te-ongsi Sirijunga Xin Thebe"
+  },
+  "little_known": [
+    {"fact": "Darap had 1,743 residents in 2011 across about 565 hectares, making it one of the larger villages around Pelling.", "source": "Wikipedia: Darap"},
+    {"fact": "Daragaon Village Retreat in Darap won silver in the community-based homestay category of Outlook Traveller's Responsible Tourism Awards in 2017.", "source": "Outlook Traveller Responsible Tourism Awards 2017"},
+    {"fact": "The Limbu script was revived in the 18th century by Te-ongsi Sirijunga, who taught across Limbu areas including West Sikkim.", "source": "Wikipedia: Te-ongsi Sirijunga Xin Thebe"}
+  ],
+  "facts": [
+    ["Best months", "Oct–May"],
+    ["Nights we suggest", "1–2"],
+    ["From Gangtok", "≈ 125 km · 5.5–6.5 h (8 km beyond Pelling)"],
+    ["Altitude", "1,800 m"],
+    ["Known for", "Limbu village life, homestays, farm walks, Rimbi river"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Homestay with a Limbu family", "text": "Stay in a family home, eat what the household eats, and talk about farming, school and festivals over tea by the stove. Daragaon Village Retreat is the best-known option; we also know simpler family homes in the village."},
+    {"title": "Farm and field walks", "text": "Walk the terraces with your hosts: maize and millet in summer and autumn, vegetables and cardamom year-round. In season you can help with harvesting or planting, if the family is happy to show you."},
+    {"title": "Rimbi river and waterfall", "text": "A short drive or walk below the village, the Rimbi river runs past a roadside waterfall and the Sewaro Rock Garden. In spring and autumn it is a pleasant place for a picnic; in the monsoon the water roars."},
+    {"title": "Limbu kitchen", "text": "Limbu home cooking uses fermented foods such as kinema (soybean) and gundruk (greens), millet, and seasonal vegetables. Ask your host to cook a Limbu dish and explain it; many families are proud to share their food."},
+    {"title": "Close to Pelling and Yuksom", "text": "Darap is 25–30 minutes from Pelling's monasteries and on the road to Khecheopalri Lake, the Kanchenjunga Falls and Yuksom, so it works as a quiet base for the whole Pelling–Yuksom circuit."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Jeeps on the Gyalshing–Pelling–Yuksom and Khecheopalri routes pass Darap a few times a day, indicatively ₹50–100 from Pelling. Ask the driver to stop at Darap."},
+    {"mode": "Private car", "text": "From Pelling, about 8 km and 25–30 minutes, indicatively ₹500–800 one way. From Gangtok, about 125 km and 5.5–6.5 hours via Pelling."},
+    {"mode": "From Bagdogra / NJP", "text": "About 145–155 km and 6–7 hours via Melli, Jorethang, Legship, Gyalshing and Pelling, indicatively ₹6,000–8,000 by private car. Check NH10 status before you travel."}
+  ],
+  "costs": [
+    ["Taxi Pelling–Darap", "≈ ₹500–800 one way"],
+    ["Homestay (with meals)", "≈ ₹1,200–3,500 per person a night"],
+    ["Local guide for village walk", "≈ ₹800–1,500"],
+    ["Rimbi waterfall / rock garden entry", "≈ ₹20–50"]
+  ],
+  "where_to_stay": "Daragaon Village Retreat is Darap's best-known homestay, with comfortable rooms, home cooking and farm walks. Several other families host guests more simply through the village's tourism committee. For hotels, stay in Pelling, 8 km away: Hotel Garuda (budget), Norbu Ghang Retreat and Spa (comfort) or The Elgin Mount Pandim (premium).",
+  "stays": ["daragaon-village-retreat-darap", "hotel-garuda-pelling", "norbu-ghang-retreat-pelling"],
+  "tips": [
+    "Ask before photographing people, homes or rituals; Darap is a village, not a museum.",
+    "Bring small gifts for children only if your hosts agree; school supplies are better than sweets.",
+    "Wear shoes with grip for field paths, and carry a torch for evening walks.",
+    "Tell your host about dietary needs in advance; vegetarian meals are easy to arrange.",
+    "Pay homestays in cash; card and UPI may not work."
+  ],
+  "themes": ["village-homestays", "food-and-tea", "crafts-and-culture", "family-holidays"],
+  "nearby": ["pelling", "khecheopalri-lake", "kanchenjunga-falls", "sangacholing"],
+  "experiences": [
+    {
+      "slug": "darap-limbu-homestay-stay",
+      "title": "Two nights with a Limbu family in Darap",
+      "kind": "village",
+      "duration": "2 nights",
+      "best_time": "Oct–May",
+      "cost": "≈ ₹1,200–3,500 per person a night with meals",
+      "image_query": "Darap village homestay Sikkim",
+      "wiki": "Limbu people",
+      "summary": "Stay with a Limbu family in Darap, eat home cooking, walk the fields and learn about Limbu language and customs, 8 km from Pelling.",
+      "body": [
+        "Darap's homestays range from the well-known Daragaon Village Retreat to simple family homes. All give you a room in a lived-in house, meals with or prepared by the family, and time to see daily village life.",
+        "Over two nights you can walk the terraces, visit the Rimbi river, learn a few Limbu words and, if your hosts are willing, help in the kitchen or fields. Evenings are quiet, with tea, stories and early nights.",
+        "Respect the household's rhythm: meals come when the family eats, hot water may come in a bucket, and dogs and chickens wander. In return, you get a view of West Sikkim that no hotel can give."
+      ],
+      "good_for": ["families", "couples", "solo", "budget"],
+      "faqs": [
+        {"q": "Who are the Limbu?", "a": "The Limbu, or Yakthung, are an indigenous people of the eastern Himalaya, living in eastern Nepal and Sikkim, especially West Sikkim. They have their own language, script and Mundhum oral tradition, and are recognised as a Scheduled Tribe in Sikkim."},
+        {"q": "Are Darap homestays comfortable?", "a": "Comfort varies. Daragaon Village Retreat offers comfortable rooms with attached bathrooms; simpler homes may have shared bathrooms and bucket hot water. All provide clean bedding and home-cooked meals. Tell us your needs and we will match you to a suitable family."},
+        {"q": "Can children stay in Darap homestays?", "a": "Yes, and many enjoy it: farm animals, open fields and friendly hosts. Supervise children near terraces and water. Bring warm clothes, a torch and any snacks or medicines they need, as village shops are small."}
+      ]
+    },
+    {
+      "slug": "darap-limbu-kitchen",
+      "title": "Kinema, gundruk and millet in a Limbu kitchen",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Year-round, evening",
+      "cost": "≈ ₹500–1,000 per person",
+      "image_query": "kinema fermented soybean Sikkim",
+      "wiki": "",
+      "summary": "Cook and eat with your Darap hosts, learning about Limbu food: kinema fermented soybean, gundruk greens, millet and seasonal vegetables cooked on a wood or gas stove.",
+      "body": [
+        "Fermented foods are central to the kitchens of Sikkim's hill communities. Kinema, fermented soybean with a strong smell and nutty taste, is often cooked with tomato and chilli; gundruk, dried fermented greens, makes a sour soup. Millet is used for bread, porridge and, in many homes, home-brewed drinks.",
+        "Ask your host a day ahead if you can join in the kitchen. Many Limbu families are happy to show you how they prepare everyday dishes and explain what is seasonal. Some may cook a special Limbu dish if asked.",
+        "Eat together, try everything, and decline home brew politely if you do not drink. Agree any extra payment for a cooking session in advance."
+      ],
+      "good_for": ["couples", "families", "solo"],
+      "faqs": [
+        {"q": "What is kinema?", "a": "Kinema is a fermented soybean food of the eastern Himalaya, especially among the Limbu and other Kirati communities. Boiled soybeans are wrapped and fermented for a few days, giving a strong smell and sticky texture. It is cooked as a curry with tomato and chilli."},
+        {"q": "Is Limbu food spicy?", "a": "Dishes often include chilli, especially pickles and kinema curry, but heat is usually served on the side. Ask your host for mild food if you prefer. Rice, dal and vegetables form the base of most meals."},
+        {"q": "Can vegetarians eat Limbu food?", "a": "Yes. Kinema, gundruk, vegetables, greens, dal and millet dishes are vegetarian. Meat such as pork and chicken is common on festive days. Tell your host in advance and they will cook accordingly."}
+      ]
+    },
+    {
+      "slug": "darap-rimbi-river-walk",
+      "title": "Walk down to the Rimbi river",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Oct–May",
+      "cost": "Free; small rock garden entry",
+      "image_query": "Rimbi waterfall Pelling",
+      "wiki": "",
+      "summary": "Walk from Darap down through fields and forest to the Rimbi river, its roadside waterfall and the Sewaro Rock Garden, and return by road or shared jeep.",
+      "body": [
+        "Below Darap, the Rimbi river runs along the road towards Yuksom. A path through village fields and forest leads down to it in about an hour; your host can show you the start. Near the river are a roadside waterfall and the Sewaro Rock Garden, with paths and pools.",
+        "Spend time by the water, then walk back up or catch a shared jeep or arranged car to Darap. The walk down is easy; the walk back up is a steady climb.",
+        "Avoid the river in the monsoon, when it runs fast and paths are slippery. In spring and autumn it is a pleasant half day, with birds in the riverside trees."
+      ],
+      "good_for": ["families", "couples", "budget", "photographers"],
+      "faqs": [
+        {"q": "How far is the Rimbi river from Darap?", "a": "About an hour's walk down through fields and forest, or a short drive on the Pelling–Yuksom road. The Rimbi waterfall and Sewaro Rock Garden are by the road. Allow 2–3 hours for the round trip on foot."},
+        {"q": "Can I swim in the Rimbi river?", "a": "We advise against it. Mountain rivers in Sikkim are cold, fast and unpredictable, with slippery rocks and sudden rises after rain upstream. Enjoy the water from the bank or paddle only in shallow, calm edges in the dry season."},
+        {"q": "Is the Rimbi waterfall worth seeing?", "a": "It is a pleasant roadside waterfall with a small rock garden, worth a 20–30 minute stop on the way to Yuksom or as the end of a walk from Darap. It is fullest in and just after the monsoon."}
+      ]
+    },
+    {
+      "slug": "darap-farm-day",
+      "title": "A working day on a Darap farm",
+      "kind": "village",
+      "duration": "Half day",
+      "best_time": "Mar–May and Oct–Nov",
+      "cost": "Included in homestay; tip welcome",
+      "image_query": "Sikkim terraced farm maize cardamom",
+      "wiki": "",
+      "summary": "Join your host family in the fields for a few hours: planting, weeding or harvesting depending on season, and learn how a hill farm in West Sikkim feeds a household.",
+      "body": [
+        "Darap's farms are small and steep, worked by hand and with bullocks. Families grow maize, millet, rice on lower terraces, vegetables and large cardamom under shade trees, and keep cows, goats and chickens.",
+        "If your host agrees, spend a morning in the fields. In spring you might help plant; in autumn, harvest maize or millet. Your hosts will show you what to do and what not to touch, and explain how the farm calendar runs.",
+        "Wear old clothes and shoes with grip, carry water and a hat, and follow your hosts' lead. It is real work, not a show, and a small tip or help in the kitchen afterwards is a good way to say thank you."
+      ],
+      "good_for": ["families", "solo", "couples", "budget"],
+      "faqs": [
+        {"q": "What crops grow in Darap?", "a": "Maize, millet, rice on lower terraces, vegetables, potatoes and large cardamom under shade trees, with seasonal fruit. Families also keep cows, goats and chickens. Crops vary by season and household."},
+        {"q": "Can tourists really work on the farm?", "a": "Yes, if your host family is willing and it is an active season. Work is simple and supervised. Do not expect it every day; some days are for rest, ritual or market. Ask the evening before."},
+        {"q": "What is large cardamom?", "a": "Large or black cardamom is a spice grown under shade trees in Sikkim's mid-hills, an important cash crop for many families. Pods are dried over fires, giving a smoky flavour. Sikkim is among the world's largest producers."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Darap?", "a": "Darap is a village in Gyalshing district (West Sikkim), about 8 km from Pelling on the road to Rimbi, Khecheopalri and Yuksom, at around 1,800 m. It is about 25–30 minutes by car from Upper Pelling."},
+    {"q": "Why stay in Darap instead of Pelling?", "a": "For quiet and village life. Darap offers family homestays, farm walks and Limbu home cooking, while keeping Pelling's monasteries, Khecheopalri Lake and Yuksom within easy reach. Pelling has more hotels and cafes but less sense of place."},
+    {"q": "How much does a Darap homestay cost?", "a": "Indicatively ₹1,200–3,500 per person a night including meals, depending on the home and room. Daragaon Village Retreat is at the upper end; simpler family homes cost less. Pay in cash where possible."},
+    {"q": "Which community lives in Darap?", "a": "Darap is mainly Limbu (Yakthung), with other communities too. The Limbu have their own language, script and Mundhum oral tradition. Gyalshing district has one of the largest Limbu populations in Sikkim."},
+    {"q": "Is Darap good for families?", "a": "Yes. Children enjoy farm animals, fields and walks, and families get space and home food. Roads are quiet. Choose a homestay with attached bathrooms if needed. Keep children away from terrace edges and the river."},
+    {"q": "How do I get to Darap from Pelling?", "a": "By taxi, about 8 km and 25–30 minutes, indicatively ₹500–800 one way, or by shared jeep on the Yuksom or Khecheopalri routes for about ₹50–100. Your homestay can arrange pickup from Pelling."},
+    {"q": "What is the best time to visit Darap?", "a": "October to May. Autumn brings harvests and clear views; spring brings planting and flowers. Winter is cool and dry. The monsoon from June to September is wet, with leeches on paths, but fields are deep green."},
+    {"q": "Can I see Kangchenjunga from Darap?", "a": "From parts of the village and nearby viewpoints, yes, on clear mornings between October and March. The view is less open than from Pelling's ridge. Ask your host for the best spot near the house."},
+    {"q": "Is there mobile network in Darap?", "a": "Yes, the main networks work in most of the village, though data can be slow. Power cuts happen, so carry a torch and power bank. Being 8 km from Pelling, Darap is better connected than more remote villages."}
+  ]
+}

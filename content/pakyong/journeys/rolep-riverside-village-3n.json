@@ -1,0 +1,172 @@
+{
+  "slug": "rolep-riverside-village-3n",
+  "title": "Rolep riverside village stay, 3 nights",
+  "region": "pakyong",
+  "tier": "budget",
+  "nights": 3,
+  "themes": [
+    "village-homestays",
+    "birds-and-wildlife",
+    "offbeat-sikkim"
+  ],
+  "stops": [
+    {
+      "place": "rolep",
+      "nights": 3
+    }
+  ],
+  "start": "NJP station, Bagdogra Airport (IXB) or Gangtok",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 9000,
+  "price_basis": "per person, twin sharing, 4 travellers sharing one car on transfer days, Rolep homestay with all meals",
+  "price_breakdown": [
+    [
+      "Homestay, 3 nights with all meals",
+      4500
+    ],
+    [
+      "Shared car: transfers and Aritar day",
+      3200
+    ],
+    [
+      "Entry fee, boating and guide",
+      300
+    ],
+    [
+      "Our planning fee",
+      1000
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Easy",
+  "max_altitude_m": 1980,
+  "meta_description": "Rolep riverside village stay, 3 nights: river walks, birding, home food and a day trip to Aritar and Rhenock. From ₹9,000 per person with all meals.",
+  "summary": "Three slow nights in Rolep, a hamlet in the bends of the Rongli river in Pakyong district. Walk the riverbank, watch birds, eat food from the family's fields and do nothing much, with one day out to Aritar's lake, the Mankhim temple and the old trading town of Rhenock. Warm, low and very quiet.",
+  "intro": [
+    "Rolep is the opposite of a sightseeing trip. It is a small village at roughly 1,300 m along the Rongli river, reached by a narrow road from the Rongli side, where a handful of families take guests in their homes. The river is with you all day, terraces of rice and vegetables climb the slopes, and the trees along the water are busy with birds in the morning.",
+    "We built this trip for people who are tired of rushing: couples who want quiet, families with children who like rivers, and birders who want early mornings. One day goes to Aritar, Lampokhari Lake and Rhenock so you see a bit of the district; the other two are yours. Mobile signal is weak in the valley, which most guests end up liking."
+  ],
+  "highlights": [
+    "Three nights by the Rongli river with a village family",
+    "Morning birding along the riverside trees",
+    "Home food from the family's own fields",
+    "A day trip to Lampokhari Lake, Mankhim and Rhenock bazaar",
+    "Warm, low and quiet, with no altitude to worry about"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Rolep on the Rongli river",
+      "place": "rolep",
+      "overnight": "Rolep",
+      "alt_m": 1300,
+      "drive": "≈ 120 km · 5 h",
+      "text": "Pick-up at NJP or Bagdogra and the drive up the Teesta on NH10 to Rangpo, then through Rorathang to Rongli, the market town at the foot of the Silk Route. From Rongli a narrow road follows the river to Rolep, a hamlet at roughly 1,300 m tucked into the river's bends. Arrive by mid-afternoon, meet your hosts over tea and walk down to the water before dark. Dinner is whatever is fresh from the fields that week, at a simple, clean family homestay with shared or attached bathroom.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "A day by the river",
+      "place": "rolep",
+      "overnight": "Rolep",
+      "alt_m": 1300,
+      "drive": "",
+      "text": "No car today. Start with an early walk along the riverbank when the birds are most active; forktails, redstarts and kingfishers are common along Himalayan rivers like this one, and your host will know where to look. After breakfast, wander up through the terraces, help in the fields if the family is happy for you to, or sit on the warm rocks with a book. Stay out of the main current and never enter the water in the monsoon, when it rises fast. Evening by the kitchen fire.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Aritar, Mankhim and Rhenock day trip",
+      "place": "aritar",
+      "overnight": "Rolep",
+      "alt_m": 1300,
+      "drive": "≈ 70 km round trip · 4 h",
+      "text": "A day out to see the rest of the district. Drive via Rongli and Rhenock, the old trading town on the Kalimpong–Jelep La route, to Aritar and Lampokhari Lake at about 1,400 m. Walk the lakeside path, take a boat, and look at the 1895 dak bungalow above the water. After lunch by the lake, climb to Mankhim, the Rai temple at about 1,980 m, for the view over the valley. On the way back stop in Rhenock bazaar for momos and to use the ATM. Back at Rolep for dinner.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Rolep to NJP or Bagdogra",
+      "place": "rolep",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 120 km · 5 h",
+      "text": "One more morning walk by the river, a big breakfast, and goodbyes to your hosts. Leave by about 9 am and drive out via Rongli and Rorathang to Rangpo, then down NH10 along the Teesta to Siliguri. You reach NJP station or Bagdogra airport by early to mid-afternoon. In the monsoon, if NH10 is closed, the driver will go via Rhenock, Pedong and Kalimpong, which adds about an hour. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Rolep homestay on twin sharing with all meals",
+    "Seat in one shared car on transfer days and the Aritar day",
+    "Boating at Lampokhari and a local guide for the village walk",
+    "The ₹50 Sikkim tourist entry fee",
+    "Our planning and a phone number that answers during the trip"
+  ],
+  "excludes": [
+    "Train or flight tickets to NJP or Bagdogra",
+    "Snacks and drinks",
+    "Tips",
+    "Extra nights or car days caused by snow, landslides or road closures",
+    "Personal travel insurance"
+  ],
+  "good_to_know": [
+    "Rolep is reached from the Rongli side, just off the Silk Route road; we confirm any paperwork needed for your dates. Check current status before you travel.",
+    "Homestays in Rolep are simple family homes; ask for an attached bathroom when you book, as not every house has one.",
+    "Do not swim in the main river channel, and keep away from the water entirely in the monsoon.",
+    "NH10 between Siliguri and Rangpo closes after landslides in the monsoon; the alternatives are via Kalimpong and Lava, Algarah, or Pedong and Rhenock, which add one to two hours.",
+    "There is an ATM at Rhenock and at Rongli, none in Rolep; carry cash."
+  ],
+  "upgrade": "The value version adds a private car every day and a night at Aritar for about ₹13,000–14,000 per person.",
+  "faqs": [
+    {
+      "q": "Do I need a permit for Rolep?",
+      "a": "Indian travellers pay the ₹50 Sikkim tourist entry fee, included in the price. Rolep lies just off the Rongli road at the foot of the Silk Route, and we confirm any local paperwork needed for your dates when we book. The Silk Route permit itself is only needed if you add a trip up to Zuluk. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals stay in Rolep?",
+      "a": "Ask us before booking. Rolep sits close to the start of the Silk Route protected area, and the position for foreign nationals there is not something we want to promise in advance. Aritar, Rhenock and Pakyong town are outside the protected area and open to foreigners with the standard Sikkim entry permit, so we can build a similar village trip around them."
+    },
+    {
+      "q": "What is there to do in Rolep for three days?",
+      "a": "Walk the river, watch birds, eat well, read and sleep. One day goes to Aritar, Lampokhari Lake, Mankhim and Rhenock bazaar. If you want more activity, your hosts can arrange village walks through the terraces, and you can add a day trip to Zuluk with a Silk Route permit. Most guests find two quiet days is exactly right."
+    },
+    {
+      "q": "Is Rolep good for birding?",
+      "a": "Yes for casual birders. The riverside trees and forest edge are good for common Himalayan river and foothill species, and early mornings are best. Serious birders should bring binoculars and a field guide, and ask us about a local naturalist. Rolep is not a protected sanctuary, so treat sightings as a bonus rather than a promise."
+    },
+    {
+      "q": "Is Rolep safe for children?",
+      "a": "Yes, with supervision near the water. The village is quiet, traffic is minimal and the altitude is low. The river is the main hazard: the current can be strong and water rises quickly after rain upstream. Keep children on the bank or in shallow side pools in the dry season, and away from the river entirely in the monsoon."
+    },
+    {
+      "q": "What is the food like in Rolep?",
+      "a": "Home cooking from the family's fields: rice, dal, seasonal vegetables and greens, squash, pickles, eggs, and chicken or pork curry on some nights. All meals are included on this trip. Tell your host about vegetarian, Jain or less spicy needs when you arrive. Bottled drinks and snacks are limited, so bring any favourites from Siliguri."
+    },
+    {
+      "q": "When is the best time to visit Rolep?",
+      "a": "October to April is best: dry paths, mild days and clear river water. March and April add flowers on the slopes. December and January are cool but sunny at this low altitude. The monsoon from late June to mid-September brings heavy rain, leeches and a fast, high river, and approach roads can be cut by slides."
+    },
+    {
+      "q": "Is there mobile network and an ATM on the way?",
+      "a": "ATMs are at Rangpo, Rhenock and Rongli, but there are none at Padamchen, Zuluk, Nathang or Kupup. Mobile signal is weak to absent above Zuluk, and UPI only works where there is signal. Carry cash for heaters, tea stalls, lunches and tips. Homestay Wi-Fi, where it exists, depends on power. Tell family you may be out of reach for a day."
+    },
+    {
+      "q": "Can I combine Rolep with the Silk Route?",
+      "a": "Yes, and it works well. Rolep makes an ideal low first night before Padamchen and Zuluk, or a recovery night on the way down from Nathang. Our 6-night budget loop and several value trips use it that way. Tell us your dates and we will suggest the best order for the season."
+    }
+  ]
+}

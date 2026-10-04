@@ -1,0 +1,191 @@
+{
+  "slug": "pakyong-villages-4n",
+  "title": "Pakyong villages: Aritar, Mankhim and Rolep, 4N",
+  "region": "pakyong",
+  "tier": "value",
+  "nights": 4,
+  "themes": [
+    "village-homestays",
+    "crafts-and-culture",
+    "birds-and-wildlife",
+    "offbeat-sikkim"
+  ],
+  "stops": [
+    {
+      "place": "aritar",
+      "nights": 1
+    },
+    {
+      "place": "mankhim",
+      "nights": 1
+    },
+    {
+      "place": "rolep",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station, Bagdogra Airport (IXB) or Gangtok",
+  "price_from_inr": 19500,
+  "price_basis": "per person, twin sharing, 2 people with a private small car, better homestays with meals",
+  "price_breakdown": [
+    [
+      "Homestays, 4 nights with meals",
+      7600
+    ],
+    [
+      "Private car and driver, 5 days",
+      9500
+    ],
+    [
+      "Entry fee, boating and local guide",
+      400
+    ],
+    [
+      "Our planning fee",
+      2000
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Easy",
+  "max_altitude_m": 1980,
+  "meta_description": "Pakyong villages, 4 nights: Aritar lake, a night at Mankhim's Rai hilltop, two riverside nights at Rolep, Rhenock and Pakyong. From ₹19,500 per person.",
+  "summary": "Four slow nights in the villages of Pakyong district, well below the Silk Route: Aritar's lake, a hilltop night at Mankhim near the Rai temple, and two nights by the river at Rolep, with Rhenock's old bazaar and Pakyong town on the way. Village food, short drives and no altitude worries.",
+  "intro": [
+    "Pakyong district is more than the road to Zuluk. Below the high Silk Route lies a country of cardamom slopes, paddy terraces and river valleys where homestays are still a side income for farming families. This trip spends four nights there, at heights between about 1,300 m and 2,000 m, so the only effort is the occasional uphill walk.",
+    "You start at Aritar's lake, move up to Mankhim, the hilltop of the Rai community, for a night with wide views and a sunrise, and finish with two nights at Rolep beside the Rongli river. A private car means you can stop in Rhenock's bazaar, wander through Pakyong town and take village walks at your own pace."
+  ],
+  "highlights": [
+    "Lampokhari Lake and the 1895 dak bungalow at Aritar",
+    "A night on Mankhim hill, with sunrise over the valley",
+    "Two quiet nights by the river at Rolep",
+    "Rhenock's old trading bazaar and Pakyong town",
+    "Village food and walks with no altitude to worry about"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Aritar and Lampokhari Lake",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "alt_m": 1400,
+      "drive": "≈ 115 km · 4.5 h",
+      "text": "Pick-up at NJP station or Bagdogra airport and the drive north along the Teesta on NH10 to Rangpo, the gateway into Sikkim. From Rorathang the road climbs to Aritar, a farming village at about 1,400 m spread around Lampokhari Lake. After check-in at a good lake-view hotel or the better homestays, walk the lakeside path, which takes about 45 minutes, and look up at the 1895 dak bungalow built by John Claude White, Sikkim's first British Political Officer. Aritar needs no protected-area permit, and the low altitude makes it an ideal first night.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Aritar to Mankhim hill",
+      "place": "mankhim",
+      "overnight": "Mankhim",
+      "alt_m": 1980,
+      "drive": "≈ 8 km · 30 min",
+      "text": "A slow morning by Lampokhari Lake, with a boat ride before the day visitors arrive. After lunch, the short drive up to Mankhim at about 1,980 m, the hilltop where the Rai community has its temple. The Rai are a Kirati people, and Mankhim is a living place of worship; dress modestly and ask before photographing ceremonies. Walk the ridge in the late afternoon for views over the lake and the Rangpo valley, and stay for sunset. Overnight at a hill homestay with home-cooked dinner.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Mankhim sunrise, Rhenock and Rolep",
+      "place": "rolep",
+      "overnight": "Rolep",
+      "alt_m": 1300,
+      "drive": "≈ 35 km · 2 h",
+      "text": "Step outside at dawn for sunrise from Mankhim, with the valley in mist below and, on clear mornings, the snow peaks to the north-west. After breakfast, drive down via Rhenock, the old trading town on the Kalimpong–Jelep La route, for a walk through the bazaar, momos and the ATM. Continue to Rongli and along the narrow road to Rolep, a hamlet in the bends of the Rongli river at roughly 1,300 m. Afternoon by the water and dinner with your hosts.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "A river day at Rolep",
+      "place": "rolep",
+      "overnight": "Rolep",
+      "alt_m": 1300,
+      "drive": "",
+      "text": "No long drives today. Walk the riverbank early, when forktails, redstarts and kingfishers are most active along the water, then join your host for a walk up through the terraces to see what is growing. In the afternoon rest by the river, read, or take a local guide on a longer village walk. Stay out of the main current and away from the water in the monsoon. Evening by the kitchen fire, with dinner from the family's fields, at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Rolep via Pakyong to NJP or Gangtok",
+      "place": "pakyong",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 125 km · 5 h",
+      "text": "After breakfast, drive out via Rongli to Pakyong, the district headquarters at about 1,400 m, for a short stop in town and a view of the ridge-top airport, which has had no scheduled flights since June 2024. From Pakyong, continue down to Rangpo and along NH10 to NJP or Bagdogra, reaching by mid-afternoon, or go up to Gangtok in about an hour and a quarter if you are staying on. If NH10 is closed in the monsoon, the driver will take the Kalimpong road. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Better homestay rooms on twin sharing, with dinner and breakfast, and all meals at Rolep",
+    "A private small car for 5 days, with fuel, tolls and driver costs",
+    "Boating at Lampokhari and a local guide for one village walk",
+    "The ₹50 Sikkim tourist entry fee",
+    "Our planning, bookings and on-trip support"
+  ],
+  "excludes": [
+    "Train or flight tickets to NJP or Bagdogra",
+    "Lunches, snacks and drinks unless stated",
+    "Boating, entry tickets, snow-boot hire and tips",
+    "Extra nights or car days caused by snow, landslides or road closures",
+    "Personal travel insurance"
+  ],
+  "good_to_know": [
+    "Aritar, Mankhim, Rhenock and Pakyong town need no protected-area permit; for Rolep we confirm any paperwork needed for your dates. Check current status before you travel.",
+    "Mankhim is a Rai community temple; dress modestly and ask before photographing rituals.",
+    "Do not swim in the main river channel at Rolep, and keep away from the water in the monsoon.",
+    "NH10 between Siliguri and Rangpo closes after landslides in the monsoon; the alternatives are via Kalimpong and Lava, Algarah, or Pedong and Rhenock, which add one to two hours.",
+    "ATMs are at Rhenock, Rongli and Pakyong; carry cash for village homestays."
+  ],
+  "upgrade": "The comfort version swaps two nights for the Vivanta at Pakyong and adds an SUV, for about ₹30,000 per person over three nights.",
+  "faqs": [
+    {
+      "q": "Do I need a permit for this trip?",
+      "a": "Indian travellers need no protected-area permit for Aritar, Mankhim, Rhenock or Pakyong town, only the ₹50 Sikkim tourist entry fee included in the price. Rolep lies just off the Rongli road near the start of the Silk Route; we confirm any paperwork needed for your dates when we book. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals do this trip?",
+      "a": "Mostly yes. Aritar, Mankhim, Rhenock and Pakyong town are open to foreigners with the standard Sikkim entry permit from the e-FRRO portal. For Rolep, ask us about the current position before booking; if needed we replace the Rolep nights with a second night at Aritar and one in Pakyong."
+    },
+    {
+      "q": "Who are the Rai of Mankhim?",
+      "a": "The Rai are a Kirati community found across eastern Nepal, Darjeeling and Sikkim, with their own languages and traditions of ancestor and nature worship. Mankhim, the hilltop above Aritar, is a temple and gathering place for Rai families in the area. Visitors are welcome to look around respectfully; ask before photographing people or rituals."
+    },
+    {
+      "q": "Is this trip good for older travellers?",
+      "a": "Very. The highest night is Mankhim at about 1,980 m, there are no high passes, and drives are short except on the first and last days. Walks are optional and can be kept short. Homestays at Rolep are simple, so ask for an attached bathroom. The trip suits anyone who wants quiet countryside rather than sightseeing."
+    },
+    {
+      "q": "What is the best season for these villages?",
+      "a": "October to April. October and November bring clear views and golden paddy; December and January are cool and sunny at these heights; February to April are mild, with flowers. The monsoon from late June to mid-September is wet, with leeches on paths, a fast river at Rolep and possible slides on NH10."
+    },
+    {
+      "q": "Can I add Zuluk to this trip?",
+      "a": "Yes. Indian nationals can add a night at Zuluk between Mankhim and Rolep, with the Silk Route permit processed at Rongli. That takes you to about 2,900 m and lets you see the loops at sunrise from Thambi. It adds about ₹4,500–5,000 per person for two, including the car day and homestay."
+    },
+    {
+      "q": "Is there mobile network and an ATM on the way?",
+      "a": "ATMs are at Rangpo, Rhenock and Rongli, but there are none at Padamchen, Zuluk, Nathang or Kupup. Mobile signal is weak to absent above Zuluk, and UPI only works where there is signal. Carry cash for heaters, tea stalls, lunches and tips. Homestay Wi-Fi, where it exists, depends on power. Tell family you may be out of reach for a day."
+    },
+    {
+      "q": "Can the trip end in Gangtok?",
+      "a": "Yes. From Pakyong, Gangtok is about 30 km and an hour and a quarter, so the last day can end at your Gangtok hotel instead of NJP or Bagdogra, at no extra cost. Many travellers use this trip as a quiet start before a few days in Gangtok and North Sikkim."
+    },
+    {
+      "q": "What will we eat in the villages?",
+      "a": "Home cooking from the family's own fields and the local market: rice, dal, seasonal vegetables, local greens such as squash shoots, pickles, eggs and chicken or pork curry. Rolep includes all meals. Tell your hosts about vegetarian, Jain or less spicy needs early, and bring any snacks you cannot live without."
+    }
+  ]
+}

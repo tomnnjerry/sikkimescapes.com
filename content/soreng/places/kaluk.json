@@ -1,0 +1,171 @@
+{
+  "slug": "kaluk",
+  "name": "Kaluk",
+  "region": "soreng",
+  "kind": "village",
+  "wiki": "Kaluk",
+  "image_query": "Kaluk Sikkim village",
+  "lat": 27.2319,
+  "lng": 88.2516,
+  "altitude_m": 1550,
+  "local_name": null,
+  "tagline": "A breezy bazaar village and the comfortable base below Rinchenpong",
+  "meta_description": "Kaluk, Soreng district: village resorts from ₹3,000, Kangchenjunga views, cardamom farms and the ridge walk to Rinchenpong. Costs, routes and tips.",
+  "summary": "Kaluk is a small bazaar village at about 1,550 m in Soreng district, 3 km below Rinchenpong and about 118 km from Gangtok. It has the area's best village resorts, Kangchenjunga views on clear mornings, a strong breeze most evenings and easy walks to Rinchenpong Monastery and the farms around.",
+  "intro": [
+    "Kaluk and Rinchenpong are usually spoken of together, and for good reason: they are 3 km apart on the same ridge, and most travellers sleep in one and walk to the other. Kaluk is the lower, busier half, with a bazaar of a few dozen shops, schools, a Durga temple and the junction where shared jeeps from Jorethang turn up the hill. It sits at about 1,550 m in Soreng district, which was part of West Sikkim until December 2021.",
+    "What Kaluk adds is comfort. The area's two best-known village resorts, Ghonday and Mandarin, are here, with private bathrooms, restaurants and parking, which matters for families and older travellers. From their gardens the Kangchenjunga range lines up across the valley on clear mornings from October to April. Wikipedia describes Kaluk as one of the windiest places in Sikkim, and evenings on the ridge do feel it.",
+    "People in Kaluk are mostly Sikkimese Nepali families, with Bhutia and Lepcha households among them, and most live by farming. Around the village you see maize and millet terraces, orange trees by the houses and large cardamom under alder shade on the cooler slopes. It is not a sightseeing town: come to rest, walk, eat well and use it as a base for Rinchenpong, Reesum Gumpa and Sribadam."
+  ],
+  "story": {
+    "title": "Large cardamom under the alder trees",
+    "text": "Look into the shaded gullies below Kaluk and you may see clumps of tall, leafy stems under alder trees. That is large cardamom (Amomum subulatum), known in Nepali as alaichi, the black cardamom used in Indian garam masala. Sikkim is India's largest producer of it, according to the Spices Board of India, and the hills of western Sikkim, including today's Soreng district, have grown it for generations. The crop likes moist, shaded slopes, and farmers here plant it under Himalayan alder (Alnus nepalensis), which fixes nitrogen in the soil and keeps the ground cool. The capsules grow at the base of the plant and are harvested by hand in autumn, then dried over wood fires in a bhatti, which gives them their smoky taste. In the 1990s and 2000s viral diseases known locally as chirke and foorkey, along with ageing plants, cut yields badly across Sikkim, and many families in Soreng turned to ginger, oranges and vegetables alongside it. Ask your homestay host whether they still grow alaichi; most families have a story about it.",
+    "source": "Spices Board of India (large cardamom); Wikipedia: Black cardamom; Wikipedia: Soreng"
+  },
+  "little_known": [
+    {"fact": "Wikipedia describes Kaluk as one of the windiest places in Sikkim. The breeze comes up the open ridge most afternoons, which is why resort gardens here have stone walls and why you want a windproof layer.", "source": "Wikipedia: Kaluk"},
+    {"fact": "Kaluk was part of West Sikkim until 21 December 2021, when the Sikkim (Re-organization of Districts) Act created Soreng district from Gyalshing (West) district. Old maps and guidebooks still place it in West Sikkim.", "source": "Wikipedia: Soreng district"},
+    {"fact": "Soreng district is known for its oranges, ginger and large cardamom. In Kaluk you see household orange trees ripening from about November to January, sold in small heaps at the bazaar.", "source": "Wikipedia: Soreng"}
+  ],
+  "facts": [
+    ["Best months", "October–December and February–April"],
+    ["Nights we suggest", "1–2"],
+    ["From Gangtok", "≈ 118 km · 5 h"],
+    ["Altitude", "≈ 1,550 m"],
+    ["Known for", "Village resorts, Kangchenjunga views, the breeze, cardamom and oranges"],
+    ["Permit", "Not needed for Indians; foreigners need Sikkim's RAP (e-FRRO)"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The ridge walk to Rinchenpong", "text": "A 3 km road and footpath climb links Kaluk with Rinchenpong, about an hour up at an easy pace. Go early for the range in front of you, carry on to the 1730 monastery with its Ati Buddha, and take a shared jeep or car back down if your legs are done."},
+    {"title": "Village resorts with a view", "text": "Ghonday Village Resort and Mandarin Village Resort give Kaluk the area's most comfortable rooms, with restaurants and gardens facing the Kangchenjunga range. Rooms cost about ₹3,000–5,500 a night. They suit families and older travellers who want private bathrooms and a car at the door."},
+    {"title": "Kaluk bazaar", "text": "A short street of grocery shops, tea stalls and small eateries where shared jeeps stop. Try sel roti, the ring-shaped rice bread, with tea in the morning, and momos or thukpa at lunch for ₹80–200. In season, buy local oranges and dried cardamom by weight."},
+    {"title": "Cardamom and orange farms", "text": "Around Kaluk you can see large cardamom growing under alder shade and orange trees beside farmhouses. Ask your host to arrange a short farm visit; autumn is cardamom harvest and drying time, and oranges ripen from about November to January."},
+    {"title": "Reesum Gumpa and Sribadam nearby", "text": "Reesum Gumpa, on the hilltop above Rinchenpong, and Sribadam, with its Kagyu monastery and a trout farm, are each 15–30 minutes by car. Both make easy half-day outings from Kaluk without long drives."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run from Jorethang to Kaluk and Rinchenpong, about 1.5 hours for roughly ₹120–180 a seat. From Siliguri, take a shared jeep to Jorethang first (3.5–4 hours, ₹250–350). Morning departures are most frequent; the last jeeps up leave by mid-afternoon."},
+    {"mode": "Private car", "text": "Kaluk is about 29 km from Pelling via Gyalshing and Legship, 1.5 hours, at about ₹2,000–2,500 one way for a small car. From Gangtok it is about 118 km and 5 hours via Singtam, Melli and Jorethang, about ₹5,000–6,500. From Jorethang it is about 30 km and 1–1.5 hours."},
+    {"mode": "From Bagdogra / NJP", "text": "Bagdogra and NJP are roughly 115–125 km away, 4.5–5 hours by car via Sevoke, Melli and Jorethang, for about ₹4,500–6,000. NH10 along the Teesta closes after monsoon slides, when cars detour via Kalimpong. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Jorethang–Kaluk", "≈ ₹120–180 a seat"],
+    ["Reserved car Pelling–Kaluk", "≈ ₹2,000–2,500 one way"],
+    ["Village resort room", "≈ ₹3,000–5,500 a night"],
+    ["Homestay with meals", "≈ ₹1,200–2,200 per person a night"],
+    ["Meal (thali)", "≈ ₹150–250"]
+  ],
+  "where_to_stay": "Kaluk is where the area's village resorts are. Ghonday Village Resort, on the slope below Rinchenpong, and Mandarin Village Resort, near Kaluk bazaar, both cost about ₹3,000–5,500 a room and have restaurants, gardens and parking. For a lower budget, the family homestays of Rinchenpong, 3 km up the ridge, cost ₹1,200–2,200 per person with meals and are closer to the monastery. Yangsum Heritage Farm near Rinchenpong is the choice for a heritage farmhouse stay with meals.",
+  "stays": ["ghonday-village-resort-kaluk", "mandarin-village-resort-kaluk", "rinchenpong-homestays", "yangsum-heritage-farm-rinchenpong"],
+  "tips": [
+    "Pack a windproof jacket, as Kaluk's ridge is breezy most afternoons and evenings.",
+    "Withdraw cash in Jorethang or Soreng; do not count on an ATM in Kaluk.",
+    "Ask for an upper-terrace room at the resorts if you want the range from your window.",
+    "Walk up to Rinchenpong in the morning and ride back down; the climb is gentler in the cool.",
+    "Buy oranges at the bazaar from about November to January, when local fruit is in season."
+  ],
+  "themes": ["village-homestays", "family-holidays", "food-and-tea", "photography"],
+  "nearby": ["rinchenpong", "sribadam", "reesum-monastery", "soreng"],
+  "experiences": [
+    {
+      "slug": "kaluk-ridge-walk-to-rinchenpong",
+      "title": "Ridge walk from Kaluk up to Rinchenpong",
+      "kind": "nature",
+      "duration": "2.5 hours",
+      "best_time": "Early morning, October–April",
+      "cost": "Free",
+      "image_query": "Rinchenpong Kaluk ridge road Sikkim",
+      "wiki": "",
+      "summary": "Walk the 3 km up the ridge from Kaluk to Rinchenpong with the Kangchenjunga range ahead of you, stopping at village shrines and viewpoints, and finish at the 1730 monastery. An easy, free morning that shows how the two villages fit together.",
+      "body": [
+        "Start from Kaluk bazaar after an early tea, ideally by 6:30 am from October to April. The route follows the road and short-cut footpaths up the ridge for about 3 km, gaining roughly 150 m. On clear mornings the Kangchenjunga range is in front of you most of the way, with Kangchenjunga itself at 8,586 m in the centre. Locals walking to school or to fields use the same paths, so ask anyone if a turn looks unclear.",
+        "There is no single sight on the way; the pleasure is in the morning light, the farmhouses with orange trees and the prayer flags at the bends. Allow about an hour up at an easy pace, more with photo stops. In Rinchenpong, take breakfast at a tea stall, then continue up the lane to Rinchenpong Monastery, founded around 1730, to see its Ati Buddha image, and look at Bikh Pokhari, the Poison Lake of local memory, on the way.",
+        "Return the same way on foot, or take a shared jeep or a car back down to Kaluk. The road has light traffic but no footpath in places, so walk in single file and keep to the hill side on bends. Carry water and a light jacket; the ridge is windy. From June to September cloud usually hides the range and paths get slippery."
+      ],
+      "good_for": ["couples", "families", "photographers", "budget", "solo"],
+      "faqs": [
+        {"q": "How long does the walk from Kaluk to Rinchenpong take?", "a": "About an hour uphill at an easy pace for the 3 km, longer with photo stops. Add 30–45 minutes if you continue to Rinchenpong Monastery. The return downhill takes 40–50 minutes, or you can take a shared jeep or car back."},
+        {"q": "Is the Kaluk–Rinchenpong walk safe?", "a": "Yes, in daylight and dry weather. Part of the route is on the road, which has light traffic but no pavement, so walk in single file and stay on the inside of bends. Avoid it after dark and in heavy rain, when paths are slippery."},
+        {"q": "Do we need a guide for this walk?", "a": "No. The route is short and well used by villagers, and anyone will point the way. A local guide, about ₹500–800, adds stories about the villages and the monastery, which some travellers enjoy, but it is not necessary."}
+      ]
+    },
+    {
+      "slug": "kaluk-bazaar-food-morning",
+      "title": "Sel roti, momos and tea in Kaluk bazaar",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "7–10 am, any season",
+      "cost": "≈ ₹150–300 per person",
+      "image_query": "sel roti Nepali bread Sikkim",
+      "wiki": "Sel roti",
+      "summary": "Eat your way down Kaluk's short bazaar street: ring-shaped sel roti fried at dawn, milky tea, momos, aloo dum and, in season, local oranges. A cheap, cheerful morning that shows what people in Soreng district actually eat.",
+      "body": [
+        "Kaluk bazaar wakes early because shared jeeps for Jorethang leave in the morning. Tea stalls fry sel roti, a ring-shaped bread made from ground rice batter, sweetened and deep-fried, best eaten hot with milky tea or a bowl of aloo dum, spiced potato curry. A plate costs about ₹30–60. Sel roti is made at home for Dashain and Tihar too, so if your visit falls in October or November, ask your host about the festival versions.",
+        "By late morning, the small eateries switch to momos, steamed dumplings filled with vegetables, chicken or pork, served with a fiery tomato-and-chilli chutney, and thukpa, a noodle soup. A plate of momos runs about ₹80–150. Look out for churpi, hard dried cheese from cow or yak milk sold in strings as a chew, and for gundruk, fermented leafy greens used in soups, which homestays cook more than restaurants do.",
+        "In season, the bazaar sells local oranges from about November to January, and dried large cardamom by weight in autumn and winter. Prices are fair and not haggled much. Carry small notes; change for ₹500 can be scarce early in the day. If you are vegetarian, say so clearly, as stock and fillings vary from stall to stall."
+      ],
+      "good_for": ["budget", "families", "solo", "couples"],
+      "faqs": [
+        {"q": "What is sel roti?", "a": "Sel roti is a ring-shaped, slightly sweet bread made from soaked and ground rice batter, deep-fried until crisp outside and soft inside. It is a Nepali festival and breakfast food across Sikkim, eaten with tea or potato curry. In Kaluk bazaar a plate costs about ₹30–60."},
+        {"q": "Is street food in Kaluk safe to eat?", "a": "Generally yes, if you choose busy stalls where food is fried or steamed fresh. Avoid raw salads and tap water; drink bottled, boiled or filtered water, or carry a refillable bottle with a filter. Ask about chilli levels, as chutneys here are hot."},
+        {"q": "Can I buy cardamom in Kaluk?", "a": "Usually, yes. Dried large cardamom is sold by weight at bazaar shops, mostly in autumn and winter after the harvest. Prices change with the market each year, so ask a couple of shops. It is the black, smoky cardamom used in garam masala, not the small green kind."}
+      ]
+    },
+    {
+      "slug": "kaluk-cardamom-farm-visit",
+      "title": "Visit a cardamom and orange farm near Kaluk",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "September–January",
+      "cost": "≈ ₹500–1,000 per group, arranged by your host",
+      "image_query": "large cardamom plantation Sikkim",
+      "wiki": "Black cardamom",
+      "summary": "Spend a morning with a farming family near Kaluk to see large cardamom growing under alder trees, how the pods are harvested and smoke-dried, and the orange trees around the house. A rooted, low-cost look at the crops that shaped Soreng district.",
+      "body": [
+        "Large cardamom, the black cardamom of garam masala, has long been a cash crop in western Sikkim, and Sikkim is India's largest producer according to the Spices Board of India. It grows in shaded, moist gullies, usually under Himalayan alder trees. On a farm visit near Kaluk, a family member walks you through the plot, shows where the red capsules form at the base of the plant, and explains how they are cut by hand, mostly from about September to November.",
+        "The pods are dried over a wood fire in a bhatti, a small drying kiln, which gives them their smoky flavour. If you visit during the drying season you may see, and smell, one at work. Many families here also grow ginger, maize and oranges; Soreng district is known for all three. Oranges ripen from about November to January, and some households sell them by the dozen at the gate.",
+        "This is not a commercial tour but a visit to someone's working farm, arranged through your homestay or resort. Expect to pay the family ₹500–1,000 for their time, and to walk on narrow, uneven terraces. Wear closed shoes and long trousers. Ask before photographing people, and do not pick fruit or pods without being offered."
+      ],
+      "good_for": ["families", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "When is the cardamom harvest in Soreng district?", "a": "Mostly from about September to November, depending on altitude and the year's rains. Drying in bhatti kilns follows the harvest. Outside that season you still see the plants and can learn how they are grown, but not the picking or drying."},
+        {"q": "How do I arrange a farm visit in Kaluk?", "a": "Ask your homestay host or resort a day ahead; most know a family willing to show their farm. We can also arrange it as part of a journey. Pay the family directly, usually ₹500–1,000 for a small group, for their time and tea."},
+        {"q": "Why is large cardamom grown under trees?", "a": "It needs shade, moisture and cool soil. Farmers in Sikkim usually plant it under Himalayan alder, which shades the plants and adds nitrogen to the soil. Open, sunny slopes are used for maize, ginger and oranges instead."}
+      ]
+    },
+    {
+      "slug": "kaluk-evening-garden-sunset",
+      "title": "Sunset and stars from a Kaluk garden",
+      "kind": "wellness",
+      "duration": "2 hours",
+      "best_time": "October–March, from about 4:30 pm",
+      "cost": "Free for resort and homestay guests",
+      "image_query": "Kangchenjunga sunset West Sikkim",
+      "wiki": "",
+      "summary": "End the day in a resort or homestay garden in Kaluk, watching the last light leave Kangchenjunga and the stars come out over a village with little light pollution. Simple, slow and free, and the best antidote to a long drive.",
+      "body": [
+        "Kaluk's resorts and homestays face north-west across the valley, which means evening light falls on the Kangchenjunga range from your garden. From October to March, about 30 minutes before sunset the summit turns gold, then pink, then grey, while the valleys below fill with blue shadow. It is the counterpart to the sunrise view, often clearer on winter evenings, and needs nothing but a chair and a warm jacket.",
+        "After dark the sky does the work. Kaluk has few streetlights and no big town nearby, so on moonless winter nights the Milky Way is visible to the naked eye. Ask your host to switch off garden lights for a while, let your eyes adjust for 15–20 minutes, and look south as well as overhead. A simple phone app helps name constellations. Bring a torch for the walk back to your room.",
+        "Kaluk is breezy, as Wikipedia notes, and temperatures fall fast after sunset: about 5–10 °C on winter evenings. Wear a hat and gloves. Resorts may light a bonfire on request in winter, sometimes for a fee. From June to September cloud and rain usually rule this out, so save it for the dry months."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Can we see stars clearly from Kaluk?", "a": "On clear, moonless nights from October to March, yes. Kaluk has little light pollution, and the Milky Way is often visible to the naked eye. Turn off nearby lights and let your eyes adjust for 15–20 minutes. Cloud and monsoon rain rule it out from June to September."},
+        {"q": "How cold is Kaluk in the evening?", "a": "From November to February expect about 5–10 °C after sunset, colder with wind, and 2–5 °C before dawn. October and March are milder at about 10–14 °C. Kaluk is a windy ridge, so a windproof jacket, hat and gloves make the evening far more comfortable."},
+        {"q": "Do Kaluk resorts offer bonfires?", "a": "Some do in winter, on request and sometimes for a fee of a few hundred rupees. Ask when you book. Fire rules and wood supply vary, so do not assume it is included. Homestays may have a kitchen fire you are welcome to sit by."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Should I stay in Kaluk or Rinchenpong?", "a": "Stay in Kaluk for resort comfort, restaurants and easy parking; stay in Rinchenpong for homestays closer to the monastery and a slightly wider view. They are 3 km apart, so you can walk or drive between them in minutes. Families and older travellers usually prefer Kaluk's resorts."},
+    {"q": "How far is Kaluk from Pelling?", "a": "About 29 km by road via Gyalshing and Legship, roughly 1.5 hours by car. A reserved small car costs about ₹2,000–2,500 one way. Kaluk makes a good second base after Pelling for travellers who want quiet and village walks."},
+    {"q": "Is Kaluk in West Sikkim or Soreng district?", "a": "Kaluk is in Soreng district. It was in West Sikkim until December 2021, when Soreng district was carved out of West (now Gyalshing) district. Many signs, maps and booking sites still say West Sikkim, so both names will get you there."},
+    {"q": "What is the best time to visit Kaluk?", "a": "October to December for clear views and dry weather, and February to April for flowering trees with some haze. January is cold but often clear. June to September brings heavy rain and cloud, though rooms are cheaper and the hills are green."},
+    {"q": "How do I reach Kaluk by public transport?", "a": "Take a shared jeep from Siliguri to Jorethang, about 3.5–4 hours for ₹250–350, then a shared jeep from Jorethang to Kaluk, about 1.5 hours for ₹120–180. Morning departures are the most frequent. The last jeeps up from Jorethang usually leave by mid-afternoon."},
+    {"q": "Can we see Kangchenjunga from Kaluk?", "a": "Yes, on clear days the range is visible across the valley to the north-west, with Kangchenjunga (8,586 m) in the centre. October to April gives the best chance, early morning and late afternoon. From June to September cloud usually hides it."},
+    {"q": "Are there restaurants in Kaluk?", "a": "There are small eateries and tea stalls in the bazaar serving momos, thukpa, chowmein, sel roti and rice-dal thalis for about ₹80–250. The resorts have their own restaurants. Homestays cook meals for guests, usually included in the rate."},
+    {"q": "Is Kaluk good for older travellers?", "a": "Yes. At about 1,550 m there is no altitude concern, drives from Jorethang and Pelling are under two hours, and the resorts have restaurants and parking. Some rooms are up steps on the slope, so ask for one near the car park and dining room."},
+    {"q": "How many days should we spend in Kaluk?", "a": "One night is enough for a stop between Pelling and Jorethang; two nights let you walk to Rinchenpong, visit Reesum Gumpa or Sribadam, and have two chances at a clear sunrise. Many travellers pair two nights here with two in Pelling."}
+  ]
+}

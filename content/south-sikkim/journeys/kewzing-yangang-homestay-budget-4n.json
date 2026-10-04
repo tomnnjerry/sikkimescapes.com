@@ -1,0 +1,71 @@
+{
+  "slug": "kewzing-yangang-homestay-budget-4n",
+  "title": "Kewzing and Yangang homestays, 4 nights",
+  "region": "south-sikkim",
+  "tier": "budget",
+  "nights": 4,
+  "themes": ["village-homestays", "offbeat-sikkim", "food-and-tea"],
+  "stops": [{"place": "kewzing", "nights": 2}, {"place": "yangang", "nights": 2}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 14000,
+  "price_basis": "per person, twin sharing, 2 people, small private car on travel days, village homestays with all meals",
+  "price_breakdown": [["Homestays, 4 nights, all meals", 6600], ["Car and driver, 3 travel days", 6300], ["Entry fees and state fee", 200], ["Our planning fee", 900]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "4 nights in Kewzing and Yangang village homestays near Ravangla: farm walks, monasteries, home food, Buddha Park. All meals. From ₹14,000 per person.",
+  "summary": "Four nights with farming families in two villages near Ravangla: Kewzing, a Bhutia village with a community homestay programme and a Bon monastery, and Yangang, a quiet mixed Lepcha, Bhutia and Nepali village below Maenam hill. Home food, farm and monastery walks, Buddha Park on the way, and all meals included.",
+  "intro": [
+    "Most visitors see South Sikkim from a hotel window. This trip puts you in the villages instead. Kewzing, on the Ravangla–Legship road, started a community homestay programme in 2003, in which a village committee shares guests between families so the income spreads. It has Buddhist gompas and a Bon monastery, one of the few in Sikkim, and walking paths through cardamom, maize and vegetable plots. Yangang, on the other side of Ravangla below Maenam hill, sees far fewer visitors and feels like a working village rather than a tourist stop.",
+    "Homestays are simple: a clean room in or beside the family house, home-cooked Sikkimese and Nepali food, and hosts who walk you through their fields and tell you how the year turns. The car is used only on travel days, so the two middle days are spent on foot. It is our best value trip in the south, because every meal is included."
+  ],
+  "highlights": [
+    "Two nights in Kewzing's community-run homestays among cardamom and maize",
+    "The Bon monastery at Kewzing and village monastery walks",
+    "Buddha Park at Ravangla on the way between villages",
+    "Yangang's quiet farms and forest walks below Maenam hill",
+    "Home-cooked meals: sel roti, gundruk soup, seasonal greens and dalle chilli pickle"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Kewzing", "place": "kewzing", "overnight": "Kewzing", "alt_m": 1400, "drive": "≈ 135 km · 5 h", "text": "Your driver meets you at NJP or Bagdogra in the morning. The road follows the Teesta through Sevoke, enters Sikkim at Melli and climbs via Namchi and Damthang to Ravangla, then drops a few kilometres along the Legship road to Kewzing. Stop for lunch on the way. Your host family welcomes you with tea; settle in, take a short walk around the village before dark, and eat dinner with the household. Homestays collect Sikkim's ₹50 per person entry fee.", "meals": "Dinner"},
+    {"day": 2, "title": "Kewzing: monasteries and farm paths", "place": "kewzing", "overnight": "Kewzing", "alt_m": 1400, "drive": "", "text": "A day on foot. After breakfast, your host or a village guide walks you along the paths linking Kewzing's gompas and the Bon monastery, through plots of cardamom under alder trees, maize terraces and kitchen gardens. In October and November you may see cardamom being picked and dried in smoky bhatti kilns; in spring, ploughing and planting. Lunch is back at the house or a packed meal on the trail. The afternoon is free to read, help in the kitchen or simply watch the light change across the Rangeet valley.", "meals": "Breakfast, lunch, dinner"},
+    {"day": 3, "title": "Buddha Park, then on to Yangang", "place": "yangang", "overnight": "Yangang", "alt_m": 1400, "drive": "≈ 30 km · 1.5 h plus stops", "text": "Drive 9 km up to Ravangla and visit Buddha Park in the morning light, walking the level paths to the 130 ft statue and the gallery inside its base. Have tea in Ravangla market, then continue around the hill to Yangang, a village of mixed Lepcha, Bhutia and Nepali families below Maenam. Meet your new hosts, eat lunch, and spend the afternoon on a gentle walk through the village with them.", "meals": "Breakfast, lunch, dinner"},
+    {"day": 4, "title": "Yangang village and forest walk", "place": "yangang", "overnight": "Yangang", "alt_m": 1400, "drive": "", "text": "Another day without the car. Walk with your host to the village streams and fields, past orange trees and vegetable terraces, and up into the lower forest on the slopes of Maenam for birdsong and views. Fit walkers can go further on the forest paths with a local guide; others can return for lunch and spend the afternoon in the village, learning how gundruk is fermented or how the family's crops are stored. A last dinner by the stove.", "meals": "Breakfast, lunch, dinner"},
+    {"day": 5, "title": "Yangang to NJP or Bagdogra", "place": "yangang", "overnight": "", "alt_m": 120, "drive": "≈ 130 km · 5 h", "text": "Leave after an early breakfast for the drive down to NJP or Bagdogra, reaching by early afternoon. Buy cardamom, pickle or local tea from your hosts before you go, so the money stays in the village. In the monsoon, slides along NH10 can force a longer route via Kalimpong; book trains or flights after 5 pm.", "meals": "Breakfast"}
+  ],
+  "stays": ["kewzing-village-homestays", "yangang-village-homestays"],
+  "includes": [
+    "2 nights in Kewzing and 2 in Yangang village homestays, twin sharing, with all meals",
+    "Small private car with driver on days 1, 3 and 5, fuel, tolls and parking",
+    "Village walks with your hosts",
+    "Buddha Park entry and Sikkim's ₹50 state fee",
+    "Our phone support during the trip"
+  ],
+  "excludes": [
+    "Train or flight tickets",
+    "A paid local guide for longer forest walks (about ₹800–1,500 a day)",
+    "Bottled drinks, snacks and personal shopping",
+    "Car use on days 2 and 4 (can be added for about ₹2,000 a day)",
+    "Extra costs from road closures or weather"
+  ],
+  "good_to_know": [
+    "Homestay rooms are simple and clean; bathrooms may be shared and hot water may come by bucket.",
+    "Meals are what the family eats; vegetarian food is easy to arrange if you tell us in advance.",
+    "Mobile signal varies by network and Wi-Fi is patchy; download maps and tickets before you leave.",
+    "Indian nationals need no permit; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO.",
+    "In the monsoon NH10 closes after landslides; check current status before you travel."
+  ],
+  "upgrade": "Our value Temi tea and village trip adds a night in the Temi tea estate and swaps to Bon Farmhouse at Kewzing, for about ₹5,000 more per person.",
+  "faqs": [
+    {"q": "What is a homestay in Kewzing like?", "a": "You stay in a clean, simple room in a family home, eat home-cooked meals with the household and join them for walks through fields and to monasteries. Kewzing's homestays are part of a community programme started in 2003, in which a village committee shares guests between families. Expect warmth and good food rather than hotel facilities."},
+    {"q": "Are all meals included?", "a": "Yes. Breakfast, lunch and dinner are included at both homestays from dinner on day 1 to breakfast on day 5, except lunch on travel days, which you buy on the road. Food is home-style rice, dal, vegetables, meat on some days, pickles and local breads."},
+    {"q": "Is Kewzing safe for women and solo travellers?", "a": "Yes. Kewzing and Yangang are small, close-knit villages, and hosts look after their guests. Solo travellers pay a single supplement because the car cost is not shared. As anywhere, tell your host where you are walking and be back before dark."},
+    {"q": "What is the Bon monastery at Kewzing?", "a": "Bon is a Himalayan religious tradition older than Buddhism in Tibet, and Kewzing has one of the few Bon monasteries in Sikkim, alongside Buddhist gompas. Visitors are welcome to walk around it quietly. Ask your host about visiting times and remember to walk counter-clockwise around Bon shrines, the opposite of Buddhist practice."},
+    {"q": "How far is Kewzing from Ravangla?", "a": "About 9 km, roughly 25 minutes by car, on the road towards Legship. Ravangla's Buddha Park and market are an easy outing from Kewzing, and Yangang is on the other side of Ravangla, about an hour from Kewzing."},
+    {"q": "Can children come on a homestay trip?", "a": "Yes. Children usually love farm life, animals and the freedom of a village. Rooms are simple, so bring warm clothes and a torch, and tell us about food preferences. There are no permits for Indian families and no altitude concerns at about 1,400 m."},
+    {"q": "When is the best time for a village homestay?", "a": "October and November for harvest, cardamom drying and clear views, and March to April for planting, flowers and mild weather. Winter is cold but clear. June to September is wet, with leeches on paths and possible road slips."},
+    {"q": "Can we add Temi Tea Garden or Ralang?", "a": "Yes. Ralang Monastery is about 6 km from Ravangla and Temi about 20 km. Either can be added on day 3 between the villages, or with a car on day 4 for about ₹2,000 extra. Tell us when you book."},
+    {"q": "Is there electricity and hot water?", "a": "Yes, the villages have electricity, though power cuts happen, so carry a torch and power bank. Hot water is by geyser or bucket depending on the house. Rooms can be cold in winter; hosts provide heavy blankets."}
+  ]
+}

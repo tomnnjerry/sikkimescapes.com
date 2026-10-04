@@ -1,0 +1,74 @@
+{
+  "slug": "north-sikkim-family-slow-ascent-value-5n",
+  "title": "North Sikkim family trip, slower ascent",
+  "region": "north-sikkim",
+  "tier": "value",
+  "nights": 5,
+  "themes": ["family-holidays", "snow-and-winter", "flowers-and-forests", "monasteries"],
+  "stops": [{"place": "gangtok", "nights": 2}, {"place": "lachung", "nights": 2}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 27000,
+  "price_basis": "per person, twin sharing, 2 people, private Innova throughout, 3-star hotel in Gangtok and a family-friendly Lachung hotel; a family of four in two rooms pays about ₹21,000 each",
+  "price_breakdown": [["Gangtok 3-star hotel, 3 nights with breakfast", 6700], ["Lachung hotel with heater, 2 nights with dinner and breakfast", 4000], ["Reserved Innova for North Sikkim, 2 nights, with permits", 9500], ["Private Innova for transfers and Gangtok sightseeing", 5500], ["Sikkim tourist fee and entry tickets", 300], ["Our planning fee", 1000]],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 3564,
+  "meta_description": "5 nights for families with children over 5 and grandparents: two Gangtok nights first, Lachung and Yumthang by Innova, no 4 am starts, from ₹27,000.",
+  "summary": "North Sikkim planned around the slowest member of the family: two nights in Gangtok before going up, an Innova with proper seats and as many stops as you need, two nights in Lachung with a heated room, and Yumthang Valley after breakfast instead of at dawn. Zero Point is optional, and Gurudongmar is left out.",
+  "intro": [
+    "Most North Sikkim packages are built for fit couples in a hurry. This one is built for families with children over 5 and grandparents. It climbs slowly, with two nights in Gangtok at 1,650 m before Lachung at 2,700 m, and never goes higher to sleep. The highest point is Yumthang Valley at 3,564 m, reached after breakfast, not at 6 am. Zero Point is there if everyone is well and keen, and easy to skip if not. Gurudongmar, at over 5,000 m with a 4 am start, is deliberately left out.",
+    "An Innova, not a Scorpio or a shared Bolero, carries you throughout, with proper seats for older backs and a driver who stops every 90 minutes. In Lachung we choose a hotel on the main road with heated rooms and few stairs. Children under 5 are not permitted in North Sikkim, so this trip is for families whose youngest has turned five; carry ID for every child. Check current status before you travel."
+  ],
+  "highlights": [
+    "Two nights in Gangtok before going up, for a gentle start",
+    "An Innova with comfortable seats and stops every 90 minutes",
+    "Yumthang Valley after breakfast, with snow in winter and flowers in spring",
+    "A heated, family-friendly hotel in Lachung on the main road",
+    "Highest night 2,700 m, highest point 3,564 m, Zero Point optional"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 124 km · 4.5–5 h", "text": "Your driver meets you at Bagdogra Airport or NJP station with an Innova and drives up the Teesta valley through Sevoke and Rangpo to Gangtok, stopping for tea and toilets on the way. In the monsoon, NH10 can close after slides, and the road via Kalimpong or Lava adds time. Check in to your 3-star hotel, where the ₹50 Sikkim tourist fee is collected for everyone over 5. Rest, then a gentle evening on MG Marg, which is traffic-free and easy for children and grandparents.", "meals": "None"},
+    {"day": 2, "title": "Easy Gangtok day", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 30 km · 4–5 h", "text": "A light sightseeing day. Morning at Enchey Monastery, where children can spin the prayer wheels, then the Gangtok ropeway for a view over the town. After lunch, the Namgyal Institute of Tibetology or the flower exhibition centre, both with few steps. Back at the hotel by mid-afternoon for a rest. We collect everyone's ID and photos for the North Sikkim permit today. Pack a small daypack per person with warm layers, snacks, water and medicines for the drive tomorrow.", "meals": "Breakfast"},
+    {"day": 3, "title": "Gangtok to Lachung, with stops", "place": "lachung", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 118 km · 6–7 h", "text": "Leave at 9 am. The day is long, so we break it up: the Seven Sisters Waterfall after an hour, tea at Phodong, lunch at Mangan or Singhik with a view across the Teesta, and the Naga Waterfall near Toong, which the vehicle must pass before 4 pm. From Chungthang the road climbs the Lachung Chu through forest and orchards. Reach Lachung by late afternoon and settle into a heated room. Hire snow boots and coats this evening if Yumthang has snow. Early dinner.", "meals": "Dinner"},
+    {"day": 4, "title": "Yumthang after breakfast", "place": "yumthang-valley", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 48 km return · 4 h", "text": "No dawn start. After a warm breakfast, leave at about 7:30 or 8 am for Yumthang Valley, 24 km up through the Shingba Rhododendron Sanctuary, at 3,564 m. In winter, children can play in the snow; in spring, the slopes are in flower. Keep everyone warm, walk slowly, and watch children for unusual tiredness or crankiness. Zero Point, at about 4,700 m, is optional and paid separately; skip it if anyone feels unwell. Back in Lachung for lunch and a quiet afternoon, with a short walk through the village if energy allows.", "meals": "Breakfast, Dinner"},
+    {"day": 5, "title": "Back to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 118 km · 6 h", "text": "After breakfast, the drive back down the Lachung Chu and the Teesta, with the same unhurried stops: the Naga Waterfall, lunch at Mangan, and tea at Phodong. Reach Gangtok by mid to late afternoon and check back in to your hotel. If the children have energy, MG Marg in the evening has ice cream and toy shops; if not, an early dinner in the hotel. Everyone sleeps well at 1,650 m after two nights higher up.", "meals": "Breakfast"},
+    {"day": 6, "title": "Gangtok to Bagdogra", "place": "gangtok", "overnight": "", "alt_m": 125, "drive": "≈ 124 km · 4.5–5 h", "text": "A relaxed breakfast, then the drive down to Bagdogra Airport or NJP station, with a stop for lunch on the way. Allow 4.5 to 5 hours plus stops, and leave by 7:30 am for a flight before 2 pm. In the monsoon, NH10 can close after slides and the Kalimpong or Lava road adds time. Pack a carry-on with snacks and a change of clothes for the children, because the temperature rises by about 15 °C on the way down.", "meals": "Breakfast"}
+  ],
+  "stays": ["le-coxy-resort-lachung", "fortuna-lachung"],
+  "includes": [
+    "3 nights in a 3-star hotel in Gangtok with breakfast",
+    "2 nights in a heated, family-friendly Lachung hotel with dinner and breakfast",
+    "Private Innova for transfers and Gangtok sightseeing",
+    "Reserved Innova with registered North Sikkim driver for 2 nights",
+    "North Sikkim Protected Area Permit processing",
+    "Sikkim ₹50 tourist fee and monument entry tickets"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Zero Point extension (≈ ₹3,000–4,000 per vehicle)",
+    "Lunches, and dinners in Gangtok",
+    "Snow gear hire, tips, personal expenses and 5 percent GST",
+    "Extra nights if a landslide holds you up north"
+  ],
+  "good_to_know": [
+    "Children under 5 are not permitted in North Sikkim; carry ID for every child aged 5 and above.",
+    "We plan stops every 90 minutes on drive days.",
+    "Tell us about mobility needs; we choose ground or first-floor rooms in Lachung.",
+    "Watch children for listlessness, vomiting or unusual crankiness at altitude.",
+    "A family of four in two rooms pays about ₹21,000 each, as the vehicle is shared four ways.",
+    "Check current status before you travel."
+  ],
+  "upgrade": "Our comfort tier adds a better Gangtok hotel and Le Coxy Resort for both Lachung nights, from about ₹42,000 per person for two.",
+  "faqs": [
+    {"q": "What is the minimum age for this trip?", "a": "Children must be 5 or older, because children under 5 are not permitted in North Sikkim protected areas. Carry Aadhaar, a school ID with photo, a passport or a birth certificate for every child aged 5 and above, plus two passport photos each for the permit."},
+    {"q": "Why is Gurudongmar not included?", "a": "Gurudongmar sits at about 5,183 m and needs a 4 am start from Lachen. That is hard for most children and many seniors, and altitude sickness is harder to spot in young children. Yumthang at 3,564 m gives the same high-valley experience at a kinder height. Families with teenagers can ask about adding Lachen."},
+    {"q": "How much does it cost for a family of four?", "a": "For two adults and two children aged 5 and above in two rooms, about ₹21,000 per person, because the Innova is shared four ways. Children sharing their parents' room with an extra bed pay less. We will quote exactly for your family's ages and room needs."},
+    {"q": "Is the drive to Lachung too long for children?", "a": "It is long, 6 to 7 hours with stops, but we break it into short legs with waterfalls, tea, lunch and toilet stops every 90 minutes. Bring snacks, games and motion sickness tablets. The Innova's comfortable seats and space make a real difference compared with a shared jeep."},
+    {"q": "Will grandparents manage the altitude?", "a": "Most healthy seniors manage Lachung at 2,700 m and Yumthang at 3,564 m well after two nights in Gangtok. Long drives tire them more than altitude. Anyone with heart, lung or blood pressure problems should talk to their doctor first and can stay in Lachung while others visit Yumthang."},
+    {"q": "Is there snow for children to play in?", "a": "From December to March, Yumthang Valley is usually snow-covered and perfect for snow play. In April and May there may be snow higher up towards Zero Point. In October and November, snow is mostly on the peaks. Snow boots and coats can be hired in Lachung for about ₹100–300 an item."},
+    {"q": "What food is available for children?", "a": "Lachung hotels serve simple meals: rice, dal, vegetables, egg, chicken, noodles and soup, which most children enjoy. Bring familiar snacks, biscuits and fruit for the drives. Tell us in advance about vegetarian, Jain or allergy needs, and we will brief the hotel."},
+    {"q": "What if a child feels unwell at Yumthang?", "a": "Tell the driver and come back down to Lachung; most children feel better quickly at lower altitude. Signs to watch for are listlessness, vomiting, unusual crankiness or a child who stops playing. If symptoms are severe or do not improve, we arrange a doctor in Lachung or Chungthang and, if needed, an early return to Gangtok."},
+    {"q": "Can we add a Dzongu homestay?", "a": "Yes. A night with a Lepcha family in Dzongu, at about 1,200 m, between Gangtok and Lachung, is wonderful for children and makes the drive to Lachung shorter. It adds about ₹4,000–5,000 per person for two, including the extra vehicle day and permit."}
+  ]
+}

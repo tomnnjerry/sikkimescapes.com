@@ -1,0 +1,72 @@
+{
+  "slug": "borong-hot-spring-slow-budget-5n",
+  "title": "Borong hot spring slow trip, 5 nights",
+  "region": "south-sikkim",
+  "tier": "budget",
+  "nights": 5,
+  "themes": ["village-homestays", "offbeat-sikkim", "snow-and-winter"],
+  "stops": [{"place": "ravangla", "nights": 2}, {"place": "borong", "nights": 3}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 15000,
+  "price_basis": "per person, twin sharing, 2 people, small private car on travel days, budget hotel with breakfast in Ravangla, Borong homestay with all meals",
+  "price_breakdown": [["Stays, 5 nights (homestay meals included)", 6800], ["Car and driver", 6900], ["Entry fees and state fee", 200], ["Our planning fee", 1100]],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "5 slow nights: Ravangla's Buddha Park and Ralang, then 3 nights in a Borong homestay with walks to the winter hot spring on the Rangeet. From ₹15,000 per person.",
+  "summary": "A winter trip for people who like to stay put: two nights in Ravangla for Buddha Park and Ralang, then three nights with a farming family at Borong, about 1,770 m, with walks down to Borong Tsachu, the sulphur hot spring on the Rangeet that local families visit from December to February. Home food, wide views, almost no driving.",
+  "intro": [
+    "Borong is a scattered farming village about 5 km beyond Ralang Monastery, with a front-row view of the Kangchenjunga range, Pandim and Narsing on clear mornings. Below it, on the bank of the Rangeet, warm sulphur water collects in simple pools. This is Borong Tsachu, the hot spring that families from across South Sikkim visit in winter, when the river is low, sometimes camping beside it for days and cooking for themselves. Many believe the water eases skin complaints and aching joints.",
+    "We built this trip for slow travellers in the cold, clear months. You spend two nights in Ravangla to see Buddha Park and Ralang, then move to a Borong homestay for three nights with all meals included, with nothing to do but walk to the spring, explore the farm paths and watch the light on the peaks. The car is used only for the transfers."
+  ],
+  "highlights": [
+    "Walks down to Borong Tsachu, the winter hot spring on the Rangeet",
+    "Three unhurried nights with a farming family at about 1,770 m",
+    "Kangchenjunga, Pandim and Narsing from the village on clear mornings",
+    "Buddha Park and Ralang Monastery from Ravangla",
+    "Clear, dry December to February weather and low season prices"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Ravangla", "place": "ravangla", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 125 km · 4.5–5 h", "text": "Pick-up at NJP or Bagdogra in the morning for the drive up the Teesta through Sevoke and Melli, then via Namchi and Damthang to Ravangla. Stop for lunch on the way. Check in at your budget hotel by mid-afternoon and take a short walk along the market street. Winter evenings in Ravangla fall close to freezing, so have your warm layers ready. Hotels collect Sikkim's ₹50 per person state fee.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Buddha Park and Ravangla walks", "place": "buddha-park-ravangla", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 10 km · local", "text": "Look out for the Kangchenjunga range at first light, often at its clearest in December and January. After breakfast, walk the 1 km to Buddha Park and spend the morning on its level paths and in the gallery inside the 130 ft statue. Visit the older Rabong monastery nearby. In the afternoon, take an easy walk on the lanes towards Kewzing or along the edge of the Maenam forest, or rest at the hotel in the winter sun.", "meals": "Breakfast"},
+    {"day": 3, "title": "Ralang Monastery, then to Borong", "place": "borong", "overnight": "Borong", "alt_m": 1770, "drive": "≈ 17 km · 1 h", "text": "Drive down to Ralang Monastery for morning prayers and its thangkas, and visit the older gompa nearby. If it is December, ask about the Kagyed or Mahakala dances, which usually fall this month. Continue about 5 km to Borong and meet your host family. After lunch, walk through the village and its fields with your host, and watch the sun set over the hills of Gyalshing district across the Rangeet.", "meals": "Breakfast, lunch, dinner"},
+    {"day": 4, "title": "Down to Borong Tsachu", "place": "borong", "overnight": "Borong", "alt_m": 1770, "drive": "", "text": "After breakfast, walk down with your host or a village guide to the hot spring on the Rangeet, about 45 minutes on a footpath. Spend an hour or two at the pools: bathe in modest clothing, use no soap, and stay in the warm water for short spells. In winter you will find local families camping in temporary huts and cooking by the river. Walk back up slowly, about an hour and a half, for a late lunch. Evening by the stove.", "meals": "Breakfast, lunch, dinner"},
+    {"day": 5, "title": "A free day in Borong", "place": "borong", "overnight": "Borong", "alt_m": 1770, "drive": "", "text": "A day to do as you please. Go back to the hot spring, take a level walk along the farm paths, join your hosts at work in the fields or in the kitchen making sel roti, or simply sit in the sun with a book and the peaks in front of you. Fitter walkers can go further along the slope with a guide. On clear evenings, the stars over Borong are reason enough for a third night.", "meals": "Breakfast, lunch, dinner"},
+    {"day": 6, "title": "Borong to NJP or Bagdogra", "place": "borong", "overnight": "", "alt_m": 120, "drive": "≈ 140 km · 5–5.5 h", "text": "Leave after an early breakfast for the long drive down via Ravangla, Namchi and Melli to NJP or Bagdogra, arriving by mid-afternoon. Buy oranges, cardamom or pickle from your hosts before you go. Book trains or flights after 5 pm on this day.", "meals": "Breakfast"}
+  ],
+  "stays": ["borong-village-homestays"],
+  "includes": [
+    "2 nights in a Ravangla budget hotel with breakfast and 3 nights in a Borong homestay with all meals, twin sharing",
+    "Small private car with driver on days 1, 2 (local), 3 and 6, fuel, tolls and parking",
+    "Village guide for the hot spring walk on day 4",
+    "Buddha Park entry and Sikkim's ₹50 state fee",
+    "Our phone support during the trip"
+  ],
+  "excludes": [
+    "Lunch and dinner in Ravangla (about ₹500–700 per person a day)",
+    "Train or flight tickets",
+    "Towels and bathing gear for the hot spring",
+    "Tips and personal expenses",
+    "Extra costs from road closures or weather"
+  ],
+  "good_to_know": [
+    "The hot spring is usable from about December to February, when the Rangeet is low; in other months the pools may be flooded. Check current status before you travel.",
+    "The walk back up from the spring is steep and takes about 1.5 hours; it is not suitable for anyone who cannot manage a steady climb.",
+    "Anyone with heart conditions, high blood pressure or pregnancy should ask a doctor before bathing in hot water.",
+    "Homestay rooms are simple and cold at night in winter; hosts provide heavy blankets.",
+    "Indian nationals need no permit; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO."
+  ],
+  "upgrade": "A comfort version uses The Barfung Retreat at Ravangla and a private SUV, keeping the Borong homestay, for about ₹8,000 more per person.",
+  "faqs": [
+    {"q": "When is Borong hot spring open?", "a": "In practice from about December to February, when the Rangeet is low and the riverside pools are usable. In the monsoon the river floods them, and by April the valley is hot. Conditions change from year to year, so check current status before you travel. This trip is priced and planned for winter."},
+    {"q": "How hard is the walk to Borong hot spring?", "a": "The walk down takes about 45 minutes on a footpath, and the climb back up about 1.5 hours. It is steady and steep in places, fine for most active adults and older children, but not for anyone with knee or heart problems who cannot manage a climb."},
+    {"q": "Is the Borong hot spring water good for health?", "a": "Many people in Sikkim believe the warm sulphur water helps skin complaints and aching joints, and families come for days in winter. That is local belief, not medical advice. If you have heart conditions, high blood pressure or are pregnant, ask your doctor before bathing in hot water."},
+    {"q": "What is the Borong homestay like?", "a": "A simple, clean room in a farming family's home in upper Borong, at about 1,770 m, with home-cooked meals and views of Kangchenjunga, Pandim and Narsing on clear days. Bathrooms may be shared and hot water may come by bucket. It is warm in spirit but basic in facilities."},
+    {"q": "Why three nights in Borong?", "a": "So you can go to the spring more than once without rushing, and have a whole day with nothing planned. Borong rewards slow travel: the morning views, the farm work and the stars at night are the point. Two nights is possible if your time is short."},
+    {"q": "Is it very cold in Borong and Ravangla in winter?", "a": "Yes at night. Ravangla falls near freezing in January, and Borong, a little lower at about 1,770 m, is only slightly milder. Days are often sunny and pleasant. Bring a warm jacket, thermals, a woollen cap and warm socks."},
+    {"q": "Can we see the Ralang masked dances on this trip?", "a": "Possibly, if you travel in December. Ralang's Kagyed and Mahakala dances fall on the 28th and 29th days of the tenth Tibetan month, usually in December. Dates change every year; tell us and we will time day 3 for them if we can."},
+    {"q": "Is there mobile network in Borong?", "a": "Coverage varies by network and position on the slope, and is weaker than in Ravangla. Wi-Fi is patchy. Download what you need in Ravangla, and let family know you may be offline for a few hours at a time."},
+    {"q": "Can we do this trip outside winter?", "a": "Yes, as a village stay, though the hot spring may not be usable. October, November and March to April are good months for Borong's farms, walks and views. We would shorten Borong to two nights and add Temi Tea Garden instead."}
+  ]
+}

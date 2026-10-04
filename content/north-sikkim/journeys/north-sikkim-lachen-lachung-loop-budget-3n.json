@@ -1,0 +1,72 @@
+{
+  "slug": "north-sikkim-lachen-lachung-loop-budget-3n",
+  "title": "Lachen, Gurudongmar and Lachung loop",
+  "region": "north-sikkim",
+  "tier": "budget",
+  "nights": 3,
+  "themes": ["lakes-and-passes", "snow-and-winter", "flowers-and-forests"],
+  "stops": [{"place": "lachen", "nights": 2}, {"place": "lachung", "nights": 1}],
+  "start": "Gangtok",
+  "end": "Gangtok",
+  "price_from_inr": 10500,
+  "price_basis": "per person, twin sharing, seat in a small-group North Sikkim SUV (up to 6), budget lodges with dinner and breakfast",
+  "price_breakdown": [["Small-group SUV seat for the 3-night loop, with permits", 5000], ["Lachen lodge, 2 nights with dinner and breakfast", 2800], ["Lachung lodge, 1 night with dinner and breakfast", 1400], ["Sikkim tourist fee and local entry fees", 200], ["Our planning fee", 1100]],
+  "best_months": [0, 0, 1, 1, 2, 1, 0, 0, 0, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 5183,
+  "meta_description": "3 nights from Gangtok: Lachen, Gurudongmar Lake at dawn, then Lachung and Yumthang, in a small-group SUV with permits and meals, from ₹10,500.",
+  "summary": "Both North Sikkim valleys in four days for a budget: two nights in Lachen so you are better rested before Gurudongmar Lake at about 5,183 m, then across to Lachung for Yumthang Valley on the last morning. You share a registered SUV with a small group, and permits, lodges and meals are covered.",
+  "intro": [
+    "Most cheap North Sikkim loops squeeze Lachen, Gurudongmar, Lachung and Yumthang into two nights, which means a 9 to 10 hour day in the middle. We add one night in Lachen. It costs a little more, but you come back from the lake to a warm lodge and an afternoon's rest instead of crossing straight to Lachung, and you see Yumthang fresh on the final morning. The vehicle is a registered North Sikkim SUV shared by up to six travellers, so the price stays within reach.",
+    "This is an Indian nationals' trip, because Gurudongmar Lake is closed to foreigners, and it suits fit adults who sleep reasonably well at altitude. It is not right for children under 5, who are not permitted in North Sikkim, or for anyone with heart or lung conditions. Spend at least one night in Gangtok before you start. The Lachen road reopened in September 2026 after a long closure, so check current status before you travel."
+  ],
+  "highlights": [
+    "Gurudongmar Lake at about 5,183 m, sacred to Buddhists and Sikhs, reached at dawn",
+    "Thangu and the high plateau above the tree line on the way to the lake",
+    "A rest afternoon in Lachen instead of a 10-hour day",
+    "Yumthang Valley at 3,564 m on the final morning",
+    "Both North Sikkim valleys for about ₹10,500 per person"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Lachen", "place": "lachen", "overnight": "Lachen", "alt_m": 2750, "drive": "≈ 125 km · 6–7 h", "text": "Meet the vehicle in Gangtok at 9 am with your ID; we file the permit the evening before. The North Sikkim highway runs past Kabi Lungchok, the Seven Sisters Waterfall and Phodong to Mangan for lunch, at your own cost, with views across the Teesta to Dzongu. Cross the Toong check post before 4 pm, then Chungthang, where the Lachen and Lachung rivers meet. The last stretch climbs the Lachen gorge over the single-lane Bailey bridge at Taram Chu. Reach Lachen by late afternoon, drink plenty of water, eat an early dinner and sleep.", "meals": "Dinner"},
+    {"day": 2, "title": "Gurudongmar Lake at dawn", "place": "gurudongmar-lake", "overnight": "Lachen", "alt_m": 2750, "drive": "≈ 134 km return · 6–7 h", "text": "Leave Lachen at about 4 to 5 am with a packed breakfast. Tea at Thangu, about 3,900 m, as the light comes up, then across the high plateau to Gurudongmar Lake, 67 km from Lachen, at about 5,183 m. Spend 20 to 30 minutes at the shore, walking slowly; the air holds roughly half the oxygen of sea level. Turn back at once if anyone has a worsening headache or breathlessness. Back in Lachen by late morning for lunch and a long rest, then an easy walk to Lachen Monastery in the afternoon if you feel well. Early dinner.", "meals": "Breakfast, Dinner"},
+    {"day": 3, "title": "Across the valleys to Lachung", "place": "lachung", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 50 km · 2.5–3 h", "text": "A relaxed morning, then down the Lachen gorge to Chungthang and up the Lachung Chu to Lachung, about 2.5 to 3 hours. Arrive for lunch and spend the afternoon walking among the wooden houses and apple orchards, or climb to Lachung Monastery across the river. Lachung, like Lachen, runs its affairs through a traditional council called the Dzumsa, and its rules on plastic apply to visitors too, so keep your refillable bottle handy. Hire snow boots and a coat in the evening if Yumthang has snow. Dinner at the lodge.", "meals": "Breakfast, Dinner"},
+    {"day": 4, "title": "Yumthang Valley and back to Gangtok", "place": "yumthang-valley", "overnight": "", "alt_m": 1650, "drive": "≈ 48 km return, then ≈ 118 km · 8–9 h in all", "text": "Leave Lachung at 6 am for Yumthang Valley, 24 km up through the Shingba Rhododendron Sanctuary, at 3,564 m. An hour among the meadows and the hot spring by the river, with Zero Point as a paid optional extra if the group agrees and the road is open. Back to Lachung for breakfast and checkout by about 10 am, then the long drive to Gangtok, with a lunch stop near Mangan at your own cost. Reach Gangtok by early evening. We suggest staying another night in Gangtok rather than travelling on to Bagdogra the same day.", "meals": "Breakfast"}
+  ],
+  "stays": ["lachen-homestays", "lachung-homestays"],
+  "includes": [
+    "Seat in a registered North Sikkim SUV shared by up to six travellers for the whole loop",
+    "North Sikkim Protected Area Permit processing for Lachen, Gurudongmar and Lachung",
+    "2 nights in a budget lodge or homestay in Lachen with dinner and breakfast",
+    "1 night in a budget lodge or homestay in Lachung with dinner and breakfast",
+    "Packed breakfast on the Gurudongmar morning",
+    "Sikkim ₹50 tourist fee"
+  ],
+  "excludes": [
+    "Gangtok hotels before and after, and transfers from Bagdogra or NJP",
+    "Zero Point extension (≈ ₹3,000–4,000 per vehicle, shared)",
+    "Lunches, snow gear hire and portable oxygen cans",
+    "Tips, personal expenses and 5 percent GST",
+    "Extra nights if a landslide holds the vehicle up north"
+  ],
+  "good_to_know": [
+    "Gurudongmar is open to Indian nationals only; foreigners cannot book this trip.",
+    "Children under 5 are not permitted in North Sikkim.",
+    "Spend at least one night in Gangtok (1,650 m) before day 1.",
+    "Vehicles must cross the Toong check post by 4 pm on day 1.",
+    "The Taram Chu bridge is single-lane; expect short waits.",
+    "Lachen reopened in September 2026 after closures. Check current status before you travel."
+  ],
+  "upgrade": "Our value tier gives you a private Scorpio and standard lodges for the same loop, from about ₹17,000 per person for two.",
+  "faqs": [
+    {"q": "Why two nights in Lachen?", "a": "The extra night means you come back from Gurudongmar to a rest afternoon in Lachen instead of driving on to Lachung the same day, which can make a 9 to 10 hour day. You also sleep a second night at 2,750 m, which helps the body adjust. It costs about ₹2,000 per person more than the 2-night rush."},
+    {"q": "Can foreigners join this trip?", "a": "No. Gurudongmar Lake is closed to foreign nationals, and access to Lachen and Thangu for foreigners has been unclear in 2026. Foreign groups of two or more can visit Lachung, Yumthang and Zero Point with a Protected Area Permit, so ask us for a Lachung-only version of this trip."},
+    {"q": "How high is Gurudongmar Lake?", "a": "Most signs give about 5,183 m (17,000 ft); the Sikkim government quotes 5,430 m. Either way, it is far higher than Lachen at 2,750 m, and you gain the height in about three hours. Stay 20 to 30 minutes, walk slowly and turn back if a headache worsens or anyone becomes breathless at rest."},
+    {"q": "Is this trip safe for seniors?", "a": "Healthy, active seniors who have spent a night in Gangtok often manage it, but the shared vehicle, the 4 am start and the altitude make it demanding. We suggest seniors choose a private-vehicle version with a slower plan, and talk to their doctor about Gurudongmar. Anyone with heart or lung conditions should skip the lake."},
+    {"q": "What if the Lachen road is closed when I arrive?", "a": "If Lachen permits are suspended, we switch you to a 3-night Lachung trip with Yumthang and Zero Point at no extra cost, or refund the difference. If all North Sikkim permits stop, we refund the North Sikkim portion or move your dates. The Lachen road reopened in September 2026 and remains fragile in heavy rain."},
+    {"q": "When is the best time for Gurudongmar?", "a": "May, October and November are the most reliable months, with clear skies and open roads. The lake is frozen from about November to mid-May, which many visitors find beautiful. December to March brings heavy snow that can close the road beyond Thangu. July to September carries a high risk of landslides."},
+    {"q": "What does the small-group SUV mean?", "a": "You share a registered North Sikkim SUV, usually a Scorpio, Bolero or Xylo, with up to six travellers on the same loop. It keeps the price down while keeping the group small. If you are four to six friends, you can take the whole vehicle for yourselves at a similar per-person price."},
+    {"q": "Should I carry oxygen?", "a": "Many drivers carry a small portable oxygen can, and you can buy one in Gangtok or Lachen for a few hundred rupees. It can make a few minutes at the lake more comfortable, but it does not treat altitude sickness. The real protection is acclimatisation, plenty of water, a slow pace and turning back early if unwell."},
+    {"q": "What are the lodges like in Lachen?", "a": "Simple. Lachen has fewer lodges than Lachung and some were still reopening after the long road closure. Expect a basic room, heavy blankets, hot water by bucket, and a set dinner and breakfast. Some trips use a Lachenpa family homestay instead. Bring warm sleepwear, because nights drop close to freezing for much of the year."}
+  ]
+}

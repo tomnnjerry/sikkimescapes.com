@@ -1,0 +1,70 @@
+{
+  "slug": "south-sikkim-pilgrim-budget-3n",
+  "title": "South Sikkim pilgrim circuit, 3 nights",
+  "region": "south-sikkim",
+  "tier": "budget",
+  "nights": 3,
+  "themes": ["monasteries", "family-holidays", "crafts-and-culture"],
+  "stops": [{"place": "namchi", "nights": 2}, {"place": "ravangla", "nights": 1}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 10500,
+  "price_basis": "per person, twin sharing, 2 people, small private car (Alto/WagonR class), budget hotels with breakfast",
+  "price_breakdown": [["Stays, 3 nights", 3000], ["Car and driver, 4 days", 6750], ["Entry fees and state fee", 300], ["Our planning fee", 450]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "3 nights on South Sikkim's pilgrim trail: Char Dham, Samdruptse, Buddha Park and Ralang Monastery. Private small car, budget hotels. From ₹10,500 per person.",
+  "summary": "Sikkim's four great southern shrines in three easy nights: the Char Dham complex and the Samdruptse Guru Rinpoche at Namchi, then the 130 ft Buddha at Ravangla and the Kagyu monastery at Ralang. Short drives, early visits for quiet and good light, clean budget hotels and a small private car throughout.",
+  "intro": [
+    "In 2004, 2011 and 2013, the Sikkim government completed three of the largest religious monuments in the eastern Himalaya, all in the south: the 135 ft Guru Padmasambhava statue at Samdruptse, the Siddheshwar Dham or Char Dham at Solophok with its giant Shiva and replicas of India's four dhams and twelve jyotirlingas, and the 130 ft Buddha at Tathagata Tsal in Ravangla, consecrated by the Dalai Lama in March 2013. Add Ralang, a Kagyu monastery founded in 1768, and you have a pilgrim trail that covers both of Sikkim's great faiths within 40 km.",
+    "This budget circuit visits each at the best hour: Char Dham at 8 am, Samdruptse in the afternoon, Buddha Park in the soft light after 3 pm and Ralang during morning prayers. It suits families travelling with parents, pilgrims who want time for darshan rather than hours in the car, and anyone curious about how Hindu and Buddhist Sikkim sit side by side."
+  ],
+  "highlights": [
+    "Char Dham's four dham replicas and twelve jyotirlingas in one morning",
+    "The 135 ft Guru Padmasambhava at Samdruptse, patron saint of Sikkim",
+    "Buddha Park's 130 ft statue and its gallery on the Buddha's life",
+    "Morning prayers at Ralang Monastery, with its thangka collection",
+    "A night at Ravangla, facing the Kangchenjunga range"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Namchi", "place": "namchi", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 100 km · 3.5–4 h", "text": "Pick-up at NJP or Bagdogra in the morning and the drive up the Teesta valley through Sevoke and Melli to Namchi. Check in by early afternoon and rest. Late in the afternoon, drive the short way to Ngadak monastery, one of the older gompas in the south, to hear the evening prayers, then walk around Namchi's central plaza. Hotels collect Sikkim's ₹50 per person state fee at check-in.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Char Dham and Samdruptse", "place": "char-dham-solophok", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 30 km in short hops · local", "text": "Leave at 7.30 am for Char Dham on Solophok hill, about 5 km away. Arrive near opening time and take two to three hours for the Shiva statue, the replicas of Badrinath, Dwarka, Puri and Rameswaram, the twelve jyotirlingas and the Kirateshwar shrine; vegetarian food is available on site. Rest after lunch, then drive up the ridge to Samdruptse and walk the short path to the Guru Padmasambhava statue, with the town spread below. Stop at Namchi Rock Garden on the way back.", "meals": "Breakfast"},
+    {"day": 3, "title": "Ralang Monastery and Buddha Park", "place": "buddha-park-ravangla", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 40 km · 1.5–2 h with stops", "text": "Drive an hour up to Ravangla and on 6 km to Ralang Monastery, arriving for late-morning prayers. Walk through the main hall and its thangkas, then visit the older Karma Rabtenling gompa nearby. Return to Ravangla for lunch and check in. At about 3 pm, walk or drive the 1 km to Buddha Park, where the paths are almost level and the 130 ft statue catches the warm afternoon light. The gallery inside its base tells the life of the Buddha in paintings.", "meals": "Breakfast"},
+    {"day": 4, "title": "Ravangla to NJP or Bagdogra", "place": "ravangla", "overnight": "", "alt_m": 120, "drive": "≈ 125 km · 4.5–5 h", "text": "Watch for the Kangchenjunga range at sunrise from Ravangla, then leave after breakfast for the drive down via Namchi and Melli to NJP or Bagdogra, arriving by early afternoon. In the monsoon, slides on NH10 can force a detour via Kalimpong; book departures after 5 pm on this day.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "2 nights in Namchi and 1 in Ravangla, budget hotels, twin sharing, with breakfast",
+    "Small private car with driver for four days, fuel, tolls and parking",
+    "Char Dham and Buddha Park entry, Sikkim's ₹50 state fee",
+    "Temple and monastery timings planned for quiet visits",
+    "Our phone support during the trip"
+  ],
+  "excludes": [
+    "Lunch and dinner (about ₹500–700 per person a day)",
+    "Puja offerings and donations",
+    "Train or flight tickets",
+    "Camera fees and Samdruptse entry",
+    "Tips and personal expenses"
+  ],
+  "good_to_know": [
+    "Char Dham has many steps between levels; rest at the covered benches and skip the upper platforms if needed.",
+    "Dress modestly at all four sites, remove shoes where asked, and walk clockwise around Buddhist shrines.",
+    "Ask before photographing monks or rituals; some halls do not allow photography.",
+    "Indian nationals need no permit; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO.",
+    "Monsoon landslides close NH10 at times; check current status before you travel."
+  ],
+  "upgrade": "Our value senior pilgrim trip adds two nights, a night in Gangtok for Enchey and Rumtek, and better hotels for about ₹13,000 more per person.",
+  "faqs": [
+    {"q": "Which temples and monasteries does this trip cover?", "a": "Char Dham (Siddheshwar Dham) on Solophok hill, the Guru Padmasambhava statue at Samdruptse, Ngadak monastery in Namchi, Buddha Park (Tathagata Tsal) at Ravangla and Ralang Monastery. Together they cover Sikkim's Hindu and Buddhist pilgrim sites in the south, all within about 40 km."},
+    {"q": "Is three nights enough for the pilgrim circuit?", "a": "Yes, for the four main sites at an easy pace. Each gets a good slot at the right time of day, with afternoon rest. If you are travelling with elderly parents or want to add Temi Tea Garden, our five-night value pilgrim trip is gentler."},
+    {"q": "Can elderly parents manage Char Dham?", "a": "Usually yes, at a slow pace. The complex is large and has many steps between levels, but covered benches are spread throughout and the driver can drop you close to the entrance. Visit early, around 8 am, before the crowds and midday sun, and skip the upper platforms if knees are weak."},
+    {"q": "What are the timings at Char Dham and Buddha Park?", "a": "Char Dham has generally opened around 8 am and closed around 6 pm; Buddha Park around 9 am to 5.30–6 pm. Entry is about ₹50 at each for Indian nationals. Timings and fees change, so check current status before you travel. We plan visits around them."},
+    {"q": "Is vegetarian food available?", "a": "Yes, easily. Char Dham has simple vegetarian food on site, and Namchi has many pure-vegetarian restaurants that cater to pilgrims from the plains. Ravangla hotels serve vegetarian meals on request. Jain food can be arranged with notice."},
+    {"q": "Do we need any permit for these sites?", "a": "Indian nationals need no permit for any site on this circuit. Foreign nationals need Sikkim's Restricted Area Permit, applied for online via e-FRRO, which covers South Sikkim. Hotels collect a ₹50 per person state fee once per 30 days."},
+    {"q": "When are the masked dances at Ralang?", "a": "Ralang holds cham dances at Pang Lhabsol, usually late August or September, and the Kagyed and Mahakala dances on the 28th and 29th days of the tenth Tibetan month, usually in December. Dates follow the lunar calendar; tell us if you want to time your trip for them."},
+    {"q": "Can we do this trip from Gangtok?", "a": "Yes. We can start in Gangtok (about 3 hours to Namchi) and end at NJP or Bagdogra, or the reverse, for a similar price. Ending in Gangtok adds a chance to see Enchey and Rumtek monasteries."},
+    {"q": "What is the best season for the pilgrim circuit?", "a": "October to May. October to December give the clearest views of the statues against the snow peaks; March to May are mild with flowers. The sites stay open in the monsoon, but rain, cloud and road closures make travel harder."}
+  ]
+}

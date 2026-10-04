@@ -1,0 +1,72 @@
+{
+  "slug": "south-sikkim-senior-pilgrim-value-5n",
+  "title": "Pilgrim circuit for seniors, 5 nights",
+  "region": "south-sikkim",
+  "tier": "value",
+  "nights": 5,
+  "themes": ["monasteries", "family-holidays", "food-and-tea"],
+  "stops": [{"place": "namchi", "nights": 2}, {"place": "ravangla", "nights": 2}, {"place": "gangtok", "nights": 1}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 24000,
+  "price_basis": "per person, twin sharing, 2 people, private car (Dzire/Etios class), 3-star hotels with breakfast, low-floor rooms on request",
+  "price_breakdown": [["Stays, 5 nights", 11000], ["Car and driver, 6 days", 10000], ["Entry fees and state fee", 500], ["Our planning fee", 2500]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "5 gentle nights for senior pilgrims: Char Dham, Samdruptse, Buddha Park, Ralang, Temi and Gangtok's Enchey. Late starts, rest days. From ₹24,000 per person.",
+  "summary": "South Sikkim's Hindu and Buddhist shrines at a pace built for older travellers: two nights each in Namchi and Ravangla and a last night in Gangtok, one main visit a day, no early starts except Char Dham, low-floor rooms requested, and drives of about an hour between bases until the final day.",
+  "intro": [
+    "Many of our guests over 65 want to see Sikkim's great shrines but worry about steep steps, long drives and cold nights. This trip answers those worries. It visits Char Dham and Samdruptse from Namchi, Buddha Park and Ralang from Ravangla, stops at the Temi tea estate on the way to Gangtok, and ends with Enchey Monastery in the capital, one of its oldest. Every hotel is chosen for warm rooms, easy access and kitchens that will cook simple, low-spice food.",
+    "The altitudes are moderate: Namchi at 1,315 m, Ravangla and Gangtok at about 1,650–2,100 m, all below the height where most people feel the thin air. There are no permits for Indian travellers. Each day has one main visit, usually in the morning, and the afternoon is for rest or a short, level walk. Your driver drops you as close to each entrance as the rules allow."
+  ],
+  "highlights": [
+    "Char Dham's four dham replicas and twelve jyotirlingas, visited at a gentle pace",
+    "The Guru Padmasambhava statue at Samdruptse, a short paved walk from the car",
+    "Buddha Park's level paths and the gallery inside the 130 ft statue",
+    "Ralang Monastery and a stop at the Temi tea estate",
+    "Enchey Monastery in Gangtok before the drive home"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Namchi", "place": "namchi", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 100 km · 3.5–4 h", "text": "Your driver meets you at NJP or Bagdogra in the morning, helps with luggage, and drives up the Teesta valley through Sevoke and Melli, with tea and toilet stops every hour or so. Check in at a 3-star hotel in Namchi by early afternoon; we request a low-floor room or one near a lift. Rest for the afternoon. A short evening walk on the level central plaza is optional. Hotels collect Sikkim's ₹50 per person state fee.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Char Dham at a gentle pace", "place": "char-dham-solophok", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 15 km · local", "text": "The one early start of the trip: arrive at Char Dham near opening time, around 8 am, when the air is cool and the platforms are quiet. Take three hours for darshan at the Shiva statue, the replicas of Badrinath, Dwarka, Puri and Rameswaram and the twelve jyotirlingas, resting at the covered benches between levels; skip the upper platforms if your knees prefer. Vegetarian lunch is available on site or back in town. Rest at the hotel through the afternoon.", "meals": "Breakfast"},
+    {"day": 3, "title": "Samdruptse, then up to Ravangla", "place": "samdruptse", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 35 km · 1.5 h with stops", "text": "After a late breakfast, drive up the ridge to Samdruptse, where a short paved path with a few flights of steps leads to the 135 ft statue of Guru Padmasambhava, Sikkim's patron saint. Then continue an hour up to Ravangla and check in for lunch. Rest, and in the late afternoon drive the 1 km to Buddha Park for a first look at the 130 ft statue in warm light, along almost level paths. Ravangla is cooler; the hotel provides a heater or extra blankets.", "meals": "Breakfast"},
+    {"day": 4, "title": "Ralang Monastery and Buddha Park", "place": "ralang-monastery", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 15 km · local", "text": "Watch for the Kangchenjunga range from your window at sunrise. Mid-morning, drive 6 km to Ralang Monastery, where the car stops near the courtyard; sit in the main hall during prayers and see the thangkas. Return for lunch and rest. In the afternoon, go back to Buddha Park at an easy pace to see the gallery inside the statue's base, which tells the Buddha's life in paintings, and the older Rabong monastery beside it.", "meals": "Breakfast"},
+    {"day": 5, "title": "Temi tea estate and on to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 85 km · 3.5–4 h with stops", "text": "Leave after breakfast for Temi Tea Garden, about an hour away. Walk a short, gentle stretch of the estate road among the tea rows, with the car waiting, then taste and buy tea at the outlet. Continue via Singtam to Gangtok, arriving mid-afternoon. Check in and rest. In the evening, MG Marg, Gangtok's level, traffic-free main street, is an easy stroll with benches, shops and cafés.", "meals": "Breakfast"},
+    {"day": 6, "title": "Enchey Monastery and home", "place": "enchey", "overnight": "", "alt_m": 125, "drive": "≈ 125 km · 4.5–5 h", "text": "Visit Enchey Monastery, on a ridge above Gangtok, at around 8 am, when the monks are at morning prayers and the courtyard is quiet; the car parks close by. Leave Gangtok by 9.30 am for the drive down the Teesta via Rangpo and Sevoke to Bagdogra or NJP, arriving by mid-afternoon. In the monsoon, NH10 can be closed by slides and the detour via Kalimpong adds hours; book flights or trains after 5 pm.", "meals": "Breakfast"}
+  ],
+  "stays": ["mt-narsing-village-resort-ravangla"],
+  "includes": [
+    "2 nights in Namchi, 2 at Mt. Narsing Village Resort near Ravangla and 1 in Gangtok, 3-star class, twin sharing, with breakfast",
+    "Low-floor or lift-access rooms requested at every hotel",
+    "Private car (Dzire/Etios class) with an experienced driver for six days, fuel, tolls and parking",
+    "Char Dham and Buddha Park entry, Sikkim's ₹50 state fee",
+    "Our phone support throughout"
+  ],
+  "excludes": [
+    "Lunch and dinner (about ₹700–1,200 per person a day)",
+    "Puja offerings and donations",
+    "Train or flight tickets",
+    "Wheelchair hire (can be arranged in Gangtok on request)",
+    "Tips and personal expenses"
+  ],
+  "good_to_know": [
+    "Altitudes stay between about 1,300 and 2,100 m; consult your doctor if you have heart or lung conditions.",
+    "Carry prescriptions and enough medicine for the whole trip plus a few days.",
+    "Namchi has a district hospital; Gangtok has the state's main hospitals.",
+    "Indian nationals need no permit; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO.",
+    "NH10 closes after monsoon landslides; check current status before you travel."
+  ],
+  "upgrade": "The comfort version uses Sobralia in Namchi, which has a lift, and The Barfung Retreat at Ravangla with a private SUV, for about ₹14,000–18,000 more per person.",
+  "faqs": [
+    {"q": "Is this trip suitable for people over 70?", "a": "Yes, for most healthy travellers over 70. Each day has one main visit and afternoon rest, the altitudes are moderate, and drives between bases are about an hour until the last day. Char Dham has steps, but there are benches throughout and upper platforms can be skipped. Check with your doctor if you have heart or lung conditions."},
+    {"q": "How many steps are there at Char Dham?", "a": "The complex is large and spread over several levels joined by steps and ramps, so expect a fair amount of climbing if you see everything. Covered benches are spread throughout. Many seniors see the main Shiva statue and some shrines, rest, and skip the highest platforms, which is perfectly fine."},
+    {"q": "Will the hotels have lifts?", "a": "Some do and some do not. Hill hotels are often built on slopes with stairs. We request low-floor or lift-access rooms at every hotel and confirm what is available before you pay. If stairs are a serious difficulty, the comfort version includes Namchi's Sobralia, which has a lift."},
+    {"q": "Is the food suitable for older travellers?", "a": "Yes. Hotels serve dal, rice, chapati, vegetables and soups, and will cook low-spice, low-salt or soft food such as khichdi on request. Pure-vegetarian restaurants are common in Namchi. Tell us about any diet when you book so we can inform the hotels."},
+    {"q": "Why end in Gangtok?", "a": "Ending in Gangtok breaks the return into two shorter days, lets you visit Enchey Monastery, and gives an evening on MG Marg, Gangtok's level, traffic-free main street. Bagdogra is about 4.5–5 hours from Gangtok, similar to the drive from Ravangla."},
+    {"q": "Is medical help available on the way?", "a": "Yes. Namchi has a district hospital and pharmacies, Ravangla has a health centre, and Gangtok has the state's main hospitals. Your driver knows where they are. Carry prescriptions, a list of your medicines and travel insurance details."},
+    {"q": "Is it cold for seniors?", "a": "Ravangla is the coldest stop, near freezing at night in January and about 10 °C on May evenings. Hotels provide heaters or heavy blankets. Pack a warm jacket, cap and socks in every season, and thermals from December to February."},
+    {"q": "Can we add Rumtek Monastery?", "a": "Yes, with an extra night in Gangtok. Rumtek, the seat of the Karma Kagyu school in Sikkim, is about 24 km from Gangtok, roughly an hour each way. An extra Gangtok night with Rumtek costs about ₹4,000–5,000 more per person."},
+    {"q": "Do foreigners need special permits?", "a": "Foreign nationals need Sikkim's Restricted Area Permit, applied for online via e-FRRO after arriving in India, which covers every stop on this trip. Indian nationals need no permit. Hotels collect a ₹50 per person state fee. Check current status before you travel."}
+  ]
+}

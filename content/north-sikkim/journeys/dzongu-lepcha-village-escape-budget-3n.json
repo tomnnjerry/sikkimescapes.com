@@ -1,0 +1,71 @@
+{
+  "slug": "dzongu-lepcha-village-escape-budget-3n",
+  "title": "Dzongu Lepcha village escape",
+  "region": "north-sikkim",
+  "tier": "budget",
+  "nights": 3,
+  "themes": ["village-homestays", "crafts-and-culture", "offbeat-sikkim", "food-and-tea"],
+  "stops": [{"place": "dzongu", "nights": 3}],
+  "start": "Gangtok",
+  "end": "Gangtok",
+  "price_from_inr": 8000,
+  "price_basis": "per person, twin sharing, shared jeep to Mangan and a local car into Dzongu, Lepcha family homestay with all meals",
+  "price_breakdown": [["Lepcha homestay, 3 nights with all meals", 5700], ["Shared jeep Gangtok–Mangan and back", 600], ["Local car Mangan–Dzongu and back, split by two", 700], ["Dzongu permit and Sikkim tourist fee", 200], ["Guided village and waterfall walk", 300], ["Our planning fee", 500]],
+  "best_months": [2, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 1500,
+  "meta_description": "3 nights in a Lepcha family homestay in Dzongu, North Sikkim, with all meals, permit, village walks and shared transport from Gangtok, from ₹8,000.",
+  "summary": "Three slow days with a Lepcha family in Dzongu, the reserved Lepcha homeland across the Teesta from Mangan. You travel by shared jeep and local car, eat home-cooked meals, walk to waterfalls and cardamom groves, and hear how Dzongu's young people stopped four dams. Altitude stays around 1,000–1,500 m.",
+  "intro": [
+    "Dzongu is not on the usual North Sikkim circuit, and that is the point. Land in this block of steep, forested valleys has been reserved for the Lepcha of Dzongu since a 1958 notification of the Chogyal's government, so there are no hotels or resort strips, only villages, terraced paddy, large cardamom under the trees and a handful of family homestays. You spend three nights with one family, eat what they eat and walk the paths they use every day.",
+    "The trip is cheap because it is simple: a shared jeep from Gangtok to Mangan, a local car across the Teesta, and a homestay that includes all meals. It suits travellers who want quiet, food and conversation more than sights, and it works well for families and seniors because the altitude is low. Outsiders need a Dzongu permit from the district administration in Mangan, which your host arranges. Check current status before you travel."
+  ],
+  "highlights": [
+    "Three nights with a Lepcha family in the reserved homeland of Dzongu",
+    "Home-cooked Lepcha meals, with seasonal greens, local chicken and millet beer if you wish",
+    "Walks to waterfalls, cardamom groves and paddy terraces with a local guide",
+    "The story of the 2007 Dzongu hunger strike, told by the people who lived it",
+    "Low altitude, around 1,000–1,500 m, gentle for all ages"
+  ],
+  "days": [
+    {"day": 1, "title": "Gangtok to Dzongu by shared jeep", "place": "dzongu", "overnight": "Dzongu", "alt_m": 1200, "drive": "≈ 70–80 km · 3.5–4.5 h", "text": "Take a morning shared jeep from Gangtok's North Sikkim stand to Mangan, the district headquarters, about 65 km and 2.5 to 3 hours along the North Sikkim highway past Kabi and Phodong. At Mangan your host's local car meets you for the drive down to the Teesta and up into Dzongu, 30 to 60 minutes depending on the village. Your host will have arranged the Dzongu permit with the ID copies we sent. Settle in, have tea in the kitchen and take a short walk around the village before an early dinner by the hearth.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Waterfalls, cardamom and village life", "place": "dzongu", "overnight": "Dzongu", "alt_m": 1200, "drive": "", "text": "After breakfast, set out with a local guide on foot. Depending on your village, the walk takes in a waterfall, a suspension bridge over a stream, cardamom groves under alder trees and terraced paddy. In autumn you may see cardamom pods drying over a wood-fired kiln. Lunch is packed or back at home. In the afternoon, help in the kitchen or the garden, learn a few Lepcha words, and ask about the Affected Citizens of Teesta and the 2007 hunger strike against hydropower projects, which your hosts may have known first-hand. Dinner with the family.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Hot springs or a slow day at home", "place": "dzongu", "overnight": "Dzongu", "alt_m": 1200, "drive": "", "text": "A free day shaped by season and your energy. Many guests walk or drive to a hot spring by the river, used by local families for generations; ask your host before bathing, as some sites are sacred. Others prefer a lazy day reading on the porch, watching the light move across the valley towards the Kangchenjunga massif. If your host is cooking something special, such as fermented dishes, nettle soup or a Lepcha festival food, ask to join in. In the evening, settle up any extras in cash and say your thanks over dinner.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Back to Gangtok", "place": "mangan", "overnight": "", "alt_m": 1650, "drive": "≈ 70–80 km · 3.5–4.5 h", "text": "After breakfast, your host's car takes you back across the Teesta to Mangan, where you pick up a shared jeep to Gangtok. On the way, if time allows, stop at the Singhik viewpoint above Mangan for a last look up the Dzongu valley, or at the Seven Sisters Waterfall near Gangtok. Reach Gangtok by early afternoon. If you are going on to Lachen or Lachung, Dzongu makes an ideal first step, and we can connect your trip to a North Sikkim permit from Mangan instead of returning to Gangtok.", "meals": "Breakfast"}
+  ],
+  "stays": ["dzongu-lepcha-homestays", "mayal-lyang-homestay-dzongu"],
+  "includes": [
+    "3 nights in a Lepcha family homestay in Dzongu with all meals",
+    "Shared jeep seats Gangtok–Mangan–Gangtok",
+    "Local car Mangan–Dzongu–Mangan",
+    "Dzongu permit arranged by your host",
+    "One guided village and waterfall walk",
+    "Sikkim ₹50 tourist fee"
+  ],
+  "excludes": [
+    "Travel to Gangtok and Gangtok hotels",
+    "Extra drives within Dzongu, for example to a distant hot spring or Tholung",
+    "Lunch on travel days at roadside stops",
+    "Tips, personal expenses and 5 percent GST"
+  ],
+  "good_to_know": [
+    "Dzongu is a reserved Lepcha area; outsiders need a permit from the district administration in Mangan.",
+    "There are no ATMs in Dzongu; bring cash from Gangtok or Mangan.",
+    "Mobile signal is patchy; tell family you may be out of reach.",
+    "June to September is wet and leech-heavy; October to May is best.",
+    "Ask before photographing people, shrines or the inside of homes.",
+    "Permit rules can change. Check current status before you travel."
+  ],
+  "upgrade": "For a private car from Gangtok and the Mayal Lyang homestay, the value version costs from about ₹13,000 per person for two.",
+  "faqs": [
+    {"q": "Do I need a permit for Dzongu?", "a": "Yes. Dzongu is a reserved area for the Lepcha of Dzongu, and outsiders need a permit from the district administration in Mangan. Your homestay host arranges it if you send ID copies a few days ahead. Foreign nationals need a Protected Area Permit through a registered agent. Check current status before you travel."},
+    {"q": "Is Dzongu part of the Lachung and Lachen permit?", "a": "No, it is separate. Dzongu lies west of Mangan, across the Teesta, and has its own permit. You can combine the two by spending one or two nights in Dzongu and then continuing to Lachen or Lachung with a North Sikkim permit, which also helps acclimatisation."},
+    {"q": "What is the food like in a Lepcha homestay?", "a": "Home-cooked and seasonal: rice, dal, local greens such as fern shoots or nettle, vegetables from the garden, local chicken or pork, and fermented dishes. Chi, the millet beer that is part of Lepcha hospitality, is offered in many homes; you are free to decline. Tell your host about vegetarian or other diets in advance."},
+    {"q": "Is Dzongu good for children and seniors?", "a": "Yes. Most homestays sit at about 1,000–1,500 m, so altitude is not a concern, and the walks are gentle and can be shortened. Rooms and toilets are simple, and some homes involve steps or steep paths, so tell us about mobility needs. Ask about the current permit position for very young children."},
+    {"q": "How do I get to Dzongu from Gangtok?", "a": "Take a shared jeep from Gangtok to Mangan, about 65 km and 2.5 to 3 hours, for roughly ₹250–350 a seat. Your host's local car meets you at Mangan for the last 30 to 60 minutes into Dzongu. A private car from Gangtok all the way costs about ₹4,000–5,500 one way."},
+    {"q": "What is the best season for Dzongu?", "a": "October to May. October and November are clear and the cardamom harvest is under way; December to February is cool and dry; March to May brings flowers and warmer days. June to September is the monsoon, with heavy rain, leeches and occasional road blocks, though the valley is very green."},
+    {"q": "What was the Dzongu hunger strike?", "a": "In June 2007 the Affected Citizens of Teesta began a long hunger strike in Gangtok against six hydropower projects planned in and around Dzongu, fearing damage to the reserve. Live History India puts the first phase at 93 days. Within about three years the state dropped four of the projects. Your hosts may tell you more."},
+    {"q": "Can I visit Tholung Monastery on this trip?", "a": "Tholung lies high in upper Dzongu, a long drive and then a walk of a few hours from the road-head, and needs good weather and current access. It is possible as an extra day with a guide and a hired car. Its relics are shown publicly only once every three years. Ask us when you book."},
+    {"q": "How should I behave as a guest in Dzongu?", "a": "Treat it as a stay in someone's home. Ask before photographing people, shrines or the inside of houses, dress modestly, follow your hosts on shoes and seating, do not bathe in springs considered sacred without asking, and take your rubbish back with you. Pay fairly and in cash; there are no ATMs."}
+  ]
+}

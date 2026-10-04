@@ -1,0 +1,231 @@
+{
+  "slug": "gangtok-lachung-pelling-budget-6n",
+  "title": "Gangtok, Lachung and Pelling on a budget",
+  "region": "east-sikkim",
+  "tier": "budget",
+  "nights": 6,
+  "themes": [
+    "snow-and-winter",
+    "monasteries",
+    "flowers-and-forests"
+  ],
+  "stops": [
+    {
+      "place": "gangtok",
+      "nights": 1
+    },
+    {
+      "place": "lachung",
+      "nights": 2
+    },
+    {
+      "place": "gangtok",
+      "nights": 1
+    },
+    {
+      "place": "pelling",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 17500,
+  "price_basis": "per person, twin sharing, 2 people, shared jeeps between towns, shared-seat North Sikkim package with lodge and meals, budget hotels with breakfast",
+  "price_breakdown": [
+    [
+      "Gangtok stays, 2 nights with breakfast",
+      3000
+    ],
+    [
+      "North Sikkim shared package: 2 nights Lachung, vehicle seat, permit and meals",
+      8000
+    ],
+    [
+      "Pelling budget hotel, 2 nights with breakfast",
+      2500
+    ],
+    [
+      "Shared jeeps NJP–Gangtok, Gangtok–Pelling and Pelling–NJP",
+      1700
+    ],
+    [
+      "Pelling sightseeing, small car shared by two",
+      1500
+    ],
+    [
+      "Sikkim tourist fee",
+      50
+    ],
+    [
+      "Our planning fee",
+      750
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 3564,
+  "meta_description": "Gangtok, Lachung and Pelling in 6 nights on a budget from ₹17,500 per person: Yumthang Valley, Pemayangtse, Rabdentse and Kanchenjunga, by shared jeep.",
+  "summary": "The classic Sikkim circuit for about ₹17,500 per person: Gangtok, two nights in Lachung with Yumthang Valley on a shared North Sikkim package, then west to Pelling for Pemayangtse Monastery, the Rabdentse ruins and Kanchenjunga at dawn. Shared jeeps and simple, clean rooms keep it affordable; the pace is brisk.",
+  "intro": [
+    "This is the circuit almost every first-time visitor wants: the capital, the snow and flowers of the north, and the great mountain view from the west. We do it in six nights on a budget by using shared jeeps between towns, a shared-seat North Sikkim package with permit and meals, and clean budget hotels in Gangtok and Pelling. You save money, but you also travel the way people in Sikkim travel, which we think is part of the point.",
+    "The pace is brisk, with three long road days, so it suits travellers who are happy in a jeep. Tsomgo Lake is not included, because there is no spare day for it, but you can add a night in Gangtok to fit it in. Lachung reopened on 8 September 2025; check current road and permit status before you travel. Every cost is listed below, including the shared jeep seats and our planning fee, so you can compare it fairly with any other quote."
+  ],
+  "highlights": [
+    "Yumthang Valley at 3,564 m, with rhododendrons in spring and snow in winter",
+    "Two nights in Lachung's apple-orchard valley at about 2,700 m",
+    "Pemayangtse, one of Sikkim's oldest and most important Nyingma monasteries",
+    "The Rabdentse ruins, Sikkim's royal capital from 1670",
+    "Kanchenjunga at dawn from Pelling on clear mornings from October to April"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Shared jeep to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "We meet you at NJP or Bagdogra and put you on a shared jeep up NH10 through the Teesta valley and the Rangpo check post. In the monsoon NH10 closes after landslides, and the detour via Kalimpong and Lava adds two to four hours; check current road status before you travel. Send us scans of your ID and photos a week ahead so our registered agent can apply for the North Sikkim permit. Check in near MG Marg, leave your big bags in the hotel store and pack a small bag for Lachung.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "North Sikkim highway to Lachung",
+      "place": "lachung",
+      "overnight": "Lachung",
+      "alt_m": 2700,
+      "drive": "≈ 118 km · 5–6 h",
+      "text": "Your shared vehicle leaves at about 9–10 am to cross the Toong check post before its 4 pm cut-off. The road passes Kabi Lungchok, where Sikkim's histories place the Lepcha-Bhutia blood oath, then Mangan and the Seven Sisters and Naga waterfalls, before climbing the Teesta gorge to Chungthang, where the Lachung and Lachen rivers meet. You reach Lachung, at about 2,700 m, in the late afternoon. Dinner at your simple lodge and an early night: tomorrow starts early.",
+      "meals": "Lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Yumthang Valley",
+      "place": "yumthang-valley",
+      "overnight": "Lachung",
+      "alt_m": 2700,
+      "drive": "≈ 50 km round trip · 4–5 h",
+      "text": "After an early breakfast drive about 24 km up to Yumthang Valley at 3,564 m, through the Shingba Rhododendron Sanctuary, which flowers from late April to May. In winter the valley is under snow. Zero Point, about 23 km further at roughly 4,700 m, is an optional add-on paid in Lachung, about ₹2,000–3,500 per vehicle shared among passengers, when the road is open. Spend the afternoon walking Lachung's orchards and wooden houses, and visit the village monastery above the river.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Back to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 118 km · 5–6 h",
+      "text": "Your shared vehicle drives back down the Lachung valley and the Teesta gorge after breakfast, with a lunch stop near Mangan. You reach Gangtok by mid-afternoon and pick up your stored bags. Book your shared jeep seat to Pelling at the counter this evening, since morning jeeps fill fast in peak season; we can do it for you. Spend the evening on MG Marg with a plate of momos and an early night before the drive west.",
+      "meals": "Breakfast, lunch"
+    },
+    {
+      "day": 5,
+      "title": "Shared jeep west to Pelling",
+      "place": "pelling",
+      "overnight": "Pelling",
+      "alt_m": 2150,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "Take the morning shared jeep to Pelling, about ₹500–600 a seat, down through Ranipool and Singtam, then west by Ravangla or Melli depending on the jeep's route, and up through Legship and Gyalshing to Pelling at about 2,150 m. Check in to your budget hotel. In the late afternoon walk up to Pemayangtse Monastery, a Nyingma monastery traditionally dated to 1705, whose top floor holds a carved wooden model of Guru Rinpoche's heavenly palace. Ask for a room facing Kanchenjunga.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Rabdentse, the Skywalk and Pelling",
+      "place": "rabdentse",
+      "overnight": "Pelling",
+      "alt_m": 2150,
+      "drive": "≈ 30 km · half day",
+      "text": "On a clear morning from October to April, Kanchenjunga rises straight across the valley from Pelling at dawn. After breakfast your shared small car takes you to the Rabdentse ruins, where Tensung Namgyal moved Sikkim's capital in 1670, a short forest walk to stone walls and chortens. Continue to the Chenrezig statue and glass skywalk at Sanga Choeling, then Kanchenjunga Falls if time allows. The afternoon is free. Book your shared jeep to Siliguri this evening; it leaves early.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Down to NJP or Bagdogra",
+      "place": "pelling",
+      "overnight": "",
+      "alt_m": 126,
+      "drive": "≈ 140 km · 5.5–6.5 h",
+      "text": "The shared jeep to Siliguri leaves Pelling early, usually around 7 am, and runs down through Gyalshing, Legship and Jorethang to the plains, reaching Siliguri and NJP by early afternoon. It suits evening trains and late-afternoon flights from Bagdogra. If your flight leaves before about 3 pm, tell us and we will suggest a last night in Siliguri instead. In the monsoon allow extra time for landslides on the Teesta roads; check current road status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-sonam-delek-gangtok",
+    "mintokling-guest-house-gangtok"
+  ],
+  "includes": [
+    "2 nights in a clean budget hotel in Gangtok and 2 nights in a budget hotel in Pelling, twin sharing, with breakfast",
+    "Shared-seat North Sikkim package: vehicle, permit and 2 nights in a simple Lachung lodge with meals",
+    "Yumthang Valley visit",
+    "Shared jeep seats NJP to Gangtok, Gangtok to Pelling and Pelling to Siliguri or NJP",
+    "Half-day Pelling sightseeing in a small car shared by two",
+    "Sikkim ₹50 tourist fee and our planning fee"
+  ],
+  "excludes": [
+    "Train or flights to NJP or Bagdogra",
+    "Tsomgo Lake and Nathu La",
+    "Zero Point add-on, paid in Lachung",
+    "Lunches and dinners outside the North Sikkim package",
+    "Skywalk and monastery entry fees, and tips"
+  ],
+  "good_to_know": [
+    "Children under 5 are not permitted in North Sikkim protected areas",
+    "Operators require a minimum 2-night North Sikkim stay; vehicles must cross the Toong check post by 4 pm",
+    "Three long road days make this trip tiring for anyone prone to car sickness; book front seats",
+    "Lachung and Lachen have restricted packaged water bottles at times; carry a refillable bottle",
+    "Foreigners can do this trip with a protected area permit for Lachung in a group of two or more",
+    "Check current road and permit status before you travel"
+  ],
+  "upgrade": "Our value version runs 7 nights with a private car, a reserved North Sikkim vehicle, Tsomgo Lake and 3-star hotels for roughly ₹18,000 more per person.",
+  "faqs": [
+    {
+      "q": "Why is there no Tsomgo Lake on this trip?",
+      "a": "Because six nights with Lachung and Pelling leave no spare day. Tsomgo needs a full day from Gangtok and a permit applied for the day before. Add a night in Gangtok after Lachung and a shared seat to Tsomgo and Baba Mandir for about ₹2,500–3,000 more per person, including the room and permit."
+    },
+    {
+      "q": "Can we go straight from Lachung to Pelling?",
+      "a": "Not sensibly in one day. Lachung to Pelling is a 9–10 hour drive through Gangtok or via Mangan and Singtam, and North Sikkim vehicles must keep to permit routes and times. A night in Gangtok on the way breaks the journey and lets you pick up stored bags. It is the plan almost every operator uses."
+    },
+    {
+      "q": "Are shared jeeps comfortable for long drives?",
+      "a": "They are practical rather than comfortable. Seats are close, the ride is bumpy in places and jeeps stop briefly on the way. Book the front seats or two seats each if you want space or get carsick. A private car, as in our value trip, makes the three long road days much easier."
+    },
+    {
+      "q": "Can we see Kanchenjunga from Pelling?",
+      "a": "On clear mornings, mainly from October to April, Kanchenjunga rises directly across the valley from Pelling, which is one of the best viewpoints in Sikkim. By mid-morning cloud often covers it, and from June to September you may not see it at all. Ask your hotel for a mountain-facing room."
+    },
+    {
+      "q": "Is this trip suitable for older travellers?",
+      "a": "It is a brisk trip with three long road days and shared jeeps, so it suits fit older travellers best. Yumthang at 3,564 m is manageable if you walk slowly. If anyone in the group dislikes long drives or needs to stop often, our value version with a private car and an extra night is a better fit."
+    },
+    {
+      "q": "What are the Rabdentse ruins?",
+      "a": "Rabdentse, near Pelling, was the capital of the Kingdom of Sikkim from 1670, when the second Chogyal, Tensung Namgyal, moved the court there from Yuksom. The capital later moved to Tumlong in 1793 after Gorkha raids. Today you walk a short forest path to the stone walls, courtyards and chortens, with views across the valley."
+    },
+    {
+      "q": "When is the best time for this circuit?",
+      "a": "October and November for clear skies and Kanchenjunga views, and late April to May for rhododendrons in Yumthang. March brings snow in the north with milder weather. December to February is cold and snowy, with occasional closures above Lachung. Avoid June to August, when landslides often disrupt North Sikkim and NH10."
+    },
+    {
+      "q": "Do foreigners need extra permits for this circuit?",
+      "a": "Yes. Foreign nationals need the Sikkim Restricted Area Permit, applied for on e-FRRO since 12 January 2026, and a protected area permit for Lachung and Yumthang, arranged by our registered agent for groups of two or more. Pelling and Gangtok need no further permits. Check current rules before you travel."
+    },
+    {
+      "q": "What if a road closes during the trip?",
+      "a": "If the North Sikkim permit is cancelled before departure, the operator refunds the unused package and we rearrange your days with Tsomgo or Rumtek from Gangtok. If you are held in Lachung, the extra night is paid locally and we shorten Pelling. Landslides are most common from June to September."
+    }
+  ]
+}

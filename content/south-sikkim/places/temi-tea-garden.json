@@ -1,0 +1,158 @@
+{
+  "slug": "temi-tea-garden",
+  "name": "Temi Tea Garden",
+  "region": "south-sikkim",
+  "kind": "tea garden",
+  "wiki": "Temi Tea Garden",
+  "image_query": "Temi Tea Garden Sikkim",
+  "lat": 27.2367,
+  "lng": 88.4222,
+  "altitude_m": 1500,
+  "local_name": null,
+  "tagline": "The Chogyal's tea estate, organic since the 2000s, above the Teesta",
+  "meta_description": "Temi Tea Garden, South Sikkim: history since 1969, organic tea, cherry blossom in November, factory visits, stays, costs and how to reach.",
+  "summary": "Temi Tea Garden is Sikkim's state-owned tea estate, founded in 1969 under the last Chogyal, Palden Thondup Namgyal. About 177 hectares of bushes run down a slope of the Tendong range at roughly 1,200–1,800 m, facing the Teesta valley and Kangchenjunga. It moved to organic cultivation from 2005.",
+  "intro": [
+    "Temi is one of the most photographed slopes in Sikkim: rows of tea bushes curving down a hillside, a winding estate road lined with cherry trees, the factory halfway down and the deep Teesta gorge below. On clear days Kangchenjunga rises across the valley. It is about 50–55 km and 2.5–3 hours from Gangtok via Singtam and Tarku, and under an hour from Ravangla.",
+    "The estate was established in 1969 under Palden Thondup Namgyal, the last Chogyal of Sikkim, and is run by the state government. It covers about 177 hectares (440 acres) and produces around 100 tonnes of tea a year, much of it orthodox leaf sold at auction in Kolkata, the rest packed under names such as Temi Tea and Sikkim Solja. It began organic conversion in 2005.",
+    "Visitors can walk the estate roads freely, watch plucking in season (March to November), visit the factory when staff allow, and buy fresh tea at the estate shop. In November, cherry blossom lines the road and the state holds its Cherry Tea Festival. Stay overnight at Cherry Resort or the restored Temi Bungalow to have the garden to yourself at dawn."
+  ],
+  "story": {
+    "title": "A king's tea on a missionary hillside",
+    "text": "Before there was tea at Temi there was a mission. Scottish missionaries built houses and a church on the slope in the early 20th century; the government acquired the buildings in 1954. In 1969, in the last years of the kingdom, Chogyal Palden Thondup Namgyal established a tea estate on the hillside, with gentle slopes running off the Tendong range and loamy soil well suited to tea. Temi became Sikkim's flagship estate, winning the Tea Board of India's All India Quality Award in 1994 and 1995. In April 2005, years before Sikkim declared itself India's first fully organic state in 2016, the estate began converting to organic cultivation, certified by the Swiss body IMO. Today about 400 workers tend the bushes and the factory, and the old mission bungalow, damaged in the 2011 earthquake, has been restored as a heritage stay. When you drink Temi tea, you are tasting a project begun by the kingdom and carried on by the state.",
+    "source": "Wikipedia: Temi Tea Garden; T2 Online (Temi Bungalow)"
+  },
+  "little_known": [
+    {"fact": "Temi won the Tea Board of India's All India Quality Award in 1994 and 1995, a decade before it began converting to organic cultivation.", "source": "Wikipedia: Temi Tea Garden"},
+    {"fact": "About three-quarters of Temi's tea has been sold at auction in Kolkata; the rest is packed for domestic sale under names such as Temi Tea and Sikkim Solja.", "source": "Wikipedia: Temi Tea Garden"},
+    {"fact": "Early-20th-century Scottish mission buildings on the slope predate the estate; the government acquired them in 1954, fifteen years before the tea was planted.", "source": "Wikipedia: Temi Tea Garden"}
+  ],
+  "facts": [["Best months", "Mar–May and Oct–Nov"], ["Nights we suggest", "1"], ["From Gangtok", "≈ 52 km · 2.5–3 h"], ["Altitude", "≈ 1,200–1,800 m (factory area ≈ 1,500 m)"], ["Known for", "Organic orthodox tea, cherry blossom, Kangchenjunga views"], ["Permit", "Not needed"]],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Estate road walk", "text": "Walk the winding road down through the bushes from the top gate to the factory, about 2–3 km, with views over the Teesta gorge. Early morning light and mist make it the best time for photos."},
+    {"title": "Plucking season", "text": "From March to November, pluckers move along the rows taking two leaves and a bud. First flush (March–April) and autumn flush (October–November) produce the most prized teas."},
+    {"title": "Factory and tasting", "text": "When staff allow, see withering, rolling, oxidising and drying, then taste the grades side by side at the estate shop. Visits depend on season and production schedules."},
+    {"title": "Cherry blossom in November", "text": "Cherry trees along the estate road flower in November, pink against green tea and snow peaks. The state has held a Cherry Tea Festival here most years since 2018."},
+    {"title": "Overnight in the estate", "text": "Cherry Resort and the restored Temi Bungalow sit inside the garden, letting you walk the rows at dawn before day visitors arrive from Namchi and Ravangla."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "There is no frequent shared service to the estate gate. Take a shared jeep from Gangtok towards Namchi or Ravangla and get off at Temi or Tarku, then a local taxi, or travel via Namchi. Expect about ₹200–300 a seat from Gangtok plus ₹300–500 for the last stretch."},
+    {"mode": "Private car", "text": "About 52 km and 2.5–3 hours from Gangtok via Singtam and Tarku, under an hour from Ravangla, and 1.5–2 hours from Namchi. A small car day trip from Gangtok costs about ₹4,000–5,000; most people combine Temi with Ravangla or Namchi."},
+    {"mode": "From Bagdogra / NJP", "text": "About 115–120 km and 4–4.5 hours via NH10 to Singtam, then up through Tarku. If NH10 is closed after monsoon slides, drivers come through Darjeeling district, Jorethang and Namchi, which takes longer."}
+  ],
+  "costs": [["Estate entry and walk", "Free (factory visits may carry a small fee)"], ["Temi tea at the shop", "≈ ₹150–600 per 100 g by grade"], ["Small car day trip from Gangtok", "≈ ₹4,000–5,000"], ["Cherry Resort room", "≈ ₹3,500–6,000 a night"], ["Meal at a local eatery", "≈ ₹150–300"]],
+  "where_to_stay": "Two stays sit inside the estate. Cherry Resort, on land owned by the Sikkim Tourism Development Corporation and privately run, is the value choice with tea views from most rooms. The Temi Bungalow, a restored mission-era bungalow with matching cottages managed by Eco Adventure Resorts, is the premium option, with meals and tea tastings. Simple homestays in Temi and Tarku villages nearby cost about ₹1,500–2,500 per person with meals.",
+  "stays": ["cherry-resort-temi", "the-temi-bungalow"],
+  "tips": [
+    "Walk the estate road at 6–8 am for mist, soft light and pluckers starting work.",
+    "Do not walk between the bushes or pick leaves; stay on paths and roads.",
+    "Buy tea at the estate shop: it is fresher and cheaper than in Gangtok.",
+    "Book November stays early for cherry blossom and the Cherry Tea Festival.",
+    "Factory visits depend on staff and season; ask at the office, and accept a no gracefully."
+  ],
+  "themes": ["food-and-tea", "photography", "honeymoons", "family-holidays"],
+  "nearby": ["ravangla", "tendong-hill", "namchi", "yangang"],
+  "experiences": [
+    {
+      "slug": "temi-dawn-estate-walk",
+      "title": "Dawn walk down the Temi estate road",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "6–8 am, March to May and October to November",
+      "cost": "Free",
+      "image_query": "Temi tea estate road morning mist",
+      "wiki": "",
+      "summary": "Walk the winding estate road from the upper gate down to the factory at first light, when mist lies in the Teesta gorge, the pluckers are arriving and Kangchenjunga may show across the valley. The single best reason to sleep at Temi.",
+      "body": [
+        "If you stay at Cherry Resort or the Temi Bungalow, set an early alarm. At dawn the estate is almost silent; mist sits in the valley below and the rows of bushes stand out in sharp curves down the hill. On clear mornings from October to April, Kangchenjunga rises across the Teesta valley.",
+        "Walk down the main estate road, about 2–3 km from the top to the factory. In plucking season (March to November) workers start early, baskets on their backs. You may greet them, but ask before taking photographs, and never step into the rows or pick leaves.",
+        "Allow 2 hours with stops. Have tea at the factory shop or back at your hotel. The walk back uphill is steeper; your driver can meet you at the factory. In the monsoon (June to August) the road is slippery and views are often hidden, though the green is at its richest."
+      ],
+      "good_for": ["couples", "photographers", "families", "seniors"],
+      "faqs": [
+        {"q": "Can we walk freely in Temi Tea Garden?", "a": "Yes, on the estate roads and main paths. Do not walk between the rows of bushes, pick leaves or disturb workers. The estate is a working farm run by the Sikkim government, so follow any signs and staff instructions. Entry to the roads is free at the time of writing."},
+        {"q": "When is plucking season at Temi?", "a": "Plucking runs roughly from March to November. First flush (March–April) gives delicate, light teas; the monsoon flush is heavier; the autumn flush (October–November) is rich and smooth. There is little or no plucking in winter."},
+        {"q": "Is the estate road steep?", "a": "Moderately. Walking down is easy for most people; walking back up is steady work. Seniors can walk downhill and have the car pick them up at the factory. Wear shoes with grip, as the road can be wet with dew early in the morning."}
+      ]
+    },
+    {
+      "slug": "temi-factory-and-tea-tasting",
+      "title": "From leaf to cup: Temi factory and tasting",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "10 am–3 pm, March to November",
+      "cost": "≈ ₹100–300 tasting or tea purchase",
+      "image_query": "orthodox tea processing factory",
+      "wiki": "",
+      "summary": "When staff permit, see how plucked leaf becomes orthodox tea at Temi's factory, then taste first flush, autumn flush and other grades at the estate shop. The best way to understand why Temi tea sells at auction in Kolkata.",
+      "body": [
+        "Temi makes orthodox tea: whole leaves withered, rolled, oxidised and dried, rather than the cut-tear-curl CTC tea of most Indian chai. In season, the factory works through the day, and visitors are sometimes shown the withering troughs, rollers and dryers. Visits depend on production and staff availability, so ask at the office.",
+        "Even when the floor is closed, the estate shop offers tea to taste and buy. Compare a light, floral first flush with a fuller autumn flush; look at the leaf, smell it dry and wet, and taste without milk. Staff can explain grades such as TGFOP, and the difference between Temi Tea and Sikkim Solja.",
+        "Buy here rather than in town: tea is fresher and prices are lower. Expect about ₹150–600 per 100 g depending on grade and flush. Factory photography may be restricted. Wear closed shoes if you go onto the factory floor."
+      ],
+      "good_for": ["families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Can tourists visit the Temi tea factory?", "a": "Sometimes. Visits depend on production schedules, safety and staff availability, and may be stopped at busy times. Ask at the estate office. The tea shop near the factory is the reliable option for tasting and buying. Check current status before you travel."},
+        {"q": "What is the difference between orthodox and CTC tea?", "a": "Orthodox tea keeps whole or broken leaves, rolled and slowly oxidised, giving lighter, more complex flavours, best without milk. CTC (crush, tear, curl) cuts leaves into small granules for strong, quick-brewing tea, usually drunk with milk. Temi makes mainly orthodox tea."},
+        {"q": "How much does Temi tea cost?", "a": "At the estate shop, roughly ₹150–600 per 100 g depending on grade and flush, with premium first flush at the top end. Prices are indicative and vary by year. Buying at the estate is usually cheaper and fresher than in Gangtok shops."}
+      ]
+    },
+    {
+      "slug": "temi-cherry-blossom-november",
+      "title": "Cherry blossom and the Cherry Tea Festival",
+      "kind": "culture",
+      "duration": "Half day to full day",
+      "best_time": "November",
+      "cost": "Free entry; stays ≈ ₹3,500–20,000",
+      "image_query": "Temi cherry blossom tea garden November",
+      "wiki": "",
+      "summary": "In November, wild Himalayan cherry trees along Temi's estate road flower pink against the green tea and the snow peaks. The state has held a three-day Cherry Tea Festival here most years since 2018, with music, food stalls and tea tastings.",
+      "body": [
+        "Unlike Japanese cherries, the Himalayan cherry flowers in autumn. At Temi, trees along the estate road usually bloom in November, sometimes into early December. Combined with clear post-monsoon skies and Kangchenjunga on the horizon, it is the estate's most photogenic month.",
+        "Since 2018 the Sikkim government has organised a Cherry Tea Festival at Temi most years, with cultural performances by local communities, food and craft stalls, tea tastings, photography competitions and adventure activities. Programmes and dates vary each year, so check current status before you travel.",
+        "Rooms at Cherry Resort and the Temi Bungalow fill quickly in festival week, so book early, or stay in Ravangla or Namchi and visit for the day. Arrive in the morning for the clearest views, and walk the estate road rather than driving it, to stop under the trees."
+      ],
+      "good_for": ["photographers", "couples", "families"],
+      "faqs": [
+        {"q": "When do the cherry trees bloom at Temi?", "a": "Usually in November, sometimes extending into early December, depending on the year's weather. The Himalayan cherry flowers in autumn, unlike Japanese varieties. Ask locally a week or two before you go for current bloom status."},
+        {"q": "When is the Temi Cherry Tea Festival?", "a": "It has been held over three days in November most years since 2018, organised by the state government. Dates and programmes change each year and the festival may not run every year. Check current status before you travel."},
+        {"q": "Is November a good time for Sikkim in general?", "a": "Yes, it is one of the best months: dry, clear and cool, with excellent mountain views. Nights get cold at higher altitudes. In South Sikkim days are pleasant, around 15–20 °C at Temi, with chilly mornings."}
+      ]
+    },
+    {
+      "slug": "temi-tea-village-homestay-evening",
+      "title": "Evening with a tea-worker family in Temi",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "5–7 pm, March to November",
+      "cost": "≈ ₹500–1,000 per person including dinner",
+      "image_query": "Temi village Sikkim homestay",
+      "wiki": "",
+      "summary": "Share an evening meal with a family from the villages around Temi, many of whom work in the estate, and hear how a working tea garden runs from the inside: plucking quotas, seasons, the organic switch. Arranged through local homestays.",
+      "body": [
+        "Temi's bushes are tended by around 400 workers, most from Nepali-speaking families in the villages around the estate. Some of these families run homestays and are happy to host visitors for an evening meal, even if you are staying elsewhere. We arrange it through hosts we know.",
+        "Expect a simple, generous meal: rice, dal, a seasonal vegetable, perhaps local chicken, gundruk or squash, pickles and tea, of course. Conversation flows around the work: early starts, the rhythm of the flushes, what changed when the estate went organic, and what the next generation plans to do.",
+        "This is not a performance, so come with curiosity and respect. Contributions of about ₹500–1,000 per person go to the family. Tell us of dietary needs in advance. Avoid questions about wages unless your host raises the subject; let the evening find its own pace."
+      ],
+      "good_for": ["families", "couples", "solo", "budget"],
+      "faqs": [
+        {"q": "How do we arrange a dinner with a Temi family?", "a": "Through local homestays in Temi and Tarku, or through us. Give at least a day's notice so the family can cook. If you stay at a Temi homestay, this is part of the experience; if you stay at a resort, we can arrange a visit and transport."},
+        {"q": "Is it appropriate to ask about tea work?", "a": "Yes, families are generally happy to talk about the estate, the seasons and plucking. Be sensitive about wages, labour issues or personal finances, and let your hosts lead. Listen more than you ask."},
+        {"q": "What does the evening cost?", "a": "Usually about ₹500–1,000 per person for dinner and conversation, paid to the family. Transport is extra if you are staying outside the village. Prices are indicative; confirm when booking."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When was Temi Tea Garden established?", "a": "Temi Tea Garden was established in 1969 under Palden Thondup Namgyal, the last Chogyal of Sikkim. Some sources give earlier dates for initial planting; 1969 is the date in most records. It has been run by the state government since."},
+    {"q": "Is Temi tea organic?", "a": "Temi began converting to organic cultivation in April 2005, certified by the Swiss body IMO. Sikkim later declared itself India's first fully organic state in 2016. Check current certification details on packaging when you buy."},
+    {"q": "How far is Temi Tea Garden from Gangtok?", "a": "About 52 km and 2.5–3 hours by road via Singtam and Tarku. A small car day trip costs about ₹4,000–5,000. It is under an hour from Ravangla and 1.5–2 hours from Namchi."},
+    {"q": "Is there an entry fee for Temi Tea Garden?", "a": "Walking the estate roads has been free at the time of writing. Factory visits, if allowed, may carry a small fee. Rules change, so check current status before you travel."},
+    {"q": "What is the best time to visit Temi?", "a": "March to May for first flush and spring flowers, and October to November for clear views, autumn flush and cherry blossom. The monsoon (June–September) is green but cloudy and wet. Winter is clear but there is little plucking."},
+    {"q": "Can we stay inside Temi Tea Garden?", "a": "Yes. Cherry Resort, a value-priced resort on STDC land run privately, and the Temi Bungalow, a premium heritage stay managed by Eco Adventure Resorts, are both inside the estate. Homestays in Temi and Tarku villages nearby are cheaper."},
+    {"q": "Is Temi Sikkim's only tea garden?", "a": "Temi is Sikkim's main and best-known tea estate and has long been described as the state's only large one. A few small private gardens have come up in recent years, but Temi remains the flagship. Its tea is sold under the Temi and Sikkim Solja names."},
+    {"q": "Can we combine Temi with Ravangla and Namchi?", "a": "Yes, this is the classic South Sikkim loop. From Gangtok, go to Temi (night at the estate), on to Ravangla for Buddha Park and Ralang, then to Namchi for Samdruptse and Char Dham, and down to Siliguri or NJP."},
+    {"q": "Where can we buy Temi tea?", "a": "At the estate shop near the factory, which offers the freshest stock and fair prices. Temi tea is also sold in Gangtok shops and online. Look for the Temi Tea or Sikkim Solja labels and check the flush and packing date."}
+  ]
+}

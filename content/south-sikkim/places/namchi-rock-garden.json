@@ -1,0 +1,158 @@
+{
+  "slug": "namchi-rock-garden",
+  "name": "Namchi Rock Garden",
+  "region": "south-sikkim",
+  "kind": "garden",
+  "wiki": "",
+  "image_query": "Namchi Rock Garden Sikkim",
+  "lat": 27.1807,
+  "lng": 88.3742,
+  "altitude_m": 1740,
+  "local_name": null,
+  "tagline": "Terraced paths, ponds and Precambrian rock on the Samdruptse road",
+  "meta_description": "Namchi Rock Garden: what to see, entry fee, timings, the Mamley stromatolite site next door, and how to fit it into a Samdruptse morning.",
+  "summary": "Namchi Rock Garden is a landscaped hillside garden of stone paths, ponds, flower beds and viewpoints at about 1,740 m, on the road from Namchi up to Samdruptse. It takes 45–60 minutes, suits children and seniors, and sits beside the Mamley stromatolite site, a National Geological Monument.",
+  "intro": [
+    "The Rock Garden is a public garden built into a steep slope a few kilometres above Namchi town. Stone steps and paths zig-zag between terraces of flowering plants, small pools and footbridges, with benches and covered viewpoints looking down over Namchi, across to Solophok's Shiva statue and up to Samdruptse's Guru Rinpoche. A small cafeteria serves tea and snacks.",
+    "It is not a destination in itself, and we are honest about that: most people spend under an hour here. But it is the easiest green space in Namchi for families, a good pause between Samdruptse and Char Dham, and one of the best places in town to see both statues in one frame. Spring brings the most flowers; winter the clearest views.",
+    "What most visitors miss is next door. The slopes around Mamley, just above the garden, expose stromatolite-bearing dolomite of the Buxa Formation, layered fossils of microbial mats from the Proterozoic eon. The Geological Survey of India has declared the site a National Geological Monument, and it adds a short, unusual stop for curious children and adults."
+  ],
+  "story": {
+    "title": "The sea floor above Namchi",
+    "text": "Stand at Mamley, a few minutes above the Rock Garden, and look closely at the pale grey rock: fine wavy layers, small domes and columns, like a cabbage sliced in half. These are stromatolites, structures built up over very long periods by mats of cyanobacteria trapping sediment in warm, shallow water. They are among the oldest evidence of life on Earth. The Geological Survey of India describes the Mamley exposure as dolostone of the Buxa Formation in the Daling Group, of Proterozoic age, between about 2.5 billion and 541 million years old, and calls it one of the rare examples of early life in the Sikkim Himalaya. The rock was laid down on an ancient sea floor long before the Himalaya existed, then folded and lifted thousands of metres as India pushed into Asia. GSI declared it a National Geological Monument to protect it and to encourage geotourism. The garden's paths and ponds are recent; the rock beside them is older than almost anything else you will touch in Sikkim.",
+    "source": "Geological Survey of India via Wikipedia: National Geological Monuments of India"
+  },
+  "little_known": [
+    {"fact": "The Mamley stromatolite site beside the garden is a National Geological Monument declared by the Geological Survey of India to protect Precambrian traces of early life.", "source": "Wikipedia: National Geological Monuments of India"},
+    {"fact": "GSI places the Mamley dolomite in the Buxa Formation of the Daling Group, of Proterozoic age, between roughly 2.5 billion and 541 million years old.", "source": "Geological Survey of India"},
+    {"fact": "From the garden's upper viewpoints you can see Samdruptse's Guru Rinpoche above and Solophok's Shiva across the valley at the same time.", "source": "Sikkim Escapes field notes"}
+  ],
+  "facts": [["Best months", "Mar–May and Oct–Dec"], ["Nights we suggest", "Stay in Namchi"], ["From Gangtok", "≈ 82 km · 3.5 h"], ["Altitude", "≈ 1,740 m"], ["Known for", "Terraced garden, views, Mamley stromatolites"], ["Permit", "Not needed"]],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "0 (short stop from Namchi)",
+  "highlights": [
+    {"title": "Terraced paths and ponds", "text": "Stone steps wind down the slope past small pools, footbridges and flower beds. The full loop takes 30–45 minutes at a stroll. Some sections are steep, so hold children's hands near the water."},
+    {"title": "Two statues in one frame", "text": "From the upper viewpoints Samdruptse's gilded Guru Rinpoche rises above and the Shiva at Solophok faces you across Namchi. Late morning light works well for both."},
+    {"title": "Mamley stromatolite site", "text": "Just above the garden, protected rock outcrops show layered stromatolites from the Proterozoic, among the oldest signs of life in the Sikkim Himalaya. Signboards explain the geology."},
+    {"title": "Spring flowers", "text": "March to May brings the most colour in the beds and on the surrounding slopes. Even in winter the garden stays green and tidy, and the mountain views are better."},
+    {"title": "Cafeteria with a view", "text": "A small café near the entrance serves tea, coffee and snacks with a view over Namchi. A useful rest stop on the drive between Samdruptse and Char Dham."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Reach Namchi by shared jeep from Gangtok or Siliguri, then take a local taxi up the Samdruptse road, about 10–15 minutes. There is no regular shared service to the garden. A taxi to the garden and Samdruptse with waiting costs roughly ₹600–900."},
+    {"mode": "Private car", "text": "The garden lies on the road from Namchi to Samdruptse, about 5 km from Central Park. Almost every Namchi sightseeing loop includes it. A half-day car for Samdruptse, the Rock Garden and Char Dham costs about ₹2,000–3,000."},
+    {"mode": "From Bagdogra / NJP", "text": "About 100–105 km and 3.5–4 hours from Bagdogra or NJP via Melli and Namchi. When NH10 is closed after slides, drivers use the Darjeeling–Jorethang road. Plan to sleep in Namchi and visit the next day."}
+  ],
+  "costs": [["Entry fee", "≈ ₹10–30 per person"], ["Parking", "≈ ₹20–50 a car"], ["Taxi from Namchi with waiting", "≈ ₹400–700"], ["Tea and snacks", "≈ ₹50–150"]],
+  "where_to_stay": "Stay in Namchi, 10–15 minutes away. Seven Hill Resort at Phalidara faces the Samdruptse ridge and the garden's slope from across the valley. Sobralia Hotels Casino Resort & Spa, on the Char Dham road, has a lift and spa for those who want hotel services. Budget hotels around Central Park cost about ₹1,500–2,500 a room.",
+  "stays": ["seven-hill-resort-namchi", "sobralia-resort-namchi"],
+  "tips": [
+    "Visit on the way down from Samdruptse, when you are already halfway up the hill.",
+    "Paths are wet and slippery after rain; wear shoes with grip.",
+    "Do not chip or collect rock at Mamley: it is a protected monument.",
+    "Spring (March–May) is best for flowers, winter for clear views.",
+    "Allow 45–60 minutes including the stromatolite site."
+  ],
+  "themes": ["family-holidays", "flowers-and-forests", "photography"],
+  "nearby": ["samdruptse", "namchi", "char-dham-solophok"],
+  "experiences": [
+    {
+      "slug": "rock-garden-family-stroll-and-picnic",
+      "title": "Family stroll and picnic at the Rock Garden",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "10 am–2 pm, March to May or October to December",
+      "cost": "≈ ₹10–30 entry per person",
+      "image_query": "Namchi Rock Garden ponds paths",
+      "wiki": "",
+      "summary": "An easy, unhurried break for families: wander the terraced paths and footbridges, let children spot fish and flowers, then picnic at a viewpoint looking over Namchi. A gentle counterweight to a morning of statues and steps.",
+      "body": [
+        "Families with young children often find Sikkim's sightseeing heavy on driving and climbing. The Rock Garden is the opposite: short paths, benches every few minutes, small pools and bridges, and enough space for children to move. Walk the full loop in 30–45 minutes, stopping as often as you like.",
+        "Bring a picnic from Namchi, or buy snacks at the café near the entrance. The covered viewpoints make good spots to eat, with Namchi below and Solophok's Shiva across the valley. Please carry all rubbish out; Sikkim has strict rules on littering and plastic, and the garden staff keep it very clean.",
+        "Go between mid-morning and early afternoon, when the paths have dried after the morning dew. In spring the beds are full of colour. Some stretches are steep and there are open water edges, so keep toddlers close. Toilets are near the entrance."
+      ],
+      "good_for": ["families", "seniors", "budget"],
+      "faqs": [
+        {"q": "Is the Rock Garden good for small children?", "a": "Yes, it is one of the most child-friendly places in Namchi: short paths, ponds, bridges and space to move. Some steps are steep and pools have open edges, so supervise toddlers closely. A baby carrier is easier than a pram on the stepped paths."},
+        {"q": "Can we bring food into the Rock Garden?", "a": "Picnics are generally fine in the seating areas. Carry all rubbish out with you. Sikkim restricts single-use plastics and littering is fined. If unsure, ask at the ticket counter. A small café near the entrance sells tea and snacks."},
+        {"q": "Are there toilets at the Rock Garden?", "a": "Yes, public toilets are available near the entrance area, usually clean. Carry tissues and hand sanitiser just in case. There are also toilets at Samdruptse car park and in Namchi town."}
+      ]
+    },
+    {
+      "slug": "rock-garden-mamley-geology-trail",
+      "title": "Read the rocks: Mamley stromatolite trail",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Morning, dry months",
+      "cost": "Free",
+      "image_query": "stromatolite fossil layers rock",
+      "wiki": "Stromatolite",
+      "summary": "A short self-guided walk from the Rock Garden to the protected stromatolite outcrops at Mamley, with our notes on how to spot the layers and what they mean. A real Precambrian fossil site, ten minutes from a family garden.",
+      "body": [
+        "Stromatolites form when sticky mats of microbes trap fine sediment, grow upward through it, and trap more, layer by layer, over centuries. Cut through, they show wavy bands, domes and little columns. At Mamley these structures are preserved in pale dolomite laid down in a shallow Proterozoic sea.",
+        "From the Rock Garden, drive or walk the few minutes up to the Mamley site. Look along the exposed rock faces for repeating curved layers, a few millimetres thick, stacked into mounds. Wet rock shows the pattern more clearly, so a damp morning can help; a phone torch held at a low angle brings out the relief.",
+        "The site is protected as a National Geological Monument. Look, photograph and touch gently, but do not hammer, chip or remove anything. We give children a simple checklist: find a dome, a column and a flat layer. It turns a five-minute glance into half an hour of looking."
+      ],
+      "good_for": ["families", "photographers", "solo"],
+      "faqs": [
+        {"q": "How old are the Mamley stromatolites?", "a": "The Geological Survey of India places them in the Buxa Formation of the Daling Group, of Proterozoic age, a span from about 2.5 billion to 541 million years ago. Exact dating of this outcrop is a matter for geologists; the key point is that they are Precambrian."},
+        {"q": "Is Mamley signposted?", "a": "There are boards at the site, and most Namchi taxi drivers know it as the stromatolite park near the Rock Garden on the Samdruptse road. If your driver is unsure, ask for Mamley. It is a few minutes above the Rock Garden."},
+        {"q": "Can we take a rock sample?", "a": "No. Mamley is a protected National Geological Monument, and removing or damaging rock is not allowed. Take photographs instead. Fragments sold by anyone nearby should be refused, as collection damages the site."}
+      ]
+    },
+    {
+      "slug": "rock-garden-morning-birdwatch",
+      "title": "Early birds in the Rock Garden",
+      "kind": "wildlife",
+      "duration": "1.5 hours",
+      "best_time": "6:30–8:30 am, March to May and October to December",
+      "cost": "≈ ₹10–30 entry; guide ₹800–1,500 optional",
+      "image_query": "sunbird Sikkim",
+      "wiki": "",
+      "summary": "The flowering shrubs and forest edges around the garden draw sunbirds, bulbuls, white-eyes and laughingthrushes in the early morning. A relaxed birding session for beginners, timed for opening before visitors arrive.",
+      "body": [
+        "Gardens at this altitude, around 1,700 m, sit where subtropical and temperate birds overlap. Flowering plants attract sunbirds and white-eyes; bulbuls and minivets move along the forest edge; laughingthrushes call from the undergrowth. You do not need to know names to enjoy them, only patience and a quiet pace.",
+        "Arrive at opening time with binoculars and walk the upper paths slowly, pausing at the edges where garden meets trees. Spring (March to May) brings breeding plumage and song; October to December brings clear light and winter visitors. Opening hours vary, so check the day before.",
+        "A local bird guide from Namchi or Ravangla adds names and calls for about ₹800–1,500 for a morning. Combine the session with the forest road below Samdruptse for more species. Wear muted colours and keep phones on silent."
+      ],
+      "good_for": ["photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "What birds can we see around the Rock Garden?", "a": "Common species at this altitude include sunbirds, white-eyes, bulbuls, minivets, laughingthrushes and various flycatchers. What you see depends on season and luck. A local guide or a field app such as Merlin helps with identification by sound."},
+        {"q": "Does the Rock Garden open early enough for birding?", "a": "Opening hours have generally been from the morning, but exact times vary. If the gate is not yet open, the forest road between the garden and Samdruptse is good for birding at dawn. Check current status before you travel."},
+        {"q": "Do we need binoculars?", "a": "They help a great deal. A pair of 8x or 10x binoculars is ideal. If you have none, a phone camera with zoom can capture birds for later identification. Some guides carry spare binoculars; ask when you book."}
+      ]
+    },
+    {
+      "slug": "rock-garden-sunset-tea-viewpoint",
+      "title": "Sunset tea over the Namchi valley",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Late afternoon, October to February",
+      "cost": "≈ ₹100–200 per person",
+      "image_query": "Namchi valley sunset Sikkim",
+      "wiki": "",
+      "summary": "End a Namchi day with a cup of Temi tea at the garden's café or viewpoints as the sun drops towards the Darjeeling ridge and Namchi's lights come on below. Simple, cheap and very local.",
+      "body": [
+        "Late afternoon in Namchi brings long golden light across the valley. From the Rock Garden's viewpoints you look south-west over the town to the hills of Darjeeling district, where the sun sets between October and February. Solophok's Shiva catches the last light before the town falls into shadow.",
+        "Order tea at the café near the entrance; ask whether they have Temi, Sikkim's own organic tea, grown about an hour away. With it, try a plate of momos or a packet of local biscuits. A simple tea and snack costs about ₹100–200 per person.",
+        "Check closing time when you arrive, as gardens often shut around 5–6 pm and the sunset may fall just after. If so, enjoy the view from the road edge outside. Bring a warm layer; temperatures drop fast once the sun goes, especially in December and January."
+      ],
+      "good_for": ["couples", "families", "budget"],
+      "faqs": [
+        {"q": "Is Temi tea served at the Rock Garden café?", "a": "Often, but not always; many cafés in Namchi serve Temi tea, Sikkim's single state-run estate tea, alongside regular CTC. Ask. If not, buy a packet of Temi tea in Namchi market to brew at your hotel."},
+        {"q": "What time does the Rock Garden close?", "a": "Closing time has generally been in the late afternoon, around 5–6 pm, but varies. Check at the ticket counter when you arrive. In winter, sunset is around 4:50–5:10 pm, so the timing usually works."},
+        {"q": "Is it safe to drive down after dark?", "a": "Yes, with a local driver. The road between the Rock Garden and Namchi is short and well used. Self-drivers unfamiliar with hill roads should start down before full dark. Fog can settle on winter evenings."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Namchi Rock Garden worth visiting?", "a": "Yes, as a short stop rather than a destination. It takes under an hour, is good for children and seniors, has views of both Samdruptse and Char Dham, and sits beside the Mamley stromatolite site. Most visitors fit it into a Samdruptse morning on the way down."},
+    {"q": "What is the entry fee for Namchi Rock Garden?", "a": "Entry is a small fee, roughly ₹10–30 per person, with parking extra. Fees are revised from time to time, so check current status before you travel. Children are usually charged less."},
+    {"q": "Where is the Rock Garden in Namchi?", "a": "On the road from Namchi town up to Samdruptse, about 5 km from Central Park and 10–15 minutes by car. Mamley's stromatolite site is just above it. Every Namchi taxi driver knows the route."},
+    {"q": "How much time do we need at the Rock Garden?", "a": "Allow 45–60 minutes: 30–45 for the garden loop and 15–20 for the stromatolite site at Mamley. Add time if you stop for tea or a picnic. Combine it with Samdruptse and Char Dham for a half day."},
+    {"q": "What are the Mamley stromatolites?", "a": "They are layered structures made by ancient microbial mats, preserved in dolomite of the Buxa Formation, of Proterozoic age. The Geological Survey of India has declared the site a National Geological Monument. It is one of the rare places in the Sikkim Himalaya showing evidence of early life."},
+    {"q": "When is the best time to visit the Rock Garden?", "a": "March to May for flowers and October to December for clear views. The garden stays open in winter and the monsoon, but paths get slippery when wet. Mid-morning, once dew has dried, is the most pleasant time."},
+    {"q": "Is the Rock Garden wheelchair accessible?", "a": "Only partly. The entrance area and some viewpoints are reachable, but most paths are stepped and steep. Wheelchair users can enjoy the café and upper viewpoint; the full loop is not practical. Samdruptse's lower terrace and Char Dham are more accessible."},
+    {"q": "Can we walk from Namchi to the Rock Garden?", "a": "Fit walkers can, about 5 km uphill on the road, 1.5–2 hours. It is more pleasant to drive up to Samdruptse and walk down via the Rock Garden instead, letting gravity help. Watch for traffic on bends."},
+    {"q": "Is there a café at the Rock Garden?", "a": "Yes, a small cafeteria near the entrance serves tea, coffee and snacks. For a full meal, eat in Namchi town, where restaurants around Central Park serve thalis, momos, thukpa and Indian dishes."}
+  ]
+}

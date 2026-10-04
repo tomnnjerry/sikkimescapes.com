@@ -1,0 +1,161 @@
+{
+  "slug": "aritar-weekend-2n-budget",
+  "title": "Aritar weekend: lake, Mankhim and villages",
+  "region": "pakyong",
+  "tier": "budget",
+  "nights": 2,
+  "themes": [
+    "village-homestays",
+    "family-holidays",
+    "offbeat-sikkim"
+  ],
+  "stops": [
+    {
+      "place": "aritar",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station, Bagdogra Airport (IXB) or Gangtok",
+  "end": "NJP station, Bagdogra Airport (IXB) or Gangtok",
+  "price_from_inr": 6500,
+  "price_basis": "per person, twin sharing, 4 travellers sharing one car, Aritar homestay with dinner and breakfast",
+  "price_breakdown": [
+    [
+      "Homestay, 2 nights with dinner and breakfast",
+      2800
+    ],
+    [
+      "Shared car and driver, 3 days",
+      2900
+    ],
+    [
+      "Entry fee and boating",
+      300
+    ],
+    [
+      "Our planning fee",
+      500
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Easy",
+  "max_altitude_m": 1980,
+  "meta_description": "Aritar weekend, 2 nights from NJP or Gangtok: Lampokhari Lake, the 1895 dak bungalow, Mankhim sunrise and village walks. From ₹6,500 per person.",
+  "summary": "A two-night weekend at Aritar, a farming village at about 1,400 m around Lampokhari Lake. Walk and row on the lake, see the 1895 British dak bungalow, catch sunrise at the Rai temple of Mankhim and wander through cardamom and paddy. No protected-area permit, low altitude, and easy from Siliguri or Gangtok.",
+  "intro": [
+    "Aritar is the place we send people who want a real break in the hills without permits, altitude or long climbs. It sits on a green shelf above the Rangpo valley in Pakyong district, about four and a half hours from NJP and three from Gangtok. The village spreads around Lampokhari, a long natural lake that is one of the few in Sikkim with boats, and above it rises Mankhim, a Rai community temple with views over the whole valley.",
+    "This is a slow trip by design. Two nights let you see the lake at dawn and dusk, walk between villages, climb to Mankhim for sunrise and still have an afternoon to do nothing. It suits families with small children, older parents, mixed groups with foreign friends, and anyone who needs a cheap, quiet weekend."
+  ],
+  "highlights": [
+    "Lampokhari Lake at dawn, before the boats come out",
+    "Sunrise from Mankhim, the Rai temple at about 1,980 m",
+    "The 1895 dak bungalow built by Sikkim's first British Political Officer",
+    "Village walks through cardamom, paddy and orange trees",
+    "No protected-area permit and no altitude worries"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Aritar and Lampokhari Lake",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "alt_m": 1400,
+      "drive": "≈ 115 km · 4.5 h",
+      "text": "Pick-up at NJP station or Bagdogra airport and the drive north along the Teesta on NH10 to Rangpo, the gateway into Sikkim. From Rorathang the road climbs to Aritar, a farming village at about 1,400 m spread around Lampokhari Lake. After check-in at a family homestay or simple lodge near the lake, walk the lakeside path, which takes about 45 minutes, and look up at the 1895 dak bungalow built by John Claude White, Sikkim's first British Political Officer. Aritar needs no protected-area permit, and the low altitude makes it an ideal first night.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Mankhim sunrise and the villages",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "alt_m": 1400,
+      "drive": "≈ 15 km local",
+      "text": "Wake early for the short drive up to Mankhim, the Rai temple at about 1,980 m, for sunrise over the Rangpo valley and, on clear mornings, the snow peaks to the north-west. The Rai are a Kirati people and Mankhim is their place of worship; dress modestly and ask before photographing rituals. Back for breakfast, then a slow day: a village walk through cardamom and paddy with a local guide, a boat on Lampokhari in the afternoon, and tea by the water. Overnight at a family homestay or simple lodge near the lake.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Aritar to NJP or Bagdogra",
+      "place": "aritar",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 115 km · 4.5 h",
+      "text": "A last walk around Lampokhari Lake at dawn, when the water is still and the boats are tied up, then breakfast. Leave Aritar by about 9 am and drive down via Rorathang to Rangpo and along the Teesta on NH10 to Siliguri, reaching NJP station or Bagdogra airport by early afternoon. If NH10 is closed by a landslide in the monsoon, the driver will take the road via Reshi, Pedong and Kalimpong, which adds about an hour. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Homestay or budget hotel rooms on twin sharing, with dinner and breakfast at homestays",
+    "Seat in one shared car (small car or Bolero class) for the whole route, with fuel, tolls and driver costs",
+    "The ₹50 Sikkim tourist entry fee",
+    "Our planning, homestay bookings and a phone number that answers during the trip"
+  ],
+  "excludes": [
+    "Train or flight tickets to NJP or Bagdogra",
+    "Lunches, snacks and drinks unless stated",
+    "Local guide for the village walk (≈ ₹300–500)",
+    "Boating, entry tickets, snow-boot hire and tips",
+    "Personal travel insurance"
+  ],
+  "good_to_know": [
+    "Aritar needs no protected-area permit; foreign nationals need only their standard Sikkim entry permit.",
+    "Lakeside rooms fill first on long weekends and in Puja week; book two to three weeks ahead.",
+    "Boats on Lampokhari may stop in heavy rain; early morning is the quietest time for the lake path.",
+    "NH10 between Siliguri and Rangpo closes after landslides in the monsoon; the alternatives are via Kalimpong and Lava, Algarah, or Pedong and Rhenock, which add one to two hours.",
+    "From Gangtok the drive is about 3 hours each way; tell us your start point and we adjust the car cost."
+  ],
+  "upgrade": "The value version uses a private car for two and the best lake-view rooms for about ₹10,000–11,000 per person.",
+  "faqs": [
+    {
+      "q": "Do I need a permit for this trip?",
+      "a": "No protected-area permit is needed for Aritar, Lampokhari, Mankhim, Rhenock or Pakyong town. Indian travellers pay only the ₹50 Sikkim tourist entry fee, collected by the first hotel or homestay and included in the price. If you decide to add a day trip to Zuluk, we arrange the Silk Route permit at Rongli. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals book this trip?",
+      "a": "Yes, with care. Aritar, Lampokhari, Mankhim, Rhenock and Pakyong town lie outside the protected area, so foreign nationals need only their standard Sikkim entry permit from the e-FRRO portal. Zuluk and the Silk Route above Rongli are closed to them. For Rolep, ask us about the current position. Check current status before you travel."
+    },
+    {
+      "q": "Is Aritar good for a weekend from Siliguri?",
+      "a": "Yes. Aritar is about 115 km and 4.5 hours from NJP or Siliguri, so you can leave on Friday night's train arrival or Saturday morning and be by the lake for lunch. Two nights give you a sunrise at Mankhim, a boat on Lampokhari and a slow day of village walks before the drive back on Monday morning."
+    },
+    {
+      "q": "Is Aritar suitable for small children and older parents?",
+      "a": "Very. At about 1,400 m there is no altitude issue, the lake path is mostly level, and the drive from NJP has no high passes. Mankhim involves a short walk from the road. Homestays will make less spicy food for children if you ask. In the monsoon, keep children away from the lake edge and watch for leeches on forest paths."
+    },
+    {
+      "q": "What is the best time for an Aritar weekend?",
+      "a": "October to early December for clear mountain views and golden paddy, and February to April for mild days and flowers. Aritar is pleasant in every month because it is low, but the monsoon from late June to mid-September brings rain, leeches and possible slides on NH10. Avoid Puja and long weekends if you want the lake quiet."
+    },
+    {
+      "q": "Can we add Zuluk to this weekend?",
+      "a": "Not comfortably in two nights. Zuluk is about 55 km and 3 hours from Aritar plus the permit stop at Rongli, and it is for Indian nationals only. A day trip makes for a very long day at altitude. Add one or two nights and turn this into our Silk Route trip, or come back another time for Zuluk properly."
+    },
+    {
+      "q": "How much does boating cost at Lampokhari?",
+      "a": "Usually about ₹100–300 per person depending on the boat and how long you stay out; prices are set at the counter and change, so check on the day. We include a basic boat ride in this trip. Boats run in the daytime and may stop in heavy rain or strong wind."
+    },
+    {
+      "q": "What food is available in Aritar?",
+      "a": "Homestays serve home-style Sikkimese and Nepali food: rice, dal, seasonal vegetables, local greens, chicken or pork curry, and puri or paratha for breakfast, with momos on request. There are small tea shops and snack stalls by the lake. Tell your host in advance about vegetarian or Jain needs; most families are happy to cook to order."
+    },
+    {
+      "q": "Is the price the same from Gangtok?",
+      "a": "Close to it. From Gangtok the drive is about 70 km and 3 hours each way rather than 4.5 hours from NJP, so the car cost per person drops by a few hundred rupees. Tell us your start and end points and we will quote exactly. Shared jeeps from Gangtok to Rhenock are also possible for a cheaper, slower trip."
+    }
+  ]
+}

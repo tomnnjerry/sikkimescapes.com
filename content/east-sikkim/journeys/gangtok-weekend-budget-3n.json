@@ -1,0 +1,184 @@
+{
+  "slug": "gangtok-weekend-budget-3n",
+  "title": "Gangtok weekend on a budget",
+  "region": "east-sikkim",
+  "tier": "budget",
+  "nights": 3,
+  "themes": [
+    "lakes-and-passes",
+    "monasteries"
+  ],
+  "stops": [
+    {
+      "place": "gangtok",
+      "nights": 3
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 8500,
+  "price_basis": "per person, twin sharing, 2 people, shared jeeps and a shared Tsomgo seat, clean budget guest house with breakfast",
+  "price_breakdown": [
+    [
+      "Stays, 3 nights with breakfast",
+      4500
+    ],
+    [
+      "Shared jeeps NJP–Gangtok and back",
+      1000
+    ],
+    [
+      "Tsomgo and Baba Mandir shared seat with permit",
+      1200
+    ],
+    [
+      "Half-day city tour, small car shared by two",
+      1300
+    ],
+    [
+      "Sikkim tourist fee",
+      50
+    ],
+    [
+      "Our planning fee",
+      500
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Easy",
+  "max_altitude_m": 4000,
+  "meta_description": "A 3 nights Gangtok weekend on a budget from ₹8,500 per person: shared jeeps, Tsomgo Lake and Baba Mandir, monasteries and MG Marg, with a clean guest house.",
+  "summary": "Three nights in Gangtok for about ₹8,500 per person: shared jeeps up from NJP or Bagdogra, a quiet guest house within walking distance of MG Marg, a shared seat to Tsomgo Lake and Baba Mandir, and a half-day of monasteries and viewpoints. Our cheapest honest way to see Sikkim's capital.",
+  "intro": [
+    "This is the trip we suggest to students, young couples and anyone who wants to see Gangtok properly without paying for a private car every day. You ride the shared jeeps that local people use, sleep in a simple, clean guest house in the centre, and spend the money that matters on the one day that needs a registered vehicle: the climb to Tsomgo Lake at 3,753 m and Baba Mandir at about 4,000 m.",
+    "The pace is easy. Day 1 is a travel day with a walk on MG Marg, day 2 is the high day and day 3 is monasteries and viewpoints, with time to wander Lal Market. Every price is listed below, including our planning fee, so you can see exactly where your money goes. Indian nationals can add Nathu La on its open days for a small extra charge, and anyone can add a night for Rumtek."
+  ],
+  "highlights": [
+    "Tsomgo Lake at 3,753 m and the Baba Harbhajan Singh shrine, on a shared seat",
+    "Evenings on MG Marg, Gangtok's car-free main street",
+    "Enchey Monastery and the 108 prayer wheels of the Do Drul Chorten",
+    "Momos and thukpa in the lanes behind MG Marg for under ₹250",
+    "Optional Nathu La (4,310 m) for Indian nationals, Wednesday to Sunday"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Shared jeep up to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "We meet you at NJP station or Bagdogra and put you on a shared jeep to Gangtok, or you take the SNT bus from Siliguri if you prefer. The road follows NH10 up the Teesta valley through Sevoke, Melli and the Rangpo check post, where Sikkim begins. In the monsoon NH10 can close after landslides, and the detour via Kalimpong and Lava adds two to four hours; check current road status before you travel. Check in, hand over your ID and two photos for tomorrow's permit, and walk MG Marg in the evening.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Tsomgo Lake and Baba Mandir",
+      "place": "tsomgo-lake",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 104 km round trip · 7–8 h",
+      "text": "Your shared vehicle leaves at about 7:30 am and climbs past the 15th Mile check post and the Kyongnosla forest to Tsomgo Lake, 38–40 km from town at 3,753 m. The lake freezes in winter and is a calm blue in autumn. Walk slowly and keep warm. Continue to Baba Mandir, the shrine to Sepoy Harbhajan Singh, who died near Nathu La in 1968. Indian nationals can add Nathu La (4,310 m) from Wednesday to Sunday for about ₹300–400 more on a shared seat. Back in Gangtok by about 4 pm for an early night.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Monasteries, viewpoints and Lal Market",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 30 km · half day",
+      "text": "A half-day small car, shared by the two of you, takes you to Enchey Monastery, built in 1909 for the Nyingma school, then to the Do Drul Chorten with its 108 prayer wheels and the Namgyal Institute of Tibetology next door. Finish at Ganesh Tok for the view over town, and on a clear morning to the Kanchenjunga range. The afternoon is free: ride the ropeway from Deorali, browse Lal Market for churpi and tea, and eat momos where the taxi drivers eat. Pack tonight for an early start.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Down to NJP or Bagdogra",
+      "place": "gangtok",
+      "overnight": "",
+      "alt_m": 126,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "After an early breakfast we put you on a shared jeep to NJP or Siliguri, or you take the morning SNT bus. You reach the plains by early afternoon, in time for most evening trains and afternoon flights from Bagdogra. If your flight leaves before about 1 pm, tell us when you book and we will suggest a last night in Siliguri instead. In the monsoon allow extra time for possible NH10 closures and the Kalimpong detour; check current road status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "mintokling-guest-house-gangtok",
+    "hotel-sonam-delek-gangtok"
+  ],
+  "includes": [
+    "3 nights in a clean budget guest house or hotel near MG Marg, twin sharing, with breakfast",
+    "Shared jeep seats NJP or Siliguri to Gangtok and back",
+    "Shared seat to Tsomgo Lake and Baba Mandir with permit",
+    "Half-day city tour in a small car shared by two",
+    "Sikkim ₹50 tourist fee",
+    "Our planning, permit paperwork and 24-hour phone support"
+  ],
+  "excludes": [
+    "Train or flights to NJP or Bagdogra",
+    "Lunches and dinners",
+    "Nathu La add-on (Indian nationals only)",
+    "Entry fees, ropeway ticket, yak rides and snow-boot rental",
+    "Porterage, tips and anything not listed"
+  ],
+  "good_to_know": [
+    "Nathu La is for Indian nationals only and is usually closed on Monday and Tuesday; check current status before you travel",
+    "Bring two passport photos and a photo ID per person for the Tsomgo permit",
+    "Foreign nationals can visit Tsomgo in a group of two or more with a one-day permit",
+    "Shared jeeps leave when full; morning departures are the most reliable",
+    "Budget rooms may charge extra for a heater from November to February",
+    "Carry a refillable bottle; packaged water is restricted in parts of Sikkim at times"
+  ],
+  "upgrade": "Our value Gangtok trip swaps shared jeeps for a private small car and moves you to a 3-star hotel such as Hotel Tibet, for roughly ₹7,000–9,000 more per person.",
+  "faqs": [
+    {
+      "q": "Is ₹8,500 really enough for a Gangtok weekend?",
+      "a": "Yes, for the parts we list: rooms, shared transport, the Tsomgo seat with permit, a half-day city tour, the state fee and our planning fee, per person on twin sharing. Budget another ₹500–800 a day for lunches, dinners and small entry fees. Trains or flights to NJP or Bagdogra are extra. Prices are indicative and rise in peak weeks."
+    },
+    {
+      "q": "Can I add Nathu La to this trip?",
+      "a": "Yes, if you are an Indian national and day 2 falls between Wednesday and Sunday. Nathu La is usually closed on Monday and Tuesday and after heavy snow. On a shared seat it adds about ₹300–400 per person, including the permit of about ₹200. Foreign nationals cannot visit Nathu La. Check current status before you travel."
+    },
+    {
+      "q": "What happens if Tsomgo is closed for snow?",
+      "a": "We move the Tsomgo day to day 3 and do the city tour on day 2, which is why the permit day is never the last full day. If the road stays closed both days, we refund the unused Tsomgo seat and arrange Rumtek or Ranka instead. Closures are most common from December to March."
+    },
+    {
+      "q": "Which hotel will we stay in?",
+      "a": "Usually Mintokling Guest House on Bhanu Path or Hotel Sonam Delek on Tibet Road, both about 10 minutes on foot from MG Marg, or a similar clean budget property if they are full. Rooms are simple, with private bathrooms and hot water. We confirm the name before you pay."
+    },
+    {
+      "q": "Is a shared jeep safe for the drive from NJP?",
+      "a": "Yes. Shared jeeps are how most people in Sikkim travel between towns, and drivers know NH10 well. They leave when full and stop briefly on the way. If you get carsick, ask for a front seat or book two seats. The SNT bus from Siliguri is a slower, steadier alternative at a similar price."
+    },
+    {
+      "q": "Can foreigners book this budget Gangtok trip?",
+      "a": "Yes. Foreign nationals need a Sikkim Restricted Area Permit, applied for online on the e-FRRO portal after arriving in India since 12 January 2026. Tsomgo is allowed in a group of two or more with a one-day permit through our registered agent. Nathu La is not allowed. Check current rules before you travel."
+    },
+    {
+      "q": "Is this trip suitable for children?",
+      "a": "Yes, with care on the Tsomgo day. The lake is at 3,753 m, so keep children warm, keep the visit short and come down if they become drowsy or sick. Shared jeeps can be tiring for small children; a private car upgrade helps. Children under 5 are exempt from the ₹50 Sikkim fee."
+    },
+    {
+      "q": "What is the best month for this Gangtok weekend?",
+      "a": "October and November for clear skies and Kanchenjunga views, March to May for flowers and mild days, and January to February if you want snow at Tsomgo, with more risk of closures. We do not recommend July and August, when monsoon landslides can close NH10. Check current road status before you travel."
+    },
+    {
+      "q": "Can we change the dates or add a night?",
+      "a": "Yes. Extra nights at the same guest house cost about ₹1,300–2,000 per person with breakfast, depending on season. A fourth night lets you add Rumtek and Ranka or keep a spare day for snow closures. Tell us your dates and we will confirm availability and the updated price before you book."
+    }
+  ]
+}

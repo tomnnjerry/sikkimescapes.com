@@ -1,0 +1,164 @@
+{
+  "slug": "rinchenpong-weekend-budget-2n",
+  "title": "Rinchenpong weekend from NJP, budget",
+  "region": "soreng",
+  "tier": "budget",
+  "nights": 2,
+  "themes": [
+    "village-homestays",
+    "monasteries",
+    "offbeat-sikkim"
+  ],
+  "stops": [
+    {
+      "place": "rinchenpong",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station or Siliguri",
+  "end": "NJP station or Siliguri",
+  "price_from_inr": 5500,
+  "price_basis": "per person, twin sharing, 2 people, shared jeeps both ways, family homestay with dinner and breakfast",
+  "price_breakdown": [
+    [
+      "Homestay, 2 nights with meals",
+      3000
+    ],
+    [
+      "Shared jeeps NJP–Rinchenpong–NJP",
+      1200
+    ],
+    [
+      "Sikkim entry fee, donations, local walks",
+      300
+    ],
+    [
+      "Our planning fee",
+      1000
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Easy",
+  "max_altitude_m": 1700,
+  "meta_description": "Rinchenpong weekend: 2 nights from NJP by shared jeep with a family homestay, the 1730 monastery and Kangchenjunga sunrise. From ₹5,500 per person.",
+  "summary": "The cheapest good weekend in Sikkim: two nights in a family homestay on the Rinchenpong ridge, reached by shared jeep from Siliguri. You get two Kangchenjunga sunrises, the old monastery with its Ati Buddha, a forest walk to Resum Gompa and an afternoon in Kaluk. From ₹5,500 per person, indicative for 2026.",
+  "intro": [
+    "This is the trip we suggest to students, young couples and anyone in Siliguri, Kolkata or Bihar who has a long weekend and a small budget. Rinchenpong sits at about 1,650 m on a forested ridge in Soreng district, facing the full Kangchenjunga range. There are no ticketed sights and no traffic, so once you arrive almost everything is free: walks, monasteries, sunrises and conversations in your homestay kitchen. It is close enough to Siliguri for a Friday-to-Sunday break.",
+    "We keep costs low by using shared jeeps from Siliguri to Jorethang and on to Rinchenpong, and a family homestay that includes dinner and breakfast. We book the homestay, tell you which jeep counter to use and stay on call. If you would rather not change jeeps, a reserved small car from NJP adds roughly ₹2,500–3,000 per person for two people. Everything else, from the monastery to the forest trail, is on foot from your homestay door."
+  ],
+  "highlights": [
+    "Two chances at a Kangchenjunga sunrise from the Rinchenpong ridge",
+    "Rinchenpong Monastery, dated by Wikipedia to 1730, with its rare Ati Buddha image",
+    "A quiet forest walk to Resum Gompa on the crest of the ridge",
+    "Orchard roads to Kaluk and tea in its small bazaar",
+    "Home-cooked Sikkimese food with a local family"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Siliguri to Rinchenpong by shared jeep",
+      "place": "rinchenpong",
+      "overnight": "Rinchenpong",
+      "alt_m": 1650,
+      "drive": "≈ 125 km · 5.5–6.5 h with a change",
+      "text": "Take an early auto or cab from NJP to the jeep stand near Siliguri's SNT bus terminus and board a shared jeep for Jorethang, about 3–3.5 hours along the Teesta on NH10 to Melli and up the Rangeet valley. In the monsoon, slides can close NH10; jeeps then run via Darjeeling and take longer. At Jorethang, change to a local jeep for the 40 km, 2-hour climb to Rinchenpong. Your hosts meet you at the stop. Tea on the terrace, then an early dinner.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Monastery, Resum Gompa and Kaluk",
+      "place": "rinchenpong",
+      "overnight": "Rinchenpong",
+      "alt_m": 1650,
+      "drive": "",
+      "text": "Wake before dawn for sunrise on Kangchenjunga, usually best between 5:30 and 6:15 am from October to March. After breakfast, walk up to Rinchenpong Monastery, known for its Ati Buddha in the yab-yum posture, then continue on the forest trail to Resum Gompa, about 30–45 minutes each way. In the afternoon, walk down past the small Poison Lake and along the orchard road to Kaluk, about 3 km, for tea in the bazaar. Take a shared jeep or walk back for dinner.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Second sunrise and back to Siliguri",
+      "place": "rinchenpong",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 125 km · 5.5–6.5 h with a change",
+      "text": "One more sunrise from the ridge, then breakfast and an early jeep down to Jorethang, where you change for Siliguri. Aim to leave Rinchenpong by 8 am, as afternoon jeeps from Jorethang fill up quickly. You should reach Siliguri by mid-afternoon, in time for evening trains from NJP. Book trains or flights after 6 pm to be safe, since landslides or traffic can add hours. If you have a little time at Jorethang, the riverside bazaar has good snacks for the road.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "rinchenpong-homestays"
+  ],
+  "includes": [
+    "2 nights in a family homestay in Rinchenpong, twin sharing",
+    "Dinner and breakfast both days",
+    "Shared jeep seats Siliguri–Jorethang–Rinchenpong and back, booked or guided",
+    "Sikkim tourist entry fee",
+    "Walking route notes and phone support"
+  ],
+  "excludes": [
+    "Transfer from NJP or Bagdogra to the Siliguri jeep stand",
+    "Lunches and snacks",
+    "Reserved car, unless upgraded",
+    "Monastery donations",
+    "Anything personal"
+  ],
+  "good_to_know": [
+    "Shared jeeps leave when full; start early and keep a buffer of a few hours on the way home.",
+    "Signal is good on most of the ridge; carry some cash as small shops may not take UPI.",
+    "Nights are cool in every month except June to August: bring a warm layer.",
+    "Indian travellers need no permit; foreigners need Sikkim's Restricted Area Permit via e-FRRO.",
+    "In the monsoon, NH10 closures can lengthen the journey; check current status before you travel."
+  ],
+  "upgrade": "The value version adds a reserved small car from NJP and back and a Kaluk village resort, for about ₹11,000–13,000 per person.",
+  "faqs": [
+    {
+      "q": "Is two nights enough for Rinchenpong?",
+      "a": "Yes, for a first visit. Two nights give you one full day for the monastery, Resum Gompa and Kaluk, plus two sunrises in case one is cloudy. The journey from Siliguri takes most of a day each way, so a single night is not worth it. Add a third night if you want to visit Hilley for the Barsey rhododendron walk."
+    },
+    {
+      "q": "How long does the shared jeep from Siliguri to Rinchenpong take?",
+      "a": "Allow 5.5–6.5 hours including the change at Jorethang: about 3–3.5 hours from Siliguri to Jorethang and about 2 hours from Jorethang to Rinchenpong, plus waiting for the second jeep to fill. A few direct jeeps run in the mornings. In the monsoon, slides on NH10 can add one to two hours."
+    },
+    {
+      "q": "What does the ₹5,500 price include?",
+      "a": "Two nights in a family homestay with dinner and breakfast, shared jeep seats from Siliguri to Rinchenpong and back, the ₹50 Sikkim entry fee, our route notes and phone support, and our planning fee. It does not include getting from NJP to the Siliguri jeep stand, lunches, donations or anything personal. Indicative for 2026."
+    },
+    {
+      "q": "Can I do this trip with a private car instead?",
+      "a": "Yes. A reserved small car from NJP to Rinchenpong and back costs roughly ₹9,000–11,000 for the car, so about ₹2,500–3,000 extra per person for two people, and less per head for four. It saves the change at Jorethang and lets you stop on the way. Ask us to quote it."
+    },
+    {
+      "q": "When is the best time for a Rinchenpong weekend?",
+      "a": "October to December for the clearest Kangchenjunga views, and March to April for spring flowers and mild days. January and February are cold but bright. Avoid June to August, when monsoon rain, cloud and road closures are common. Long weekends in October and December are busy, so book early."
+    },
+    {
+      "q": "Is this trip suitable for solo travellers?",
+      "a": "Yes. Shared jeeps and homestays suit solo travellers well, and Rinchenpong is quiet and safe. A solo traveller pays a single-room supplement in the homestay, usually ₹500–800 a night, or can choose a dorm bed at Zostel Rinchenpong instead. Let us know and we will adjust the price."
+    },
+    {
+      "q": "What food is served in the homestay?",
+      "a": "Home-style Sikkimese food: rice, dal, a seasonal vegetable, greens, pickles and often chicken or pork at dinner, with puri, eggs or noodles for breakfast. Vegetarian meals are easy to arrange if you tell us in advance. Lunch is not included, but you can eat momos or thukpa in Kaluk bazaar for about ₹100–200."
+    },
+    {
+      "q": "Do I need a permit for Rinchenpong?",
+      "a": "Indian travellers need no special permit, only the ₹50 Sikkim tourist entry fee, which is included. Foreign nationals need Sikkim's Restricted Area Permit, applied for online on the e-FRRO portal after arriving in India, with approval usually in 24–48 hours. Rules change, so check current status before you travel."
+    },
+    {
+      "q": "What should I pack for a weekend in Rinchenpong?",
+      "a": "Warm layers for mornings and evenings, a rain jacket from April to October, comfortable walking shoes for the forest trail to Resum Gompa, a torch for early sunrises, a refillable water bottle and some cash. A small daypack is useful in the shared jeep, as large bags go on the roof."
+    }
+  ]
+}

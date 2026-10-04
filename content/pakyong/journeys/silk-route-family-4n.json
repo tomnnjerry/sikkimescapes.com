@@ -1,0 +1,194 @@
+{
+  "slug": "silk-route-family-4n",
+  "title": "Silk Route family trip, 4 nights",
+  "region": "pakyong",
+  "tier": "value",
+  "nights": 4,
+  "themes": [
+    "family-holidays",
+    "lakes-and-passes",
+    "village-homestays"
+  ],
+  "stops": [
+    {
+      "place": "aritar",
+      "nights": 1
+    },
+    {
+      "place": "padamchen",
+      "nights": 1
+    },
+    {
+      "place": "zuluk",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 16000,
+  "price_basis": "per adult, twin sharing, family of 4 (2 adults, 2 children) with one private car, better homestays and a lake-view hotel; children's price on request",
+  "price_breakdown": [
+    [
+      "Lake hotel 1 night, homestays 3 nights with meals",
+      7500
+    ],
+    [
+      "Private car and driver for the family, 5 days",
+      6000
+    ],
+    [
+      "Silk Route permit and entry fee",
+      500
+    ],
+    [
+      "Our planning fee",
+      2000
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Easy",
+  "max_altitude_m": 4100,
+  "meta_description": "Silk Route family trip, 4 nights: Aritar lake, Padamchen forest, two nights at Zuluk, Nathang and Kupup by day. From ₹16,000 per adult, private car.",
+  "summary": "A Silk Route trip shaped around children and parents. Start by Aritar's lake, sleep in forest Padamchen, then two nights at Zuluk, with Thambi, the Nathang plateau and Kupup's Elephant Lake visited by day so nobody sleeps at 4,000 m. A private car for the family and better homestay rooms.",
+  "intro": [
+    "Families ask us two things about the Silk Route: will the children be fine at altitude, and will the parents be comfortable. This trip answers both. The highest night is Zuluk at about 2,900 m, reached only after nights at Aritar at 1,400 m and Padamchen at 2,200 m. The high places, Thambi, the Nathang plateau and Kupup at around 4,000 m, are visited by day and left before evening.",
+    "You have one private car for the whole family, so you can stop when a child is carsick, hungry or wants to throw a snowball. Rooms are the better homestays with attached bathrooms and geysers, and a lake-view hotel at Aritar. The pace is slow, the drives are short except on the last day, and every afternoon has time to rest."
+  ],
+  "highlights": [
+    "No night above Zuluk, about 2,900 m: kinder for children and grandparents",
+    "Boating and an easy lake walk at Aritar",
+    "Thambi, Nathang and Kupup's Elephant Lake as a day trip",
+    "A private car for the family, with stops whenever you need them",
+    "Better homestay rooms with attached bathrooms"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Aritar and Lampokhari Lake",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "alt_m": 1400,
+      "drive": "≈ 115 km · 4.5 h",
+      "text": "Pick-up at NJP station or Bagdogra airport and the drive north along the Teesta on NH10 to Rangpo, the gateway into Sikkim. From Rorathang the road climbs to Aritar, a farming village at about 1,400 m spread around Lampokhari Lake. After check-in at a good lake-view hotel or the better homestays, walk the lakeside path, which takes about 45 minutes, and look up at the 1895 dak bungalow built by John Claude White, Sikkim's first British Political Officer. Aritar needs no protected-area permit, and the low altitude makes it an ideal first night.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Aritar to Padamchen via Rongli",
+      "place": "padamchen",
+      "overnight": "Padamchen",
+      "alt_m": 2200,
+      "drive": "≈ 40 km · 2.5 h plus permit",
+      "text": "A slow morning at Aritar: lake at dawn, breakfast, and an hour at Mankhim for the view. Then drive via Rhenock, the old trading town, to Rongli for the Silk Route permit and lunch. The road above Rongli follows the river past Lingtam and climbs through forest to Padamchen, a quiet village at about 2,200 m. It is a gentle step up in altitude, which helps everyone sleep well and keeps headaches away when you go higher. Evening walk along the road and dinner at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Padamchen to Zuluk, an easy climb",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "alt_m": 2900,
+      "drive": "≈ 13 km · 45 min",
+      "text": "A short drive today, which is the point: your body gets another day to adjust before the high plateau. Leave Padamchen after a relaxed breakfast and climb about 700 m through forest to Zuluk at roughly 2,900 m. The afternoon is free. Walk around the village, watch the Army convoys heading up the loops, and if the sky is clear, ask your driver for a late-afternoon run to the first bends above the village for the evening light. Dinner and an early night at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Thambi, Nathang and Kupup by day",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "alt_m": 2900,
+      "drive": "≈ 75 km round trip · 6 h",
+      "text": "Pre-dawn start for sunrise at Thambi View Point, about 3,400 m, with the loops falling away below and the snow peaks to the west on a clear morning. Continue past Lungthung to the Nathang plateau at about 4,000 m for the 1888 war memorial and the small monastery, then on past Old Baba Mandir to Kupup and Elephant Lake. You visit the high places by day and come back down to sleep at Zuluk, about 1,100 m lower, which is easier on children and anyone unsure of altitude. Overnight at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Zuluk down to NJP or Bagdogra",
+      "place": "zuluk",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 140 km · 6 h",
+      "text": "After breakfast, leave Zuluk by about 8 am and drive down through Padamchen and Lingtam to Rongli, then along the river to Rorathang and Rangpo, and down NH10 beside the Teesta to Siliguri. Stop for lunch at Rongli or Rangpo. You should reach NJP station or Bagdogra airport by mid-afternoon, in time for an evening train or a late flight. If NH10 is closed by a landslide in the monsoon, the driver will use the longer road via Rhenock, Pedong and Kalimpong. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Better homestay rooms with attached bathrooms on the Silk Route and good 3-star hotels elsewhere, twin sharing",
+    "Dinner and breakfast at homestays; breakfast at hotels",
+    "A private small car or Bolero-class vehicle for your party, with fuel, tolls and driver costs",
+    "All permit processing the route needs",
+    "The ₹50 Sikkim tourist entry fee",
+    "Our planning, bookings and on-trip support"
+  ],
+  "excludes": [
+    "Train or flight tickets to NJP or Bagdogra",
+    "Lunches, snacks and drinks unless stated",
+    "Room heater charges at homestays (≈ ₹200–300 a night) where not included",
+    "Boating, entry tickets, snow-boot hire and tips",
+    "Extra nights or car days caused by snow, landslides or road closures",
+    "Personal travel insurance"
+  ],
+  "good_to_know": [
+    "The Old Silk Route beyond Rongli is open to Indian nationals only; foreign nationals, including OCI holders, cannot go to Zuluk, Nathang or Kupup.",
+    "Send a clear photo ID scan and two passport photos per person at least two days ahead so the Rongli permit is quick. Check current status before you travel.",
+    "There are no ATMs above Rongli and mobile signal is patchy above Zuluk; carry enough cash for the whole route.",
+    "Carry a refillable bottle, thermals, a warm cap and gloves in every season; nights above Zuluk are cold even in May.",
+    "NH10 between Siliguri and Rangpo closes after landslides in the monsoon; the alternatives are via Kalimpong and Lava, Algarah, or Pedong and Rhenock, which add one to two hours.",
+    "Carry motion-sickness tablets and snacks for children; the roads above Rongli wind constantly.",
+    "Children need a school ID, birth certificate or Aadhaar for the permit; under-5s are exempt from the ₹50 entry fee."
+  ],
+  "upgrade": "The comfort version adds an SUV, the best rooms on the route and a Pakyong hotel night for about ₹28,000–32,000 per adult.",
+  "faqs": [
+    {
+      "q": "Do I need a permit for this trip?",
+      "a": "Yes. Indian travellers need the Silk Route protected-area permit, processed at Rongli for about ₹200 per person plus handling, which is included in the price. Each person needs an original photo ID and two passport photos. Send scans two days ahead and the permit is usually ready within an hour at Rongli. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals book this trip?",
+      "a": "Not this one. The Old Silk Route beyond Rongli, including Padamchen, Zuluk, Nathang and Kupup, is open to Indian nationals only, and OCI card holders count as foreign nationals here. Mixed groups can stay together at Aritar, Rhenock or Gangtok while the Indian members go up. Ask us for a version of this trip that suits everyone, and check current status before you travel."
+    },
+    {
+      "q": "How high does this trip go, and will altitude be a problem?",
+      "a": "The highest point is about 4,100 m and the highest night is at Zuluk, about 2,900 m. Nathang and Kupup, at around 4,000 m, are visited by day only, and we sleep at Aritar and Padamchen first. Drink water steadily, skip alcohol at height and keep warm. Mild headache is common; vomiting, confusion or breathlessness at rest mean going down at once. Tell us about heart or lung conditions when you book."
+    },
+    {
+      "q": "What happens if a road closes during the trip?",
+      "a": "Your driver and our team decide on the day. If snow or a landslide closes a stretch, we reshuffle the route, wait a few hours, or swap a high night for a lower village such as Padamchen or Aritar. Extra nights or car days caused by closures are charged at cost. Keep a gap before any flight, and check current status before you travel."
+    },
+    {
+      "q": "Is there mobile network and an ATM on the way?",
+      "a": "ATMs are at Rangpo, Rhenock and Rongli, but there are none at Padamchen, Zuluk, Nathang or Kupup. Mobile signal is weak to absent above Zuluk, and UPI only works where there is signal. Carry cash for heaters, tea stalls, lunches and tips. Homestay Wi-Fi, where it exists, depends on power. Tell family you may be out of reach for a day."
+    },
+    {
+      "q": "What age is suitable for this trip?",
+      "a": "We have planned it for children from about six upwards and for fit grandparents. Very young children and anyone with heart or lung conditions should speak to their doctor first, and we can shorten the high day so you turn back at Thambi. Watch for unusual tiredness, vomiting or breathlessness, which mean going down."
+    },
+    {
+      "q": "How long are the drives for children?",
+      "a": "Day one is about 4.5 hours, days two and three are short at 1 to 2.5 hours plus the Rongli permit stop, and the high day is about 6 hours with many stops. The last day, Zuluk to NJP, is about 6 hours. With a private car you can stop whenever a child needs a break."
+    },
+    {
+      "q": "Will there be snow for the children?",
+      "a": "From December to March there is often snow at Nathang and Kupup, and sometimes at Zuluk and Thambi in January and February. In April and May you may find old snow patches near Kupup. Snow boots can be hired at Kupup for about ₹100–200. If seeing snow is the main goal, choose mid-January to February."
+    },
+    {
+      "q": "Is food suitable for children on the Silk Route?",
+      "a": "Yes. Homestays serve simple rice, dal, vegetables, eggs and noodles, and will cook less spicy food if you ask on arrival. Milk, biscuits and fruit are harder to find above Rongli, so bring favourite snacks from Siliguri. Carry a flask for hot water and a refillable bottle for each child."
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "hilley",
+  "name": "Hilley",
+  "region": "soreng",
+  "kind": "viewpoint",
+  "wiki": "",
+  "image_query": "Hilley Sikkim Barsey entrance",
+  "lat": 27.186,
+  "lng": 88.1218,
+  "altitude_m": 2750,
+  "local_name": null,
+  "tagline": "The road-end checkpost where the Barsey forest walk begins",
+  "meta_description": "Hilley, Soreng district: 2,750 m road-end and gateway to Barsey Rhododendron Sanctuary. Trail, entry fees, homestays, taxi costs and how to get there.",
+  "summary": "Hilley is the road-end at about 2,750 m in western Soreng district, where a wildlife checkpost marks the main entrance to Barsey Rhododendron Sanctuary. It is a handful of houses and homestays, 8 km above Okhrey and 38 km from Soreng, and the start of the 4–5 km forest walk to the Barsey ridge.",
+  "intro": [
+    "Hilley is less a village than a gateway. The road from Sombaria and Okhrey climbs through farmland and then forest to end at about 2,750 m, where a forest department checkpost collects the entry fee for Barsey Rhododendron Sanctuary and the trail into the trees begins. A few houses, tea stalls and small homestays cluster near the gate. Most visitors spend an hour here at dawn, buy a ticket and walk on.",
+    "That is a reason to slow down rather than rush through. Hilley is high enough to be cold year-round at night, and on clear mornings the light on the forest and the hills to the south is lovely. The Soreng district administration lists several homestays at the sanctuary entrance, including Barsey Residency, Lali Gurash and Royal Barsey, which let you sleep at the trailhead and be first on the path.",
+    "Hilley sits in Soreng district, which was part of West Sikkim until December 2021. The Nepal border runs along the Singalila ridge to the west, and the sanctuary stretches north and west from the gate. Okhrey, the Sherpa village 8 km below, has more beds and food choice; Hilley is for those who want the quiet of the road-end. Take a torch, cash and warm clothes."
+  ],
+  "story": {
+    "title": "The checkpost that guards a forest",
+    "text": "The wildlife checkpost at Hilley is the most visible sign of a decision taken in 1996, when the Sikkim government notified Barsey as a rhododendron sanctuary covering 104 km² of the Singalila Range. Before that, cattle grazed the high forest and wood was cut for fuel. A study published in Sibbaldia, the journal of the Royal Botanic Garden Edinburgh, describes how the forest department excluded grazing and worked with fringe villages such as Hilley, Okhrey and Singling, and how the forest regenerated, springs recovered and ecotourism grew in the flowering season. The small ticket you buy at Hilley is part of that arrangement: entry fees help pay for protection, and the homestays beside the gate give local families a stake in keeping the forest standing. The rules posted at the checkpost, no picking flowers, no plastic left behind, no fires, are the same rules that let the rhododendrons come back. It is worth reading them before you set off.",
+    "source": "Sibbaldia (Royal Botanic Garden Edinburgh), 'Barsey Rhododendron Sanctuary: a model for preserving Himalayan biodiversity and nature-based tourism'; Wikipedia: Varsey Rhododendron Sanctuary"
+  },
+  "little_known": [
+    {"fact": "Hilley is one of three entry points to Barsey sanctuary, with Dentam and Soreng the others. It is the most used because it is the only one where a motorable road reaches the forest edge close to the ridge.", "source": "Wikipedia: Varsey Rhododendron Sanctuary"},
+    {"fact": "At about 2,750 m, Hilley is higher than Gangtok by roughly 1,100 m, so even a short walk from here can bring mild altitude symptoms for people coming straight from the plains.", "source": "Sikkim Escapes altitude notes"},
+    {"fact": "The Soreng district website asks visitors not to pick flowers inside the sanctuary and lists forest-department entry permits as required, issued at the Hilley checkpost.", "source": "soreng.nic.in (Barsey Rhododendron Sanctuary)"}
+  ],
+  "facts": [
+    ["Best months", "March–May and October–December"],
+    ["Nights we suggest", "0–1 (most stay in Okhrey)"],
+    ["From Gangtok", "≈ 135 km · 6 h"],
+    ["Altitude", "≈ 2,750 m"],
+    ["Known for", "Barsey sanctuary gate, forest trail, dawn starts"],
+    ["Permit", "Sanctuary entry ticket at the checkpost; foreigners also need Sikkim's RAP"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Start of the Barsey trail", "text": "The 4–5 km forest walk to the Barsey ridge at about 3,000 m begins at the Hilley gate. Most walkers take 1.5–2 hours up. Buy your ticket at the checkpost, about ₹50 for Indians in recent seasons, and start early to reach the ridge before cloud."},
+    {"title": "Dawn at the road-end", "text": "At first light Hilley is silent except for birds. Even if you do not walk far, a slow hour on the first kilometre of trail, with tea from a stall afterwards, shows the forest at its best. Mornings from October to December are the clearest."},
+    {"title": "Trailhead homestays", "text": "A few family homestays near the gate offer simple rooms and hot meals at about ₹1,000–1,800 per person. They are basic, with unreliable electricity, but nothing beats stepping onto the trail at sunrise. Book ahead from March to May."},
+    {"title": "Birds at the forest edge", "text": "The forest edge around Hilley is good for birds early in the morning, when flocks move between the trees and the clearings. Barsey is a BirdLife Important Bird Area; bring binoculars and walk slowly along the first stretch of trail."},
+    {"title": "The drive up from Okhrey", "text": "The 8 km road from Okhrey climbs through farms and then forest, with views back over the valleys towards Darjeeling's hills on clear days. It takes 30–40 minutes by car. A reserved taxi costs about ₹600–800 one way."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps from Jorethang and Soreng reach Sombaria and sometimes Okhrey; services to Hilley itself are irregular. Most visitors take a reserved taxi for the last 8 km from Okhrey, about ₹600–800 one way, or for 22 km from Sombaria, about ₹1,000–1,500."},
+    {"mode": "Private car", "text": "Hilley is about 38 km from Soreng (1.5–2 hours), 50 km from Jorethang (2.5 hours) and roughly 56 km from Rinchenpong via Soreng and Okhrey (2.5–3 hours). From Gangtok allow about 6 hours via Melli and Jorethang. The final stretch is narrow; drive slowly."},
+    {"mode": "From Bagdogra / NJP", "text": "Hilley is roughly 130 km from Siliguri, about 5.5–6 hours via Sevoke, Melli, Jorethang and Sombaria, at about ₹5,500–7,000 for a small car. NH10 along the Teesta closes after monsoon slides, when cars detour via Kalimpong. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Sanctuary entry (Indians / foreigners)", "≈ ₹50 / ₹100 per day"],
+    ["Taxi Okhrey–Hilley", "≈ ₹600–800 one way"],
+    ["Small car Soreng–Hilley", "≈ ₹2,000–2,500 one way"],
+    ["Homestay with meals", "≈ ₹1,000–1,800 per person a night"],
+    ["Tea and snacks at the gate", "≈ ₹30–100"]
+  ],
+  "where_to_stay": "Hilley has only a few small homestays near the sanctuary gate; the Soreng district website lists Barsey Residency, Lali Gurash and Royal Barsey among them, at roughly ₹1,000–1,800 per person with meals. They are basic but put you on the trail at dawn. Okhrey, 8 km below, has many more Sherpa family homestays, including Sherpa Lodge, at ₹1,200–2,000 per person with meals. For a night inside the sanctuary, the Guras Kunj trekkers' lodge sits on the Barsey ridge.",
+  "stays": ["hilley-homestays", "okhrey-homestays", "sherpa-lodge-okhrey"],
+  "tips": [
+    "Carry cash for the entry fee, tea and your homestay; there is no ATM nearer than Sombaria or Soreng.",
+    "Bring a torch and power bank, as electricity at Hilley can be unreliable.",
+    "Start walking by 7 am to have the Barsey ridge before late-morning cloud.",
+    "Dress for 0–5 °C at dawn from November to March, even if the afternoon sun feels warm.",
+    "Book your taxi down in advance; few vehicles wait at Hilley in the afternoon."
+  ],
+  "themes": ["treks-and-walks", "flowers-and-forests", "birds-and-wildlife", "offbeat-sikkim"],
+  "nearby": ["barsey-rhododendron-sanctuary", "okhrey", "sombaria", "soreng"],
+  "experiences": [
+    {
+      "slug": "hilley-first-light-trail-walk",
+      "title": "First-light walk into the forest from Hilley",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "Sunrise, October–May",
+      "cost": "≈ ₹50 entry (Indians)",
+      "image_query": "Hilley forest trail Barsey morning",
+      "wiki": "",
+      "summary": "A short, unhurried walk along the first two kilometres of the Barsey trail from Hilley at sunrise, for travellers who want the forest without the full climb. Good for older walkers, families with small children and anyone who prefers birdsong to summit views.",
+      "body": [
+        "Not everyone wants to walk all the way to the Barsey ridge, and you do not need to. The first two kilometres of trail from the Hilley gate are the gentlest, a broad path rising slowly through rhododendron, oak and bamboo. At sunrise the forest is still, light slants through the trees and flocks of small birds move overhead. You can walk 30–45 minutes in, sit, and walk back.",
+        "Buy your ticket at the checkpost when it opens, about ₹50 for Indians and ₹100 for foreigners per day in recent seasons. From March to May the lower trees flower in red and pink; from October to December the air is clearest and the light warmest. Wear layers, as it can be near freezing at dawn in winter, and shoes with grip for the roots and stones.",
+        "This walk suits seniors, young children and anyone arriving from the plains who wants to go gently at 2,750 m. Walk slowly, drink water and turn back if you feel breathless. Afterwards, take tea at a stall by the gate and drive down to Okhrey for breakfast. If you feel strong, carry on to the ridge another day."
+      ],
+      "good_for": ["seniors", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Can older travellers visit Barsey?", "a": "Yes, if they walk gently and only part of the trail. The first two kilometres from Hilley are the easiest. At about 2,750 m, go slowly and drink water. People with heart or lung conditions should ask their doctor before going to this altitude."},
+        {"q": "What time does the Hilley checkpost open?", "a": "It usually opens early in the morning for walkers, but timings are set by the forest department and can change. Ask your homestay the evening before. If you arrive before it opens, wait for the staff rather than walking in without a ticket."},
+        {"q": "Is the first part of the Barsey trail steep?", "a": "No. The first two kilometres from Hilley are a broad, gently rising path with some roots and stones. It gets rockier further up. Shoes with grip are enough; you do not need trekking boots for this short section."}
+      ]
+    },
+    {
+      "slug": "hilley-trailhead-homestay-night",
+      "title": "A night at a Hilley trailhead homestay",
+      "kind": "village",
+      "duration": "Overnight",
+      "best_time": "March–May and October–December",
+      "cost": "≈ ₹1,000–1,800 per person with meals",
+      "image_query": "Sikkim mountain homestay wood stove",
+      "wiki": "",
+      "summary": "Sleep at the road-end in a small family homestay at Hilley, eat a hot dinner by the kitchen fire, and walk into Barsey before anyone else arrives. Basic, cold and quiet, and the best way to be on the ridge for clear morning light.",
+      "body": [
+        "A night at Hilley is about timing. Day visitors from Okhrey, Soreng or further reach the gate from about 7 or 8 am; if you sleep at Hilley you can be on the trail at first light and at the Barsey ridge while the view of Kangchenjunga is still clear. The Soreng district website lists homestays at the sanctuary entrance, including Barsey Residency, Lali Gurash and Royal Barsey, and a few more families take guests in season.",
+        "Expect simple rooms with heavy quilts, possibly shared bathrooms, and meals of rice, dal, vegetables, eggs and pickle around the kitchen fire. Electricity and mobile signal can come and go. At about 2,750 m, nights are cold year-round, near freezing from November to March, so bring thermals, a warm hat and socks. Tea arrives early if you ask.",
+        "Book ahead from March to May, when rooms fill with rhododendron walkers; October to December is quieter. Rates have run about ₹1,000–1,800 per person with dinner and breakfast. Carry cash. If anyone in your group feels unwell overnight, with a bad headache or nausea, drive down to Okhrey in the morning rather than walking up."
+      ],
+      "good_for": ["budget", "solo", "photographers", "couples"],
+      "faqs": [
+        {"q": "Are Hilley homestays comfortable?", "a": "They are basic but warm enough with the heavy quilts provided. Expect simple rooms, possibly shared bathrooms and hot water by bucket. If you want more comfort, stay in Okhrey, 8 km below, where homestays are larger and better equipped."},
+        {"q": "Is there mobile network at Hilley?", "a": "Signal is patchy and depends on your network and the weather. Do not count on data. Tell family your plans before you go up, carry a power bank, and arrange your taxi pickup in advance rather than expecting to call one."},
+        {"q": "How do I book a homestay at Hilley?", "a": "By phone using the numbers on the Soreng district website or through us. Rooms are few, so book early for March to May. Confirm the rate, whether meals are included and the bathroom type before you travel."}
+      ]
+    },
+    {
+      "slug": "hilley-okhrey-downhill-walk",
+      "title": "Walk down from Hilley to Okhrey",
+      "kind": "adventure",
+      "duration": "2.5–3 hours",
+      "best_time": "October–May, after the Barsey walk",
+      "cost": "Free",
+      "image_query": "Okhrey village road Sikkim hills",
+      "wiki": "",
+      "summary": "Instead of driving, walk the 8 km road and short-cuts down from Hilley to Okhrey after your Barsey hike, through forest and then Sherpa farmland, and arrive at your homestay in time for a late lunch. Downhill, quiet and an easy way to see the villages.",
+      "body": [
+        "Once you are back at the Hilley gate from the Barsey ridge, you can drive down to Okhrey in 30–40 minutes, or walk. The road drops about 450 m over 8 km, first through forest and then through the farms and houses of Okhrey's upper wards. Villagers use short-cut paths that cut off some bends; ask at the gate or at a house which ones are open and safe.",
+        "The walk takes about 2.5–3 hours at an easy pace. Traffic is light: a few local jeeps and homestay cars. On clear afternoons you look south over the ridges towards the Darjeeling hills. Closer to Okhrey you pass prayer flags, chortens and the steps leading up to Ugen Thondroling Monastery, the village's Nyingma gompa built in 1950.",
+        "Walk only in daylight, keep to the inside of bends and carry water and a rain jacket. Knees take the strain on long descents, so trekking poles help. Arrange with your homestay for a car to collect you on the road if the weather turns. From June to September the road is wet and leeches gather on the short-cuts; drive instead."
+      ],
+      "good_for": ["solo", "couples", "budget", "photographers"],
+      "faqs": [
+        {"q": "How far is it from Hilley to Okhrey?", "a": "About 8 km by road, with a descent of roughly 450 m. Walking down takes 2.5–3 hours at an easy pace; driving takes 30–40 minutes. A reserved taxi costs about ₹600–800 one way."},
+        {"q": "Is it safe to walk from Hilley to Okhrey?", "a": "Yes, in daylight and dry weather. Traffic is light, but there is no footpath, so walk in single file on the inside of bends. Use short-cuts only if locals confirm they are open. Avoid walking after dark or in heavy rain."},
+        {"q": "Can we walk after doing the Barsey trek the same day?", "a": "Many fit walkers do: Hilley to the ridge and back takes 3–4 hours, and the walk down to Okhrey adds 2.5–3 hours, mostly downhill. If your knees are tired, take a taxi instead. Start Barsey early so you finish before dark."}
+      ]
+    },
+    {
+      "slug": "hilley-forest-tea-stop",
+      "title": "Tea, churpi and stories at the Hilley gate",
+      "kind": "food",
+      "duration": "45 minutes",
+      "best_time": "Morning, before or after the trail",
+      "cost": "≈ ₹50–150 per person",
+      "image_query": "Sikkim roadside tea stall mountains",
+      "wiki": "",
+      "summary": "Before or after the Barsey walk, sit at a tea stall by the Hilley gate for sweet milk tea, noodles or churpi, and ask the people who live here about the forest, the seasons and how the sanctuary changed their village. Small, cheap and often the most memorable part of the day.",
+      "body": [
+        "Hilley's tea stalls exist for walkers and drivers, and they open early in the busy months. A glass of sweet milk tea costs about ₹20–40, instant noodles or Wai Wai about ₹50–80, and some stalls sell churpi, the hard dried cheese that people chew slowly on long walks. Buy a few pieces for the trail; it lasts for hours and gives steady energy.",
+        "The stall-keepers and homestay families around the gate know the forest better than anyone. Ask when the rhododendrons peaked this year, whether there has been snow, which birds they see, and how life changed after the sanctuary was notified in 1996 and grazing ended. You will hear first-hand versions of how homestays and walkers became part of the local economy. Listen and do not press for more than people want to share.",
+        "In winter and on monsoon weekdays, stalls may be closed, so carry your own snacks and a flask of tea. Pay in cash with small notes. Take your rubbish back down with you; there is no waste collection at the road-end, and plastic wrappers blown into the forest stay there for years."
+      ],
+      "good_for": ["budget", "solo", "families", "first-timers"],
+      "faqs": [
+        {"q": "Is food available at Hilley?", "a": "In the busy months, a few tea stalls and homestays sell tea, noodles, snacks and simple meals. In winter and on monsoon weekdays they may be shut. Carry snacks and water from Okhrey or Soreng to be safe."},
+        {"q": "What is churpi?", "a": "Churpi is a hard cheese made from cow or yak milk, dried until it is rock-hard. People in the Sikkim hills chew it slowly as a snack, especially on long walks. A piece can last an hour or more. It is sold at tea stalls and bazaars."},
+        {"q": "Where can I dispose of rubbish at Hilley?", "a": "Assume there is no collection and carry all rubbish back down to Okhrey or Soreng. Avoid single-use plastic where you can and carry a refillable bottle. Littering inside the sanctuary is prohibited and can be fined."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Hilley in Sikkim?", "a": "Hilley is at the road-end in western Soreng district, about 8 km above Okhrey, 38 km from Soreng and 50 km from Jorethang. It sits at about 2,750 m at the main entrance to Barsey Rhododendron Sanctuary, close to the Nepal border along the Singalila ridge."},
+    {"q": "What is the altitude of Hilley?", "a": "About 2,750 m. That is roughly 1,100 m higher than Gangtok, so some travellers coming straight from the plains feel short of breath or get headaches. Walk slowly, drink water and spend a night lower, in Okhrey or Soreng, if you can."},
+    {"q": "Is there anything to do in Hilley apart from Barsey?", "a": "Not much, and that is its appeal. You can walk part of the forest trail, watch birds at the forest edge, sit at a tea stall and walk down to Okhrey. Hilley is a gateway rather than a sightseeing stop."},
+    {"q": "How do I get from Okhrey to Hilley?", "a": "By reserved taxi, about 8 km and 30–40 minutes, costing roughly ₹600–800 one way. Your homestay can arrange it the night before. Shared jeeps to Hilley are irregular. Fit walkers can also walk up the road in about 3 hours."},
+    {"q": "Should we stay overnight at Hilley?", "a": "Stay at Hilley if you want to start the Barsey walk at sunrise. Otherwise, Okhrey has more comfortable homestays and more food, and is only 30–40 minutes' drive below. Families with small children are better off in Okhrey because of the cold and altitude."},
+    {"q": "What is the best season to visit Hilley?", "a": "March to May for rhododendron flowers on the Barsey trail, and October to December for clear views and crisp weather. Winter is cold but often clear, with occasional snow. Avoid June to September, when rain, mist and leeches dominate."},
+    {"q": "Is there an ATM or shop at Hilley?", "a": "No ATM, and only a few small tea stalls. Bring enough cash for the sanctuary fee, homestay, taxi and food from Soreng or Sombaria. Card and UPI payments are unreliable because the mobile signal is weak."},
+    {"q": "Is Hilley safe for solo travellers?", "a": "Yes. It is a small, quiet place where local families run the homestays and tea stalls. Tell your homestay your walking plan, start early, and return before dark. Women travelling alone generally report feeling safe in this area."},
+    {"q": "Do I need a permit to visit Hilley?", "a": "Indians need only the sanctuary entry ticket sold at the Hilley checkpost to walk into Barsey. Foreigners need Sikkim's Restricted Area Permit, applied for online on the e-FRRO portal, plus the entry ticket. Check current status before you travel."}
+  ]
+}

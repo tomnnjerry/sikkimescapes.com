@@ -1,0 +1,76 @@
+{
+  "slug": "north-sikkim-complete-budget-6n",
+  "title": "Gangtok, Gurudongmar and Yumthang budget",
+  "region": "north-sikkim",
+  "tier": "budget",
+  "nights": 6,
+  "themes": ["lakes-and-passes", "snow-and-winter", "monasteries"],
+  "stops": [{"place": "gangtok", "nights": 2}, {"place": "lachen", "nights": 2}, {"place": "lachung", "nights": 1}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 18500,
+  "price_basis": "per person, twin sharing, shared jeeps to Gangtok, small-group North Sikkim SUV (up to 6), budget hotels and lodges",
+  "price_breakdown": [["Gangtok budget hotel, 3 nights with breakfast", 3000], ["Lachen lodge, 2 nights with dinner and breakfast", 2800], ["Lachung lodge, 1 night with dinner and breakfast", 1400], ["Small-group North Sikkim SUV seat for the 3-night loop, with permits", 6000], ["Shared jeeps Siliguri–Gangtok–Siliguri with local taxis", 1200], ["Gangtok half-day sightseeing by small car, split by two", 1500], ["Sikkim tourist fee and entry tickets", 300], ["Our planning fee", 2300]],
+  "best_months": [0, 0, 1, 1, 2, 1, 0, 0, 0, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 5183,
+  "meta_description": "6 nights from Bagdogra: Gangtok, two nights in Lachen for Gurudongmar Lake, Lachung and Yumthang, budget hotels and small-group SUV, from ₹18,500.",
+  "summary": "The full North Sikkim circuit on a budget: two nights in Gangtok to adjust, two in Lachen so Gurudongmar Lake at about 5,183 m comes after proper rest, one in Lachung for Yumthang Valley, and a last night in Gangtok. A small-group SUV and clean budget rooms keep it near ₹18,500 per person.",
+  "intro": [
+    "This is the trip for Indian travellers who want to see all of North Sikkim without paying for a private vehicle. It follows the order we think is safest: two nights in Gangtok at 1,650 m, two nights in Lachen at 2,750 m with Gurudongmar on the second morning, then across to Lachung for Yumthang Valley and back to Gangtok. You share a registered North Sikkim SUV with a small group of up to six, and stay in budget hotels and lodges we know.",
+    "It is an active trip with two very early starts and long drive days, and it suits fit adults and teenagers. Gurudongmar is closed to foreign nationals, and children under 5 are not permitted anywhere in North Sikkim. The Lachen road reopened in September 2026 after a long closure, so check current status before you travel; if Lachen is shut on your dates, we switch you to two nights in Lachung at no extra cost."
+  ],
+  "highlights": [
+    "Gurudongmar Lake at about 5,183 m after two nights in Gangtok and a night in Lachen",
+    "Thangu and the high plateau near the Tibetan border",
+    "Yumthang Valley and the Shingba Rhododendron Sanctuary above Lachung",
+    "Gangtok's Enchey Monastery and MG Marg",
+    "The complete North Sikkim circuit for about ₹18,500 per person"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 115–124 km · 4.5–5 h", "text": "From Bagdogra or NJP, take a local taxi to the Siliguri jeep stand and a shared jeep up the Teesta valley through Sevoke and Rangpo to Gangtok, 4.5 to 5 hours. In the monsoon NH10 can close after slides, and jeeps then go via Kalimpong or Lava, adding time. Check in to your budget hotel near MG Marg and pay the ₹50 Sikkim tourist fee at reception. Send us your ID and photo copies if you have not already; the North Sikkim permit needs them a day ahead. Evening at leisure on the promenade.", "meals": "None"},
+    {"day": 2, "title": "Gangtok half-day", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 30 km · 3–4 h", "text": "A morning tour by small car: Enchey Monastery above the town, the Namgyal Institute of Tibetology if open, and Tashi View Point or Ganesh Tok for Kangchenjunga on a clear day. The afternoon is free and deliberately easy, because the next four days are long. Buy any missing warm layers, a refillable bottle and snacks for the Gurudongmar morning. Drink plenty of water and sleep early. Your North Sikkim permit is filed today, and the driver will message you the pick-up time for the morning.", "meals": "Breakfast"},
+    {"day": 3, "title": "Gangtok to Lachen", "place": "lachen", "overnight": "Lachen", "alt_m": 2750, "drive": "≈ 125 km · 6–7 h", "text": "The small-group SUV collects you between 9 and 9:30 am. The highway runs past Kabi Lungchok, the Seven Sisters Waterfall and Phodong to Mangan for lunch at your own cost, then through the Toong check post before 4 pm and on to Chungthang, where the rivers meet. The Lachen road climbs a narrow gorge rebuilt after the 2023 flood, crossing the Taram Chu on a single-lane Bailey bridge. Reach Lachen by late afternoon. Rest, drink water, eat an early dinner and go to bed early.", "meals": "Dinner"},
+    {"day": 4, "title": "Gurudongmar Lake at dawn", "place": "gurudongmar-lake", "overnight": "Lachen", "alt_m": 2750, "drive": "≈ 134 km return · 6–7 h", "text": "Leave at about 4 to 5 am with a packed breakfast. Tea at Thangu, about 3,900 m, then across the open plateau to Gurudongmar Lake, 67 km from Lachen, at about 5,183 m. Twenty to thirty minutes at the shore is enough; walk slowly, and turn back at once if anyone has a worsening headache or is breathless at rest. Back in Lachen for a late lunch and a long rest. Because you stay a second night here, there is no rush across to Lachung on the same tired afternoon.", "meals": "Breakfast, Dinner"},
+    {"day": 5, "title": "Lachen to Lachung, then Yumthang", "place": "lachung", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 50 km · 2.5–3 h", "text": "Leave Lachen after breakfast, down the gorge to Chungthang and up the Lachung Chu, reaching Lachung by late morning. After lunch, if the weather is clear and the group agrees, the driver takes you up to Yumthang Valley, 24 km through the Shingba Rhododendron Sanctuary, at 3,564 m, for an afternoon visit; otherwise you go at dawn tomorrow. Afternoon light at Yumthang is softer but cloudier. In the evening, walk through Lachung village or up to the monastery across the river. Dinner at the lodge.", "meals": "Breakfast, Dinner"},
+    {"day": 6, "title": "Back to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 118 km · 5–6 h", "text": "If Yumthang was not possible yesterday, leave at 6 am for a quick visit and return by 9:30 am before checkout. Otherwise, a slower breakfast. The drive back to Gangtok follows the Lachung Chu to Chungthang and the Teesta past the Naga Waterfall and Mangan, with lunch on the way at your own cost. Reach Gangtok by mid to late afternoon and check back in to your hotel. A last evening on MG Marg, and an early night before the drive down to the plains.", "meals": "Breakfast"},
+    {"day": 7, "title": "Gangtok to Siliguri", "place": "gangtok", "overnight": "", "alt_m": 125, "drive": "≈ 115–124 km · 4.5–5 h", "text": "Take a morning shared jeep from Gangtok to Siliguri, leaving by 7 to 8 am for an afternoon flight from Bagdogra or train from NJP. Local taxis run from the Siliguri stand to the airport in 30 to 40 minutes and to NJP in about 20. In the monsoon, NH10 can close after slides, and the Kalimpong or Lava detour adds 1.5 to 3 hours, so allow a margin. We can book a private car instead for about ₹3,500–4,500 for the vehicle if you would rather leave on your own schedule.", "meals": "Breakfast"}
+  ],
+  "stays": ["lachen-homestays", "lachung-homestays", "snow-lion-mountain-resort-lachung"],
+  "includes": [
+    "3 nights in a budget hotel in Gangtok with breakfast",
+    "2 nights in Lachen and 1 night in Lachung in budget lodges or homestays with dinner and breakfast",
+    "Seat in a small-group registered North Sikkim SUV (up to 6) for the whole loop",
+    "North Sikkim Protected Area Permit processing",
+    "Shared jeep seats Siliguri–Gangtok–Siliguri with local taxis",
+    "Half-day Gangtok sightseeing by small car",
+    "Packed breakfast on the Gurudongmar morning and the Sikkim ₹50 tourist fee"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Zero Point extension (≈ ₹3,000–4,000 per vehicle, shared)",
+    "Lunches, dinners in Gangtok, snow gear hire and oxygen cans",
+    "Tips, personal expenses and 5 percent GST",
+    "Extra nights if a landslide holds the vehicle up north"
+  ],
+  "good_to_know": [
+    "Gurudongmar is for Indian nationals only.",
+    "Children under 5 are not permitted in North Sikkim.",
+    "Two very early starts: about 4 am for Gurudongmar and 6 am for Yumthang.",
+    "If Lachen is closed, we switch you to two Lachung nights at no extra cost.",
+    "Toong check post must be crossed by 4 pm on day 3.",
+    "Check current status before you travel."
+  ],
+  "upgrade": "Our value tier gives you a private car throughout and 3-star hotels on a similar route, from about ₹28,000 per person for two.",
+  "faqs": [
+    {"q": "Why is Lachen before Lachung on this trip?", "a": "Gurudongmar is the harder day, so we do it while you are fresh, after two nights in Gangtok and a night in Lachen. The trip then ends more gently with Yumthang at 3,564 m. If the Lachen road is closed after rain, the order can be swapped to give it time to reopen."},
+    {"q": "How many people share the SUV?", "a": "Up to six travellers, usually in a Scorpio, Xylo or Bolero registered for North Sikkim. Groups of four to six friends can take a whole vehicle for themselves at a similar per-person price. Couples share with others on the same dates. The vehicle stays with the group for the whole loop."},
+    {"q": "Is two nights in Gangtok really needed?", "a": "Yes, for two reasons. North Sikkim vehicles must cross Toong by 4 pm, so you cannot fly in and drive north the same day. And two nights at 1,650 m give your body a head start before Lachen and the climb to Gurudongmar. It also means the permit can be filed calmly."},
+    {"q": "Can I skip Gurudongmar and stay in Lachen?", "a": "Yes. Anyone who feels unwell, or prefers not to go above 5,000 m, can stay in Lachen while the rest of the group visits the lake. Seniors and anyone with heart or lung conditions should consider this. There is no refund for the skipped excursion, but you can rest and rejoin for Lachung."},
+    {"q": "What is the altitude profile of this trip?", "a": "You sleep at 1,650 m in Gangtok for two nights, then 2,750 m in Lachen for two, 2,700 m in Lachung for one, and 1,650 m in Gangtok again. The day visits reach about 5,183 m at Gurudongmar and 3,564 m at Yumthang, with Zero Point at about 4,700 m as an option."},
+    {"q": "Is this trip possible in winter?", "a": "Partly. From December to March, snow can close the road beyond Thangu and the lake is frozen from about November to mid-May. Lachung and Yumthang are usually reachable. We run this trip in winter only with clear warning that Gurudongmar may not be possible, and switch to Lachung if needed."},
+    {"q": "Are meals included?", "a": "Breakfast is included in Gangtok, and dinner and breakfast in Lachen and Lachung, plus a packed breakfast for Gurudongmar. Lunches on drive days and dinners in Gangtok are not included. Roadside meals cost roughly ₹200–400 a person. Food up north is simple: rice, dal, vegetables, egg or chicken, noodles."},
+    {"q": "Can foreigners book this trip?", "a": "Not in this form, because Gurudongmar is closed to foreign nationals and Lachen access has been unclear in 2026. Foreign groups of two or more can book a version with Gangtok and two nights in Lachung, including Yumthang and Zero Point, with a Sikkim RAP and a Protected Area Permit."},
+    {"q": "What if I get altitude sickness at Gurudongmar?", "a": "Tell the driver and go down at once; most people feel better within an hour of leaving the lake. Rest in Lachen, drink water and do not continue to Lachung until you feel well. If symptoms are severe, such as breathlessness at rest or confusion, see a doctor immediately; health posts are in Lachen and Chungthang."}
+  ]
+}

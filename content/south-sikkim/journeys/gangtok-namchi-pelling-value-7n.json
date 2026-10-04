@@ -1,0 +1,73 @@
+{
+  "slug": "gangtok-namchi-pelling-value-7n",
+  "title": "Gangtok, Namchi, Ravangla and Pelling, 7N",
+  "region": "south-sikkim",
+  "tier": "value",
+  "nights": 7,
+  "themes": ["monasteries", "family-holidays", "photography", "food-and-tea"],
+  "stops": [{"place": "gangtok", "nights": 2}, {"place": "namchi", "nights": 1}, {"place": "ravangla", "nights": 2}, {"place": "pelling", "nights": 2}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 33000,
+  "price_basis": "per person, twin sharing, 2 people, private car (Dzire/Etios class), 3-star hotels with breakfast",
+  "price_breakdown": [["Stays, 7 nights", 15750], ["Car and driver, 8 days", 14250], ["Entry fees and state fee", 600], ["Our planning fee", 2400]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2200,
+  "meta_description": "7 nights: Gangtok's monasteries, Namchi's Char Dham, Ravangla's Buddha Park and Temi tea, then Pelling's Kangchenjunga views. From ₹33,000 per person.",
+  "summary": "A week that crosses Sikkim from the capital to the west through the south: two nights in Gangtok, a night in Namchi for Char Dham and Samdruptse, two in Ravangla for Buddha Park, Ralang and Temi tea, and two in Pelling for Pemayangtse and Kangchenjunga at sunrise. 3-star hotels, one private car and no permits needed for Indians.",
+  "intro": [
+    "This is the trip we suggest to first-time visitors who want to see a lot of Sikkim in a week without the permits and high altitudes of the north. It starts in Gangtok, the capital at about 1,650 m, with its monasteries, Tibetology institute and MG Marg promenade. It then crosses into Namchi district (South Sikkim) for the great pilgrim monuments of Char Dham, Samdruptse and Ravangla's Buddha Park, the Kagyu monastery at Ralang and Sikkim's only tea estate at Temi. It ends in Pelling, in the west, facing the Kangchenjunga range at close range.",
+    "We route it so no drive between bases is longer than about three hours, and each place gets enough time to enjoy rather than tick off. Hotels are good 3-star properties with mountain views where possible, including Mt. Narsing Village Resort near Ravangla. A Tsomgo Lake day from Gangtok can be added for Indian and foreign travellers with the right permits."
+  ],
+  "highlights": [
+    "Gangtok's Enchey Monastery, Namgyal Institute of Tibetology and MG Marg",
+    "Char Dham and the 135 ft Guru Rinpoche at Samdruptse in Namchi",
+    "Buddha Park, Ralang Monastery and the Temi tea estate from Ravangla",
+    "Pemayangtse Monastery and the Rabdentse ruins near Pelling",
+    "Sunrise over Kangchenjunga from Pelling"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra or NJP to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 125 km · 4.5–5 h", "text": "Your driver meets you at Bagdogra or NJP and drives up the Teesta valley via Sevoke and Rangpo, where you enter Sikkim, to Gangtok. In the monsoon, NH10 can be closed by slides and the route switches to Kalimpong or Algarah, adding time. Check in by mid-afternoon and walk MG Marg in the evening, Gangtok's traffic-free main street of shops and cafés. Hotels collect Sikkim's ₹50 per person state fee, valid 30 days.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Gangtok monasteries and viewpoints", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 40 km · local", "text": "Start early at Tashi View Point for the Kangchenjunga range on clear mornings, then Ganesh Tok and Hanuman Tok above the town. Visit Enchey Monastery, then the Namgyal Institute of Tibetology, whose museum holds one of the finest collections of Tibetan Buddhist manuscripts, icons and thangkas outside Tibet, and the Do Drul Chorten beside it. After lunch, the Flower Exhibition Centre or the Ropeway. Evening free on MG Marg.", "meals": "Breakfast"},
+    {"day": 3, "title": "Gangtok to Namchi", "place": "namchi", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 80 km · 3–3.5 h", "text": "After breakfast, drive south via Singtam and Damthang to Namchi, the South Sikkim district town. After lunch, visit the 135 ft statue of Guru Padmasambhava at Samdruptse on the ridge above town, and walk the terraces of Namchi Rock Garden. Evening on Namchi's central plaza, with the Samdruptse statue lit above.", "meals": "Breakfast"},
+    {"day": 4, "title": "Char Dham, then Ravangla", "place": "buddha-park-ravangla", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 35 km · 1.5 h", "text": "Visit Char Dham on Solophok hill at opening time, around 8 am, for the giant Shiva, the four dham replicas and the twelve jyotirlingas. Then drive an hour up to Ravangla and check in at Mt. Narsing Village Resort. After lunch, walk the level paths of Buddha Park to the 130 ft statue consecrated by the Dalai Lama in 2013, and see the gallery of the Buddha's life inside its base.", "meals": "Breakfast"},
+    {"day": 5, "title": "Ralang Monastery and Temi tea", "place": "temi-tea-garden", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 60 km round trip · 2.5 h", "text": "Watch for the Kangchenjunga range at sunrise from the resort. Drive to Ralang Monastery, a Kagyu monastery founded in 1768, with its large hall of thangkas and the older gompa nearby. Continue to Temi Tea Garden, Sikkim's only tea estate, planted in 1969; walk the estate road through the rows and taste tea at the outlet. Return to Ravangla for a quiet evening by the fire.", "meals": "Breakfast"},
+    {"day": 6, "title": "Ravangla to Pelling", "place": "pemayangtse", "overnight": "Pelling", "alt_m": 2150, "drive": "≈ 45 km · 2 h", "text": "Drive down past Kewzing to Legship on the Rangeet and up to Pelling in West Sikkim. After lunch, visit Pemayangtse Monastery, one of Sikkim's oldest and most important Nyingma monasteries, with its carved seven-tiered model of Guru Rinpoche's celestial palace. Walk the forest path to the Rabdentse ruins, the royal capital from 1670 to 1814. Sunset over the snow peaks from Pelling.", "meals": "Breakfast"},
+    {"day": 7, "title": "Khecheopalri Lake and the falls", "place": "khecheopalri-lake", "overnight": "Pelling", "alt_m": 2150, "drive": "≈ 70 km round trip · 4 h", "text": "Be up at first light for Kangchenjunga, which fills the sky from Pelling on clear mornings. After breakfast, drive to Khecheopalri Lake, a forest lake held sacred by Buddhists and Hindus, then Kanchenjunga Falls and, if time allows, Sanga Choeling Monastery on the ridge above Pelling or the Singshore Bridge. Last evening in Pelling.", "meals": "Breakfast"},
+    {"day": 8, "title": "Pelling to Bagdogra or NJP", "place": "pelling", "overnight": "", "alt_m": 125, "drive": "≈ 140 km · 5–5.5 h", "text": "Leave after an early breakfast for the drive via Legship, Jorethang and Melli to Bagdogra or NJP, arriving by mid-afternoon. Book flights or trains after 4.30–5 pm, especially between June and September, when slides on NH10 can force a longer route via Kalimpong.", "meals": "Breakfast"}
+  ],
+  "stays": ["mt-narsing-village-resort-ravangla"],
+  "includes": [
+    "7 nights in 3-star hotels (2 Gangtok, 1 Namchi, 2 at Mt. Narsing Village Resort, 2 Pelling), twin sharing, with breakfast",
+    "Private car (Dzire/Etios class) with driver for eight days, fuel, tolls and parking",
+    "Entry to Char Dham, Buddha Park, Pemayangtse and the Namgyal Institute of Tibetology; Sikkim's ₹50 state fee",
+    "Our phone support throughout"
+  ],
+  "excludes": [
+    "Lunch and dinner (about ₹700–1,200 per person a day)",
+    "Tsomgo Lake and Nathu La permits and vehicle (optional add-on)",
+    "Gangtok Ropeway and other small entry or camera fees",
+    "Flight or train tickets",
+    "Tips and personal expenses"
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for any included stop; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO.",
+    "A Tsomgo Lake day can be added from Gangtok through a registered agent and vehicle; Nathu La is for Indian nationals only.",
+    "Gangtok's own taxis are required inside the city for some sights; your driver will arrange this if needed.",
+    "NH10 closes after monsoon landslides; check current status before you travel.",
+    "Best Kangchenjunga views are October to December and March, early in the morning."
+  ],
+  "upgrade": "The comfort version, at 8 nights with a private SUV and the best mid-range hotels, starts from about ₹52,500 per person.",
+  "faqs": [
+    {"q": "Why this route instead of Gangtok and North Sikkim?", "a": "This route needs no permits for Indians, allows children of any age, stays below about 2,200 m and keeps drives under three hours between bases. North Sikkim has snow and high lakes but needs permits, a minimum two-night stay and long, high days. Many families prefer the south and west for a first week."},
+    {"q": "Can we add Tsomgo Lake?", "a": "Yes. A Tsomgo Lake and Baba Mandir day from Gangtok can be added with a protected-area permit through a registered agent and a registered vehicle, for about ₹2,500–4,000 per person depending on group size. Foreigners can visit Tsomgo in groups of two or more. Check current status before you travel."},
+    {"q": "How long are the drives?", "a": "About 4.5–5 hours from Bagdogra to Gangtok on day 1 and 5–5.5 hours from Pelling back on day 8. In between: Gangtok to Namchi about 3–3.5 hours, Namchi to Ravangla about 1 hour, Ravangla to Pelling about 2 hours. Sightseeing days are short hops."},
+    {"q": "Which hotels do you use?", "a": "Good 3-star hotels with mountain views where possible: Mt. Narsing Village Resort near Ravangla, and well-run hotels in Gangtok, Namchi and Pelling that we confirm when you book, based on dates and availability. All have private bathrooms, hot water and heaters in winter."},
+    {"q": "Is this trip suitable for seniors?", "a": "Yes, at the planned pace, though it is busier than our senior pilgrim trip. Char Dham has many steps and Rabdentse needs a forest walk, both of which can be shortened. Tell us about any mobility needs and we will adapt the days and request low-floor rooms."},
+    {"q": "Can we start in NJP and end in Gangtok?", "a": "Yes, the route works in reverse: NJP to Pelling, then Ravangla, Namchi and Gangtok, ending at Bagdogra or NJP. The price is similar. Ending in Gangtok suits travellers continuing to North Sikkim or the Old Silk Route."},
+    {"q": "Will we see Kangchenjunga?", "a": "Very likely on clear mornings between October and April, from Tashi View Point in Gangtok, from Ravangla and above all from Pelling. Views fade as cloud builds after about 9–10 am. In the monsoon the range is usually hidden."},
+    {"q": "What does food cost on this trip?", "a": "About ₹700–1,200 per person a day for lunch and dinner at hotel restaurants and good local places; less if you eat at simple dhabas. Breakfast is included. Gangtok has the widest choice, from Tibetan and Nepali food to cafés."},
+    {"q": "Can foreigners book this trip?", "a": "Yes. Foreign nationals need Sikkim's Restricted Area Permit, applied for online on the e-FRRO portal after arriving in India, with approval in 24–48 hours. It covers every included stop. Tsomgo needs an extra protected-area permit through a registered agent."}
+  ]
+}

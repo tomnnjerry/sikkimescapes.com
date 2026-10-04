@@ -1,0 +1,70 @@
+{
+  "slug": "ravangla-namchi-budget-4n",
+  "title": "Namchi and Ravangla on a budget, 4 nights",
+  "region": "south-sikkim",
+  "tier": "budget",
+  "nights": 4,
+  "themes": ["monasteries", "food-and-tea", "family-holidays"],
+  "stops": [{"place": "namchi", "nights": 2}, {"place": "ravangla", "nights": 2}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 13000,
+  "price_basis": "per person, twin sharing, 2 people, small private car (Alto/WagonR class), budget hotels with breakfast",
+  "price_breakdown": [["Stays, 4 nights", 4000], ["Car and driver, 5 days", 8000], ["Entry fees and state fee", 300], ["Our planning fee", 700]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "4 nights in Namchi and Ravangla: Char Dham, Samdruptse, Buddha Park, Ralang and Temi tea. Small private car, budget hotels. From ₹13,000 per person.",
+  "summary": "Our best-selling budget trip in the south: two nights in Namchi for Char Dham and Samdruptse, two in Ravangla for Buddha Park, Ralang Monastery and the Temi Tea Garden. One small car and driver throughout, clean budget hotels, short drives and no permits for Indian travellers.",
+  "intro": [
+    "South Sikkim's two bases complement each other. Namchi, at about 1,315 m, is the district town with the Hindu pilgrim complex of Char Dham and the giant Guru Rinpoche at Samdruptse. Ravangla, an hour up the road at about 2,100 m, is a cool ridge town facing the Kangchenjunga range, with the 130 ft Buddha of Tathagata Tsal, the Kagyu monastery at Ralang and Sikkim's only tea estate at Temi within easy reach.",
+    "This trip gives each town two nights so nothing is rushed: no day has more than about an hour of driving apart from the arrival and departure, and you have time to sit in a monastery courtyard or walk the tea rows. We use budget hotels we know to be clean, with hot water and helpful owners, and one small car and driver for all five days. It suits couples, friends and families with children of any age."
+  ],
+  "highlights": [
+    "Char Dham at opening time and the Samdruptse Guru Rinpoche statue",
+    "The 130 ft Buddha at Ravangla's Buddha Park, best in early or late light",
+    "Ralang Monastery's thangkas and the old gompa nearby",
+    "Walking the rows at Temi, Sikkim's only tea estate",
+    "Kangchenjunga range views from Ravangla on clear mornings"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Namchi", "place": "namchi", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 100 km · 3.5–4 h", "text": "Your driver meets you at NJP or Bagdogra in the morning for the drive up the Teesta gorge through Sevoke, crossing into Sikkim at Melli and climbing to Namchi. Stop for tea on the way. Check in by early afternoon and rest. In the evening, walk to the central plaza, where Namchi's families gather, momo stalls open and the Samdruptse statue glows on the ridge above town. Hotels collect Sikkim's ₹50 per person entry fee at check-in.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Char Dham, Samdruptse and Rock Garden", "place": "char-dham-solophok", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 30 km in short hops · local", "text": "Start at Char Dham on Solophok hill near opening time, around 8 am, when the light is soft and the platforms are quiet. Allow two to three hours for the Shiva statue, the four dham replicas and the twelve jyotirlingas. After lunch in Namchi, drive up to Samdruptse and walk the short path to the 135 ft Guru Padmasambhava statue, then stroll the terraces of Namchi Rock Garden. End the day at Ngadak monastery, one of the older gompas in the south, as the monks gather for evening prayers.", "meals": "Breakfast"},
+    {"day": 3, "title": "Up to Ravangla and Buddha Park", "place": "buddha-park-ravangla", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 26 km · 1 h", "text": "A slow morning, then the one-hour drive up to Ravangla via Damthang, where the forest path to Tendong Hill begins. Check in, have lunch, and walk or drive the 1 km to Buddha Park in the afternoon, when the light turns warm on the 130 ft statue. Inside its base, a spiral gallery tells the life of the Buddha. Walk back past the older Rabong monastery. Ravangla is about 6 °C colder than Namchi, so carry a warm layer for the evening.", "meals": "Breakfast"},
+    {"day": 4, "title": "Ralang Monastery and Temi Tea Garden", "place": "temi-tea-garden", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 55 km round trip · 2.5 h", "text": "Look out for the Kangchenjunga range at sunrise from your hotel. After breakfast, drive 6 km down to Ralang Monastery, a large Kagyu monastery with a fine collection of thangkas, and the older gompa nearby. Then continue to Temi Tea Garden, about an hour away, where you can walk the estate road through the rows, watch pluckers at work in season and taste and buy tea at the outlet. Return to Ravangla for a quiet evening.", "meals": "Breakfast"},
+    {"day": 5, "title": "Ravangla to NJP or Bagdogra", "place": "ravangla", "overnight": "", "alt_m": 120, "drive": "≈ 125 km · 4.5–5 h", "text": "Leave Ravangla after an early breakfast and drive down via Namchi and Melli to NJP or Bagdogra, arriving in the early afternoon in time for most trains and evening flights. In the monsoon months, slides on NH10 along the Teesta can force a longer route via Kalimpong; your driver will advise, and we suggest flights or trains after 5 pm on this day.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "2 nights in Namchi and 2 in Ravangla, budget hotels, twin sharing, with breakfast",
+    "Small private car (Alto/WagonR class) with driver for five days, fuel, tolls and parking",
+    "Char Dham and Buddha Park entry, and Sikkim's ₹50 state fee",
+    "Route notes and our phone support during the trip"
+  ],
+  "excludes": [
+    "Lunch and dinner (about ₹500–700 per person a day)",
+    "Train or flight tickets",
+    "Camera fees, Samdruptse entry and other small fees",
+    "Tips and personal expenses",
+    "Extra costs from road closures or weather"
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO, which covers these sights.",
+    "Ravangla nights fall near freezing from December to February; pack warm clothes and ask for extra blankets.",
+    "NH10 along the Teesta closes after monsoon landslides; keep evening departures on the last day from June to September. Check current status before you travel.",
+    "Temi factory visits depend on the day's work and are not guaranteed.",
+    "Solo travellers pay a single supplement; four sharing one car pay less per person."
+  ],
+  "upgrade": "The value version uses 3-star hotels with mountain views, including Mt. Narsing Village Resort at Ravangla, for about ₹5,000–7,000 more per person.",
+  "faqs": [
+    {"q": "Is four nights enough for South Sikkim?", "a": "Four nights covers the main sights at an easy pace: Char Dham, Samdruptse, Rock Garden, Buddha Park, Ralang and Temi. Add a night for the Tendong Hill walk, a village homestay at Kewzing, or the Borong hot spring in winter. For Pelling as well, see our six-night trip."},
+    {"q": "Why stay in both Namchi and Ravangla?", "a": "The sights split neatly between the towns. Namchi's Char Dham and Samdruptse are best in morning light; Ravangla's Buddha Park, Ralang and Temi are an hour away from Namchi. Two bases means no long day trips, and you get both the town comforts of Namchi and Ravangla's mountain views."},
+    {"q": "What kind of hotels are used?", "a": "Clean, family-run budget hotels with attached bathrooms, hot water and breakfast, in or near Namchi and Ravangla markets. Rooms with full mountain views are not guaranteed at this price. If views matter, ask about our value version or pay a small supplement for a view room."},
+    {"q": "How cold is Ravangla?", "a": "Ravangla at about 2,100 m runs 5–7 °C colder than Namchi. In January nights are near freezing with frost; in May evenings are around 10–12 °C. Pack a warm jacket in every season and proper winter clothing from December to February."},
+    {"q": "Can we add the Tendong Hill walk?", "a": "Yes. The forest path from Damthang, between Namchi and Ravangla, climbs about 6 km to the 2,600 m summit in 2.5 to 3 hours. It fits on day 3 if you leave Namchi by 7 am, or as an extra day. Fit children over about ten usually manage it."},
+    {"q": "Is this trip good for families with small children?", "a": "Yes. There are no permits, drives are short and children of any age are allowed in South Sikkim, unlike North Sikkim's protected areas. Buddha Park and the Rock Garden are favourites with children. Ask for a child seat when booking; we arrange one where available."},
+    {"q": "What will we spend on food?", "a": "About ₹500–700 per person a day for lunch and dinner at local restaurants: thalis cost about ₹120–220 and momos ₹60–100 a plate. Hotel restaurants charge more. Breakfast is included in the price."},
+    {"q": "Can foreigners book this trip?", "a": "Yes. Foreign nationals need Sikkim's Restricted Area Permit, which since January 2026 is applied for online on the e-FRRO portal after arriving in India, with approval in 24–48 hours. It covers Namchi, Ravangla and Temi. Check current status before you travel."},
+    {"q": "Can we see Kangchenjunga from Ravangla?", "a": "On clear mornings, yes, especially from October to December and in March. Many Ravangla hotels face the range, though budget rooms may have partial views. Look out at first light, before cloud builds around 9–10 am."}
+  ]
+}

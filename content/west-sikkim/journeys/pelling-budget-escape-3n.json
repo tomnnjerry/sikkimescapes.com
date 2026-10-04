@@ -1,0 +1,176 @@
+{
+  "slug": "pelling-budget-escape-3n",
+  "title": "Pelling budget escape from NJP",
+  "region": "west-sikkim",
+  "tier": "budget",
+  "nights": 3,
+  "themes": [
+    "monasteries",
+    "photography",
+    "family-holidays"
+  ],
+  "stops": [
+    {
+      "place": "pelling",
+      "nights": 3
+    }
+  ],
+  "start": "NJP station or Siliguri",
+  "end": "NJP station or Siliguri",
+  "price_from_inr": 9000,
+  "price_basis": "per person, twin sharing, 2 people, shared jeeps from Siliguri, small car for one sightseeing day, budget hotel with breakfast",
+  "price_breakdown": [
+    [
+      "Stays, 3 nights with breakfast",
+      3500
+    ],
+    [
+      "Shared jeeps and one sightseeing car",
+      3000
+    ],
+    [
+      "Entry fees and Sikkim entry fee",
+      500
+    ],
+    [
+      "Our planning and on-call support",
+      2000
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 2200,
+  "meta_description": "Pelling on a budget: 3 nights from NJP with shared jeeps, a clean hotel, Pemayangtse, Rabdentse and Khecheopalri Lake. From ₹9,000 per person.",
+  "summary": "Three nights in Pelling for travellers counting every rupee: shared jeeps up from Siliguri, a clean budget hotel in Upper Pelling with mountain views, a walking day to Pemayangtse, Rabdentse and Sanga Choeling, and a car day to Khecheopalri Lake and the waterfalls. From ₹9,000 per person, twin sharing.",
+  "intro": [
+    "This is the trip we suggest to students, young couples and friends who want to see Kangchenjunga from Pelling without paying for a private car from the plains. You ride the shared jeeps that local people use, from the Sikkim stand in Siliguri to Gyalshing, and we have a local taxi waiting for the last 10 km. In Pelling you stay in a simple, clean hotel in the upper town, where the range fills the northern sky on clear mornings.",
+    "One day is on foot, because Pelling's best sights are close together: Pemayangtse Monastery, the Rabdentse ruins of the 17th-century capital and Sanga Choeling on the ridge. The second day uses a small car for Rimbi waterfall, Khecheopalri Lake and Kanchenjunga Falls. You get a phone number that answers if a road closes, which is what our planning fee really pays for. Lunches and dinners are left to you, so you can eat ₹150 thalis in the bazaar rather than hotel menus."
+  ],
+  "highlights": [
+    "Two sunrises over Kabru, Kangchenjunga and Pandim from Upper Pelling",
+    "Walk to Pemayangtse Monastery and the Rabdentse ruins, capital from 1670",
+    "Climb to Sanga Choeling Monastery (1697) and the Chenrezig skywalk",
+    "Khecheopalri Lake, sacred to Buddhists and Hindus",
+    "Honest budget: shared jeeps, a clean hotel and no hidden extras"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Shared jeep from Siliguri to Pelling",
+      "place": "pelling",
+      "overnight": "Pelling",
+      "alt_m": 2150,
+      "drive": "≈ 135 km · 5–6 h",
+      "text": "Meet our contact at the Sikkim jeep stand near the SNT terminus in Siliguri by 9 am; from NJP an auto takes 20–30 minutes. Your shared jeep runs up the Teesta gorge to Melli, west to Jorethang on the Rangeet, then climbs through Legship to Gyalshing. A local taxi we book takes you the last 10 km to Upper Pelling. If NH10 is closed after rain, jeeps detour via Darjeeling and the day runs 1–2 hours longer. Evening walk to the helipad ground for the last light on the peaks.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Pemayangtse, Rabdentse and Sanga Choeling",
+      "place": "pemayangtse",
+      "overnight": "Pelling",
+      "alt_m": 2150,
+      "drive": "",
+      "text": "Be outside at sunrise, around 5:30–6:15 am depending on the month, for the range turning pink. After breakfast walk about 2 km to Pemayangtse Monastery, the senior Nyingma monastery of Sikkim, enlarged in 1705, and see the carved Zangdok Palri model on the top floor. Continue to the Rabdentse ruins, where the second Chogyal moved his capital in 1670, by a 1 km forest path. After lunch in the bazaar, climb or take a local taxi to Sanga Choeling Monastery and the Chenrezig skywalk for the late-afternoon view.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Khecheopalri Lake and the waterfalls",
+      "place": "khecheopalri-lake",
+      "overnight": "Pelling",
+      "alt_m": 2150,
+      "drive": "≈ 70 km round trip · 5 h with stops",
+      "text": "A second chance at sunrise, then a small car with driver for the day. Stop at Rimbi waterfall and the orange orchards along the Rimbi river, then drive up to Khecheopalri Lake at about 1,700 m. Walk the short boardwalk to the prayer wheels at the water's edge, where tradition says birds keep the surface clear of leaves. On the way back, stop at Kanchenjunga Falls and at Darap, a Limbu village below Pelling, for tea. Back in Pelling by mid-afternoon to rest or shop for chhurpi and local squash.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Back down to Siliguri and NJP",
+      "place": "pelling",
+      "overnight": "",
+      "alt_m": 114,
+      "drive": "≈ 135 km · 5–6 h",
+      "text": "Take a last look at the range at dawn and leave by 7:30 am. A local taxi drops you at the Gyalshing jeep stand, where we have reserved seats on a morning jeep to Siliguri. You should reach Siliguri by about 1–2 pm, in time for afternoon trains from NJP; we suggest not booking anything earlier than 4 pm. In the monsoon allow extra time for slides on NH10 and keep your ticket flexible if you can.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-garuda-pelling"
+  ],
+  "includes": [
+    "3 nights in a clean budget hotel in Upper Pelling, twin sharing, with breakfast",
+    "Reserved seats on shared jeeps Siliguri–Gyalshing and back",
+    "Local taxi between Gyalshing and Pelling both ways",
+    "Small car with driver for the Khecheopalri day",
+    "Entry tickets at Pemayangtse, Rabdentse, skywalk and Khecheopalri",
+    "Sikkim ₹50 tourist entry fee",
+    "Our planning and phone support throughout"
+  ],
+  "excludes": [
+    "Train or flight to NJP or Bagdogra",
+    "Lunches and dinners",
+    "Auto or taxi from NJP or Bagdogra to the Siliguri jeep stand",
+    "Room heater charges, tips and personal expenses",
+    "Extra costs from road closures or detours"
+  ],
+  "good_to_know": [
+    "Shared jeeps carry up to 10 people and luggage goes on the roof under a tarpaulin; keep valuables in a small bag.",
+    "Ask for a north-facing room when you check in; we request it but cannot always guarantee it.",
+    "The walk to Sanga Choeling is steep; take a local taxi up if you prefer and walk down.",
+    "Carry some cash: UPI works in Pelling but not at every tea stall.",
+    "Indian citizens need no permit; foreign nationals need a Restricted Area Permit through e-FRRO. Check current status before you travel."
+  ],
+  "upgrade": "Our value version swaps the shared jeeps for a private small car throughout and a better 3-star room, from about ₹15,000–17,000 per person.",
+  "faqs": [
+    {
+      "q": "Why do you use shared jeeps instead of a private car?",
+      "a": "A private small car from NJP to Pelling and back costs ₹10,000–13,000, which for two people would add about ₹5,000 each. Shared jeeps cost about ₹400–600 a seat each way and are how most Sikkimese travel. They are safe and frequent in the morning. If you would rather have a private car, ask us for the value version."
+    },
+    {
+      "q": "Can we start from Bagdogra Airport instead of NJP?",
+      "a": "Yes. Take a prepaid taxi or app cab from Bagdogra to the Siliguri jeep stand, about 30–45 minutes and roughly ₹400–600. Choose a flight landing by about 10 am, because the last comfortable jeep departures leave Siliguri around midday and you want to reach Pelling before dark."
+    },
+    {
+      "q": "What kind of hotel is included?",
+      "a": "A clean, simple, family-run budget hotel in Upper Pelling with an attached bathroom, hot water and breakfast. Rooms cost around ₹1,800–2,800 a night depending on the season. Do not expect lifts or heaters as standard; ask if you need either. We choose hotels within walking distance of the viewpoints and the bazaar."
+    },
+    {
+      "q": "Will we definitely see Kangchenjunga?",
+      "a": "No one can promise that, but this trip gives you three dawns in Pelling, which helps. Between mid-October and mid-December most guests see the range clearly at least once. In spring the view is hazier and in the monsoon it is often hidden. The monasteries and lake are worth seeing in any weather."
+    },
+    {
+      "q": "Is this trip suitable for children or parents over 60?",
+      "a": "The drive and the shared jeeps are fine for most families, but the walking day includes climbs and steps, especially to Sanga Choeling. For children under eight or older parents, we suggest the value version with a private car, or we can swap the walking day for a car tour at about ₹2,500–3,500 extra per car."
+    },
+    {
+      "q": "What does the planning fee cover?",
+      "a": "It covers booking and confirming your hotel, reserving jeep seats and the sightseeing car, entry tickets, and a Gangtok-based team you can call from the moment you reach Siliguri until you are back. If a road closes or a jeep is cancelled, we rearrange transport and rooms for you."
+    },
+    {
+      "q": "Can we add a night in Yuksom?",
+      "a": "Yes. One extra night in a Yuksom homestay with dinner and breakfast, plus the car from Pelling and back to Gyalshing, adds about ₹3,000–4,000 per person. It lets you walk to Dubdi Monastery and the Norbugang coronation site, the birthplace of the Sikkimese kingdom in 1642."
+    },
+    {
+      "q": "What is the best time for this Pelling trip?",
+      "a": "Mid-October to mid-December for the clearest views, and January–February for low prices with good, cold mornings. March to May brings flowers but more haze. We do not recommend July and August, when rain, slides and cloud make shared-jeep travel slow and views rare. Check current road status before you travel."
+    },
+    {
+      "q": "Do we need any permit for Pelling?",
+      "a": "Indian citizens do not need a permit for Pelling or anywhere on this trip; you only pay Sikkim's ₹50 tourist entry fee, which is included and collected by your hotel. Foreign nationals need a Restricted Area Permit for Sikkim through the e-FRRO portal. Check current status before you travel."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "south-sikkim-family-easy-value-5n",
+  "title": "Easy South Sikkim family trip, 5 nights",
+  "region": "south-sikkim",
+  "tier": "value",
+  "nights": 5,
+  "themes": ["family-holidays", "monasteries", "food-and-tea"],
+  "stops": [{"place": "namchi", "nights": 2}, {"place": "ravangla", "nights": 3}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 22000,
+  "price_basis": "per person, twin sharing, 2 adults, private car (Dzire/Etios class), 3-star hotels with breakfast",
+  "price_breakdown": [["Stays, 5 nights", 10000], ["Car and driver, 6 days", 9000], ["Entry fees and state fee", 500], ["Our planning fee", 2500]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "5 easy nights in South Sikkim for families: Namchi, Ravangla, Buddha Park, Temi tea, short drives and no permits. 3-star hotels. From ₹22,000 per person.",
+  "summary": "Built for families with young children or grandparents: two nights in Namchi and three at a garden cottage resort near Ravangla, with no drive over about an hour between sights, an afternoon rest every day, level sights first, and a free half day. No permits for Indian families and no altitude worries.",
+  "intro": [
+    "South Sikkim is where we send families who want the mountains without the hard parts. There are no permits for Indian travellers, children of any age are allowed (unlike North Sikkim's protected areas, which bar under-5s), and the bases sit at 1,315 m in Namchi and about 2,100 m around Ravangla, well below the altitude where most people notice anything. Every sight on this trip is within an hour of your hotel.",
+    "The plan is deliberately gentle. Each day has one main outing in the morning and something light in the afternoon, with time to rest after lunch. We choose 3-star hotels with ground or first-floor rooms on request, heaters in winter and kitchens that will cook plain food for children. At Ravangla you stay three nights at Mt. Narsing Village Resort, a garden cottage resort with lawns where children can run and a view over the Rangeet valley to Narsing and Kabru."
+  ],
+  "highlights": [
+    "Buddha Park's level paths and open lawns, the easiest big sight in Sikkim",
+    "The giant Shiva of Char Dham and the Guru Rinpoche statue at Samdruptse",
+    "Tea pluckers at work at Temi, with a downhill walk and the car waiting below",
+    "Three nights at a garden cottage resort with valley views",
+    "Short drives, afternoon rests and a free half day"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Namchi", "place": "namchi", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 100 km · 3.5–4 h", "text": "Pick-up at NJP or Bagdogra in the morning. The drive follows the Teesta through Sevoke and Melli, with a tea and toilet stop on the way; tell your driver if anyone feels carsick and he will stop. Check in at your Namchi hotel by early afternoon and rest. In the evening, the central plaza is lit and full of families, with space for children to play and snacks nearby. Hotels collect Sikkim's ₹50 per person state fee; under-5s are exempt.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Char Dham, Rock Garden and Samdruptse", "place": "char-dham-solophok", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 30 km in short hops · local", "text": "Arrive at Char Dham near opening time, around 8 am, before the crowds and the sun. Children are usually amazed by the size of the Shiva statue. The complex has many steps between levels, so grandparents can rest at the covered benches while others climb. Back to the hotel for lunch and a rest. In the late afternoon, stroll the gentle terraces of Namchi Rock Garden and drive up to Samdruptse for the Guru Rinpoche statue, a short paved walk from the car park.", "meals": "Breakfast"},
+    {"day": 3, "title": "To Ravangla and Buddha Park", "place": "buddha-park-ravangla", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 30 km · 1–1.25 h", "text": "Leave Namchi after a slow breakfast for the one-hour drive to Ravangla and check in at Mt. Narsing Village Resort, a few kilometres out of town on the Pelling road. Lunch and a rest. In the afternoon, visit Buddha Park, where wide, almost level paths lead from the gate to the 130 ft statue, with lawns and benches all the way. The gallery inside the base tells the life of the Buddha in pictures that children can follow. Evening by the fireplace.", "meals": "Breakfast"},
+    {"day": 4, "title": "Ralang Monastery and Temi tea", "place": "temi-tea-garden", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 60 km round trip · 2.5 h", "text": "Look out for the Kangchenjunga range from the resort at sunrise. After breakfast, drive to Ralang Monastery, where the car stops close to the courtyard and young monks may be at lessons. Continue to Temi Tea Garden. Walk downhill along the estate road through the tea rows, watching pluckers at work in season, while the car meets you below, so there is no climbing back up. Taste and buy tea at the outlet, then return for a late lunch and a rest.", "meals": "Breakfast"},
+    {"day": 5, "title": "A free half day at Ravangla", "place": "ravangla", "overnight": "Ravangla", "alt_m": 2100, "drive": "≈ 20 km · local", "text": "A morning with no plans: let the children play on the resort lawns, read in the sun, or take a short walk on the village lanes. After lunch, drive 9 km to Kewzing for a gentle walk among farms and monasteries, or visit the older Rabong monastery near Buddha Park and the Ravangla market for local snacks and woollens. Pack in the evening for an early start.", "meals": "Breakfast"},
+    {"day": 6, "title": "Ravangla to NJP or Bagdogra", "place": "ravangla", "overnight": "", "alt_m": 120, "drive": "≈ 125 km · 4.5–5 h", "text": "Leave after breakfast for the drive down via Namchi and Melli to NJP or Bagdogra, arriving by early afternoon with stops for tea and lunch. In the monsoon, slides on NH10 can force a longer route via Kalimpong; book trains or flights after 5 pm on this day.", "meals": "Breakfast"}
+  ],
+  "stays": ["mt-narsing-village-resort-ravangla"],
+  "includes": [
+    "2 nights at a 3-star hotel in Namchi and 3 nights at Mt. Narsing Village Resort, Ravangla, twin sharing, with breakfast",
+    "Private car (Dzire/Etios class) with driver for six days, fuel, tolls and parking",
+    "Char Dham and Buddha Park entry, Sikkim's ₹50 state fee",
+    "Ground or first-floor rooms on request, subject to availability",
+    "Our phone support during the trip"
+  ],
+  "excludes": [
+    "Lunch and dinner (about ₹700–1,200 per person a day at hotel restaurants)",
+    "Train or flight tickets",
+    "Child seats (on request, where available) and extra beds",
+    "Camera fees and small entry fees",
+    "Tips and personal expenses"
+  ],
+  "good_to_know": [
+    "Children under 12 sharing parents' room usually pay much less; ask us for a family quote.",
+    "Indian nationals need no permit; foreign nationals need Sikkim's Restricted Area Permit via e-FRRO.",
+    "Pack warm layers in every season: Ravangla evenings are about 10 °C in May and near freezing in January.",
+    "Namchi has a district hospital and pharmacies; Ravangla has a health centre and pharmacies.",
+    "NH10 closes after monsoon landslides; check current status before you travel."
+  ],
+  "upgrade": "The comfort version uses Seven Hill Resort in Namchi and The Barfung Retreat at Ravangla with a private SUV, for about ₹12,000–15,000 more per person.",
+  "faqs": [
+    {"q": "Is this trip suitable for a toddler?", "a": "Yes. South Sikkim has no permits for Indian families, no age limits and no high altitude. Drives between sights are under about an hour, and Buddha Park and the resort lawns give space to run. Pack warm clothes, snacks and motion-sickness remedies for the first and last days."},
+    {"q": "How much do children pay?", "a": "Children under 12 sharing their parents' room usually cost far less than an adult, mainly their share of the car and any extra bed or breakfast. Under-5s are exempt from Sikkim's ₹50 entry fee. Send us ages and we will give a family price."},
+    {"q": "Can grandparents manage this trip?", "a": "Yes. It is designed for mixed ages: one main outing each morning, afternoon rest, and level sights such as Buddha Park. Char Dham has steps, but grandparents can rest while others climb. We ask hotels for ground or first-floor rooms where possible."},
+    {"q": "What is Mt. Narsing Village Resort like?", "a": "A long-running cottage resort a few kilometres from Ravangla on the Pelling road, with lawns and gardens, a dining room with a fireplace and a wide view over the Rangeet valley to Narsing and Kabru. It is quiet and away from the market, which suits families."},
+    {"q": "Which hotel do you use in Namchi?", "a": "A 3-star hotel in or near Namchi town with lift or low-floor rooms where possible, hot water, heaters in winter and a restaurant that will cook simple food for children. We confirm the exact hotel when you book, depending on dates."},
+    {"q": "Will the children get carsick?", "a": "Hill roads can cause motion sickness, mostly on the long first and last days. Give a light breakfast, seat children in the middle row facing forward, keep a window open and ask the driver to stop every hour. Speak to your doctor about medicine before the trip."},
+    {"q": "Can we see snow?", "a": "Not reliably. Ravangla and the hills above it occasionally get light snow in January or February, and you may see the snow peaks of the Kangchenjunga range on clear days. For snow, add a Tsomgo Lake day from Gangtok in winter."},
+    {"q": "Is food easy for children?", "a": "Yes. Hotels serve dal, rice, chapati, mild curries, eggs and noodles, and will make plain food on request. Momos and thukpa are popular with children. Ask for less chilli, as Sikkimese pickles can be very hot."},
+    {"q": "What is the best month for a family trip?", "a": "October and November for dry, clear weather and mountain views; March to May for mild days and flowers, and the summer school holidays. December to February is fine with warm clothes. Avoid June to September if you can, because of rain and road closures."}
+  ]
+}

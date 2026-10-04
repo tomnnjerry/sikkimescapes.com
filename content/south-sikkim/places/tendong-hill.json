@@ -1,0 +1,158 @@
+{
+  "slug": "tendong-hill",
+  "name": "Tendong Hill",
+  "region": "south-sikkim",
+  "kind": "trek",
+  "wiki": "",
+  "image_query": "Tendong Hill Sikkim",
+  "lat": 27.206,
+  "lng": 88.409,
+  "altitude_m": 2600,
+  "local_name": {"name": "Tendong", "language": "Lepcha", "meaning": "the hill of the raised horn", "source": "EastMojo, Tendong Lho Rum Faat feature (2022)"},
+  "tagline": "The Lepcha ark mountain, a half-day forest walk from Damthang",
+  "meta_description": "Tendong Hill trek from Damthang: the Lepcha flood legend, Tendong Lho Rum Faat on 8 August, trail length, views, costs and best months.",
+  "summary": "Tendong Hill is a forested summit of about 2,600 m between Namchi and Ravangla, sacred to the Lepcha people, who believe it saved their ancestors from a great flood. A well-used trail climbs about 5–6 km from Damthang in 2.5–3 hours to a summit watchtower with wide Himalayan views.",
+  "intro": [
+    "Tendong is the long, wooded ridge you see east of the Namchi–Ravangla road, its summit rising to about 2,600 m. For most travellers it is a fine half-day walk through oak, rhododendron and bamboo to a viewpoint where the whole of Sikkim seems to unfold: Kangchenjunga and its neighbours to the north-west, the Darjeeling hills to the south and, on very clear days, the plains of Bengal.",
+    "For the Lepcha, Sikkim's earliest inhabitants, Tendong is much more. Lepcha tradition says that when a great flood covered the land, their ancestors climbed this hill and it rose like a horn to keep them above the water. Every 8 August, Lepchas mark Tendong Lho Rum Faat, the prayer to Tendong, a state holiday in Sikkim.",
+    "The usual start is Damthang, a roadside village at about 2,030 m on the road between Namchi and Ravangla. The trail gains roughly 570 m, is clear and mostly shaded, and suits anyone of reasonable fitness. A small Buddhist shrine and a watchtower stand on the top. Go early: by midday clouds often build around the summit."
+  ],
+  "story": {
+    "title": "The flood, the horn and the nine stones",
+    "text": "Lepcha oral tradition, retold each year around Tendong Lho Rum Faat, describes a time when the sources of the rivers were destroyed and rain fell for forty days. The water rose through the valleys of the Teesta and the Rangeet, drowning villages and fields. The Lepcha ancestors fled uphill, and Tendong rose like a horn from the head of a deity, lifting them clear of the flood. They prayed on its summit until the water fell, and the hill has been honoured as their saviour ever since; the name is often translated as the hill of the raised horn. In remembrance, families make a small model of the holy mountain with nine stones and worship it, and the festival is marked with prayers, songs and masked dances. Sikkim observes 8 August as a state holiday for Tendong Lho Rum Faat, and many Lepcha groups walk to the summit for prayers on or around that day. Versions of the story vary between families and villages; we tell it as recorded in published accounts.",
+    "source": "Wikipedia: Tendong Lho Rumfaat; EastMojo (2022, 2025) festival reports"
+  },
+  "little_known": [
+    {"fact": "Sikkim observes 8 August as a state holiday for Tendong Lho Rum Faat, the Lepcha prayer to Tendong Hill.", "source": "Wikipedia: Tendong Lho Rumfaat"},
+    {"fact": "During the festival some Lepcha families build a small model of the holy mountain from nine stones and worship it at home.", "source": "EastMojo (2022)"},
+    {"fact": "Tendong and Maenam form the north–south ridge that divides the Teesta and Rangeet valleys through the middle of the district.", "source": "Sikkim Forest Department via Maenam WLS descriptions"}
+  ],
+  "facts": [["Best months", "Oct–Dec and Mar–Apr"], ["Nights we suggest", "Stay in Namchi or Ravangla"], ["From Gangtok", "≈ 70 km to Damthang · 3 h"], ["Altitude", "≈ 2,600 m (summit)"], ["Known for", "Lepcha flood legend, summit views, forest trail"], ["Permit", "Not needed"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 1, 1, 2, 2, 2],
+  "nights": "0 (half-day walk from Namchi or Ravangla)",
+  "highlights": [
+    {"title": "Summit watchtower view", "text": "From the tower on top, look north-west to Kangchenjunga, Kabru and Pandim, east towards Gangtok's ridges and south to the Darjeeling hills. October to December mornings give the cleanest horizon."},
+    {"title": "Forest trail from Damthang", "text": "About 5–6 km one way through oak, rhododendron, magnolia and bamboo, mostly shaded and well trodden. It gains roughly 570 m. Most walkers take 2.5–3 hours up and 1.5–2 down."},
+    {"title": "A sacred Lepcha summit", "text": "Tendong is the hill of the Lepcha flood legend, honoured every 8 August at Tendong Lho Rum Faat. Walking it with that story in mind changes the experience; treat the summit shrine with respect."},
+    {"title": "Spring rhododendrons", "text": "In March and April rhododendrons flower along the upper trail in reds and pinks. Combined with birdsong and clear mornings, spring is our second favourite season after the post-monsoon."},
+    {"title": "Birds of the mid-hills", "text": "The forest holds laughingthrushes, barbets, minivets, sibias and, with luck, pheasants near the top. A guide who knows the calls makes a big difference."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps between Namchi and Ravangla pass through Damthang; ask to be dropped at the Tendong trailhead. The fare is roughly ₹50–100 from either town. For the return, flag down a passing jeep in the afternoon, though seats are not guaranteed after 3 pm."},
+    {"mode": "Private car", "text": "Damthang is about 40 minutes from Namchi and 30 minutes from Ravangla. A car drop and pick-up with waiting costs about ₹1,500–2,500. From Gangtok, the trailhead is roughly 70 km and 3 hours, so a same-day walk from Gangtok is long."},
+    {"mode": "From Bagdogra / NJP", "text": "About 120 km and 4.5 hours to Damthang via Melli and Namchi. Sleep in Namchi or Ravangla first and walk the next morning. If NH10 is closed after monsoon slides, drivers route through Darjeeling district and Jorethang."}
+  ],
+  "costs": [["Shared jeep to Damthang", "≈ ₹50–100 a seat"], ["Car drop and pick-up", "≈ ₹1,500–2,500"], ["Local guide (half day)", "≈ ₹1,000–1,500"], ["Packed lunch from hotel", "≈ ₹150–300"]],
+  "where_to_stay": "There is nowhere to sleep on the hill. Stay in Ravangla, 30 minutes away, where Mt. Narsing Village Resort and The Barfung Retreat suit value and comfort budgets, or in Namchi, 40 minutes away, at Seven Hill Resort or Sobralia. Budget travellers will find simple hotels in both towns from about ₹1,500 a room. Start the walk by 7–8 am for the best views.",
+  "stays": ["mt-narsing-village-resort-ravangla", "the-barfung-retreat-ravangla", "seven-hill-resort-namchi"],
+  "tips": [
+    "Start from Damthang by 7–8 am; summit cloud usually builds by midday.",
+    "Carry water and snacks: there are no shops on the trail.",
+    "Leeches are common from June to September; wear long socks and carry salt.",
+    "Treat the summit shrine as a place of prayer, not a picnic table.",
+    "If you visit around 8 August, expect Lepcha groups and prayers on the summit."
+  ],
+  "themes": ["treks-and-walks", "festivals", "flowers-and-forests", "birds-and-wildlife"],
+  "nearby": ["namchi", "ravangla", "temi-tea-garden", "samdruptse"],
+  "experiences": [
+    {
+      "slug": "tendong-hill-damthang-summit-trek",
+      "title": "Damthang to Tendong summit and back",
+      "kind": "adventure",
+      "duration": "5–6 hours",
+      "best_time": "Start 7–8 am, October to April",
+      "cost": "≈ ₹1,000–1,500 guide plus transport",
+      "image_query": "Tendong Hill trail forest Sikkim",
+      "wiki": "",
+      "summary": "The classic half-day forest walk: about 5–6 km up from Damthang through oak, rhododendron and bamboo to the summit watchtower at about 2,600 m, with Kangchenjunga ahead on clear mornings. Moderate effort, well-trodden path, home by lunch.",
+      "body": [
+        "The trail starts from the road at Damthang, around 2,030 m, and climbs steadily through village fields into forest. The path is clear and mostly made of earth and stone, with some steep sections. Stop often: the views open in glimpses through the trees, and the forest is full of birdsong in the early morning.",
+        "Higher up, oaks give way to rhododendron and bamboo, and in March and April the reds and pinks of rhododendron flowers line the trail. Near the top the ground levels out to a broad summit with a small shrine and a watchtower. On a clear day the panorama runs from Kangchenjunga to the Darjeeling hills.",
+        "Allow 2.5–3 hours up and 1.5–2 down. A local guide is not compulsory but helps with route-finding where side paths branch, and with birds and plants. Carry water, a snack and a rain jacket. In the monsoon the trail is slippery and leech-filled; we do not recommend it from June to August."
+      ],
+      "good_for": ["couples", "solo", "photographers", "families"],
+      "faqs": [
+        {"q": "How difficult is the Tendong Hill trek?", "a": "Moderate. You walk about 5–6 km one way and gain roughly 570 m on a clear forest path with some steep stretches. Anyone who can climb stairs for an hour with rests will manage. Children over about 8 who walk regularly usually enjoy it. Allow 5–6 hours return."},
+        {"q": "Do we need a guide for Tendong?", "a": "Not strictly, as the main trail is well used. But side paths can confuse, and a guide from Damthang or Ravangla adds bird and plant knowledge and the Lepcha story. Expect about ₹1,000–1,500 for a half day. We recommend a guide for first-timers and families."},
+        {"q": "Is there water on the Tendong trail?", "a": "Do not rely on it. There are no shops above Damthang, and streams are seasonal. Carry at least 1–1.5 litres per person, plus snacks or a packed lunch. Carry a refillable bottle and take all wrappers back down."}
+      ]
+    },
+    {
+      "slug": "tendong-lho-rum-faat-summit-prayers",
+      "title": "Tendong Lho Rum Faat on the summit, 8 August",
+      "kind": "culture",
+      "duration": "Full day",
+      "best_time": "8 August (state holiday)",
+      "cost": "≈ ₹1,500–2,500 car plus guide",
+      "image_query": "Lepcha festival Sikkim traditional dress",
+      "wiki": "Tendong Lho Rumfaat",
+      "summary": "Join the walk up Tendong on the Lepcha festival day, when community groups climb to pray to the hill that saved their ancestors. A rare chance to see Lepcha dress, songs and offerings, if you go as a quiet, respectful guest.",
+      "body": [
+        "Tendong Lho Rum Faat, the prayer to Tendong, falls on 8 August and is a state holiday in Sikkim. Lepcha associations hold events in several places, and the climb to Tendong's summit is central to the day. Families come in traditional dress, carry offerings and sing; prayers are said for protection from floods and disasters.",
+        "Visitors are generally welcome to walk with the groups, but this is a religious occasion, not a show. Ask before photographing people or rituals, stay at the edges of ceremonies and follow your guide's lead. A Lepcha guide or a local contact helps you understand what is happening and when it is appropriate to join in.",
+        "August is the monsoon, so the trail will be wet, muddy and full of leeches, and clouds may hide the views. Wear proper boots and long socks, carry a rain jacket and salt for leeches. Dates and programmes are set each year by community organisations; check current status before you travel."
+      ],
+      "good_for": ["solo", "photographers", "couples"],
+      "faqs": [
+        {"q": "Can tourists attend Tendong Lho Rum Faat?", "a": "Generally yes, as respectful guests. The festival is a religious and community occasion, so dress modestly, ask before photographing people and rituals, and do not interrupt prayers. Going with a local Lepcha guide is the best way to understand and join in appropriately."},
+        {"q": "Why is Tendong Lho Rum Faat on 8 August?", "a": "The festival is fixed on 8 August each year and observed as a state holiday in Sikkim. It commemorates, in Lepcha tradition, how Tendong Hill saved their ancestors from a great flood. Events are held on or around that date by community organisations."},
+        {"q": "Is the trail safe in August?", "a": "It is walked every year by local groups, but August is peak monsoon. Expect rain, mud, slippery rocks and leeches. Wear boots with good grip and long socks, carry a rain jacket and salt or leech socks, and avoid the walk in very heavy rain. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "tendong-hill-spring-rhododendron-birding",
+      "title": "Rhododendrons and birds on Tendong in spring",
+      "kind": "wildlife",
+      "duration": "5 hours",
+      "best_time": "6:30 am start, March to April",
+      "cost": "≈ ₹1,500–2,500 for a bird guide",
+      "image_query": "rhododendron flowers Sikkim forest",
+      "wiki": "",
+      "summary": "A slower version of the Tendong walk with a bird guide in March and April, when rhododendrons flower on the upper slopes and the forest is loud with breeding birds. Fewer kilometres covered, many more species seen.",
+      "body": [
+        "Spring on Tendong is when the forest wakes up. Rhododendrons flower from around March on the upper trail, and resident birds sing to hold territory. A bird guide from Ravangla or Namchi will start at first light and move slowly, stopping at clearings and flowering trees where birds feed.",
+        "Mid-hill forests in this part of Sikkim hold species such as laughingthrushes, barbets, sibias, yuhinas, minivets, flycatchers and woodpeckers. Pheasants are shy, but kalij pheasants are sometimes seen on the trail at dawn. What you see depends on season, weather and luck, and a good guide will not promise rarities.",
+        "Allow 5 hours for a birding ascent to the summit and back, or turn around halfway if the birding is good. Bring binoculars, a light jacket and rain cover. Wear muted colours. Guides charge about ₹1,500–2,500 for a morning; book a day ahead through your hotel or us."
+      ],
+      "good_for": ["photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "When do rhododendrons flower on Tendong?", "a": "Usually from March into April on the upper slopes, depending on altitude and the year's weather. Lower down, flowering may start in late February. By May most blooms are over. Ask locally before you go, as a cold spring can delay flowering by a couple of weeks."},
+        {"q": "What birds might we see on Tendong?", "a": "Typical mid-hill species include laughingthrushes, barbets, sibias, yuhinas, minivets, flycatchers and woodpeckers, with kalij pheasants sometimes seen at dawn. Sightings vary by season and luck. A local guide improves your chances greatly by knowing calls and feeding spots."},
+        {"q": "Is this walk suitable for non-birders?", "a": "Yes, but it is slow by design. If you want views and exercise more than birds, do the standard trek instead. Mixed groups work well if the non-birders are happy to sit at viewpoints while the birders look."}
+      ]
+    },
+    {
+      "slug": "tendong-damthang-village-tea-stop",
+      "title": "Tea and village life at Damthang trailhead",
+      "kind": "village",
+      "duration": "1 hour",
+      "best_time": "After the walk, any dry month",
+      "cost": "≈ ₹100–250 per person",
+      "image_query": "Damthang village Sikkim",
+      "wiki": "",
+      "summary": "Finish the Tendong walk in Damthang with tea, a plate of momos or a bowl of noodles at a roadside shop, and a short wander through a village that sits at the junction of the Namchi, Ravangla and Temi roads.",
+      "body": [
+        "Damthang is a small roadside settlement at about 2,030 m on the road between Namchi and Ravangla. Its shops serve the shared jeeps and the farmers of the slopes around, and they double as the Tendong walkers' café: sweet milky tea, butter tea on request, momos, noodles and biscuits.",
+        "After coming down from the hill, sit for a while and watch the jeeps come and go. Ask the shopkeepers about the Tendong festival and the trail; many have walked it every August since childhood. Around the village you see maize, potatoes and cardamom on the slopes, depending on the season.",
+        "Expect to spend ₹100–250 per person for a snack and tea. Carry small change and use UPI where possible. If you are taking a shared jeep onward, ask here when the next one is due; shopkeepers know the timings better than any timetable."
+      ],
+      "good_for": ["budget", "families", "solo"],
+      "faqs": [
+        {"q": "Where is Damthang?", "a": "Damthang is on the road between Namchi and Ravangla. It is about 40 minutes from Namchi and 30 minutes from Ravangla by car. It is the usual starting point for the Tendong Hill trek."},
+        {"q": "Can we get a meal in Damthang?", "a": "Simple meals only: tea, momos, noodles, sometimes rice and dal. For a full lunch, eat in Namchi or Ravangla after your walk. Ask your hotel to pack a lunch if you plan to eat on the summit."},
+        {"q": "Can we catch a shared jeep from Damthang?", "a": "Yes, shared jeeps between Namchi and Ravangla pass through, more frequently in the morning. Seats can be full in peak season, and service thins after mid-afternoon. Shopkeepers usually know when the next jeep is due."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How long is the Tendong Hill trek?", "a": "About 5–6 km one way from Damthang, gaining roughly 570 m to the summit at about 2,600 m. Most walkers take 2.5–3 hours up and 1.5–2 hours down, so plan for a 5–6 hour round trip with breaks. Start early for the best views."},
+    {"q": "What is the story of Tendong Hill?", "a": "Lepcha tradition holds that during a great flood, their ancestors climbed Tendong and the hill rose like a horn to keep them safe. They prayed on its summit until the water fell. The Lepcha mark this every 8 August with Tendong Lho Rum Faat, a state holiday in Sikkim."},
+    {"q": "What is the best time to trek Tendong?", "a": "October to December for clear Himalayan views, and March to April for rhododendrons and birds. Winter (January–February) is cold but often clear. June to August is the monsoon, with slippery paths, leeches and clouds; avoid it unless you are going for the festival."},
+    {"q": "Can children do the Tendong trek?", "a": "Children over about 8 who are used to walking usually manage well, especially with a guide and plenty of breaks. The path is clear and mostly shaded. Younger children can be carried part way. Turn back if anyone tires; there is no shame in a halfway picnic."},
+    {"q": "What can we see from Tendong summit?", "a": "On clear days, Kangchenjunga, Kabru, Pandim and the peaks of West Sikkim to the north-west, ridges towards Gangtok to the north-east, the Darjeeling hills to the south and the Teesta and Rangeet valleys below. A watchtower on top helps you see over the trees."},
+    {"q": "Is there an entry fee for Tendong Hill?", "a": "We are not aware of a regular entry fee for walking the trail at the time of writing. Some forest areas in Sikkim charge small fees or require registration; rules change. Check current status before you travel. Guides and transport are your main costs."},
+    {"q": "Where should we stay for the Tendong trek?", "a": "Ravangla (30 minutes from Damthang) or Namchi (40 minutes). Ravangla is closer and pairs well with Buddha Park and Ralang. Namchi has more hotels and pairs with Samdruptse and Char Dham. Either way, leave by 7 am to be on the trail early."},
+    {"q": "Do we need a permit for Tendong?", "a": "No special permit is needed for Indians. Foreign nationals need the standard Sikkim Restricted Area Permit, applied online through e-FRRO, but no extra protected-area permit for Tendong. Check current status before you travel."},
+    {"q": "Can we combine Tendong with Temi tea garden?", "a": "Yes. Walk Tendong in the morning and drive on to Temi for an afternoon in the tea estate, roughly 1–1.5 hours by road depending on the route your driver takes. Spend the night at Temi or return to Ravangla or Namchi."}
+  ]
+}

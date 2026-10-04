@@ -1,0 +1,171 @@
+{
+  "slug": "pemayangtse",
+  "name": "Pemayangtse Monastery",
+  "region": "west-sikkim",
+  "kind": "monastery",
+  "wiki": "Pemayangtse Monastery",
+  "image_query": "Pemayangtse Monastery Pelling Sikkim",
+  "lat": 27.3044,
+  "lng": 88.2528,
+  "altitude_m": 2085,
+  "local_name": {"name": "Pemayangtse", "language": "Tibetan", "meaning": "Perfect sublime lotus", "source": "Wikipedia: Pemayangtse Monastery"},
+  "tagline": "Sikkim's senior Nyingma monastery, home of the Zangdok Palri model",
+  "meta_description": "Pemayangtse Monastery near Pelling (2,085 m): history, the seven-tiered Zangdok Palri model, mask dance dates, entry fee, timings and how to visit.",
+  "summary": "Pemayangtse is the senior monastery of the Nyingma order in Sikkim, at about 2,085 m on a ridge 2 km below Upper Pelling. Enlarged under the third Chogyal and consecrated in 1710, it keeps the seven-tiered wooden Zangdok Palri model and holds mask dances in February. Allow 1–1.5 hours.",
+  "intro": [
+    "Pemayangtse stands on a ridge between Pelling and Gyalshing, looking north to Kangchenjunga across the Rangeet valley. It is the head monastery of the Nyingma order in Sikkim, the oldest school of Tibetan Buddhism, and by tradition it accepts only ta-tshang, 'monks of pure lineage', who are celibate and without physical deformity. Its lamas have historically played a part in the rituals of the Namgyal royal family.",
+    "The date of the monastery is told in layers. Wikipedia records that Lhatsun Chempo, one of the three lamas who consecrated the first Chogyal in 1642, founded a small temple here in the 1640s; that it was enlarged under the third Chogyal, Chakdor Namgyal; and that it was consecrated in 1710. Many guidebooks give 1705 as the founding date of the present monastery. The buildings have been repaired and rebuilt several times over the centuries.",
+    "Inside, the ground floor holds the main prayer hall with statues of Guru Padmasambhava and his manifestations. The top floor holds the monastery's best-known treasure: a seven-tiered painted wooden model of Zangdok Palri, the celestial palace of Guru Padmasambhava, made by the late Dungzin Rinpoche over five years. On the last two days of the Tibetan year, in February, the monks perform mask dances in the courtyard."
+  ],
+  "story": {
+    "title": "Zangdok Palri, a heaven carved by one lama",
+    "text": "Zangdok Palri, the 'Copper-Coloured Mountain', is the pure land where Guru Padmasambhava, the 8th-century teacher who brought Buddhism to the Himalaya, is believed to live in a palace on a mountain rising from an ocean. Nyingma practitioners visualise it in meditation, and its image appears in murals across Sikkim and Bhutan. At Pemayangtse it takes three-dimensional form. On the top floor stands a seven-tiered painted wooden model of the palace, crowded with deities, saints, rainbows, animals and guardian figures, rising level by level to the central figure. Accounts from the monastery, repeated by Lonely Planet and other guides, say it was made single-handed by the late Dungzin Rinpoche over five years. Visitors often walk past it in a minute. Stay longer: each tier shows a different realm, and the monks can point out Padmasambhava's eight manifestations. Photography inside is usually not allowed, which is one more reason to look slowly.",
+    "source": "Lonely Planet: Pemayangtse Gompa; Wikipedia: Pemayangtse Monastery"
+  },
+  "little_known": [
+    {"fact": "Pemayangtse accepts only ta-tshang, 'monks of pure lineage', who must be celibate and without physical abnormality, a rule Wikipedia says still applies.", "source": "Wikipedia: Pemayangtse Monastery"},
+    {"fact": "The monastery's annual mask dances fall on the 28th and 29th days of the 12th Tibetan month, in February, closing the old year before Losar.", "source": "Wikipedia: Pemayangtse Monastery"},
+    {"fact": "As the head of the Nyingma order in Sikkim, Pemayangtse is described by Wikipedia as controlling the other monasteries of that order in the state.", "source": "Wikipedia: Pemayangtse Monastery"}
+  ],
+  "facts": [
+    ["Best months", "Oct–May; Feb for mask dances"],
+    ["Nights we suggest", "Visit from Pelling (0 extra)"],
+    ["From Gangtok", "≈ 115 km · 5–6 h (2 km below Upper Pelling)"],
+    ["Altitude", "2,085 m"],
+    ["Known for", "Zangdok Palri model, Nyingma head monastery, chaam"],
+    ["Permit", "Not needed; small entry fee"]
+  ],
+  "best_months": [1, 2, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "0 (visit from Pelling)",
+  "highlights": [
+    {"title": "The Zangdok Palri model", "text": "On the top floor, a seven-tiered painted wooden model of Guru Padmasambhava's celestial palace, made by the late Dungzin Rinpoche over five years. Take your time: each tier shows a different realm, and a monk may explain the figures if asked politely."},
+    {"title": "Morning prayers", "text": "Arrive soon after opening to hear the monks' morning chanting, with long horns and drums, before the day visitors arrive from Gangtok and Darjeeling. Sit quietly at the back, and never photograph during prayers without permission."},
+    {"title": "February mask dances", "text": "On the 28th and 29th days of the 12th Tibetan month, monks in brocade and painted masks dance in the courtyard to clear the old year's obstacles before Losar. Arrive by mid-morning for a place on the steps."},
+    {"title": "Kangchenjunga from the ridge", "text": "The monastery's courtyard and the lawns nearby face Kangchenjunga, Kabru and Pandim. On clear mornings between October and March the view framed by prayer flags and the monastery roof is one of Pelling's classic photographs."},
+    {"title": "Walk on to Rabdentse", "text": "From Pemayangtse it is a short walk to the gate on the Pelling–Gyalshing road and the 15–20 minute forest path to the Rabdentse ruins, the royal capital from 1670. The two together make a 3-hour heritage morning."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Upper Pelling it is about 2 km downhill on the road towards Gyalshing, 25–30 minutes on foot. The walk back up is steeper, so many people take a taxi one way."},
+    {"mode": "Private car", "text": "Every Pelling half-day sightseeing tour includes Pemayangtse, along with Rabdentse, the Skywalk and Sanga Choeling, indicatively ₹2,500–3,500 per car. A one-way taxi from Upper Pelling costs about ₹200–400."},
+    {"mode": "From Bagdogra / NJP", "text": "Reach Pelling first: about 135–145 km and 5–6 hours via Melli, Jorethang, Legship and Gyalshing. The monastery is on the road just before Pelling, so you can stop on arrival if you reach before closing."}
+  ],
+  "costs": [
+    ["Entry fee", "≈ ₹20–50 per person"],
+    ["Taxi from Upper Pelling", "≈ ₹200–400 one way"],
+    ["Half-day Pelling tour", "≈ ₹2,500–3,500 a car"],
+    ["Local guide", "≈ ₹1,500–2,500 for a morning"],
+    ["Butter lamp offering", "≈ ₹20–100, voluntary"]
+  ],
+  "where_to_stay": "The Elgin Mount Pandim is a five-minute walk from the monastery gate and the closest premium stay, quiet and set in gardens. Summit Newa Regency is a three-minute drive away and a good comfort choice. Upper Pelling, 2 km up the road, has the widest range of budget and mid-range hotels, including Hotel Garuda, and the comfort-tier Norbu Ghang Retreat and Spa.",
+  "stays": ["the-elgin-mount-pandim-pelling", "summit-newa-regency-pelling", "hotel-garuda-pelling", "norbu-ghang-retreat-pelling"],
+  "tips": [
+    "Go early: morning light is best on the mountains and the hall is quiet before 10 am.",
+    "Dress modestly, remove shoes and hats inside, and walk clockwise around the monastery.",
+    "Photography is usually not allowed inside the halls; ask before using your camera.",
+    "Carry small notes for the entry fee and any offerings.",
+    "Confirm mask dance dates each year, as they follow the Tibetan lunar calendar."
+  ],
+  "themes": ["monasteries", "festivals", "crafts-and-culture", "photography"],
+  "nearby": ["pelling", "rabdentse", "sangacholing", "gyalshing"],
+  "experiences": [
+    {
+      "slug": "pemayangtse-zangdok-palri-viewing",
+      "title": "Reading the Zangdok Palri model tier by tier",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Year-round, 8–11 am",
+      "cost": "≈ ₹20–50 entry; guide optional",
+      "image_query": "Pemayangtse Monastery interior Sikkim",
+      "wiki": "",
+      "summary": "Spend a proper hour on Pemayangtse's top floor with the seven-tiered wooden model of Guru Padmasambhava's celestial palace, ideally with a monk or guide to explain what each level shows.",
+      "body": [
+        "Most visitors glance at the Zangdok Palri model and leave. It rewards an hour. The structure represents the Copper-Coloured Mountain where Guru Padmasambhava is believed to dwell, rising in seven tiers from oceans and guardians at the base to the palace and its central figure. Every level is crowded with painted deities, saints, animals and symbols carved in wood.",
+        "Accounts from the monastery, repeated in Lonely Planet and other guides, say the late Dungzin Rinpoche built it by hand over five years. Ask a monk politely, after prayers, if he has time to name some of the figures; many are glad to explain, especially if you show interest. A local guide we arrange can also walk you through Padmasambhava's eight manifestations.",
+        "Photography is usually not permitted inside, so bring a notebook if you want to remember details. Visit in the morning when the light through the windows is better and the hall is quiet."
+      ],
+      "good_for": ["first-timers", "families", "seniors", "solo"],
+      "faqs": [
+        {"q": "What is Zangdok Palri?", "a": "Zangdok Palri, the Copper-Coloured Mountain, is the celestial pure land of Guru Padmasambhava in Nyingma Buddhism, pictured as a palace on a mountain rising from an ocean. At Pemayangtse it is shown as a seven-tiered painted wooden model on the top floor, made by the late Dungzin Rinpoche over five years."},
+        {"q": "Can I photograph the Zangdok Palri model?", "a": "Photography inside Pemayangtse's halls is usually not allowed, and the rule covers the model. Always ask a monk before raising a camera. Respecting this keeps the monastery open to visitors. Postcards and books with images are sometimes available locally."},
+        {"q": "How long should I spend at Pemayangtse?", "a": "Allow at least 1 hour: 20–30 minutes in the main hall, 20–30 minutes with the Zangdok Palri model, and time in the courtyard for the view. If you combine it with Rabdentse on foot, plan a 3-hour morning. On festival days, allow half a day."}
+      ]
+    },
+    {
+      "slug": "pemayangtse-morning-prayers",
+      "title": "Morning prayers at Pemayangtse",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Year-round, early morning",
+      "cost": "≈ ₹20–50 entry; donation optional",
+      "image_query": "Pemayangtse monks prayer hall",
+      "wiki": "",
+      "summary": "Sit quietly at the back of the prayer hall as Pemayangtse's monks chant the morning liturgy with drums, cymbals and long horns, before the day's tour groups arrive.",
+      "body": [
+        "Pemayangtse is a working monastery, and its monks hold prayers through the day. The morning session is the best to witness: the hall is cool, butter lamps are lit, and the chanting is accompanied by drums, cymbals and the low call of long horns. Timings vary with the ritual calendar, so ask at your hotel or at the gate the day before.",
+        "Enter quietly, remove your shoes, and sit at the back or where a monk indicates. Do not walk between the monks and the altar, do not point your feet at the shrine, and keep your phone silent. Photographs during prayers are not acceptable unless permission is clearly given.",
+        "Afterwards the courtyard is usually empty, and on clear days the view of Kangchenjunga from the steps is at its best. Combine with a slow look at the Zangdok Palri model upstairs before the crowds arrive."
+      ],
+      "good_for": ["solo", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "What time are morning prayers at Pemayangtse?", "a": "Prayers usually start early in the morning, but timings shift with the season and ritual calendar. Ask at your hotel or at the monastery the day before. Arriving by about 7–8 am gives a good chance of hearing chanting before tourist groups arrive."},
+        {"q": "Can visitors sit in during prayers?", "a": "Usually yes, quietly at the back or where a monk shows you. Remove shoes, keep your phone silent, do not walk in front of the monks or the altar, and do not take photographs unless clearly permitted. Leave quietly if the ritual is private."},
+        {"q": "Should I make an offering at Pemayangtse?", "a": "It is voluntary. Many visitors place a small note in the donation box or offer a butter lamp, indicatively ₹20–100. Do not hand money directly to monks during prayers. A white khada scarf is a traditional offering but not expected of visitors."}
+      ]
+    },
+    {
+      "slug": "pemayangtse-chaam-festival-visit",
+      "title": "Watching the February mask dances",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "February, 28th–29th of the 12th Tibetan month",
+      "cost": "≈ ₹20–50 entry",
+      "image_query": "Pemayangtse cham dance masks",
+      "wiki": "Cham dance",
+      "summary": "Time your Pelling trip for the last two days of the Tibetan year, when Pemayangtse's monks dance in masks and brocade in the courtyard to clear away the old year's obstacles.",
+      "body": [
+        "Pemayangtse's mask dances fall on the 28th and 29th days of the 12th Tibetan month, in February, according to Wikipedia's article on the monastery. Like other Nyingma chaam, they are a ritual: the dancers, all monks, embody protective deities whose movements destroy harmful forces so the new year can begin cleanly at Losar.",
+        "The dances run for several hours each day to horns, cymbals and drums. Families from Pelling, Gyalshing and nearby villages come in their best clothes, and the courtyard steps fill quickly. The climax usually involves the ritual destruction of an effigy.",
+        "February in Pelling is cold, around 1–13 °C, but mountain views are often clear, and hotels are cheaper than in autumn. Bring a cushion or mat for the steps, warm layers and a flask. Stay at a distance from dancers and never cross the dance ground."
+      ],
+      "good_for": ["photographers", "families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "What are the dates of the Pemayangtse mask dances?", "a": "The 28th and 29th days of the 12th month of the Tibetan lunar calendar, just before Losar, which normally falls in February. The Gregorian dates change every year. We confirm them with the monastery before booking a festival trip. Check current status before you travel."},
+        {"q": "Can I photograph the mask dances?", "a": "Outdoor photography in the courtyard is generally tolerated during the dances, but stay off the dance ground, do not use flash and do not block the view of local families. Some moments may be off limits; follow monks' instructions. Never fly a drone over the monastery."},
+        {"q": "Is Pelling crowded during the February festival?", "a": "Busier than usual in February, but far less crowded than October or May. Local families and pilgrims attend, so book rooms a few weeks ahead for the festival nights. Rates are generally lower than peak season, and mountain views are often clear."}
+      ]
+    },
+    {
+      "slug": "pemayangtse-butter-lamp-offering",
+      "title": "Light a butter lamp and walk the kora",
+      "kind": "spiritual",
+      "duration": "30 minutes",
+      "best_time": "Year-round, morning or late afternoon",
+      "cost": "≈ ₹20–100 offering",
+      "image_query": "butter lamps monastery Sikkim",
+      "wiki": "",
+      "summary": "Offer a butter lamp and walk the clockwise path around Pemayangtse, turning the prayer wheels, as local families do on auspicious days.",
+      "body": [
+        "Lighting butter lamps is one of the commonest offerings in Tibetan Buddhism, symbolising the dispelling of ignorance. At Pemayangtse, lamps can usually be offered at a designated place for a small donation, indicatively ₹20–100. Ask a monk or caretaker where, as open flames are kept away from the wooden halls.",
+        "Then walk the kora, the clockwise circuit around the monastery buildings, turning the prayer wheels with your right hand. Local families do this on auspicious days of the lunar month, often reciting the mantra Om Mani Padme Hum. Visitors are welcome to join quietly.",
+        "Late afternoon is a good time: the light is warm on the monastery walls, the day groups have left, and the mountains sometimes clear again before sunset."
+      ],
+      "good_for": ["families", "couples", "solo", "seniors"],
+      "faqs": [
+        {"q": "Why do Buddhists light butter lamps?", "a": "A butter lamp offering symbolises wisdom dispelling the darkness of ignorance, and is made for blessings, for the dead, or for a wish. Traditionally lamps used yak or cow butter; today vegetable ghee is common. Visitors of any faith may offer one respectfully."},
+        {"q": "Which way should I walk around a monastery?", "a": "Always clockwise, keeping the monastery, chortens and prayer wheels on your right. Turn prayer wheels with your right hand. Do not walk anticlockwise or sit on chortens or mani walls. These rules apply at every Buddhist site in Sikkim."},
+        {"q": "Is there a dress code at Pemayangtse?", "a": "There is no formal code, but dress modestly: cover shoulders and knees, remove hats and sunglasses inside, and take off shoes before entering the halls. Avoid loud talk and do not touch statues or ritual objects. Warm clothes are wise; halls are cold."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When was Pemayangtse Monastery founded?", "a": "Wikipedia records that Lhatsun Chempo founded a small temple here in the 1640s, that it was enlarged under the third Chogyal, Chakdor Namgyal, and that it was consecrated in 1710. Many guidebooks give 1705 for the present monastery. It is among the oldest and most important monasteries in Sikkim."},
+    {"q": "What is the Pemayangtse Monastery entry fee?", "a": "Indicatively ₹20–50 per person, collected at the gate, with different rates for foreigners at times. Timings are roughly morning to late afternoon. Fees and hours change, so check current status before you travel. Photography inside the halls is usually not allowed."},
+    {"q": "How far is Pemayangtse from Pelling?", "a": "About 2 km below Upper Pelling on the road to Gyalshing: 25–30 minutes on foot downhill, or 5–10 minutes by car. The Rabdentse ruins are a short walk from the monastery via a forest path. Most Pelling half-day tours include both."},
+    {"q": "What sect does Pemayangtse belong to?", "a": "Pemayangtse belongs to the Nyingma order, the oldest school of Tibetan Buddhism, which traces its teachings to Guru Padmasambhava. It is the head Nyingma monastery in Sikkim and by tradition accepts only ta-tshang, monks of pure lineage."},
+    {"q": "What is special about Pemayangtse?", "a": "Its standing as the head Nyingma monastery of Sikkim, its link to the founding lamas of the kingdom, its seven-tiered wooden Zangdok Palri model, and its February mask dances. The view of Kangchenjunga from the courtyard on clear mornings is a bonus."},
+    {"q": "When are the Pemayangtse mask dances?", "a": "On the 28th and 29th days of the 12th Tibetan month, just before Losar, normally in February. Dates change every year with the lunar calendar. Arrive by mid-morning to find space in the courtyard. Check current status before you travel."},
+    {"q": "Can I visit Pemayangtse and Rabdentse together?", "a": "Yes, and we recommend it. Visit Pemayangtse first, then walk to the gate on the Pelling–Gyalshing road and follow the 15–20 minute forest path to Rabdentse. The two sites tell the story of the kingdom's second capital. Allow about 3 hours in all."},
+    {"q": "Is Pemayangtse suitable for elderly visitors?", "a": "Mostly. Cars can drive close to the entrance, and the main hall is on the ground floor. Reaching the Zangdok Palri model needs a climb of steep wooden stairs. At about 2,085 m, walk slowly and rest. The Rabdentse path is gentle but uneven."},
+    {"q": "Where should I stay near Pemayangtse?", "a": "The Elgin Mount Pandim is a five-minute walk from the monastery, and Summit Newa Regency is a three-minute drive. Upper Pelling, 2 km away, has budget and comfort hotels such as Hotel Garuda and Norbu Ghang. Staying close lets you visit at opening time."}
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "dzongri-trek-budget-6n",
+  "title": "Dzongri short trek from Yuksom",
+  "region": "west-sikkim",
+  "tier": "budget",
+  "nights": 6,
+  "themes": [
+    "treks-and-walks",
+    "flowers-and-forests",
+    "photography"
+  ],
+  "stops": [
+    {
+      "place": "yuksom",
+      "nights": 1
+    },
+    {
+      "place": "dzongri-goecha-la",
+      "nights": 4
+    },
+    {
+      "place": "yuksom",
+      "nights": 1
+    }
+  ],
+  "start": "NJP station",
+  "end": "NJP station",
+  "price_from_inr": 18500,
+  "price_basis": "per person, fixed group departure of 6–12 trekkers, shared vehicle from NJP, twin-share tents or trekkers' huts, all meals on the trail, Yuksom lodge with meals, GST included",
+  "price_breakdown": [
+    [
+      "Trek team, tents and meals, 4 nights",
+      11000
+    ],
+    [
+      "Yuksom lodge, 2 nights with meals",
+      2000
+    ],
+    [
+      "Shared vehicle NJP–Yuksom–NJP",
+      3000
+    ],
+    [
+      "Park permits, camping and guide fees",
+      1000
+    ],
+    [
+      "Our planning and safety support",
+      1500
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 4200,
+  "meta_description": "Dzongri trek, 6 nights from NJP: Yuksom, Sachen, Tshoka and the sunrise from Dzongri Top over Kangchenjunga and Pandim. From ₹18,500 per person.",
+  "summary": "The short version of the Goecha La trail: four days on foot from Yuksom through Khangchendzonga National Park to the meadows of Dzongri at about 4,020 m and a sunrise from Dzongri Top over Kabru, Kangchenjunga and Pandim. A local team, tents, meals and permits included. From ₹18,500 per person on a group departure.",
+  "intro": [
+    "Not everyone has eleven days for Goecha La, and many first-time trekkers are wise to start smaller. The Dzongri trek uses the first and finest part of the same trail: warm forest above the Prek Chu, the rhododendron belt between Bakhim and Phedang, and the open meadows of Dzongri, where prayer flags snap in the wind and the Kangchenjunga range stands close across the valley. The sunrise from Dzongri Top, at about 4,200 m, rivals the view from the far end of the trail.",
+    "You walk with a guide, cook and porters from Yuksom, sleep in tents or the forest department huts, and climb above 4,000 m in four days, so the pace is steady and the guide checks everyone's oxygen levels each evening. It is a real high-altitude trek in miniature, and a good test before you commit to Goecha La next season. Group departures keep the price low, and the trip fits into a week of leave including the drives from NJP."
+  ],
+  "highlights": [
+    "Sunrise from Dzongri Top over Kabru, Kangchenjunga and Pandim",
+    "Rhododendron forests in flower in April and May",
+    "The high suspension bridge over the Prek Chu below Bakhim",
+    "Tshoka's monastery and pond reflecting Pandim",
+    "A short, well-paced first high-altitude trek"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Drive from NJP to Yuksom",
+      "place": "yuksom",
+      "overnight": "Yuksom",
+      "alt_m": 1780,
+      "drive": "≈ 170 km · 6.5–7.5 h",
+      "text": "Meet the group at NJP at 9 am for the shared vehicle up the Teesta gorge on NH10 to Melli, then west to Jorethang and along the Rangeet to Legship and Yuksom. If NH10 is closed after rain, the route goes via Kurseong and Darjeeling and adds 1–2 hours. In the evening, meet your guide and the team, complete the permit paperwork with your photo ID and run through the gear list. If there is light left, walk to Kathok Lake at the edge of the village.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Yuksom to Sachen",
+      "place": "dzongri-goecha-la",
+      "overnight": "Sachen camp",
+      "alt_m": 2200,
+      "drive": "",
+      "text": "Register at the Khangchendzonga National Park gate and set off up the Prek Chu valley. The trail contours through damp, mossy forest full of ferns and orchids, crossing side streams on small bridges, for about 8 km and 5–6 hours. The climbing is gradual until the last hour. Camp at Sachen, at about 2,200 m, in a forest clearing. After tea, your guide explains how the team will monitor everyone for altitude symptoms and why drinking 3–4 litres of water a day matters.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Sachen to Tshoka via Bakhim",
+      "place": "dzongri-goecha-la",
+      "overnight": "Tshoka",
+      "alt_m": 3000,
+      "drive": "",
+      "text": "Drop to the Prek Chu and cross it on the high suspension bridge, then climb steeply for about two hours to Bakhim, where the forest thins and snow peaks first show. The last stretch to Tshoka, at about 3,000 m, is gentler. The day is about 7 km and 4–5 hours. Tshoka has a small monastery and a pond; on clear evenings Pandim is reflected in it. Rest, then walk a little higher before dinner to help your body adjust.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tshoka to Dzongri meadows",
+      "place": "dzongri-goecha-la",
+      "overnight": "Dzongri",
+      "alt_m": 4020,
+      "drive": "",
+      "text": "The hardest day: about 9 km and 6–7 hours, climbing over 1,000 m. Log steps and stone paving lead up through dense rhododendron forest, in full bloom in April and May, to Phedang meadow for lunch. Above, the trees give way to open ridges with juniper and dwarf rhododendron, and the trail reaches Dzongri at about 4,020 m. Walk slowly and let the guide set the pace. Nights here drop below freezing from October, so wear every layer at dinner and go to bed early.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Dzongri Top sunrise, down to Tshoka",
+      "place": "dzongri-goecha-la",
+      "overnight": "Tshoka",
+      "alt_m": 3000,
+      "drive": "",
+      "text": "Leave camp by headlamp around 4 am and climb 45–60 minutes to Dzongri Top, about 4,200 m. As the light comes up, the range appears from Kokthang and Rathong across the twin summits of Kabru to Kangchenjunga and Pandim. Stay until the sun is well up, then return for breakfast. Walk back down via Phedang to Tshoka, about 9 km and 4–5 hours, where the thicker air makes everyone feel stronger. A relaxed evening with the team.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tshoka back to Yuksom",
+      "place": "yuksom",
+      "overnight": "Yuksom",
+      "alt_m": 1780,
+      "drive": "",
+      "text": "The longest walk of the trip in distance, about 15 km and 6–7 hours, but mostly downhill. Retrace the trail past Bakhim, across the Prek Chu bridge and through the lower forest to Yuksom. At the park gate, permits are checked and the team's waste is weighed out, part of the park's rules for keeping the trail clean. A hot shower at the lodge, then a farewell dinner. It is customary to tip the guide, cook and porters; we suggest a group pool.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Drive from Yuksom to NJP",
+      "place": "yuksom",
+      "overnight": "",
+      "alt_m": 114,
+      "drive": "≈ 170 km · 6.5–7.5 h",
+      "text": "Breakfast and an 8 am start in the shared vehicle, via Legship, Jorethang and Melli to NJP, arriving around 3–4 pm. Book trains after 6 pm and avoid flights from Bagdogra on this day. If you have an extra day, consider a night in Pelling on the way, about 1.5–2 hours from Yuksom, for a chance to see the range you have just walked beneath from the other side of the valley.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "yuksom-village-homestays"
+  ],
+  "includes": [
+    "Shared vehicle NJP–Yuksom–NJP",
+    "2 nights in a Yuksom lodge or homestay with meals",
+    "4 nights in twin-share tents or forest department huts",
+    "All meals on the trail",
+    "Registered trek guide, cook and porters for group gear",
+    "Khangchendzonga National Park permits, camping and guide fees for Indian nationals",
+    "Oxygen cylinder, pulse oximeter and first-aid kit",
+    "Our planning and safety support"
+  ],
+  "excludes": [
+    "Offloading your rucksack, about ₹400–600 a day",
+    "Sleeping bag and personal gear (rental available)",
+    "Extra park fees and Protected Area Permit for foreign nationals",
+    "Tips for the trek team",
+    "Travel to NJP and any extra nights from weather or road delays",
+    "Personal insurance with high-altitude cover"
+  ],
+  "good_to_know": [
+    "You climb from 1,780 m to over 4,000 m in three walking days; fitness and a slow pace matter.",
+    "Minimum age on our group departures is 10, with a parent or guardian.",
+    "Foreign nationals need a Restricted Area Permit and a Protected Area Permit, issued to groups of two or more through a registered agent.",
+    "Carry a refillable bottle; single-use plastic is not allowed in the park.",
+    "Rules, fees and openings change; check current status before you travel."
+  ],
+  "upgrade": "A private Dzongri trek with your own team, a night in Pelling and comfort hotels is our comfort version, from about ₹48,000 per person for two.",
+  "faqs": [
+    {
+      "q": "Is the Dzongri trek good for beginners?",
+      "a": "Yes, for fit beginners. It is short, the trail is well made and the views are superb. But it climbs above 4,000 m in four days, so you need to be able to walk 6–7 hours with climbs and accept a slow, steady pace. Training for four to six weeks, with long walks and stairs, makes a big difference."
+    },
+    {
+      "q": "How cold does it get at Dzongri?",
+      "a": "In October and November, nights at Dzongri usually fall to around -5 °C, and early December is colder. April and May nights are close to freezing. Days in the sun can be pleasant. Bring a down jacket, thermals, a warm hat and gloves, and a sleeping bag rated to about -10 °C for autumn."
+    },
+    {
+      "q": "Do we sleep in tents or huts?",
+      "a": "Usually in tents at the designated campsites, though Tshoka and Dzongri also have basic forest department trekkers' huts that we use when they are free and clean. Your first and last nights are in a Yuksom lodge or homestay with a proper bed and hot shower. Toilet tents are set up at every camp."
+    },
+    {
+      "q": "Can I extend the Dzongri trek to Goecha La on the trail?",
+      "a": "Not on a group departure, because permits, food and staff are planned for the fixed route. If you think you may want to continue, book the full Goecha La trek instead, or ask us about a private trek, where adding days is possible if you discuss it before permits are issued."
+    },
+    {
+      "q": "What is the best season for Dzongri?",
+      "a": "April to mid-May for rhododendrons and milder nights, and October to November for the clearest mountain views. Late March and early December are possible but colder, with snow likely near Dzongri. We do not run the trek from June to August, when monsoon rain and leeches make the forest trail difficult."
+    },
+    {
+      "q": "What should I pack for the Dzongri trek?",
+      "a": "Broken-in trekking shoes, a down jacket, fleece, thermals, rain jacket, warm hat, gloves, woollen socks, sunglasses, sunscreen, a headlamp, two water bottles and personal medicines. A daypack of 25–30 litres carries what you need during the day. Leave extra clothes in Yuksom; the lodge will store them for free."
+    },
+    {
+      "q": "Is there a minimum group size?",
+      "a": "Our group departures run with a minimum of six trekkers. If a date does not fill, we offer to move you to another departure or convert to a private trek at a different price. Foreign nationals must be in a group of at least two for the Protected Area Permit, which a group departure satisfies."
+    },
+    {
+      "q": "How safe is the trek?",
+      "a": "The trail is well established and our guides know it well. The main risks are altitude sickness, falls on wet stone and sudden weather changes. Our team carries oxygen, a pulse oximeter and a first-aid kit, monitors everyone each evening and will bring anyone unwell down. Travel insurance with high-altitude cover is strongly advised."
+    },
+    {
+      "q": "Can children do the Dzongri trek?",
+      "a": "Fit children from about 10 years old, with a parent, usually manage well and often adapt to altitude better than adults. They should be used to long walks. We watch children closely for altitude symptoms, which they may not describe clearly. For younger children, consider a two-night walk to Tshoka and back instead."
+    }
+  ]
+}

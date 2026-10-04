@@ -1,0 +1,209 @@
+{
+  "slug": "gangtok-monasteries-food-budget-4n",
+  "title": "Gangtok monasteries and food, 4 nights",
+  "region": "east-sikkim",
+  "tier": "budget",
+  "nights": 4,
+  "themes": [
+    "monasteries",
+    "food-and-tea",
+    "village-homestays",
+    "crafts-and-culture"
+  ],
+  "stops": [
+    {
+      "place": "gangtok",
+      "nights": 3
+    },
+    {
+      "place": "martam",
+      "nights": 1
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 10500,
+  "price_basis": "per person, twin sharing, 2 people, shared jeeps, small car shared by two on two days, budget hotel with breakfast and a village homestay with all meals",
+  "price_breakdown": [
+    [
+      "Gangtok stays, 3 nights with breakfast",
+      4500
+    ],
+    [
+      "Martam homestay, 1 night with all meals",
+      2000
+    ],
+    [
+      "Shared jeeps NJP–Gangtok and Singtam–NJP",
+      1000
+    ],
+    [
+      "Rumtek, Lingdum and Martam day, small car shared by two",
+      1250
+    ],
+    [
+      "Martam to Singtam drop, small car shared by two",
+      750
+    ],
+    [
+      "Lal Market food walk and tastings",
+      600
+    ],
+    [
+      "Sikkim tourist fee",
+      50
+    ],
+    [
+      "Our planning fee",
+      500
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Easy",
+  "max_altitude_m": 2000,
+  "meta_description": "Gangtok monasteries and food in 4 nights from ₹10,500 per person: Enchey, Rumtek and Lingdum, momos, gundruk and churpi, and a Martam village homestay.",
+  "summary": "Four slow nights for about ₹10,500 per person: Gangtok's monasteries, from Enchey's morning prayers to Rumtek's Golden Stupa, and its food, from Lal Market's churpi to a Sikkimese thali with gundruk. The last night is in Martam, a farming village of paddy terraces and cardamom, eating at a family's table. No permits or high passes.",
+  "intro": [
+    "Most Gangtok trips race to Tsomgo and back. This one stays low and goes deep. You spend two days in town with time to sit through morning prayers at Enchey, turn the 108 prayer wheels of the Do Drul Chorten, and learn why a plate of momos tastes different in every lane. We walk you through Lal Market's stalls of hard churpi, fermented gundruk and dalle khursani chillies, and point you to the small kitchens where office workers eat.",
+    "On day 4 you cross the valley to Rumtek and Lingdum, then drop to Martam, a village about an hour from Gangtok, for a night in a family homestay with home-cooked Sikkimese food. There are no permits, so this trip works for foreign travellers and in any season, including the monsoon. The pace is gentle, with one free day in Gangtok, and the highest point is the forest around Lingdum at about 2,000 m, so it suits older travellers and families with small children as well."
+  ],
+  "highlights": [
+    "Morning prayers at Enchey Monastery, built in 1909 for the Nyingma school",
+    "A guided walk through Lal Market: churpi, gundruk, sinki and dalle khursani",
+    "Rumtek's Golden Stupa and the forest monastery at Lingdum",
+    "A Sikkimese thali with gundruk soup and phagshapa for those who eat pork",
+    "A night in Martam among paddy terraces and cardamom, with home cooking"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Up to Gangtok and a first plate of momos",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "We put you on a shared jeep from NJP or Siliguri up NH10 through the Teesta valley to Gangtok, or on the SNT bus if you prefer. In the monsoon NH10 can close after landslides, and the detour via Kalimpong and Lava adds two to four hours; check current road status before you travel. Check in near MG Marg. In the evening we send you to a small momo shop in the lanes behind the main street for a plate of steamed pork or vegetable momos with the clear soup and chilli sauce that come with them.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Enchey, the Do Drul Chorten and Lal Market",
+      "place": "enchey",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "On foot and short taxi rides",
+      "text": "Take a short taxi to Enchey Monastery for about 8 am, when monks are at morning prayers in the hall built in 1909 on a site linked to Lama Druptob Karpo. Walk back down through town to Lal Market, where our local guide explains the hard churpi on strings, gundruk and sinki, the fermented greens and radish of Nepali kitchens, and the round dalle khursani chilli. Lunch is a local thali. In the afternoon visit the Do Drul Chorten, built in 1945–46, and the Namgyal Institute of Tibetology next door; check its opening days locally.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "A free day and a Sikkimese dinner",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "",
+      "text": "Keep this day for yourself. Ride the ropeway from Deorali to Tashiling, walk to the Ridge Park, look into the craft shops for thangkas and carpets, or sit in a café on MG Marg with Temi tea from Sikkim's own tea garden. If you want a viewpoint, an early taxi to Ganesh Tok costs a few hundred rupees and shows Kanchenjunga on clear mornings. In the evening we book you a Sikkimese thali: rice, dal, gundruk soup, a churpi pickle and, if you eat pork, phagshapa, pork fat stewed with radish and dried chilli.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Rumtek, Lingdum and a village night",
+      "place": "martam",
+      "overnight": "Martam",
+      "alt_m": 1500,
+      "drive": "≈ 55 km · 4–5 h with stops",
+      "text": "Your shared small car crosses the valley to Lingdum near Ranka, a Zurmang Kagyu monastery in a forest clearing, then to Rumtek, the Dharma Chakra Centre built by the 16th Karmapa and inaugurated in 1966; carry ID for the security check. In the afternoon drop down to Martam, a farming village of paddy terraces and cardamom about an hour from Gangtok. Your homestay family cooks dinner, often with home-grown vegetables, and many hosts are happy to show how gundruk and sel roti are made. The night is very quiet.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Village morning and down to the plains",
+      "place": "martam",
+      "overnight": "",
+      "alt_m": 126,
+      "drive": "≈ 25 km to Singtam, then ≈ 100 km · 4.5–5 h",
+      "text": "Wake to birdsong and a walk along the terraces before breakfast with your hosts. After breakfast your shared car takes you down to Singtam on NH10, where we put you on a shared jeep to NJP or Siliguri, arriving by mid-afternoon. If your flight from Bagdogra leaves before about 2 pm, tell us and we will arrange a direct car instead, at extra cost. In the monsoon allow extra time for possible NH10 closures; check current road status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-sonam-delek-gangtok",
+    "mintokling-guest-house-gangtok",
+    "martam-village-homestays"
+  ],
+  "includes": [
+    "3 nights in a clean budget hotel near MG Marg, twin sharing, with breakfast",
+    "1 night in a Martam village homestay with dinner, breakfast and lunch on day 4",
+    "Shared jeep seats NJP to Gangtok and Singtam to NJP",
+    "Small car shared by two for Lingdum, Rumtek and the Martam transfer, and the drop to Singtam",
+    "A guided Lal Market food walk with tastings",
+    "Sikkim ₹50 tourist fee and our planning fee"
+  ],
+  "excludes": [
+    "Train or flights to NJP or Bagdogra",
+    "Meals in Gangtok other than breakfast and the food walk tastings",
+    "Taxis on days 2 and 3, about ₹150–300 a ride",
+    "Monastery donations, ropeway ticket and entry fees",
+    "Tips and anything not listed"
+  ],
+  "good_to_know": [
+    "No permits are needed for this trip beyond a foreigner's Sikkim Restricted Area Permit",
+    "Monasteries are working religious houses: dress modestly and ask before photographing monks",
+    "Pork and beef appear on many local menus; tell us your diet and we brief the homestay",
+    "Martam homestays are simple family homes with shared or attached bathrooms",
+    "Rumtek checks ID at the gate; carry a photo ID",
+    "Carry a refillable bottle; your hosts will fill it with boiled water"
+  ],
+  "upgrade": "A value version with a private car on every day and Netuk House, a family-run heritage house on Tibet Road with Sikkimese home food, costs roughly ₹7,000–9,000 more per person.",
+  "faqs": [
+    {
+      "q": "Do we need any permits for this trip?",
+      "a": "Indian travellers need no permits. Foreign nationals need only the Sikkim Restricted Area Permit, applied for online on the e-FRRO portal since 12 January 2026. Gangtok, Rumtek, Lingdum and Martam are outside protected areas, so there is no Tsomgo or Nathu La paperwork. That also makes the trip easy to book at short notice."
+    },
+    {
+      "q": "Is this trip good for vegetarians?",
+      "a": "Yes. Vegetarian momos, thukpa, dal-bhat thalis, gundruk soup and churpi dishes are easy to find, and Martam homestays cook vegetarian food on request, usually with home-grown vegetables. Sikkim is a certified organic farming state. Tell us in advance if you are Jain or vegan so we can brief the homestay and pick suitable eateries."
+    },
+    {
+      "q": "What is a Martam homestay like?",
+      "a": "A simple family home in a farming village of paddy terraces and cardamom, about an hour from Gangtok. You get a clean room, home-cooked meals and a quiet night. Bathrooms may be attached or shared, and hot water is usually from a geyser or a bucket. Hosts are often happy to show their fields and cooking."
+    },
+    {
+      "q": "Can we see a Chaam dance on this trip?",
+      "a": "Only if your dates match a festival. The Enchey Chaam falls on the 18th and 19th days of the 12th Tibetan month, usually January or February, and the Tsuklakhang Chaam during Losoong in December and Pang Lhabsol in August or September. Dates follow the lunar calendar, so tell us your dates and we will check the year's festival calendar."
+    },
+    {
+      "q": "Is this trip possible in the monsoon?",
+      "a": "Yes. It is one of our best monsoon trips, because it stays low and needs no permits. Martam's paddy terraces are greenest from July to September. The risk is NH10, which can close after landslides; the detour via Kalimpong and Lava adds two to four hours. Keep a buffer before flights and check current road status."
+    },
+    {
+      "q": "Can foreigners photograph inside the monasteries?",
+      "a": "Usually not inside prayer halls, and never with flash. Courtyards and exteriors are generally fine. Always ask before photographing monks, and follow any signs at the door. The same rules apply to Indian visitors. During Chaam festivals photography is usually allowed from behind the rope in the courtyard."
+    },
+    {
+      "q": "What food will we try on the food walk?",
+      "a": "At Lal Market our guide shows hard and soft churpi, gundruk and sinki, dalle khursani chillies, local pickles and Temi tea, with tastings where vendors offer them. Lunch is a local thali. Later, the Sikkimese dinner adds gundruk soup, churpi pickle and phagshapa for those who eat pork. Tell us about allergies in advance."
+    },
+    {
+      "q": "How do we get back to NJP from Martam?",
+      "a": "A small car takes you about 25 km down to Singtam on NH10, and from there a shared jeep runs to NJP or Siliguri in about 4.5–5 hours. If you have an early afternoon flight from Bagdogra, ask for a direct car from Martam instead, which costs about ₹3,500–4,000 for the vehicle. Prices are indicative."
+    },
+    {
+      "q": "Can we add Tsomgo Lake to this trip?",
+      "a": "Yes. Add a night in Gangtok and a shared seat to Tsomgo Lake and Baba Mandir for about ₹2,500–3,000 more per person including the room, permit and seat. Indian nationals can also add Nathu La on its open days, Wednesday to Sunday. The trip's maximum altitude then rises from about 2,000 m to 4,000–4,310 m."
+    }
+  ]
+}

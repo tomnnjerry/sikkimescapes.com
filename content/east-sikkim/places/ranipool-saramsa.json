@@ -1,0 +1,171 @@
+{
+  "slug": "ranipool-saramsa",
+  "name": "Ranipool and Saramsa Garden",
+  "region": "east-sikkim",
+  "kind": "garden",
+  "wiki": "Saramsa Garden",
+  "image_query": "Saramsa Garden orchids Sikkim",
+  "lat": 27.2922,
+  "lng": 88.5922,
+  "altitude_m": 900,
+  "local_name": {"name": "Ranipool (Rani pul)", "language": "Nepali", "meaning": "'Queen's bridge', after the bridge over the Ranikhola; also called Queensbridge locally", "source": "Wikipedia: Ranipool"},
+  "tagline": "A river junction town and a 1922 orchid garden",
+  "meta_description": "Ranipool and Saramsa Garden guide: the 1922 garden that grew fruit for the Palace and ipecac for medicine, orchid house, science centre, fares and timings.",
+  "summary": "Ranipool is the junction town on the Ranikhola river, 12 km below Gangtok, where NH10, NH717A and the road to Nathu La meet. Two km away, Saramsa Garden, founded in 1922, grew fruit for the Palace, then ipecac for medicine, and is now an orchid garden. A good half-day stop for families.",
+  "intro": [
+    "Ranipool sits on the bank of the Ranikhola, about 12 km and 30 minutes below Gangtok. Every vehicle from the plains to Gangtok, apart from North Sikkim traffic, passes through it: NH10 from Siliguri, NH717A from Pakyong and Kalimpong's side, and NH310, which starts here and climbs through Gangtok to Nathu La. It falls under the Gangtok Municipal Corporation and has the Sikkim Science Centre and several pharmaceutical factories nearby.",
+    "Saramsa Garden, also called the Ipecac Garden, lies about 2 km from Ranipool on NH717A towards Pakyong, roughly 14 km from Gangtok. Strictly it is just across the line in Pakyong district, but it is always visited from Gangtok. The Sikkim Forest Department set it up in 1922, and it has been a fruit orchard, a medicinal plantation and, since 1975, an orchidarium and public garden.",
+    "Neither place is a destination in itself, but together they make an easy half day, or a stop on arrival or departure day. The garden suits families and plant lovers; the science centre suits children. Ranipool is also a useful place to eat, change vehicles or pick up shared jeeps towards Singtam, Pakyong and Rangpo."
+  ],
+  "story": {
+    "title": "From the Palace orchard to the ipecac garden",
+    "text": "In 1922 the Sikkim Forest Department laid out a garden on the slopes near Ranipool. Its first purpose was fruit: pineapples, guavas, oranges and lychees were grown here for the British Political Officer and for the Palace in Gangtok, and the garden became the state's centre for introducing new fruit trees. From 1922 to 1954 the Forest Manager treated it as his own project, bringing in plant after plant. Fruit growing continued until about 1940, when the department introduced ipecacuanha, brought from Johor in Malaya. Ipecac root was used to make syrup of ipecac, a powerful emetic once found in medicine cabinets around the world, and the garden is still called the Ipecac Garden. Cultivation stopped in 1970. In 1975, the year Sikkim became an Indian state, the garden was turned into an orchidarium, and most of the plants you see today were introduced between 1975 and 1980. In 2008 it hosted Sikkim's International Flower Show, with about 50,000 visitors on each of its three days.",
+    "source": "Wikipedia: Saramsa Garden; Sikkim Forest Department"
+  },
+  "little_known": [
+    {"fact": "NH310, the road from Gangtok to Nathu La, officially begins at Ranipool, where it leaves NH10 and climbs to the capital.", "source": "Wikipedia: Ranipool"},
+    {"fact": "Saramsa grew ipecacuanha, a medicinal plant brought from Johor in Malaya, from around 1940 until 1970. That is why the orchid garden is still called the Ipecac Garden.", "source": "Wikipedia: Saramsa Garden"},
+    {"fact": "Saramsa hosted Sikkim's International Flower Show in 2008, drawing about 50,000 visitors on each of its three days.", "source": "Wikipedia: Saramsa Garden"}
+  ],
+  "facts": [
+    ["Best months", "March–May and October–December"],
+    ["Nights we suggest", "Half day from Gangtok"],
+    ["From Gangtok", "≈ 12–14 km · 30–40 min"],
+    ["Altitude", "≈ 900 m"],
+    ["Known for", "Orchid garden, ipecac history, science centre, highway junction"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [1, 2, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "0",
+  "highlights": [
+    {"title": "Saramsa's orchid house", "text": "The orchidarium, created in 1975, holds orchids collected and grown since then, alongside ferns and other tropical and subtropical plants. Spring, from March to May, is the main flowering season, but something is usually in bloom. Allow an hour to walk the paths and glasshouses."},
+    {"title": "A garden with a history", "text": "Saramsa was laid out in 1922 to grow fruit for the British Political Officer and the Palace, then produced ipecac for medicine until 1970. Few visitors know this, and the old fruit trees and terraces still hint at its first life."},
+    {"title": "Picnic lawns and shade", "text": "The garden has lawns, shaded paths and benches, and local families come for picnics on weekends and holidays. It is warmer than Gangtok, which makes it pleasant from November to February. Take your rubbish back with you."},
+    {"title": "Sikkim Science Centre", "text": "Ranipool's science centre has hands-on exhibits and shows aimed at school groups, and it makes a good hour for children on a rainy day. Check opening days before you go, as it closes on some weekdays and holidays."},
+    {"title": "The road junction", "text": "Ranipool is where NH10, NH717A and NH310 meet. Shared jeeps run from here to Singtam, Pakyong, Rangpo and Siliguri, and the market has quick, cheap food. If you are heading to Rumtek, this is where the road turns up the far side of the valley."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared taxis run frequently between Gangtok and Ranipool for about ₹40–80 a seat, and on to Singtam, Pakyong and Rangpo. For Saramsa, take a jeep towards Pakyong and ask to be dropped at the garden gate, or walk the 2 km from Ranipool."},
+    {"mode": "Private car", "text": "A local taxi from Gangtok to Saramsa and back with waiting costs about ₹1,000–1,500. Combining Saramsa with Rumtek, Ranka and Lingdum on a half-day or full-day car costs about ₹2,500–3,500. The drive from MG Marg takes 30–40 minutes."},
+    {"mode": "From Bagdogra / NJP", "text": "Ranipool lies on NH10, about 110 km and 4 hours from Bagdogra or NJP, just before Gangtok. Many travellers stop at Saramsa on the way up or down. In the monsoon NH10 often closes, and traffic comes via NH717A through Pakyong, which also passes Saramsa. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared taxi Gangtok–Ranipool", "≈ ₹40–80 a seat"],
+    ["Taxi to Saramsa and back with waiting", "≈ ₹1,000–1,500"],
+    ["Saramsa Garden entry", "≈ ₹10–30 a person"],
+    ["Science centre entry", "≈ ₹20–50 a person"],
+    ["Momos or chowmein in Ranipool market", "≈ ₹80–150"]
+  ],
+  "where_to_stay": "Most travellers stay in Gangtok, 30–40 minutes away. The one resort-scale option on this side is Mayfair Spa Resort & Casino at Lower Samdur near Ranipool, with a spa and landscaped grounds, convenient for a quick start down to Bagdogra on departure day. Otherwise, central Gangtok hotels such as Hotel Tibet, The Chumbi Residency or Mintokling Guest House are the usual base.",
+  "stays": ["mayfair-spa-resort-casino-gangtok"],
+  "tips": [
+    "Visit Saramsa on arrival or departure day, as it sits on the road to and from the plains.",
+    "Spring, from March to May, is the best season for orchids in flower.",
+    "Avoid weekend afternoons if you want a quiet garden; local families picnic then.",
+    "Check the science centre's opening days before you go.",
+    "Carry small change for entry fees and shared taxis."
+  ],
+  "themes": ["flowers-and-forests", "family-holidays", "crafts-and-culture"],
+  "nearby": ["gangtok", "rumtek", "pakyong", "ranka-lingdum"],
+  "experiences": [
+    {
+      "slug": "saramsa-orchid-garden-walk",
+      "title": "Walk the Saramsa orchid garden",
+      "kind": "nature",
+      "duration": "1–1.5 hours",
+      "best_time": "March–May mornings",
+      "cost": "≈ ₹10–30 entry",
+      "image_query": "Saramsa Garden Ranipool orchid house",
+      "wiki": "Saramsa Garden",
+      "summary": "An easy walk through the orchidarium, glasshouses and lawns of Saramsa Garden, created in its present form in 1975. Spring brings the most flowers, but the shaded paths are pleasant in any dry month.",
+      "body": [
+        "Saramsa became an orchidarium in 1975, and most of today's plants were introduced between 1975 and 1980. Paths lead past orchid houses, ferneries and beds of tropical and subtropical plants, with lawns and old trees between them. Labels are patchy, so a plant lover will get more out of it than a casual visitor.",
+        "The main orchid season runs from March to May, when many species flower at once. Even in other months, ferns, foliage plants and flowering shrubs keep the garden green. Being lower than Gangtok, at about 900 m, it is warm and humid, so morning visits are more comfortable from April onwards.",
+        "Allow an hour or so. The garden is on NH717A, about 14 km from Gangtok and 2 km from Ranipool, so it fits easily into an arrival or departure day. Do not pick flowers or take cuttings. Opening hours and fees change; check current status before you travel."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "When is the best time to see orchids at Saramsa Garden?", "a": "March to May is the main flowering season for orchids at Saramsa. Some species flower in late summer and autumn, and the garden stays green year-round. Visit in the morning, when it is cooler and the light is softer. Check current status before you travel for opening hours."},
+        {"q": "How far is Saramsa Garden from Gangtok?", "a": "About 14 km, roughly 30–40 minutes by road. It lies on NH717A, about 2 km from Ranipool towards Pakyong. A local taxi from Gangtok with waiting time costs about ₹1,000–1,500, or you can include it in a Rumtek and Ranka half-day car."},
+        {"q": "Is Saramsa Garden worth visiting?", "a": "For families, plant lovers and anyone passing on the Ranipool road, yes: it is cheap, easy and has an interesting history. It is not a major botanical garden, and labels are limited. If you have only one day in Gangtok, prioritise the town's monasteries and viewpoints."}
+      ]
+    },
+    {
+      "slug": "saramsa-ipecac-garden-history",
+      "title": "The Ipecac Garden's story, told on site",
+      "kind": "culture",
+      "duration": "30–45 minutes",
+      "best_time": "Any dry month",
+      "cost": "Included in garden entry",
+      "image_query": "Saramsa Garden Sikkim",
+      "wiki": "",
+      "summary": "Walk Saramsa with its history in mind: a 1922 Forest Department orchard that grew pineapples, guavas, oranges and lychees for the British Political Officer and the Palace, then ipecac for medicine until 1970. A small story that links Gangtok's royal past to the wider world.",
+      "body": [
+        "When the Sikkim Forest Department set up the garden in 1922, Sikkim was a kingdom under British protection, with a British Political Officer living in Gangtok. The garden's job was to grow fruit for his table and for the Palace: pineapples, guavas, several kinds of oranges and lychees. It became the state's main centre for trying new fruit trees.",
+        "Around 1940 the department switched to ipecacuanha, a South American plant brought here from Johor in Malaya. Its root was the source of syrup of ipecac, an emetic once kept in medicine cabinets worldwide. Cultivation stopped in 1970, but the name stuck: many locals still call Saramsa the Ipecac Garden.",
+        "As you walk, look for older fruit trees and terraces among the orchid houses, traces of the garden's first life. Then think of the date it became an orchidarium: 1975, the year Sikkim joined India. The garden's three lives track the state's own history over half a century."
+      ],
+      "good_for": ["families", "seniors", "solo", "couples"],
+      "faqs": [
+        {"q": "Why is Saramsa called the Ipecac Garden?", "a": "From about 1940 to 1970, the garden grew ipecacuanha, a medicinal plant introduced from Johor in Malaya. Its root was used to make syrup of ipecac, an emetic. Although cultivation stopped in 1970 and the garden became an orchidarium in 1975, the old name is still widely used."},
+        {"q": "Who founded Saramsa Garden?", "a": "The Sikkim Forest Department established Saramsa Garden in 1922. From 1922 to 1954 the Forest Manager developed it closely, introducing many plants. It first grew fruit for the British Political Officer and the Palace, then ipecac, and has been an orchid and recreational garden since 1975."},
+        {"q": "Is Saramsa in Gangtok district or Pakyong district?", "a": "Saramsa Garden is just inside Pakyong district, on NH717A about 2 km from Ranipool, which is in Gangtok district. Since the 2021 reorganisation the district line runs close by. In practice it is visited from Gangtok, about 14 km away."}
+      ]
+    },
+    {
+      "slug": "ranipool-sikkim-science-centre",
+      "title": "Sikkim Science Centre at Ranipool",
+      "kind": "culture",
+      "duration": "1–1.5 hours",
+      "best_time": "Rainy days, open weekdays",
+      "cost": "≈ ₹20–50 entry",
+      "image_query": "Sikkim Science Centre Ranipool",
+      "wiki": "",
+      "summary": "A hands-on science centre at Ranipool, 12 km below Gangtok, with interactive exhibits and shows for children. A useful indoor option for families on a rainy monsoon day or a slow afternoon.",
+      "body": [
+        "The Sikkim Science Centre at Ranipool is aimed mainly at school groups, with interactive exhibits on physics, the human body, space and the environment. Children can push buttons, pull levers and try simple experiments. Depending on the day, there may be shows or a small planetarium-style programme.",
+        "It is not a large museum, and exhibits are basic by big-city standards, but for families with children aged about six to fourteen it fills an hour well, especially when rain rules out viewpoints and walks. Combine it with lunch in Ranipool and a walk in Saramsa Garden if the weather clears.",
+        "Opening days and timings change, and the centre may close on some weekdays and public holidays. Check current status before you travel. Entry is cheap, about ₹20–50 per person. A local taxi from Gangtok takes about 30 minutes; shared taxis to Ranipool are frequent."
+      ],
+      "good_for": ["families", "budget", "first-timers"],
+      "faqs": [
+        {"q": "Is the Sikkim Science Centre good for children?", "a": "Yes, for children of about six to fourteen. It has hands-on exhibits and sometimes shows, aimed at school groups. It is a modest centre, not a big museum, but it makes a good indoor hour on a rainy day. Combine it with Saramsa Garden nearby."},
+        {"q": "What are the Sikkim Science Centre timings?", "a": "It generally opens on weekdays during daytime hours and may close on certain days and public holidays. Timings change, so check current status before you travel or ask us to confirm. Arrive at least an hour before closing to see the exhibits properly."},
+        {"q": "How do we get to the Sikkim Science Centre?", "a": "It is at Ranipool, about 12 km below Gangtok on NH10. Shared taxis from Gangtok to Ranipool cost about ₹40–80 a seat and run often. A reserved local taxi costs more but can combine the centre with Saramsa Garden and Rumtek."}
+      ]
+    },
+    {
+      "slug": "ranipool-roadside-food-stop",
+      "title": "A Ranipool food stop on the highway",
+      "kind": "food",
+      "duration": "30–45 minutes",
+      "best_time": "Arrival or departure day",
+      "cost": "≈ ₹100–250 per person",
+      "image_query": "Ranipool market Sikkim",
+      "wiki": "",
+      "summary": "Ranipool's small market at the Ranikhola junction is where drivers stop for momos, chowmein, tea and sel roti on the road between Gangtok and the plains. A cheap, quick meal and a glimpse of everyday Sikkim away from MG Marg.",
+      "body": [
+        "Almost every vehicle between Gangtok and Siliguri passes through Ranipool, and its roadside eateries cater to drivers and travellers: steamed momos, chowmein, thukpa, rice plates, tea and fried snacks. Morning stalls may have sel roti, the ring-shaped rice bread, with potato curry.",
+        "This is not a food destination, but it is honest, quick and cheap, about ₹100–250 per person for a meal. It is also where local life shows: school children, pharma factory workers, shared jeep drivers calling destinations. Ask your driver for his usual place; drivers know which kitchens are clean and fast.",
+        "If you are heading to the airport, a stop here helps you avoid the queues further down at Singtam and Rangpo. Carry cash in small notes. In the monsoon, check road news here: drivers at Ranipool hear first whether NH10 is open or traffic is going via Pakyong."
+      ],
+      "good_for": ["budget", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Is food at Ranipool safe to eat?", "a": "Freshly cooked hot food, such as momos, chowmein, thukpa and tea, is generally fine. Avoid raw salads, cut fruit and drinks with ice if your stomach is sensitive. Ask your driver for the place he trusts; drivers eat here every day and know the clean kitchens."},
+        {"q": "What should we eat at Ranipool?", "a": "Momos and chowmein are the usual choices, with thukpa on cold days and rice plates for a fuller meal. In the morning, look for sel roti with potato curry. Prices are low, about ₹100–250 per person. Carry cash in small notes."},
+        {"q": "Is Ranipool on the way to Bagdogra?", "a": "Yes. Ranipool lies on NH10, about 12 km below Gangtok, on the way to Rangpo, Siliguri, Bagdogra and NJP. When NH10 is closed in the monsoon, traffic often goes via NH717A through Pakyong, which also starts at Ranipool. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Ranipool?", "a": "Ranipool is a small town on the Ranikhola river, about 12 km below Gangtok, at the junction of NH10, NH717A and NH310. It falls under the Gangtok Municipal Corporation. Every road from the plains to Gangtok, except the North Sikkim road, passes through it."},
+    {"q": "What does Ranipool mean?", "a": "Ranipool comes from 'Rani pul', meaning queen's bridge, after the bridge that carries the highway over the Ranikhola. Locals sometimes call it Queensbridge in English. The river's name, Ranikhola, also uses 'rani', queen, with 'khola', the Nepali word for a stream or river."},
+    {"q": "Is Saramsa Garden open every day?", "a": "Saramsa is generally open daily during daytime hours, though timings and fees change and it may close for maintenance. Check current status before you travel. Weekends and holidays are busy with local picnickers; weekday mornings are quietest."},
+    {"q": "Can we visit Saramsa and Rumtek on the same day?", "a": "Yes. Both are reached through Ranipool. A half-day or full-day car from Gangtok can cover Saramsa, Rumtek, Old Rumtek, Ranka and Lingdum for about ₹2,500–3,500. Start with Rumtek in the morning for prayers, and visit Saramsa in the afternoon."},
+    {"q": "How much does it cost to visit Saramsa Garden?", "a": "Entry is cheap, about ₹10–30 per person. A taxi from Gangtok with waiting time costs about ₹1,000–1,500, or about ₹40–80 a seat by shared taxi to Ranipool plus a short walk or jeep ride. Prices are indicative."},
+    {"q": "Is Saramsa good for a family picnic?", "a": "Yes. The garden has lawns, shade and benches, and many local families picnic there on weekends. Carry your own food and water, and take all rubbish away with you. It is warmer than Gangtok, making it pleasant in winter, but humid in summer."},
+    {"q": "Is Ranipool a good place to stay?", "a": "Most travellers stay in Gangtok, which has more choice and evening life. Mayfair Spa Resort & Casino at Lower Samdur, near Ranipool, is the main exception: a resort with spa and grounds, convenient for departure day. Ranipool's own small hotels serve mainly business travellers."},
+    {"q": "What is the altitude of Ranipool?", "a": "Ranipool lies low in the Ranikhola valley, at roughly 900 m, about 750 m below Gangtok. It is noticeably warmer and more humid than the capital, especially from April to September. Saramsa Garden, nearby, has a similar warm climate, which suits its orchids."},
+    {"q": "Can we get shared jeeps from Ranipool?", "a": "Yes. Shared jeeps and taxis from Ranipool run to Gangtok, Singtam, Pakyong, Rangpo, Melli and Siliguri. Gangtok is about ₹40–80 a seat. Long-distance seats to Siliguri are easier to find in Gangtok, where jeeps start, than mid-route at Ranipool."}
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "samdruptse",
+  "name": "Samdruptse",
+  "region": "south-sikkim",
+  "kind": "pilgrimage site",
+  "wiki": "",
+  "image_query": "Samdruptse Guru Padmasambhava statue Namchi",
+  "lat": 27.1818,
+  "lng": 88.3833,
+  "altitude_m": 2200,
+  "local_name": {"name": "Samdruptse", "language": "Bhutia", "meaning": "wish-fulfilling hill (peak)", "source": "Lonely Planet India; Sikkim Tourism"},
+  "tagline": "Guru Rinpoche, 135 ft tall, on the wish-fulfilling hill",
+  "meta_description": "Samdruptse, Namchi: the giant Guru Padmasambhava statue, its history, entry fee, timings, how to reach and the best time for Kangchenjunga views.",
+  "summary": "Samdruptse is a forested hill about 7 km above Namchi, at roughly 2,200 m, crowned by a gilded statue of Guru Padmasambhava about 135 ft tall. The Dalai Lama laid its foundation stone in 1997 and it was completed in 2004. Clear mornings bring wide views of Kangchenjunga.",
+  "intro": [
+    "Samdruptse is the hill that dominates Namchi's skyline: a dark green ridge with a golden figure on top, visible from most of the town and from as far as Darjeeling district across the Rangeet. The statue shows Guru Padmasambhava, the 8th-century teacher whom Sikkimese Buddhists call Guru Rinpoche, seated with a vajra in his right hand and a skull cup in his left.",
+    "The 14th Dalai Lama laid the foundation stone on 22 October 1997, and the statue was completed in February 2004. Sources give its height between about 118 and 138 ft; Wikipedia gives 135 ft, roughly 41 m. A shrine room sits in its base, and a broad stairway with prayer wheels leads up from the car park through prayer flags and cryptomeria trees.",
+    "The road up from Namchi passes the Rock Garden and the Mamley geological site, so most visitors combine all three in a morning. The hill itself is cooler than the town, often by 4–5 °C, and in the afternoon mist can roll in from the valley within minutes. Come early, walk slowly on the steps and give yourself time at the top."
+  ],
+  "story": {
+    "title": "Guru Rinpoche and the hidden valley of rice",
+    "text": "Sikkimese Buddhists hold that Guru Padmasambhava passed through Sikkim in the 8th century, blessed it as a beyul, a hidden sacred land, and named it Demojong, the valley of rice. Texts he is said to have concealed, terma, were later revealed by the lamas who consecrated the first Chogyal at Yuksom in 1642. That makes Guru Rinpoche, more than any other figure, the spiritual founder of Buddhist Sikkim, and explains why the state chose him for its largest statue. Samdruptse itself carries a local belief: as told locally, the hill is a dormant volcano, and the prayers of lamas who climb it keep it asleep. There is no geological evidence for a volcano here, but the story is told to most visitors who ask, and it adds a reason to turn the prayer wheels on the way up.",
+    "source": "Wikipedia: Padmasambhava; Wikipedia: Kingdom of Sikkim; local tradition (volcano belief)"
+  },
+  "little_known": [
+    {"fact": "The 14th Dalai Lama laid the statue's foundation stone on 22 October 1997; work took several years and the statue was completed in February 2004.", "source": "Wikipedia: Namchi; Windhorse Tours"},
+    {"fact": "Height figures vary by source from about 118 to 138 ft; the most widely cited figure, used by Wikipedia, is 135 ft, roughly 41 m.", "source": "Wikipedia: Namchi"},
+    {"fact": "Samdruptse is Bhutia for wish-fulfilling peak; pilgrims tie prayer flags on the climb so that the wind carries their wishes.", "source": "Lonely Planet India"}
+  ],
+  "facts": [["Best months", "Oct–Dec and Mar–Apr"], ["Nights we suggest", "Stay in Namchi"], ["From Gangtok", "≈ 85 km · 3.5–4 h"], ["Altitude", "≈ 2,200 m"], ["Known for", "Guru Padmasambhava statue, Kangchenjunga views"], ["Permit", "Not needed"]],
+  "best_months": [2, 1, 2, 2, 1, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "0 (day visit from Namchi)",
+  "highlights": [
+    {"title": "The Guru Rinpoche statue", "text": "Seated, gilded and about 135 ft tall, finished in 2004. Walk around the base clockwise and step into the shrine room inside. The face is best lit in the morning, when the sun comes from the east."},
+    {"title": "Stairway of prayer wheels", "text": "A long flight of steps from the car park, lined with prayer wheels and flags. Take it slowly: you gain height quickly at 2,200 m. Benches on the landings give rest stops and views."},
+    {"title": "Kangchenjunga panorama", "text": "From the statue terrace you look north-west to Kangchenjunga, Kabru and Pandim on clear days, and down over Namchi to Solophok's Shiva. October to February mornings are the most reliable."},
+    {"title": "Rock Garden on the way", "text": "A terraced garden with ponds, flowers and viewpoints on the road up, about 15 minutes below the statue. A good stop with children and an easy place for tea."},
+    {"title": "Forest of cryptomeria and prayer flags", "text": "The hilltop is wooded with tall Japanese cedar and strung with flags. Even on busy days you can find a quiet corner off the main terrace to sit and listen to the wind."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Reach Namchi by shared jeep from Gangtok (about ₹250–350, 3–3.5 hours) or Siliguri (about ₹300–400). From Namchi, there is no regular shared service up the hill; take a local taxi, roughly ₹500–800 return with an hour's waiting."},
+    {"mode": "Private car", "text": "Samdruptse is about 7 km and 20–25 minutes from Namchi market by road, climbing past the Rock Garden and Mamley. Most visitors include it in a Namchi half-day circuit costing about ₹2,000–3,000 for a small car."},
+    {"mode": "From Bagdogra / NJP", "text": "About 105 km and 4 hours from Bagdogra or NJP via Melli and Namchi. When NH10 is closed after monsoon slides, the road through Darjeeling district and Jorethang is the usual alternative. Sleep in Namchi and visit early the next morning."}
+  ],
+  "costs": [["Entry fee", "≈ ₹30–50 per adult"], ["Parking", "≈ ₹50 a car"], ["Taxi Namchi–Samdruptse return", "≈ ₹500–800"], ["Namchi half-day sightseeing car", "≈ ₹2,000–3,000"], ["Tea and snacks at the top", "≈ ₹50–150"]],
+  "where_to_stay": "There are no rooms on the hill; stay in Namchi, 20–25 minutes away. Seven Hill Resort at Phalidara has cottages with a direct view of the statue. Sobralia Hotels Casino Resort & Spa, on the Char Dham side of town, is the most complete hotel, with a lift and spa. Budget hotels near Central Park cost about ₹1,500–2,500 a room.",
+  "stays": ["seven-hill-resort-namchi", "sobralia-resort-namchi"],
+  "tips": [
+    "Go before 10 am: afternoon mist often hides both the statue and the mountains.",
+    "Walk the steps slowly; you are at about 2,200 m and the climb is steeper than it looks.",
+    "Turn prayer wheels and walk around the statue clockwise.",
+    "Carry a warm layer even in May; the hilltop is breezy and cooler than Namchi.",
+    "Combine with the Rock Garden and Mamley on the way down."
+  ],
+  "themes": ["monasteries", "photography", "family-holidays"],
+  "nearby": ["namchi", "namchi-rock-garden", "char-dham-solophok", "tendong-hill"],
+  "experiences": [
+    {
+      "slug": "samdruptse-kora-and-shrine-visit",
+      "title": "A slow kora around Guru Rinpoche",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "7:30–10 am, October to May",
+      "cost": "≈ ₹30–50 entry",
+      "image_query": "Samdruptse statue prayer wheels",
+      "wiki": "Padmasambhava",
+      "summary": "Climb the prayer-wheel stairway, walk clockwise around the statue as Sikkimese pilgrims do, and sit for a while in the shrine room at its base. A short, quiet visit that explains why Guru Padmasambhava matters so much in Sikkim.",
+      "body": [
+        "A kora is a clockwise circuit around a sacred object, walked to earn merit. At Samdruptse it begins at the bottom of the stairway, where pilgrims spin the first row of prayer wheels and murmur the Guru's mantra, om ah hum vajra guru padma siddhi hum. Join in quietly or simply walk with them.",
+        "At the top, circle the statue's base and enter the shrine room. Inside are images of Guru Rinpoche and his manifestations, butter lamps and offerings left by visitors. Photography inside is usually not permitted; ask before you raise a camera. Leave a small offering if you wish.",
+        "We suggest at least 30 minutes on the terrace afterwards. On a clear morning you look straight at Kangchenjunga, the mountain Sikkimese Buddhists worship as a protector. Seniors can skip the full stairway by resting on the landings; the view from halfway is still wide."
+      ],
+      "good_for": ["seniors", "families", "first-timers", "solo"],
+      "faqs": [
+        {"q": "Who is Guru Padmasambhava?", "a": "Padmasambhava, called Guru Rinpoche, is an 8th-century Buddhist master credited with establishing Buddhism in Tibet and blessing Sikkim as a hidden sacred land. In Sikkim he is revered as the second Buddha, and his image appears in almost every monastery."},
+        {"q": "How many steps are there at Samdruptse?", "a": "The stairway from the car park to the statue base is long, a climb of roughly 15–20 minutes at an easy pace with rests. There are landings and benches. People with heart or knee problems should go slowly, and can stop at a lower terrace that still has a view."},
+        {"q": "Can we enter the statue?", "a": "There is a shrine room in the statue's base that visitors can enter, removing shoes at the door. The interior is for prayer, so keep voices low and ask before taking photos. Opening times follow the site's hours, roughly morning to late afternoon."}
+      ]
+    },
+    {
+      "slug": "samdruptse-sunrise-kangchenjunga",
+      "title": "Kangchenjunga from the Guru's terrace",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Opening time, October to February",
+      "cost": "≈ ₹500–800 taxi plus entry",
+      "image_query": "Kangchenjunga view from Namchi",
+      "wiki": "Kangchenjunga",
+      "summary": "Be at Samdruptse as the gate opens on a clear winter morning, when Kangchenjunga and its neighbours stand sharp to the north-west and Namchi is still in shade. The most reliable mountain view in South Sikkim within a short drive.",
+      "body": [
+        "Kangchenjunga, 8,586 m, is the third-highest mountain on Earth and, for Sikkimese Buddhists and Lepchas alike, a guardian deity. From Samdruptse it rises above the ridges to the north-west with Kabru to its left and Pandim nearer, a long white wall that turns from pink to white as the sun climbs.",
+        "The clearest season is October to February. Check the sky the evening before: a cold, starry night usually means a clean morning. Leave Namchi with a taxi 20–30 minutes before the site opens, and be on the terrace by the first hour. By 10 am, haze and valley cloud often rise.",
+        "Bring a flask of tea or buy one at the stalls near the car park, and dress for 2–6 °C on winter mornings. A short zoom brings out the peaks, but the scale is best seen with the gilded statue in the foreground. Keep tripods out of the main walking line."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "What time does Samdruptse open?", "a": "The site has generally opened in the morning, around 8 am, and closed in the late afternoon. Opening hours can change, so check with your hotel the evening before. Even before the gate opens, the road below gives partial views of the mountains."},
+        {"q": "How cold is Samdruptse in winter?", "a": "December and January mornings at the top are around 2–6 °C, colder in wind. Namchi below is a few degrees warmer. Bring a down jacket or fleece, a hat and gloves for an early visit. Days warm up to about 12–15 °C by noon in sunshine."},
+        {"q": "Which month gives the best mountain view?", "a": "November and December are the most reliable: dry, cold air and few clouds. October is often clear after the monsoon ends. January and February are good but can bring passing cloud and occasional snow on the hilltop. By April haze is common."}
+      ]
+    },
+    {
+      "slug": "samdruptse-prayer-flag-offering",
+      "title": "Hang prayer flags on Samdruptse",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Morning, any dry month",
+      "cost": "≈ ₹150–500 for a set of flags",
+      "image_query": "prayer flags Sikkim hill",
+      "wiki": "Prayer flag",
+      "summary": "Buy a string of lungta flags in Namchi market and hang them on the windy ridge at Samdruptse, as Sikkimese families do for a new year, a birth or a journey. We explain what the colours and printed prayers mean so it is done with respect.",
+      "body": [
+        "Prayer flags, lungta or wind horses, are printed with mantras and images that the wind is believed to carry out across the land. They come in five colours in a fixed order, blue, white, red, green and yellow, which stand for sky, air, fire, water and earth. Families hang new flags for Losar, after a death or before a long journey.",
+        "Buy a set in Namchi market, where shops sell strings of 10–25 flags for about ₹150–500. At Samdruptse, ask the caretakers where flags can be tied; there are designated lines along the ridge. Hang them high, in the wind, and never let them touch the ground.",
+        "Some families ask a lama to bless their flags first and choose an auspicious day from the Tibetan calendar. As a visitor you need not go that far, but you should handle flags with respect: do not step on them, use them as decoration elsewhere, or throw old ones away."
+      ],
+      "good_for": ["families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Is it respectful for non-Buddhists to hang prayer flags?", "a": "Yes. Prayer flags are hung for the benefit of all beings, and Sikkimese Buddhists generally welcome visitors who do it respectfully. Follow the five-colour order, hang them in a high, clean place and never let them touch the ground. Ask the caretaker where it is permitted."},
+        {"q": "What do the colours of prayer flags mean?", "a": "The usual order is blue, white, red, green, yellow, representing sky (space), air (wind), fire, water and earth. Together they stand for balance among the elements. The central image is often the wind horse carrying the Buddhist triple gem."},
+        {"q": "Where can we buy prayer flags?", "a": "Namchi market and the stalls near Samdruptse sell them, as do shops in Ravangla and Gangtok. A string of 10 small flags costs around ₹150; larger sets ₹300–500. Cotton flags fade naturally, which is considered fine: the prayers have been carried by the wind."}
+      ]
+    },
+    {
+      "slug": "samdruptse-to-rock-garden-downhill-walk",
+      "title": "Walk down from Samdruptse to the Rock Garden",
+      "kind": "adventure",
+      "duration": "1.5–2 hours",
+      "best_time": "9 am–noon, October to April",
+      "cost": "Free (taxi pick-up ≈ ₹300–500)",
+      "image_query": "Namchi Rock Garden Sikkim",
+      "wiki": "",
+      "summary": "Send your car ahead and walk the quiet road down from the statue through forest and village edges to the Rock Garden and Mamley, about 4–5 km, with views over Namchi most of the way. Gentle on the lungs, kinder to the knees with poles.",
+      "body": [
+        "After your visit to the statue, start downhill on the road towards Namchi. The first stretch runs through cryptomeria and oak forest, cool and shaded, with birds busy in the canopy: listen for laughingthrushes and look for sunbirds on flowering shrubs in spring.",
+        "Lower down the forest opens onto village fields and terraces, and Namchi spreads out below with Solophok's Shiva on the far hill. The walk is about 4–5 km to the Rock Garden, losing roughly 450 m of height, and takes 1.5–2 hours with photo stops. Traffic is light on weekdays.",
+        "Arrange for your driver to meet you at the Rock Garden. Stop there for tea and a stroll, then visit the Mamley stromatolite site just nearby. Wear shoes with grip and carry water. Avoid this walk in heavy rain or thick mist, when visibility on the road is poor."
+      ],
+      "good_for": ["couples", "solo", "families", "photographers"],
+      "faqs": [
+        {"q": "Is the walk from Samdruptse to the Rock Garden safe?", "a": "Yes, in daylight and good weather. It follows the motor road, so watch for occasional cars and keep to the edge on bends. Avoid it in fog or heavy rain. Children should be supervised near drops. Walking poles help on the steady downhill."},
+        {"q": "How long is the walk?", "a": "About 4–5 km downhill, taking 1.5–2 hours at an easy pace with stops. You lose roughly 450 m of height. Fit walkers can continue all the way to Namchi town, about 3 km further, but the last part has more traffic."},
+        {"q": "Do we need a guide for this walk?", "a": "No. The route follows the road and is easy to follow. Your driver can drop you at the top and meet you at the Rock Garden. A local guide adds stories and bird names if you want them, for about ₹800–1,500."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How tall is the Samdruptse statue?", "a": "Wikipedia and most official sources give the height as 135 ft, about 41 m, though figures between roughly 118 and 138 ft are quoted. It is among the tallest statues of Guru Padmasambhava in the world. It was completed in February 2004."},
+    {"q": "Who built the Samdruptse statue?", "a": "The statue was built by the Government of Sikkim. The 14th Dalai Lama laid the foundation stone on 22 October 1997, and construction took several years, finishing in 2004. It was conceived, along with Char Dham and Buddha Park, as part of developing pilgrimage tourism in the south."},
+    {"q": "What is the entry fee at Samdruptse?", "a": "Expect about ₹30–50 per adult, with children charged less or free, and parking around ₹50 per car. Fees are revised periodically, so check current status before you travel. Small stalls at the car park sell tea, snacks and prayer flags."},
+    {"q": "How far is Samdruptse from Namchi?", "a": "About 7 km by road, roughly 20–25 minutes by car, climbing past the Rock Garden. A taxi from Namchi costs about ₹500–800 return with waiting. Walking up is possible for fit hikers but steep; walking down is much more pleasant."},
+    {"q": "What does Samdruptse mean?", "a": "Samdruptse is usually translated from Bhutia (Sikkimese) as wish-fulfilling hill or peak. Pilgrims climb it to make wishes and offer prayers, often hanging prayer flags along the ridge. As told locally, the hill is also a sleeping volcano kept calm by prayer, though there is no geological evidence for this."},
+    {"q": "When is the best time to visit Samdruptse?", "a": "Early morning from October to February gives the best chance of clear Kangchenjunga views. March and April are pleasant but hazier. In the monsoon (June to September) the hilltop is often in cloud, though the statue appearing through mist has its own beauty."},
+    {"q": "Is Samdruptse suitable for elderly visitors?", "a": "Partly. The long stairway from the car park is tiring at 2,200 m. Seniors can go slowly with rests on the landings or stop at a lower terrace. The view from the car park area is already good. Carry water and a warm layer."},
+    {"q": "Can we combine Samdruptse and Char Dham?", "a": "Yes, they are the usual pair. Do Samdruptse first, early, for the mountain views, then the Rock Garden, then cross Namchi to Char Dham at Solophok. The whole loop takes 4–5 hours by car and costs about ₹2,000–3,000 for a small car."},
+    {"q": "Is there food at Samdruptse?", "a": "Only small stalls near the car park selling tea, coffee, instant noodles, biscuits and sometimes momos. For a proper meal, eat in Namchi before or after. Carry water, especially if you plan to walk down to the Rock Garden."}
+  ]
+}

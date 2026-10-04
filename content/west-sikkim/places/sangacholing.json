@@ -1,0 +1,170 @@
+{
+  "slug": "sangacholing",
+  "name": "Sanga Choeling Monastery",
+  "region": "west-sikkim",
+  "kind": "monastery",
+  "wiki": "Sanga Choeling Monastery",
+  "image_query": "Sanga Choeling Monastery Pelling",
+  "lat": 27.2972,
+  "lng": 88.2214,
+  "altitude_m": 2200,
+  "local_name": {"name": "Sanga Choeling", "language": "Tibetan", "meaning": "Island of the Guhyamantra (secret mantra) teachings", "source": "Wikipedia: Sanga Choeling Monastery"},
+  "tagline": "A hilltop monastery dated to 1697, above the Pelling Skywalk",
+  "meta_description": "Sanga Choeling Monastery above Pelling: dated to 1697, the steep climb from the Chenrezig statue and Skywalk, history, timings, tips and costs.",
+  "summary": "Sanga Choeling is a Nyingma monastery on the ridge above Pelling, dated to 1697 and linked to Lhatsun Chempo. It is reached by a steep 30–40 minute climb from the 137-foot Chenrezig statue and glass Skywalk opened in 2018. Few visitors make the climb, so it is quiet, with views to Pemayangtse and Kangchenjunga.",
+  "intro": [
+    "Sanga Choeling sits on a forested ridge west of Pelling at a little over 2,000 m. Wikipedia describes it as one of the oldest monasteries in Sikkim, established in the 17th century by Lhatsun Chempo, the lama from Tibet who took part in the consecration of the first Chogyal; it gives 1697 as the year of construction. It belongs to the Nyingma order, and its name means 'island of the Guhyamantra teachings', the secret mantra tradition of Vajrayana Buddhism.",
+    "The monastery has burned several times and been rebuilt, but it keeps clay statues dated to the 17th century. The community is for men only, according to Wikipedia, and special recitations take place on the tenth day of each Tibetan month, the day associated with Guru Padmasambhava.",
+    "Since 2018 the approach has changed. A road now reaches the foot of the ridge, where the state built a 137-foot statue of Chenrezig, the bodhisattva of compassion, and a glass-floored Skywalk. Most visitors stop there. From the statue, a steep path of steps and trail climbs to the old monastery in 30–40 minutes, and the reward is silence, prayer flags and a long view over Pelling."
+  ],
+  "story": {
+    "title": "Lhatsun Chempo's ridge above Pelling",
+    "text": "Lhatsun Chempo, also known as Lhatsun Namkha Jigme, is the most important of the three lamas who met at Yuksom and consecrated Phuntsog Namgyal as the first Chogyal of Sikkim in 1642. Sikkimese tradition credits him with founding or inspiring several of the early monasteries of the west: Dubdi above Yuksom, Pemayangtse near Pelling and Sanga Choeling on the ridge facing it. Wikipedia's article on Sanga Choeling names him as founder and gives 1697 for its construction, decades after his own lifetime in the mid-17th century, which shows how dates in early Sikkimese history are often the dates of later buildings on sites he had blessed. What is certain is that the monastery has been rebuilt after fires several times and still keeps clay images believed to date from the 17th century. Its name, 'island of secret mantra teachings', reflects the Vajrayana practice at its heart, and its lamas still keep monthly recitations on the tenth day of the Tibetan month.",
+    "source": "Wikipedia: Sanga Choeling Monastery; Yuksom; Pemayangtse Monastery"
+  },
+  "little_known": [
+    {"fact": "Sanga Choeling keeps clay statues dated to the 17th century, which survived the fires that forced the monastery to be rebuilt several times.", "source": "Wikipedia: Sanga Choeling Monastery"},
+    {"fact": "Its lamas hold special recitations on the tenth day of every Tibetan month, the day linked with Guru Padmasambhava.", "source": "Wikipedia: Sanga Choeling Monastery"},
+    {"fact": "The 137-foot Chenrezig statue and glass Skywalk at the foot of the Sanga Choeling ridge opened in November 2018.", "source": "Wikipedia: Pelling"}
+  ],
+  "facts": [
+    ["Best months", "Oct–May"],
+    ["Nights we suggest", "Visit from Pelling (0 extra)"],
+    ["From Gangtok", "≈ 120 km · 5.5–6.5 h (via Pelling)"],
+    ["Altitude", "About 2,200 m"],
+    ["Known for", "1697 monastery, Chenrezig statue, Skywalk, ridge views"],
+    ["Permit", "Not needed; Skywalk ticket extra"]
+  ],
+  "best_months": [1, 2, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "0 (visit from Pelling)",
+  "highlights": [
+    {"title": "The climb through forest", "text": "From the Chenrezig statue, a steep path of steps and trail climbs through oak and rhododendron to the monastery in 30–40 minutes. It is short but steep at about 2,200 m; go slowly, carry water and enjoy the prayer flags along the way."},
+    {"title": "17th-century clay statues", "text": "Inside, Sanga Choeling keeps clay images dated to the 17th century, among the oldest religious art in West Sikkim. Ask the caretaker monk politely if the hall is open, and do not photograph without permission."},
+    {"title": "Chenrezig statue and Skywalk", "text": "At the foot of the ridge, the 137-foot statue of Chenrezig and the glass-floored Skywalk opened in 2018. Go soon after opening to avoid queues, then climb to the old monastery for contrast between new and old."},
+    {"title": "View across to Pemayangtse", "text": "From the monastery grounds the ridge looks across Pelling to Pemayangtse and, on clear days, north to Kangchenjunga. It is one of the quietest viewpoints in the Pelling area, as few visitors climb this far."},
+    {"title": "Tenth-day recitations", "text": "On the tenth day of each Tibetan month, linked with Guru Padmasambhava, the lamas hold special recitations. Ask in Pelling which date it falls on during your visit; visitors may listen quietly from the back."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Upper Pelling it is about 2–3 km to the Chenrezig statue by road, then a steep 30–40 minute climb on steps and trail to the monastery. Walking from Pelling, allow 1.5 hours up."},
+    {"mode": "Private car", "text": "A taxi drops you at the Skywalk car park, about 10–15 minutes from Upper Pelling, indicatively ₹300–500 one way. It is part of most Pelling half-day tours (₹2,500–3,500 per car), but ask for extra time to climb to the monastery."},
+    {"mode": "From Bagdogra / NJP", "text": "Reach Pelling first: about 135–145 km and 5–6 hours via Melli, Jorethang, Legship and Gyalshing. Visit the next morning from Pelling."}
+  ],
+  "costs": [
+    ["Skywalk entry", "≈ ₹50–100 per person"],
+    ["Taxi from Upper Pelling", "≈ ₹300–500 one way"],
+    ["Half-day Pelling tour", "≈ ₹2,500–3,500 a car"],
+    ["Monastery offering", "Voluntary, ≈ ₹20–100"]
+  ],
+  "where_to_stay": "Stay in Pelling. Upper Pelling is closest to the Skywalk road and has budget rooms at Hotel Garuda and comfort rooms at Norbu Ghang Retreat and Spa. The Chumbi Mountain Retreat and Spa is a premium base in town, and Summit Newa Regency, on the Pemayangtse side, is a short drive away.",
+  "stays": ["hotel-garuda-pelling", "norbu-ghang-retreat-pelling", "chumbi-mountain-retreat-pelling", "summit-newa-regency-pelling"],
+  "tips": [
+    "Do the Skywalk early, then climb to the monastery while the light is good and the path is quiet.",
+    "Wear shoes with grip; the steps are uneven and slippery when wet.",
+    "Take water and go slowly; the climb is steep at about 2,200 m.",
+    "Ask before entering halls or photographing inside, and dress modestly.",
+    "Tell your driver you plan to climb so he waits at least 1.5 hours."
+  ],
+  "themes": ["monasteries", "treks-and-walks", "photography", "crafts-and-culture"],
+  "nearby": ["pelling", "pemayangtse", "rabdentse", "darap"],
+  "experiences": [
+    {
+      "slug": "sangacholing-ridge-climb",
+      "title": "The steep climb to Sanga Choeling",
+      "kind": "adventure",
+      "duration": "2 hours",
+      "best_time": "Oct–May, morning",
+      "cost": "Free; Skywalk ticket extra",
+      "image_query": "Sanga Choeling monastery prayer flags",
+      "wiki": "Sanga Choeling Monastery",
+      "summary": "A short, steep forest climb from the Chenrezig statue to one of the oldest monasteries in Sikkim, rewarded with silence, prayer flags and a view over Pelling to Pemayangtse.",
+      "body": [
+        "The path starts near the Chenrezig statue and climbs steadily on stone steps and earth trail through oak and rhododendron forest, lined with prayer flags. Most people take 30–40 minutes; fit walkers are faster. There are a few places to rest and look back over Pelling.",
+        "The monastery sits on the crest of the ridge. It is usually quiet, with perhaps a caretaker monk or a few villagers. Walk clockwise around the buildings, and ask if the main hall can be opened. Inside are clay statues dated to the 17th century.",
+        "Come down the same way, carefully, as the steps are steep. In spring the rhododendrons along the path flower red and pink; in autumn and winter the view to Kangchenjunga from the top is often clear in the morning."
+      ],
+      "good_for": ["couples", "solo", "photographers", "families"],
+      "faqs": [
+        {"q": "How long does it take to climb to Sanga Choeling?", "a": "About 30–40 minutes up from the Chenrezig statue and Skywalk area for most people, and 20–30 minutes down. Allow 1.5–2 hours in total with time at the monastery. The path is steep, with stone steps and earth sections that are slippery after rain."},
+        {"q": "Is the Sanga Choeling climb safe for children?", "a": "Fit children over about 7 usually manage it with breaks and an adult close by. The steps are steep and uneven, with drops beside the path in places, so hold hands on the steeper sections. Avoid it in heavy rain."},
+        {"q": "Is there a road to Sanga Choeling Monastery?", "a": "A road reaches the Chenrezig statue and Skywalk at the foot of the ridge. The final stretch to the old monastery is on foot. Check locally whether any newer access has opened, as road works are ongoing in the area."}
+      ]
+    },
+    {
+      "slug": "sangacholing-skywalk-visit",
+      "title": "Walk the glass Skywalk beside Chenrezig",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Year-round, morning",
+      "cost": "≈ ₹50–100 per person",
+      "image_query": "Pelling glass Skywalk Sikkim",
+      "wiki": "",
+      "summary": "Step out on the glass-floored Skywalk facing the 137-foot Chenrezig statue, opened in 2018, one of West Sikkim's newest landmarks and an easy stop for families.",
+      "body": [
+        "The Skywalk is a glass-floored walkway projecting from the hillside below Sanga Choeling, facing a 137-foot statue of Chenrezig, the bodhisattva of compassion known in India as Avalokiteshvara. Both opened in November 2018. Steps lead from the car park up to the statue's base, where there are prayer wheels and a viewing terrace.",
+        "Children love the glass floor; people with a fear of heights may prefer the terrace. On clear days the view runs over Pelling and the Rangeet valley. Shoe covers or rules on footwear may apply on the glass.",
+        "Come soon after opening to avoid the midday tour groups, and combine it with the climb to Sanga Choeling for a contrast between the new monument and the 17th-century monastery above."
+      ],
+      "good_for": ["families", "first-timers", "couples"],
+      "faqs": [
+        {"q": "When did the Pelling Skywalk open?", "a": "The Skywalk and the 137-foot Chenrezig statue opened in November 2018, according to Wikipedia's article on Pelling. They are now among the most visited sights in town, so arrive early, especially in October, May and holiday weeks."},
+        {"q": "What are the Pelling Skywalk timings?", "a": "It usually opens in the morning and closes in the late afternoon, with possible closure in bad weather or for maintenance. Timings and fees change, so check current status before you travel. Your hotel or driver will know the current hours."},
+        {"q": "Is the Pelling Skywalk scary?", "a": "The glass floor gives a sense of height but is solid and guarded by railings. Most children enjoy it. If you are uneasy with heights, walk along the edges or watch from the terrace beside the statue, which gives the same view without the glass."}
+      ]
+    },
+    {
+      "slug": "sangacholing-tenth-day-prayers",
+      "title": "Tenth-day recitations at Sanga Choeling",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "10th day of each Tibetan month",
+      "cost": "Free; offering optional",
+      "image_query": "Sikkim monastery lamas prayer",
+      "wiki": "",
+      "summary": "Time your climb for the tenth day of the Tibetan month, linked with Guru Padmasambhava, when Sanga Choeling's lamas hold special recitations that visitors may hear quietly.",
+      "body": [
+        "Wikipedia records that Sanga Choeling's lamas perform special recitations on the tenth day of every month of the Tibetan calendar. The tenth day, Tse Chu, is associated with Guru Padmasambhava in the Nyingma tradition, and it is observed in monasteries across Sikkim.",
+        "Ask your hotel or at Pemayangtse which Gregorian date the tenth day falls on during your stay. Climb in the morning, arrive quietly, and sit at the back or outside if the hall is full. Remove shoes and hats, keep your phone off and do not photograph without clear permission.",
+        "Villagers sometimes bring offerings of butter lamps or food. Visitors can make a small donation in the box; do not hand money to monks during the ritual."
+      ],
+      "good_for": ["solo", "seniors", "couples"],
+      "faqs": [
+        {"q": "What is the tenth day in Tibetan Buddhism?", "a": "The tenth day of each lunar month, often called Tse Chu, is associated with Guru Padmasambhava and is an auspicious day for prayers and offerings in the Nyingma tradition. Many monasteries in Sikkim hold special rituals that day."},
+        {"q": "Can tourists attend prayers at Sanga Choeling?", "a": "Usually yes, quietly and respectfully. Sit at the back or outside, remove shoes and hats, keep phones off and avoid photographs unless permitted. If a ritual is private, the monks will say so. A small donation is welcome but not required."},
+        {"q": "How do I find the Tibetan calendar date?", "a": "Ask your hotel, a local driver or the monks at Pemayangtse, who follow the calendar closely. Tibetan calendar converters are also available online. Dates shift every month, so check a few days before your planned visit."}
+      ]
+    },
+    {
+      "slug": "sangacholing-rhododendron-walk",
+      "title": "Spring rhododendrons on the Sanga Choeling ridge",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Mar–Apr",
+      "cost": "Free",
+      "image_query": "rhododendron flowers Sikkim forest",
+      "wiki": "",
+      "summary": "In March and April the forest on the Sanga Choeling ridge flowers with rhododendron and magnolia, turning the short climb into a flower walk with the monastery at the top.",
+      "body": [
+        "Sikkim has dozens of rhododendron species, and the tree rhododendron (Rhododendron arboreum) flowers red and pink in the mid-hills around Pelling in early spring. The ridge path to Sanga Choeling passes through mixed forest where flowering trees stand beside oaks and magnolias.",
+        "Walk slowly and look up: blooms often grow high in the canopy. Birds such as sunbirds visit the flowers for nectar. The best weeks vary with altitude and weather, usually between late February and April around 2,000–2,200 m.",
+        "Higher up, rhododendron season moves to the Goecha La trail and Uttarey's forests in April and May. On the Sanga Choeling ridge you get a taste of it within an hour of your hotel."
+      ],
+      "good_for": ["photographers", "couples", "families", "seniors"],
+      "faqs": [
+        {"q": "When do rhododendrons bloom near Pelling?", "a": "Around Pelling, at about 2,000–2,200 m, tree rhododendrons usually flower from late February to April. Higher forests on the Goecha La trail and near Uttarey bloom later, in April and May. Exact weeks vary each year with temperature and rain."},
+        {"q": "Can I pick rhododendron flowers?", "a": "No. Picking flowers or breaking branches harms the forest and is against the rules in protected areas. Photograph them instead. Some local people make rhododendron squash from fallen flowers, which you may find in Pelling shops."},
+        {"q": "Is the rhododendron walk suitable for seniors?", "a": "The path is steep, so seniors should go slowly with rests and a walking stick, or enjoy the trees near the Chenrezig statue without climbing to the top. At about 2,200 m, avoid rushing. Go in the morning when it is cooler."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When was Sanga Choeling Monastery built?", "a": "Wikipedia gives 1697 as the year it was built and says it was established in the 17th century by Lhatsun Chempo, one of the lamas who consecrated the first Chogyal in 1642. It has been rebuilt after several fires and is among the oldest monasteries in Sikkim."},
+    {"q": "How do I reach Sanga Choeling from Pelling?", "a": "Drive or walk 2–3 km to the Chenrezig statue and Skywalk, then climb a steep path of steps and trail for 30–40 minutes to the monastery. A taxi from Upper Pelling costs indicatively ₹300–500 one way. Allow about 2 hours in total."},
+    {"q": "Is there an entry fee for Sanga Choeling?", "a": "The monastery normally has no fixed entry fee, though donations are welcome. The Skywalk at the foot of the ridge charges a separate ticket, indicatively ₹50–100. Check current status before you travel, as fees can change."},
+    {"q": "Can women enter Sanga Choeling Monastery?", "a": "Visitors of all genders can visit respectfully. Wikipedia notes the monastic community is for men only. Dress modestly, remove shoes and hats where asked, and follow any signs or instructions from the caretaker."},
+    {"q": "What does Sanga Choeling mean?", "a": "Wikipedia translates the name as 'island of the Guhyamantra teachings', meaning the secret mantra practices of Vajrayana Buddhism. The monastery belongs to the Nyingma order, the oldest school of Tibetan Buddhism, as do Pemayangtse and Dubdi."},
+    {"q": "Is the Sanga Choeling climb difficult?", "a": "It is short but steep: 30–40 minutes up on stone steps and earth path at about 2,200 m. Most reasonably fit adults and older children manage it slowly. People with knee, heart or breathing problems may prefer the Skywalk and statue only."},
+    {"q": "What is the best time to visit Sanga Choeling?", "a": "October to May, in the morning. October to March gives the clearest views; March and April bring rhododendrons on the path. In the monsoon the steps are slippery and leeches are common, so take care or skip the climb."},
+    {"q": "Is the Chenrezig statue part of the monastery?", "a": "No. The 137-foot Chenrezig statue and Skywalk are a state project opened in 2018 at the foot of the ridge. Sanga Choeling is the old monastery on top, reached by the footpath. Most visitors see only the statue; the monastery is quieter."},
+    {"q": "Can I see Kangchenjunga from Sanga Choeling?", "a": "On clear days, yes. The ridge offers views over Pelling and Pemayangtse towards Kangchenjunga and the ranges to the north. The best chances are in the morning between October and March. Spring haze and monsoon cloud often hide the peaks."}
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "ravangla",
+  "name": "Ravangla",
+  "region": "south-sikkim",
+  "kind": "town",
+  "wiki": "Ravangla",
+  "image_query": "Ravangla town Sikkim Buddha Park",
+  "lat": 27.3051,
+  "lng": 88.3645,
+  "altitude_m": 2050,
+  "local_name": {"name": "Ravangla (Rabong)", "language": "Bhutia", "meaning": "Ra: wild sheep, vong: rearing place, la: pass", "source": "Wikipedia: Ravangla"},
+  "tagline": "A cool ridge town between Buddha Park, Ralang and Maenam",
+  "meta_description": "Ravangla travel guide: Buddha Park, Ralang Monastery, Maenam trek, Tibetan settlement, shared jeep fares, hotels and real 2026 costs.",
+  "summary": "Ravangla (Rabong) is a small ridge town at about 2,050 m in Namchi district, roughly 65 km and 3 hours from Gangtok. It is the base for Buddha Park's 130 ft Buddha, Ralang Monastery, the Maenam forest trek and the villages of Borong, Kewzing and Yangang.",
+  "intro": [
+    "Ravangla sits on a saddle between Maenam hill to the north-east and the Tendong ridge to the south, on the road that links Gangtok and Namchi with Pelling and West Sikkim. The name is usually explained in Sikkimese as the pass where wild sheep were reared. It is a compact place: one main market street, a taxi stand, a few dozen hotels and homestays, and monasteries on the slopes around.",
+    "Most visitors arrive for Buddha Park (Tathagata Tsal), where a 130 ft copper-clad Buddha was consecrated by the Dalai Lama in 2013. But Ravangla rewards a longer stay. Ralang Monastery and its mask dances are 6 km away, Maenam's forest trail starts above town, and Kewzing, Borong and Yangang offer some of Sikkim's best village homestays within an hour.",
+    "At about 2,050 m, Ravangla is noticeably cooler than Namchi or Gangtok. Winter nights drop near freezing, with occasional snow on the upper slopes, and summer days rarely pass 22 °C. On clear mornings Kangchenjunga, Pandim, Kabru and Siniolchu line the northern horizon. One or two nights is right; three if you want to trek Maenam."
+  ],
+  "story": {
+    "title": "The pass of the wild sheep and its Tibetan camps",
+    "text": "The name Ravangla is explained in Sikkimese as Ra, wild sheep, vong, a rearing place, and la, a pass: a saddle on the ridge where animals were grazed on the route between the south and the west of the kingdom. For centuries it was a crossing and grazing ground more than a town; Ralang and the old Rabong monastery were the religious centres nearby. After 1959, Ravangla became home to a Tibetan refugee settlement, still there about a kilometre from the market. Wikipedia records seven camps on 328.5 acres of land with about 1,300 residents, a Tibetan primary school, two monasteries, offices and a health clinic. The settlement brought Tibetan crafts, food and Buddhist institutions that blend today with the Bhutia, Nepali and Lepcha communities of the area. Later came the 2013 Buddha Park, a temporary campus of NIT Sikkim, and a new economy of hotels and taxis. The wild sheep are long gone; the pass is busier than ever.",
+    "source": "Wikipedia: Ravangla"
+  },
+  "little_known": [
+    {"fact": "The Tibetan settlement near Ravangla market covers seven camps on about 328.5 acres, with roughly 1,300 residents, a primary school, two monasteries and a clinic.", "source": "Wikipedia: Ravangla"},
+    {"fact": "Ravangla hosted a temporary campus of the National Institute of Technology Sikkim, which is why you may see engineering students in the market.", "source": "Wikipedia: Ravangla"},
+    {"fact": "Birders list the rare satyr tragopan, a crimson Himalayan pheasant, among the birds of the forests around Ravangla and Maenam.", "source": "Wikipedia: Ravangla"}
+  ],
+  "facts": [["Best months", "Oct–Dec and Mar–May"], ["Nights we suggest", "1–2"], ["From Gangtok", "≈ 65 km · 3 h"], ["Altitude", "≈ 2,050 m"], ["Known for", "Buddha Park, Ralang Monastery, Maenam trek"], ["Permit", "Not needed for Indians; foreigners need the Sikkim RAP"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Buddha Park (Tathagata Tsal)", "text": "A 130 ft Buddha clad in about 60 tonnes of copper, consecrated by the 14th Dalai Lama on 25 March 2013, with a museum in its base and Mount Narsing behind. Ten minutes from the market."},
+    {"title": "Ralang Monastery", "text": "A Kagyu monastery 6 km away, founded in 1768, with the large Palchen Choeling institute built in 1995. Its cham dances at Pang Lhabsol and in the 10th Tibetan month are among Sikkim's finest."},
+    {"title": "Maenam forest trek", "text": "A steep forest walk of about 4 hours from Ravangla to Maenam's summit at about 3,263 m, inside a wildlife sanctuary known for red panda habitat and medicinal plants."},
+    {"title": "Rayong sunrise viewpoint", "text": "About 8 km from Ravangla on the road towards Damthang, a roadside viewpoint where the sun rises over the eastern ridges with Kangchenjunga catching light to the north-west."},
+    {"title": "Village stays nearby", "text": "Kewzing's community homestays, Borong above the Rangeet and Yangang under Maenam are all within an hour, with home food, farm walks and almost no traffic."},
+    {"title": "Cool, clear mornings", "text": "At about 2,050 m, Ravangla's winter and post-monsoon mornings are crisp and often cloudless, with Kangchenjunga, Pandim, Kabru and Siniolchu in view from the ridge."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run from Gangtok's south-and-west taxi stand to Ravangla, about 3 hours, roughly ₹250–400 a seat. From Namchi (26 km) jeeps take about an hour for ₹100–150. From Siliguri, take a jeep to Namchi or Jorethang and change. Morning departures are most reliable."},
+    {"mode": "Private car", "text": "A reserved small car from Gangtok costs about ₹3,500–4,500 one way, an SUV ₹4,500–6,000. From Pelling it is about 45–50 km and 2–2.5 hours via Legship. Many trips run Gangtok – Ravangla – Pelling or Pelling – Ravangla – Namchi."},
+    {"mode": "From Bagdogra / NJP", "text": "About 120–125 km and 4.5–5 hours via Melli and Namchi, or via Singtam. A reserved car costs roughly ₹5,500–7,500. If NH10 is closed after monsoon slides, drivers route through Darjeeling district and Jorethang."}
+  ],
+  "costs": [["Shared jeep Gangtok–Ravangla", "≈ ₹250–400 a seat"], ["Shared jeep Namchi–Ravangla", "≈ ₹100–150 a seat"], ["Local sightseeing car (Buddha Park, Ralang, Borong)", "≈ ₹2,500–3,500"], ["Budget room", "≈ ₹1,500–2,500"], ["Buddha Park entry", "≈ ₹50 Indians, ₹100 foreigners"], ["Meal (thali or thukpa)", "≈ ₹120–250"]],
+  "where_to_stay": "Budget hotels line Ravangla's main road and the lane up to Buddha Park, with doubles from about ₹1,500–2,500; ask for a north-facing room for the mountains. Mt. Narsing Village Resort, a few kilometres out on the Pelling road, has garden cottages at value prices. The Barfung Retreat in nearby Barfung village is our comfort pick, small and quiet. For village stays, look at Kewzing, Borong or Yangang homestays, 20–45 minutes away.",
+  "stays": ["mt-narsing-village-resort-ravangla", "the-barfung-retreat-ravangla"],
+  "tips": [
+    "Pack warm: Ravangla is around 2,050 m, and winter nights drop near freezing.",
+    "Visit Buddha Park at opening time for clear views of Narsing behind the statue.",
+    "Check the Tibetan calendar for Ralang's cham dances before fixing your dates.",
+    "Withdraw cash in Ravangla before heading to Borong, Yangang or Kewzing.",
+    "Shared jeeps to Gangtok and Namchi leave mostly in the morning; book a seat the evening before."
+  ],
+  "themes": ["monasteries", "treks-and-walks", "village-homestays", "family-holidays"],
+  "nearby": ["buddha-park-ravangla", "ralang-monastery", "maenam-wildlife-sanctuary", "kewzing"],
+  "experiences": [
+    {
+      "slug": "ravangla-tibetan-settlement-walk",
+      "title": "A morning walk through the Tibetan settlement",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "8–10 am, any dry month",
+      "cost": "Free (guide ₹800–1,200 optional)",
+      "image_query": "Ravangla Tibetan settlement monastery",
+      "wiki": "",
+      "summary": "Walk from the market to the Tibetan refugee settlement about a kilometre away: prayer flags, a small monastery, a school and homes built since the 1960s. A quiet, respectful look at a community that shaped modern Ravangla.",
+      "body": [
+        "Ravangla's Tibetan settlement lies about a kilometre from the market. Wikipedia records seven camps spread over 328.5 acres, home to around 1,300 people, with a primary school, two monasteries, offices and a health clinic. It is not a tourist site, but a living community where visitors are welcome to walk respectfully.",
+        "Start early, when older residents circle the monastery turning prayer wheels and children walk to school. Visit the monastery if it is open, removing shoes and walking clockwise. Look for small shops selling incense, prayer flags and Tibetan bread, and teahouses serving butter tea and momos.",
+        "Please ask before photographing people or homes. A local guide can introduce you and explain the history of the camps; expect about ₹800–1,200 for a morning. Combine the walk with Buddha Park, which is a short drive away, for a half day focused on Ravangla's Buddhist life."
+      ],
+      "good_for": ["solo", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Can tourists visit the Tibetan settlement in Ravangla?", "a": "Yes, as respectful guests on public paths. It is a residential community, not an attraction, so keep voices low, ask before photographing people, and do not enter homes or offices unless invited. The monastery is usually open to visitors in daytime."},
+        {"q": "When was the Ravangla Tibetan settlement founded?", "a": "It grew from the arrival of Tibetan refugees after 1959. Exact founding dates for each camp are not well documented in public sources, so we do not give one. Today it has schools, monasteries and a clinic, and is part of Ravangla's everyday life."},
+        {"q": "Can we buy Tibetan crafts there?", "a": "Small shops sell incense, prayer flags, beads and everyday goods. Larger handicraft selections are found in Gangtok. Buying from settlement shops supports local families directly. Prices are modest and fixed; bargaining is not customary."}
+      ]
+    },
+    {
+      "slug": "ravangla-rayong-sunrise-viewpoint",
+      "title": "Rayong sunrise over the eastern ridges",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "5–7 am, October to February",
+      "cost": "≈ ₹800–1,200 per car",
+      "image_query": "sunrise Sikkim mountains Ravangla",
+      "wiki": "",
+      "summary": "Drive about 8 km towards Damthang to Rayong's roadside viewpoint to watch the sun rise over the ridges east of the Teesta while Kangchenjunga turns pink to the north-west. Short, cheap and best on cold, clear mornings.",
+      "body": [
+        "Rayong is a roadside viewpoint about 8 km from Ravangla on the road towards Damthang and Namchi. It faces east over layer upon layer of ridges, so on clear mornings you watch the sun climb out of the haze while, behind you, the snow peaks of the Kangchenjunga range catch the first light.",
+        "Leave Ravangla 30–40 minutes before sunrise (about 5:15 am in November, 6:15 am in January). Bring a flask of tea or ask your hotel for one, gloves and a warm hat: temperatures at dawn in December can be close to freezing. The viewpoint is simple, a widened stretch of road with railings.",
+        "October to February gives the best odds. In spring, haze often softens the sunrise; in the monsoon, cloud usually hides it entirely. A car for the round trip costs about ₹800–1,200. Back in Ravangla by 7:30 am, you have the whole day for Buddha Park and Ralang."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Where is Rayong viewpoint?", "a": "About 8 km from Ravangla on the road towards Damthang and Namchi, roughly 15–20 minutes by car. Local drivers know it as Rayong sunrise point. There are no facilities, so bring your own tea and warm clothes."},
+        {"q": "Can we see Kangchenjunga from Rayong?", "a": "On clear mornings, yes, to the north-west behind you as you face the sunrise. The best season is October to February. In spring haze and monsoon cloud, the mountains are often hidden."},
+        {"q": "Is it worth going if it is cloudy?", "a": "Usually not. Ask your hotel the night before; a cold, starry night is a good sign. If cloud is low and thick, sleep in and try the next day. Sometimes cloud sits below the viewpoint, giving a sea-of-clouds effect, which is a bonus."}
+      ]
+    },
+    {
+      "slug": "ravangla-forest-birding-morning",
+      "title": "Birding the forest edges above Ravangla",
+      "kind": "wildlife",
+      "duration": "3 hours",
+      "best_time": "6–9 am, March to May and October to December",
+      "cost": "≈ ₹1,500–2,500 for a bird guide",
+      "image_query": "verditer flycatcher Sikkim",
+      "wiki": "",
+      "summary": "An early walk with a local bird guide along the forest roads and trails above Ravangla, towards Maenam. Look for verditer flycatchers, blue-fronted redstarts, grey bushchats and, with luck, pheasants. Good for beginners and serious birders.",
+      "body": [
+        "The forests around Ravangla sit at the meeting point of temperate oak and rhododendron woodland and the farmed slopes below, which makes the edges rich in birds. Wikipedia's Ravangla entry lists verditer flycatchers, blue-fronted redstarts and grey bushchats, and the rare satyr tragopan in the higher forests of Maenam.",
+        "A local guide will start at first light on the road towards Maenam sanctuary, then walk slowly along forest trails, stopping where birds feed. Spring (March to May) brings song and breeding colours; October to December brings clear light and winter visitors moving down from higher altitudes.",
+        "Expect about ₹1,500–2,500 for a guided morning. Bring binoculars, layers and rain cover. Tragopans are shy and rarely seen; a good guide will be honest about the odds. Combine with breakfast back in town and Buddha Park later in the morning."
+      ],
+      "good_for": ["photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "What birds can we see around Ravangla?", "a": "Common species include verditer flycatchers, blue-fronted redstarts, grey bushchats, laughingthrushes, minivets, sibias and many warblers. Pheasants such as the kalij are sometimes seen, and the satyr tragopan lives in the higher forests of Maenam but is rarely spotted."},
+        {"q": "Can we find a bird guide in Ravangla?", "a": "Yes, a few local naturalists guide birders around Ravangla and Maenam. Ask your hotel or book through us a day ahead. Rates are roughly ₹1,500–2,500 for a morning. Some guides also cover Kitam bird sanctuary near Namchi."},
+        {"q": "What is the best season for birding near Ravangla?", "a": "March to May for breeding birds and song, and October to December for clear weather and winter visitors. The monsoon months are wet and visibility is poor, though resident birds are still active."}
+      ]
+    },
+    {
+      "slug": "ravangla-market-momo-and-thukpa-evening",
+      "title": "Thukpa and momos on Ravangla's main street",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "6–8 pm, any month",
+      "cost": "≈ ₹250–500 per person",
+      "image_query": "momos Sikkim food",
+      "wiki": "Thukpa",
+      "summary": "A warm evening crawl along Ravangla's single market street for steaming thukpa, momos, shapale and butter tea in small family-run restaurants. Cheap, filling and exactly what a cold ridge town night calls for.",
+      "body": [
+        "Ravangla's evenings are cold, and its food answers that. Thukpa, a noodle soup brought by Tibetan cooks, comes with vegetables, chicken or pork in a peppery broth. Momos, steamed dumplings, arrive in plates of eight or ten with a fierce tomato-chilli sauce. Shapale, fried meat-filled bread, is a Tibetan favourite found in some kitchens.",
+        "Walk the main street and pick the busiest places, which are usually small family restaurants with a few tables and a steaming kitchen behind. Ask for butter tea, salty and rich, to warm up. Many places close early, around 8–8:30 pm, so eat by 7:30.",
+        "Expect to pay about ₹250–500 per person for a full meal with tea. Most places take UPI. Vegetarians will find vegetable momos, thukpa and aloo dum everywhere. This is our favourite way to end a day of monasteries and forest walks."
+      ],
+      "good_for": ["budget", "families", "couples", "solo"],
+      "faqs": [
+        {"q": "What should we eat in Ravangla?", "a": "Try thukpa (noodle soup), momos (dumplings), shapale (fried filled bread), and butter tea. Local homestays also serve Sikkimese and Nepali dishes such as gundruk, sel roti and churpi soup. Most restaurants serve North Indian dishes too."},
+        {"q": "Do Ravangla restaurants close early?", "a": "Yes, many close around 8–8:30 pm, earlier in winter. Plan dinner by about 7:30 pm. Hotels serve dinner later, often until 9 pm, if you prefer to eat in."},
+        {"q": "Is butter tea an acquired taste?", "a": "For many, yes. It is salty, not sweet, made with tea, butter and salt, and is very warming in cold weather. Try a small cup first. Regular milk tea is always available if you prefer it."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Ravangla worth visiting?", "a": "Yes, for Buddha Park, Ralang Monastery, the Maenam trek and some of Sikkim's best village homestays nearby. It is cooler, quieter and less commercial than Gangtok or Pelling. One night covers the main sights; two or three let you trek and visit villages."},
+    {"q": "How far is Ravangla from Gangtok?", "a": "About 65 km and 3 hours by road. Shared jeeps cost roughly ₹250–400 a seat; a reserved small car about ₹3,500–4,500 one way. In the monsoon the drive can take longer because of slides. Check current status before you travel."},
+    {"q": "How far is Ravangla from Pelling?", "a": "About 45–50 km and 2–2.5 hours via Legship and Gyalshing. There is no frequent direct shared jeep; change at Legship or Gyalshing, or hire a car for about ₹3,000–4,000. Ravangla works well as a stop between Pelling and Namchi or Gangtok."},
+    {"q": "What is the best time to visit Ravangla?", "a": "October to December for clear mountain views, and March to May for flowers and pleasant days. Winter (December to February) is cold, with nights near freezing and occasional snow on the hills. June to September is wet and cloudy, with leeches on forest trails."},
+    {"q": "Does Ravangla get snow?", "a": "Occasionally, in December to February, mostly on the higher slopes and Maenam hill. Snow in the town itself is unusual and short-lived. If you want reliable snow, North Sikkim or Tsomgo Lake are better. Ravangla's winter mornings are, however, often wonderfully clear."},
+    {"q": "Which is better to stay in, Ravangla or Namchi?", "a": "Ravangla is cooler, quieter and better for monasteries, forest walks and villages. Namchi is warmer, bigger, with more hotels and the Samdruptse and Char Dham monuments. They are only an hour apart, so many trips include one night in each."},
+    {"q": "Is there an ATM in Ravangla?", "a": "Yes, there are ATMs in Ravangla market, though they occasionally run out of cash on holidays. Withdraw enough before visiting Borong, Yangang or Kewzing, where there are no ATMs. UPI is widely accepted in town."},
+    {"q": "Do foreigners need a permit for Ravangla?", "a": "Foreign nationals need the standard Sikkim Restricted Area Permit, applied online through the e-FRRO portal after arriving in India. No extra protected-area permit is needed for Ravangla or Buddha Park. Indians need no permit. Check current status before you travel."},
+    {"q": "Is Ravangla good for families with children?", "a": "Yes. Buddha Park has wide paths and gardens, Ralang is a short drive, and the town is small and safe. Pack warm clothes, as children feel the cold at 2,050 m. Homestays in Kewzing are lower and milder if you want a village experience."}
+  ]
+}

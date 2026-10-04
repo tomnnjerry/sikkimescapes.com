@@ -1,0 +1,173 @@
+{
+  "slug": "gangtok",
+  "name": "Gangtok",
+  "region": "east-sikkim",
+  "kind": "town",
+  "wiki": "Gangtok",
+  "image_query": "Gangtok city ridge Sikkim",
+  "lat": 27.33,
+  "lng": 88.62,
+  "altitude_m": 1650,
+  "local_name": {"name": "Gangtok", "language": "Tibetan", "meaning": "Usually translated as 'hill top'", "source": "Wikipedia: Gangtok"},
+  "tagline": "Sikkim's capital on a ridge at 1,650 m",
+  "meta_description": "Gangtok travel guide: MG Marg, monasteries, ropeway, Tsomgo day trips, honest 2026 prices for cabs, rooms and permits, and the town's royal history.",
+  "summary": "Gangtok is Sikkim's capital, a ridge town at 1,650 m and the base for almost every trip in the state. Plan 2–3 nights: one day for the town's monasteries, institute and MG Marg, one for Tsomgo Lake and Baba Mandir, and Nathu La if you are Indian. Best October to May.",
+  "intro": [
+    "Gangtok runs along a ridge on the east side of the Ranikhola valley, about 114 km from Bagdogra airport by NH10. It has been the capital since 1894, when Chogyal Thutob Namgyal moved the court here from Tumlong, and it stayed the royal seat until the monarchy ended in 1975. Today about 100,000 people live here, speaking Nepali, Bhutia (Sikkimese), Lepcha, Hindi and English, and the town is where nearly every Sikkim trip starts and ends.",
+    "The centre is MG Marg, a pedestrian promenade with benches, cafés and shops, closed to cars and kept unusually clean. Above it sit the old royal quarter, the Tsuklakhang palace chapel and the Secretariat; below it, Lal Bazaar and the taxi stands. A short drive takes you to the Namgyal Institute of Tibetology and Do Drul Chorten at Deorali, Enchey Monastery on the ridge, and the viewpoints at Ganesh Tok, Hanuman Tok and Tashi View Point.",
+    "Gangtok is also the permit office for the high country. Tsomgo Lake, Baba Mandir and Nathu La are day trips from here, and North Sikkim tours to Lachung and Lachen leave from the Vajra stand. Two or three nights is the usual stay. Expect steep roads, traffic jams at school and office hours, and clear mountain views mainly from October to March."
+  ],
+  "story": {
+    "title": "A capital moved to a hill top in 1894",
+    "text": "For most of its history Sikkim was ruled from elsewhere: first Yuksom, where the first Chogyal was consecrated in 1642, then Rabdentse, then Tumlong in the north. Gangtok was a small settlement around a hermitage. In 1894, Chogyal Thutob Namgyal moved his capital to Gangtok, and the town grew around the new palace and the Tsuklakhang, the royal chapel where coronations, royal weddings and victory ceremonies were held. In the 1950s the court built the Namgyal Institute of Tibetology: the Dalai Lama laid its foundation stone on 10 February 1957 and Prime Minister Jawaharlal Nehru opened it on 1 October 1958. Less than twenty years later the kingdom itself ended. In a referendum on 14 April 1975, officially 97.55 percent of voters approved abolishing the monarchy, and Sikkim became India's 22nd state on 16 May 1975. The palace compound still stands above MG Marg, and the Tsuklakhang continues to host Pang Lhabsol and Saga Dawa.",
+    "source": "Wikipedia: Gangtok; Namgyal Institute of Tibetology; 1975 Sikkimese monarchy referendum"
+  },
+  "little_known": [
+    {"fact": "The Gangtok ropeway opened on 24 December 2003. It runs about 1 km from Deorali, near the Institute of Tibetology, via Namnang to Tashiling beside the Secretariat, at about 1,890 m.", "source": "Sikkim Tourism; darjeeling-tourism.com"},
+    {"fact": "Do Drul Chorten was begun in 1945 by Trulshik Rinpoche at the invitation of the Chogyal and finished in 1946. It is ringed by 108 prayer wheels.", "source": "Wikipedia: Do-drul Chorten"},
+    {"fact": "The Directorate of Handicrafts and Handloom began on 9 March 1957 as the Palden Thondup Cottage Industries Institute, set up to give families an income beyond farming and herding.", "source": "Directorate of Handicrafts and Handloom, Government of Sikkim"}
+  ],
+  "facts": [
+    ["Best months", "October–December and March–May"],
+    ["Nights we suggest", "2–3"],
+    ["From Bagdogra (IXB)", "≈ 125 km · 4–5 h"],
+    ["Altitude", "1,650 m"],
+    ["Known for", "MG Marg, monasteries, Tibetology institute, base for Tsomgo and Nathu La"],
+    ["Permit", "Not needed for Indians; foreigners need the Sikkim RAP (e-FRRO)"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "MG Marg in the evening", "text": "Gangtok's pedestrian promenade is about 1 km of benches, cafés, bakeries and shops with no cars and almost no litter. Locals and visitors stroll here from about 5 pm. It is the easiest place in Sikkim to try momos, thukpa and a pot of tea after a long day on the road."},
+    {"title": "Namgyal Institute of Tibetology", "text": "Opened by Nehru in 1958, the institute holds one of the most important collections of Tibetan Buddhist manuscripts, icons and thangkas outside Tibet. The ground-floor museum is small and well labelled. Allow an hour, and combine it with Do Drul Chorten, a five-minute walk uphill."},
+    {"title": "Do Drul Chorten and its 108 prayer wheels", "text": "This white stupa, built in 1945–46 by Trulshik Rinpoche, is one of the most important in Sikkim. Walk clockwise around the 108 prayer wheels with the morning crowd of residents. Beside it, the Chorten Lakhang houses large statues of Guru Rinpoche."},
+    {"title": "Ropeway ride over the town", "text": "The cable car runs about 1 km from Deorali to Tashiling, near the Secretariat, with a stop at Namnang. The ride takes under 10 minutes each way and gives the best overview of how Gangtok clings to its ridge. Go early on a clear day for views of the Kangchenjunga range."},
+    {"title": "Handicrafts at Zero Point", "text": "The Directorate of Handicrafts and Handloom, about 1 km above MG Marg, trains young artisans in thangka painting, wood carving, carpet weaving and Lepcha loin-loom weaving. Visitors can watch the workshops on weekdays and buy directly from the sales emporium."},
+    {"title": "Base for Tsomgo, Baba Mandir and Nathu La", "text": "The road to the lakes and passes starts from Gangtok. Tsomgo Lake (3,753 m) is about 40 km away and Nathu La (4,310 m) about 55 km. Permits are arranged a day ahead through registered agents. Nathu La is for Indian nationals only. Check current status before you travel."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps and SNT buses run from Siliguri (and from NJP and Bagdogra) to Gangtok through the day. The trip takes 4–5 hours on NH10 via Sevoke, Melli, Rangpo and Singtam. Seats cost about ₹350–500. In the monsoon NH10 often closes after slides, and jeeps use the longer road via Kalimpong or Lava and Algarah."},
+    {"mode": "Private car", "text": "A reserved small car from Bagdogra or NJP to Gangtok costs about ₹4,000–5,500, and an SUV about ₹5,500–7,000. Allow 4–5 hours plus a tea stop at Rangpo, where Sikkim's entry check post is. Foreign visitors must carry their e-FRRO Restricted Area Permit approval."},
+    {"mode": "From Bagdogra / NJP", "text": "Bagdogra (IXB) is the nearest working airport, about 125 km away; Pakyong Airport has had no scheduled flights since June 2024. New Jalpaiguri (NJP) is the nearest major railhead, about 120–125 km away. Pre-paid taxi counters at both handle Gangtok cars. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Siliguri–Gangtok", "≈ ₹350–500 a seat"],
+    ["Gangtok sightseeing, small car (7 or 10 points)", "≈ ₹2,500–4,000 a car"],
+    ["Tsomgo + Baba Mandir day trip, reserved car", "≈ ₹4,500–6,500 a car"],
+    ["Budget room in town", "≈ ₹1,500–3,000"],
+    ["Ropeway return ticket", "≈ ₹110–150"],
+    ["Momos or thali on MG Marg", "≈ ₹120–350"]
+  ],
+  "where_to_stay": "Stay within walking distance of MG Marg if you can: Tibet Road, Paljor Stadium Road, Bhanu Path and Development Area are all 5–15 minutes on foot. Budget travellers do well at Mintokling Guest House on Bhanu Path or Hotel Sonam Delek on Tibet Road. For character, Netuk House is a 1950s family house of a royal counsellor. Hotel Tibet and The Chumbi Residency are reliable mid-range choices, and Elgin Nor-Khill was the Chogyal's 1932 guest house. For resorts, Mayfair is at Lower Samdur near Ranipool and Taj Guras Kutir in the Pangthang forest; both need a car to reach town. The Hidden Forest Retreat at Sichey has an orchid nursery.",
+  "stays": ["mintokling-guest-house-gangtok", "hotel-sonam-delek-gangtok", "netuk-house-gangtok", "hidden-forest-retreat-gangtok", "hotel-tibet-gangtok", "chumbi-residency-gangtok", "elgin-nor-khill-gangtok", "mayfair-spa-resort-casino-gangtok", "taj-guras-kutir-gangtok"],
+  "tips": [
+    "Book Tsomgo and Nathu La a day ahead with two passport photos and ID; permits are issued the evening before.",
+    "Do the town sights on your arrival day or the day before you leave, and keep a middle day free for the high road.",
+    "Taxis in Gangtok are fixed-route or reserved; agree the fare and the list of points before you set off.",
+    "Do not smoke or litter on MG Marg: fines are enforced, and the promenade is a no-smoking zone.",
+    "Carry a light jacket even in May; Gangtok evenings drop to around 12–15 °C."
+  ],
+  "themes": ["monasteries", "crafts-and-culture", "food-and-tea", "family-holidays"],
+  "nearby": ["rumtek", "tsomgo-lake", "enchey", "hanuman-tok"],
+  "experiences": [
+    {
+      "slug": "gangtok-tibetology-and-do-drul-chorten",
+      "title": "Namgyal Institute and Do Drul Chorten",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Mornings, Monday to Saturday",
+      "cost": "≈ ₹10–50 entry; taxi ≈ ₹150–250 each way",
+      "image_query": "Namgyal Institute of Tibetology Gangtok",
+      "wiki": "Namgyal Institute of Tibetology",
+      "summary": "A morning at Deorali seeing the Namgyal Institute of Tibetology, opened by Nehru in 1958, and the white Do Drul Chorten above it, built in 1945–46 by Trulshik Rinpoche. Two of Gangtok's most rewarding sights, a five-minute walk apart.",
+      "body": [
+        "The Namgyal Institute of Tibetology stands in a wooded compound at Deorali, about 2 km below MG Marg. Its foundation stone was laid by the 14th Dalai Lama on 10 February 1957, and Prime Minister Jawaharlal Nehru inaugurated it on 1 October 1958. It is named after Sir Tashi Namgyal, the 11th Chogyal, and it publishes the Bulletin of Tibetology, one of the oldest journals in its field.",
+        "The museum on the ground floor holds thangkas, bronzes, ritual objects and manuscripts, with clear labels. The building itself is worth a look, with its painted eaves and traditional Sikkimese proportions. Photography inside is restricted, so ask at the desk. The museum usually closes on Sundays and government holidays; check current status before you travel.",
+        "From the institute, walk uphill for about five minutes to Do Drul Chorten. Trulshik Rinpoche began it in 1945 at the Chogyal's invitation, and inside it holds a complete Dorje Phurba mandala set, volumes of the Kangyur and rolls of mantras. Residents walk clockwise around it each morning, turning the 108 prayer wheels. Join them, keeping the stupa on your right."
+      ],
+      "good_for": ["families", "first-timers", "seniors", "solo"],
+      "faqs": [
+        {"q": "What are the opening hours of the Namgyal Institute of Tibetology?", "a": "The museum generally opens around 10 am to 4 pm, Monday to Saturday, and closes on Sundays and government holidays. Hours can change for events and holidays, so check current status before you travel. Arrive by 3 pm to have enough time inside, and combine it with Do Drul Chorten the same morning."},
+        {"q": "Can we walk from MG Marg to Do Drul Chorten?", "a": "Yes, but it is about 2 km downhill on busy roads, and the walk back is a steep climb. Most visitors take a local taxi for ₹150–250 each way or include both sights in a Gangtok sightseeing car. The ropeway's lower station at Deorali is also close by."},
+        {"q": "Is there a dress code at Do Drul Chorten?", "a": "There is no strict code, but dress modestly, with shoulders and knees covered, and remove your hat near the shrines. Walk clockwise around the stupa and prayer wheels, never anticlockwise. Ask before photographing monks or people at prayer, and do not touch offerings or butter lamps."}
+      ]
+    },
+    {
+      "slug": "gangtok-mg-marg-lal-bazaar-food-walk",
+      "title": "MG Marg and Lal Bazaar food walk",
+      "kind": "food",
+      "duration": "3 hours",
+      "best_time": "Sunday morning for the haat; any evening for MG Marg",
+      "cost": "≈ ₹400–800 per person for tastings",
+      "image_query": "MG Marg Gangtok evening",
+      "wiki": "",
+      "summary": "A walk from the clean, car-free MG Marg down to Lal Bazaar, Gangtok's main market, tasting momos, thukpa, sel roti and churpi along the way. The best way to understand what Sikkim eats, and where its farmers bring their produce.",
+      "body": [
+        "Start on MG Marg, the pedestrian promenade at the heart of Gangtok. It is closed to traffic, smoking and littering are banned, and it is one of the cleanest town centres in India. Cafés and small restaurants line both sides; most serve steamed or fried momos (pork, chicken or vegetable) and thukpa, a noodle soup that came over the passes from Tibet.",
+        "Walk downhill to Lal Bazaar, the Kanchenjunga Shopping Complex area, where farmers from the surrounding villages sell vegetables, spices, dried fish and dairy. On Sunday mornings the haat is at its busiest. Look for churpi: soft churpi, a fresh cheese made from buttermilk, is cooked into curries and chutneys, while hard churpi is dried over a fire until it can be chewed for hours.",
+        "Also look for gundruk (fermented, dried leafy greens), sinki (fermented radish), fiery dalle chillies and sel roti, the ring-shaped rice bread fried for festivals. Since 2016 Sikkim has been a fully organic state, and much of the produce here comes from small family farms. Finish with tea back on MG Marg."
+      ],
+      "good_for": ["couples", "families", "budget", "solo"],
+      "faqs": [
+        {"q": "What is churpi and where can we buy it in Gangtok?", "a": "Churpi (chhurpi) is cheese made from buttermilk. The soft kind is cooked into curries and pickles; the hard kind is dried and smoked into small blocks that you chew slowly, sometimes for hours. Buy it at Lal Bazaar, where farmers and shopkeepers sell both kinds. Hard churpi packs well as a gift."},
+        {"q": "Is MG Marg vegetarian-friendly?", "a": "Yes. Almost every restaurant offers vegetable momos, veg thukpa, dal-rice thalis and paneer dishes, and several are entirely vegetarian. Ask for 'veg' clearly, as some broths are meat-based. Sikkimese vegetarian dishes worth trying include gundruk soup, local greens, squash shoots and soft churpi curry."},
+        {"q": "When is the Lal Bazaar haat?", "a": "Lal Bazaar operates daily, but the weekly haat, when villagers bring produce into town, is busiest on Sunday mornings. Go between 8 and 11 am for the widest choice. It is crowded and steep in places, so wear good shoes and keep your phone and wallet in a front pocket."}
+      ]
+    },
+    {
+      "slug": "gangtok-ropeway-ride",
+      "title": "Ropeway ride from Deorali to Tashiling",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Clear mornings, October to March",
+      "cost": "≈ ₹110–150 return",
+      "image_query": "Gangtok ropeway cable car",
+      "wiki": "",
+      "summary": "A short cable-car ride across the steep face of Gangtok, from Deorali near the Tibetology institute to Tashiling beside the Secretariat. Under 10 minutes each way, it shows how the capital is stacked on its ridge, with the Kangchenjunga range on clear days.",
+      "body": [
+        "Gangtok's ropeway opened on 24 December 2003. It runs for about 1 km between three stations: Deorali at the bottom, close to the Namgyal Institute of Tibetology, Namnang in the middle, and Tashiling at the top, next to the Secretariat at roughly 1,890 m. Each car carries up to 24 people, and the ride takes a few minutes in each direction.",
+        "The point is the view. From the glass cabin you look straight down on the tin roofs, terraces and switchback roads of the town, and across the Ranikhola valley to Rumtek ridge. On a clear morning between October and March the Kangchenjunga range shows on the horizon. In the monsoon you may ride straight into cloud.",
+        "Queues build from late morning in peak season (May–June and October), so go when the ticket counter opens. Most people ride up and back from Deorali, but you can also ride one way and walk down through the Secretariat area towards MG Marg. Operations stop in high winds and for maintenance; check current status before you travel."
+      ],
+      "good_for": ["families", "first-timers", "seniors", "photographers"],
+      "faqs": [
+        {"q": "How much does the Gangtok ropeway cost?", "a": "Expect about ₹110–150 per adult for a return ride and less for small children; very young children often ride free. Fares are revised from time to time, so check current status before you travel. Tickets are sold at the Deorali and Tashiling stations, in cash or by UPI."},
+        {"q": "Is the Gangtok ropeway safe for seniors and children?", "a": "Yes. The cabins are enclosed, the ride is short and smooth, and staff manage boarding at each station. The main challenge is the steps and queue at the stations rather than the ride itself. People with a strong fear of heights may find the glass cabin uncomfortable."},
+        {"q": "Does the ropeway run in the monsoon?", "a": "It usually runs in the monsoon but stops in high winds, heavy storms or for maintenance. Views are often hidden by cloud between June and September. If the ride is a priority, plan it for your first clear morning, and keep a backup morning in your Gangtok days."}
+      ]
+    },
+    {
+      "slug": "gangtok-handicrafts-handloom-workshops",
+      "title": "Workshops at the Handicrafts Directorate",
+      "kind": "craft",
+      "duration": "1–1.5 hours",
+      "best_time": "Weekday mornings",
+      "cost": "Small entry fee; purchases from ≈ ₹300",
+      "image_query": "Directorate of Handicrafts and Handloom Gangtok",
+      "wiki": "",
+      "summary": "Watch young artisans paint thangkas, carve and paint wooden choksee tables and weave carpets and Lepcha loin-loom cloth at the government Directorate of Handicrafts and Handloom, set up in 1957. Buy directly from the emporium, with fixed prices.",
+      "body": [
+        "The Directorate of Handicrafts and Handloom sits at Zero Point, about 1 km above MG Marg. It began on 9 March 1957 as the Palden Thondup Cottage Industries Institute, named after the crown prince, with a simple aim: give rural families a cash income beyond farming and herding. By 1962 it had become a training and production centre, and today it runs training centres across Sikkim.",
+        "On weekdays you can walk through the workshops. Trainees paint thangkas with mineral colours, carve and paint the folding choksee tables found in Sikkimese homes, knot Tibetan-style carpets and weave on the Lepcha loin loom, a back-strap loom that produces narrow, bright, geometric cloth. A museum on site, opened in 2007, shows finished pieces.",
+        "The sales emporium has fixed prices, which takes the haggling out of buying a carpet, a painted mask or a loin-loom bag. Workshops are closed on Sundays and government holidays, and photography rules vary by section, so ask first. Combine it with Enchey Monastery, a short drive further up the ridge."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "What can we buy at the Directorate of Handicrafts and Handloom?", "a": "Thangka paintings, carved and painted choksee tables, masks, Tibetan-style carpets, Lepcha loin-loom bags and shawls, and smaller items such as table mats and wall hangings. Prices are fixed and lower than many private shops for the same quality. Carpets and large tables can be shipped; ask the emporium."},
+        {"q": "Is the Directorate open on Sundays?", "a": "Usually not. The workshops and emporium normally open Monday to Saturday and close on Sundays and government holidays, with second Saturdays sometimes closed too. Visit on a weekday morning to see the trainees at work. Check current status before you travel."},
+        {"q": "What is Lepcha loin-loom weaving?", "a": "It is a traditional back-strap weaving method of the Lepcha people, Sikkim's earliest inhabitants. The weaver sits on the floor with the loom tensioned by a strap around her waist and weaves narrow strips of bright, geometric cloth. The strips are stitched into bags, jackets and shawls."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Gangtok?", "a": "Two to three nights is right for most travellers. One day covers the town sights: Tibetology institute, Do Drul Chorten, Enchey, the ropeway, Ganesh Tok and MG Marg. A second day goes to Tsomgo Lake and Baba Mandir, with Nathu La for Indian nationals. Add a third day for Rumtek or a slower pace."},
+    {"q": "What is the best time to visit Gangtok?", "a": "October to December gives the clearest mountain views and dry, cool weather, with daytime temperatures around 12–20 °C. March to May brings rhododendrons and magnolias and warmer days. June to September is monsoon: heavy rain, landslides on NH10 and few views. January and February are cold but clear, with snow at Tsomgo."},
+    {"q": "How do we get from Bagdogra airport to Gangtok?", "a": "Take a pre-paid or booked taxi: about ₹4,000–5,500 for a small car or ₹5,500–7,000 for an SUV, 4–5 hours by NH10. Shared jeeps from Siliguri cost about ₹350–500 a seat. In the monsoon NH10 often closes, and cars use the longer road via Kalimpong or Lava. Check current status before you travel."},
+    {"q": "What is the Gangtok 7-point or 10-point tour?", "a": "It is the local name for a fixed sightseeing package by taxi. Points usually include Tashi View Point, Ganesh Tok, Hanuman Tok, Enchey Monastery, the Himalayan Zoological Park, the Tibetology institute, Do Drul Chorten, the Handicrafts Directorate, Bakthang Falls and the ropeway. A small car costs about ₹2,500–4,000 for the day."},
+    {"q": "Do Indians need a permit to visit Gangtok?", "a": "No. Indian nationals can visit Gangtok without a permit, though Sikkim charges a ₹50 tourism fee per visitor, collected by hotels at check-in. Permits are needed for Tsomgo Lake, Nathu La and North Sikkim, arranged through registered agents. Foreigners need the Sikkim Restricted Area Permit via e-FRRO. Check current status before you travel."},
+    {"q": "Is Gangtok good for a family holiday with seniors?", "a": "Yes, at 1,650 m it is comfortable for most people, and hotels near MG Marg reduce walking. The town is steep, so choose a hotel with a lift or few steps. Tsomgo (3,753 m) and Nathu La (4,310 m) are much higher: seniors with heart or lung conditions should consult a doctor first."},
+    {"q": "What food should we try in Gangtok?", "a": "Try momos, thukpa and thenthuk (hand-pulled noodle soup), sel roti, gundruk soup, phagshapa (pork with radish and dried chillies) and dishes cooked with soft churpi. Hard churpi makes a good gift. Sikkim became a fully organic state in 2016, so local vegetables and greens are worth ordering."},
+    {"q": "Can we see Kangchenjunga from Gangtok?", "a": "Yes, on clear days, mainly from October to March and in the early morning. The best viewpoints are Tashi View Point, Ganesh Tok and Hanuman Tok, as well as upper-floor hotel rooms on Tibet Road. From June to September, cloud usually hides the range. Plan views for your first clear morning."},
+    {"q": "Is MG Marg really free of cars?", "a": "Yes. MG Marg is a pedestrian zone: vehicles, smoking and littering are banned, and fines are enforced. It is lined with benches, shops and cafés and is the town's social centre in the evening. Taxis drop you at either end, near Paljor Stadium Road or the Tibet Road side."}
+  ]
+}

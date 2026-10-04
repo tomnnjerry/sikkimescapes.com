@@ -1,0 +1,19 @@
+{% load esc %}<div class="fab" data-fab>
+  <div class="fab__panel" id="fab-panel" hidden>
+    <h3>Price my Sikkim trip</h3>
+    <p>Tell us dates, people and budget. You get a day-by-day plan and an itemised price within one working day.</p>
+    {% if wa_base %}<a class="btn btn--wa btn--block" href="{{ wa_base }}?text={{ wa_text }}" data-cta="fab-whatsapp" rel="noopener">{% icon "whatsapp" %} WhatsApp us</a>{% endif %}
+    <a class="btn btn--block" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="fab-plan">Fill the 1-minute form</a>
+    <a class="btn btn--ghost btn--block" href="{% url 'affordable' %}" data-cta="fab-affordable">{% icon "jeep" %} See budget trips</a>
+  </div>
+  <button class="fab__toggle" type="button" aria-expanded="false" aria-controls="fab-panel" data-cta="fab-toggle">
+    <span class="ms" aria-hidden="true"><span class="ms__cap">Gangtok</span><span class="ms__val">0 km</span></span>
+    Get my price
+  </button>
+</div>
+<nav class="dock" aria-label="Quick actions">
+  <a href="{% url 'journeys' %}">{% icon "route" %}Packages</a>
+  <a href="{% url 'affordable' %}">{% icon "jeep" %}Budget</a>
+  {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" data-cta="dock-whatsapp" rel="noopener">{% icon "whatsapp" %}WhatsApp</a>{% else %}<a href="{% url 'contact' %}">{% icon "phone" %}Call</a>{% endif %}
+  <a class="dock__main" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="dock-plan">{% icon "rupee" %}Get price</a>
+</nav>

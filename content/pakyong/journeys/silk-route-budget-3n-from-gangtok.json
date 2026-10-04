@@ -1,0 +1,182 @@
+{
+  "slug": "silk-route-budget-3n-from-gangtok",
+  "title": "Silk Route from Gangtok on a budget, 3 nights",
+  "region": "pakyong",
+  "tier": "budget",
+  "nights": 3,
+  "themes": [
+    "lakes-and-passes",
+    "village-homestays",
+    "offbeat-sikkim"
+  ],
+  "stops": [
+    {
+      "place": "zuluk",
+      "nights": 1
+    },
+    {
+      "place": "nathang-valley",
+      "nights": 1
+    },
+    {
+      "place": "aritar",
+      "nights": 1
+    }
+  ],
+  "start": "Gangtok",
+  "end": "Gangtok, NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 10000,
+  "price_basis": "per person, twin or triple sharing, 4 travellers sharing one Gangtok car, homestays with dinner and breakfast",
+  "price_breakdown": [
+    [
+      "Homestays, 3 nights with dinner and breakfast",
+      4300
+    ],
+    [
+      "Shared car and driver, 4 days from Gangtok",
+      4250
+    ],
+    [
+      "Silk Route permit and entry fee",
+      450
+    ],
+    [
+      "Our planning fee",
+      1000
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 4100,
+  "meta_description": "Old Silk Route from Gangtok on a budget, 3 nights: Zuluk, Thambi sunrise, Nathang plateau, Kupup and Aritar lake. From ₹10,000 per person, shared car.",
+  "summary": "Already in Gangtok? This three-night loop takes you down to Rongli for the permit, up to Zuluk, over the zig-zag at sunrise to the Nathang plateau and Kupup, and back down to a warm night by Aritar's lake. Four travellers share one Gangtok car and stay in homestays with meals.",
+  "intro": [
+    "Gangtok is the cheapest and easiest base for the Old Silk Route. Zuluk is about 92 km and four and a half hours away via Rongli, Gangtok cars cost a little less a day than Siliguri ones, and if you have already spent a night or two in the capital, your body is ready for Zuluk's 2,900 m on the first night.",
+    "This loop uses that advantage. Night one is Zuluk, night two the Nathang plateau at about 4,000 m after sunrise at Thambi, and night three Aritar by Lampokhari Lake on the way back. On the last day you can return to Gangtok in three hours or go straight to NJP or Bagdogra in four and a half."
+  ],
+  "highlights": [
+    "Zuluk on night one, thanks to your Gangtok acclimatisation",
+    "Sunrise over the loops at Thambi View Point",
+    "The Nathang plateau and Kupup's Elephant Lake",
+    "A warm last night by Lampokhari Lake",
+    "Finish in Gangtok or go straight to NJP or Bagdogra"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Gangtok to Zuluk via Rongli",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "alt_m": 2900,
+      "drive": "≈ 92 km · 4.5 h plus permit",
+      "text": "Leave Gangtok after breakfast and drive down through Ranipool and Pakyong to Rorathang, then up the Rangpo river valley to Rongli, where your driver processes the Silk Route permit while you have lunch. Above Rongli the road climbs through Lingtam and Padamchen and through thick forest to Zuluk at about 2,900 m. Arrive by mid to late afternoon and take a short walk around the village before the cold comes in. Because you have already spent nights in Gangtok, your body is ready for this height. Overnight at a simple, clean family homestay with shared or attached bathroom.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Thambi sunrise, then up to Nathang",
+      "place": "nathang-valley",
+      "overnight": "Nathang",
+      "alt_m": 4000,
+      "drive": "≈ 24 km · 2 h plus stops",
+      "text": "Wake around 4:30 am for the drive up the zig-zag to Thambi View Point at about 3,400 m or Lungthung a little higher, in time for sunrise over the eastern Himalaya and, on a clear morning, Kangchenjunga to the west. Back to Zuluk for breakfast, then continue up through Lungthung to the Nathang plateau at about 4,000 m. In the afternoon visit the 1888 war memorial and the Gnathang monastery, and, if the road is open, drive about 12 km on past Old Baba Mandir to Kupup and Elephant Lake. Overnight at a simple, clean family homestay with shared or attached bathroom; drink water and keep warm.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Down from Nathang to Aritar",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "alt_m": 1400,
+      "drive": "≈ 75 km · 4 h",
+      "text": "After breakfast, leave Nathang and drive back down the loops, with a last stop at Thambi if the morning is clear. Below Zuluk the forest closes in, and by Rongli the air is warm again. Lunch at Rongli, then the short drive via Rhenock to Aritar at about 1,400 m, about 2,600 m lower than where you woke up. Everyone sleeps well tonight. Spend the late afternoon by Lampokhari Lake and take a boat out if the counter is still open. Overnight at a family homestay or simple lodge near the lake.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Aritar back to Gangtok",
+      "place": "aritar",
+      "overnight": "",
+      "alt_m": 1650,
+      "drive": "≈ 70 km · 3 h",
+      "text": "A slow last morning: the lake at dawn, breakfast on the terrace and a final walk through the village. Leave Aritar in the late morning and drive via Rorathang and Pakyong, or via Rhenock, back up to Gangtok, arriving by early afternoon. If you are continuing to NJP or Bagdogra the same day, it is better to drive there directly from Aritar, about 4.5 hours, rather than going up to Gangtok first. Drop at your Gangtok hotel or at the taxi stand.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Homestay or budget hotel rooms on twin sharing, with dinner and breakfast at homestays",
+    "Seat in one shared Gangtok car (small car or Bolero class) for 4 days, with fuel, tolls and driver costs",
+    "Silk Route permit processing at Rongli where the route needs it",
+    "The ₹50 Sikkim tourist entry fee",
+    "Our planning, homestay bookings and a phone number that answers during the trip"
+  ],
+  "excludes": [
+    "Train or flight tickets to NJP or Bagdogra",
+    "Lunches, snacks and drinks unless stated",
+    "Room heater charges at homestays (≈ ₹200–300 a night) where not included",
+    "Boating, entry tickets, snow-boot hire and tips",
+    "Extra nights or car days caused by snow, landslides or road closures",
+    "Personal travel insurance"
+  ],
+  "good_to_know": [
+    "The Old Silk Route beyond Rongli is open to Indian nationals only; foreign nationals, including OCI holders, cannot go to Zuluk, Nathang or Kupup.",
+    "Send a clear photo ID scan and two passport photos per person at least two days ahead so the Rongli permit is quick. Check current status before you travel.",
+    "There are no ATMs above Rongli and mobile signal is patchy above Zuluk; carry enough cash for the whole route.",
+    "Carry a refillable bottle, thermals, a warm cap and gloves in every season; nights above Zuluk are cold even in May.",
+    "This trip assumes at least one night in Gangtok beforehand; if you are arriving straight from the plains, start with our NJP version.",
+    "Ending at NJP or Bagdogra instead of Gangtok adds about ₹500 per person to the car share."
+  ],
+  "upgrade": "A private car for two with attached-bathroom rooms costs about ₹16,000–17,000 per person.",
+  "faqs": [
+    {
+      "q": "Do I need a permit for this trip?",
+      "a": "Yes. Indian travellers need the Silk Route protected-area permit, processed at Rongli for about ₹200 per person plus handling, which is included in the price. Each person needs an original photo ID and two passport photos. Send scans two days ahead and the permit is usually ready within an hour at Rongli. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals book this trip?",
+      "a": "Not this one. The Old Silk Route beyond Rongli, including Padamchen, Zuluk, Nathang and Kupup, is open to Indian nationals only, and OCI card holders count as foreign nationals here. Mixed groups can stay together at Aritar, Rhenock or Gangtok while the Indian members go up. Ask us for a version of this trip that suits everyone, and check current status before you travel."
+    },
+    {
+      "q": "How high does this trip go, and will altitude be a problem?",
+      "a": "The highest point is about 4,100 m and the highest night is at Nathang, about 4,000 m. Starting from Gangtok at 1,650 m and sleeping at Zuluk before Nathang keeps the climb gradual. Drink water steadily, skip alcohol at height and keep warm. Mild headache is common; vomiting, confusion or breathlessness at rest mean going down at once. Tell us about heart or lung conditions when you book."
+    },
+    {
+      "q": "What happens if a road closes during the trip?",
+      "a": "Your driver and our team decide on the day. If snow or a landslide closes a stretch, we reshuffle the route, wait a few hours, or swap a high night for a lower village such as Padamchen or Aritar. Extra nights or car days caused by closures are charged at cost. Keep a gap before any flight, and check current status before you travel."
+    },
+    {
+      "q": "Is there mobile network and an ATM on the way?",
+      "a": "ATMs are at Rangpo, Rhenock and Rongli, but there are none at Padamchen, Zuluk, Nathang or Kupup. Mobile signal is weak to absent above Zuluk, and UPI only works where there is signal. Carry cash for heaters, tea stalls, lunches and tips. Homestay Wi-Fi, where it exists, depends on power. Tell family you may be out of reach for a day."
+    },
+    {
+      "q": "Can we do Gangtok to Zuluk via Tsomgo and Kupup instead?",
+      "a": "Sometimes, but not as the plan for a budget shared trip. The high road via Tsomgo and Kupup needs a Tsomgo permit as well as the Silk Route permit and clearance on the day, and it closes after snow. It also takes you above 4,000 m before you sleep at 2,900 m. We use the Rongli road both ways unless the group asks and conditions allow."
+    },
+    {
+      "q": "How long is the drive from Gangtok to Zuluk?",
+      "a": "About 92 km and 4.5 hours via Ranipool, Pakyong, Rorathang and Rongli, plus 30 to 60 minutes for the permit at Rongli. We leave Gangtok by 8 am to reach Rongli by late morning and Zuluk by mid-afternoon, with lunch at Rongli."
+    },
+    {
+      "q": "Can I finish at NJP instead of Gangtok?",
+      "a": "Yes. From Aritar it is about 115 km and 4.5 hours to NJP or Bagdogra, about the same time as returning to Gangtok and then going down. Tell us when you book and we add about ₹500 per person to the car share. Book trains or flights for the afternoon."
+    },
+    {
+      "q": "What if we have only two people?",
+      "a": "We try to match you with another couple on the same dates. If that does not work, a private car for two raises the price to about ₹14,000–15,000 per person with the same homestays. We confirm the final group and price before you pay the balance."
+    }
+  ]
+}

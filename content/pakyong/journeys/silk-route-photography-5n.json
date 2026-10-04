@@ -1,0 +1,208 @@
+{
+  "slug": "silk-route-photography-5n",
+  "title": "Silk Route photography trip, 5 nights",
+  "region": "pakyong",
+  "tier": "value",
+  "nights": 5,
+  "themes": [
+    "photography",
+    "lakes-and-passes",
+    "snow-and-winter"
+  ],
+  "stops": [
+    {
+      "place": "padamchen",
+      "nights": 1
+    },
+    {
+      "place": "zuluk",
+      "nights": 1
+    },
+    {
+      "place": "thambi-view-point",
+      "nights": 1
+    },
+    {
+      "place": "nathang-valley",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 26500,
+  "price_basis": "per person, twin sharing, 2 people with a private car on photographers' hours, better homestays with dinner and breakfast",
+  "price_breakdown": [
+    [
+      "Homestays, 5 nights with dinner and breakfast",
+      10000
+    ],
+    [
+      "Private car and driver on early hours, 6 days",
+      14000
+    ],
+    [
+      "Silk Route permit and entry fee",
+      500
+    ],
+    [
+      "Our planning fee",
+      2000
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    1,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 4100,
+  "meta_description": "Silk Route photography trip, 5 nights: four dawns at Zuluk, Lungthung and Nathang, the loops, Kupup and Kangchenjunga light. From ₹26,500 per person.",
+  "summary": "Five nights planned around light: forest at Padamchen, the loops from below at Zuluk, a night at Lungthung above Thambi for sunrise without a pre-dawn drive, and two nights on the Nathang plateau for frost, yaks and Kupup. A private car on photographers' hours and better homestays.",
+  "intro": [
+    "Most Silk Route trips cross the loops once, often at midday in flat light or cloud. This one is built around mornings and evenings. You sleep at five different heights, each chosen for a particular picture: forest and mist at Padamchen, the village and the first bends at Zuluk, the zig-zag and Kangchenjunga from Lungthung, and the open plateau at Nathang.",
+    "Staying at Lungthung, a few houses above Thambi View Point, means you walk out at dawn rather than driving up in the dark. Two nights at Nathang give two chances at the plateau's best light and a morning at Kupup. Your driver works photographers' hours, starting before sunrise and waiting while you shoot, and the pace allows rests between sessions."
+  ],
+  "highlights": [
+    "Sunrise over the loops from Lungthung, without a pre-dawn drive",
+    "Two dawns on the Nathang plateau, with frost, yaks and long views",
+    "Kupup and Elephant Lake in morning light",
+    "Forest and mist at Padamchen, the first bends from Zuluk",
+    "A private car and a driver who waits while you shoot"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Padamchen via the Rongli permit",
+      "place": "padamchen",
+      "overnight": "Padamchen",
+      "alt_m": 2200,
+      "drive": "≈ 130 km · 5.5–6 h",
+      "text": "Your driver meets you at NJP station or Bagdogra airport by 8 or 9 am. The road follows the Teesta up NH10 to Rangpo, where you enter Sikkim, then climbs through Rorathang to Rongli, the market town where the Silk Route permit is processed. Lunch at Rongli while the paperwork is done. Above Rongli the road narrows and climbs through Lingtam and thick forest to Padamchen at about 2,200 m. We stay here on purpose: a gentle first night is the best thing you can do for the climb to Nathang. Evening tea and dinner at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Padamchen forest, then Zuluk",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "alt_m": 2900,
+      "drive": "≈ 13 km · 45 min",
+      "text": "Start with the forest around Padamchen at first light, when mist hangs in the oaks and rhododendrons and birds are busiest; a short telephoto lens is useful. After breakfast, the short climb to Zuluk at about 2,900 m. In the afternoon walk the village lanes, photograph the slopes and prayer flags, and ask your driver to take you to the first bends above the village for evening light across the hillside. Do not photograph the Army camp or vehicles. Overnight at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Up the loops to Lungthung",
+      "place": "thambi-view-point",
+      "overnight": "Lungthung",
+      "alt_m": 3700,
+      "drive": "≈ 18 km · 1.5 h with stops",
+      "text": "A slow morning drive up the zig-zag with stops at the pull-offs below Thambi, where the road shows best against the slope. Reach Thambi View Point, at about 3,400 m, then continue the short way to Lungthung, a cluster of houses higher still, and check in by lunch. The afternoon is for scouting: work out your sunrise frame, watch how the light moves over the loops, and photograph the evening glow on the peaks. Overnight at a better homestay room with an attached bathroom and geyser, a few minutes' walk from the viewpoint.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Lungthung sunrise, then Nathang",
+      "place": "nathang-valley",
+      "overnight": "Nathang",
+      "alt_m": 4000,
+      "drive": "≈ 8 km · 45 min",
+      "text": "Walk out before dawn for sunrise over the eastern Himalaya and, on a clear morning, Kangchenjunga far to the west, with the loops below in first light. Back for breakfast and the short drive to the Nathang plateau at about 4,000 m. Spend the afternoon at the 1888 war memorial, the Gnathang monastery and along the stream, where yaks graze and the late sun turns the grass gold. Drink plenty of water and rest between sessions. Overnight at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "A second day on the Nathang plateau",
+      "place": "nathang-valley",
+      "overnight": "Nathang",
+      "alt_m": 4000,
+      "drive": "≈ 30 km local · 3 h",
+      "text": "Being already up at about 4,000 m gives you a second dawn on the plateau, the best light of the trip for photographers: frost on the grass, yaks along the stream and, from the ridge above the village, a long view east towards Doklam. After breakfast drive past Tukla and Old Baba Mandir to Kupup and Elephant Lake, and look out over the ridge in the direction of Jelep La, the old trade pass. Return to Nathang for a slow afternoon. Do not photograph Army positions. Overnight at a better homestay room with an attached bathroom and geyser.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Nathang down to NJP or Bagdogra",
+      "place": "nathang-valley",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 165 km · 7.5–8 h",
+      "text": "A long road day, so we leave Nathang by about 7 am after breakfast. The drive goes back down the zig-zag past Thambi and Zuluk, through Padamchen and Lingtam to Rongli, then along the Rangpo river to Rorathang and Rangpo and down NH10 beside the Teesta to Siliguri. Lunch on the way at Rongli or Rangpo. Expect to reach NJP or Bagdogra by mid to late afternoon; book onward trains and flights for the evening. In the monsoon, if NH10 is cut, the driver may go via Rhenock, Pedong and Kalimpong instead.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Better homestay rooms with attached bathrooms on the Silk Route and good 3-star hotels elsewhere, twin sharing",
+    "Dinner and breakfast at homestays; breakfast at hotels",
+    "A private car for your party with early starts and waiting time built in, fuel, tolls and driver costs",
+    "All permit processing the route needs",
+    "The ₹50 Sikkim tourist entry fee",
+    "Our planning, bookings and on-trip support"
+  ],
+  "excludes": [
+    "Train or flight tickets to NJP or Bagdogra",
+    "Lunches, snacks and drinks unless stated",
+    "Room heater charges at homestays (≈ ₹200–300 a night) where not included",
+    "Boating, entry tickets, snow-boot hire and tips",
+    "Extra nights or car days caused by snow, landslides or road closures",
+    "Personal travel insurance"
+  ],
+  "good_to_know": [
+    "The Old Silk Route beyond Rongli is open to Indian nationals only; foreign nationals, including OCI holders, cannot go to Zuluk, Nathang or Kupup.",
+    "Send a clear photo ID scan and two passport photos per person at least two days ahead so the Rongli permit is quick. Check current status before you travel.",
+    "There are no ATMs above Rongli and mobile signal is patchy above Zuluk; carry enough cash for the whole route.",
+    "Carry a refillable bottle, thermals, a warm cap and gloves in every season; nights above Zuluk are cold even in May.",
+    "Drones are not allowed anywhere on the Silk Route; do not photograph Army camps, vehicles, bunkers or check posts.",
+    "Batteries drain fast at Nathang in winter; carry spares in an inside pocket and a power bank, as power cuts are common.",
+    "NH10 between Siliguri and Rangpo closes after landslides in the monsoon; the alternatives are via Kalimpong and Lava, Algarah, or Pedong and Rhenock, which add one to two hours."
+  ],
+  "upgrade": "An SUV and the warmest rooms on the route, with a heater at every stop, costs about ₹33,000–36,000 per person.",
+  "faqs": [
+    {
+      "q": "Do I need a permit for this trip?",
+      "a": "Yes. Indian travellers need the Silk Route protected-area permit, processed at Rongli for about ₹200 per person plus handling, which is included in the price. Each person needs an original photo ID and two passport photos. Send scans two days ahead and the permit is usually ready within an hour at Rongli. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals book this trip?",
+      "a": "Not this one. The Old Silk Route beyond Rongli, including Padamchen, Zuluk, Nathang and Kupup, is open to Indian nationals only, and OCI card holders count as foreign nationals here. Mixed groups can stay together at Aritar, Rhenock or Gangtok while the Indian members go up. Ask us for a version of this trip that suits everyone, and check current status before you travel."
+    },
+    {
+      "q": "How high does this trip go, and will altitude be a problem?",
+      "a": "The highest point is about 4,100 m and the highest night is at Nathang, about 4,000 m, for two nights. We sleep at Padamchen, Zuluk and Lungthung first, so the two Nathang nights come after three nights of gradual climbing. Drink water steadily, skip alcohol at height and keep warm. Mild headache is common; vomiting, confusion or breathlessness at rest mean going down at once. Tell us about heart or lung conditions when you book."
+    },
+    {
+      "q": "What happens if a road closes during the trip?",
+      "a": "Your driver and our team decide on the day. If snow or a landslide closes a stretch, we reshuffle the route, wait a few hours, or swap a high night for a lower village such as Padamchen or Aritar. Extra nights or car days caused by closures are charged at cost. Keep a gap before any flight, and check current status before you travel."
+    },
+    {
+      "q": "Is there mobile network and an ATM on the way?",
+      "a": "ATMs are at Rangpo, Rhenock and Rongli, but there are none at Padamchen, Zuluk, Nathang or Kupup. Mobile signal is weak to absent above Zuluk, and UPI only works where there is signal. Carry cash for heaters, tea stalls, lunches and tips. Homestay Wi-Fi, where it exists, depends on power. Tell family you may be out of reach for a day."
+    },
+    {
+      "q": "What is the best month for Silk Route photography?",
+      "a": "November for clear skies and the sharpest Kangchenjunga views, February for snow on the loops and the plateau, and May for rhododendrons and green slopes. Late October and December are also good. Avoid July and August, when the route is usually in cloud. Mornings are clearer than afternoons in every month."
+    },
+    {
+      "q": "Can I fly a drone on the Silk Route?",
+      "a": "No. The Silk Route runs through Army areas close to the international border, and drones are not allowed anywhere on it. They can be confiscated and lead to serious trouble at check posts. Photography of Army camps, vehicles, bunkers and check posts is also forbidden. Landscapes, villages with permission and viewpoints are fine."
+    },
+    {
+      "q": "What lenses should I bring?",
+      "a": "A wide to standard zoom covers the loops, the plateau and village scenes; a telephoto of 100–400 mm or similar is useful for the peaks, yaks and birds in the Padamchen forest. Bring a tripod for dawn and night skies at Nathang, spare batteries kept warm in an inside pocket, and lens cloths for condensation when moving from cold to warm rooms."
+    },
+    {
+      "q": "Why stay at Lungthung instead of Zuluk for sunrise?",
+      "a": "Because Lungthung is a few minutes' walk from the sunrise view, so you can shoot first light without a 4:30 am drive up the loops in the dark. It also gives you evening light over the zig-zag the day before. Homestays there are few and simple, so we book early. Zuluk remains the fall-back if Lungthung is full."
+    }
+  ]
+}

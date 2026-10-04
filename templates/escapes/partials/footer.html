@@ -1,0 +1,30 @@
+{% load esc %}<footer class="foot">
+  {% contour "footer" "contour" 16 2 %}
+  <div class="lungta" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="foot__top">
+      <p class="foot__big">Sikkim, priced honestly and told properly</p>
+      <div class="foot__contact">
+        {% if wa_base %}<a class="foot__card" href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp" rel="noopener"><span class="badge">{% icon "whatsapp" %}</span><span><small>WhatsApp</small><b>Message the Gangtok desk</b></span></a>{% endif %}
+        <a class="foot__card" href="{% if tel %}tel:{{ tel }}{% else %}{% url 'contact' %}{% endif %}" data-cta="footer-call"><span class="badge">{% icon "phone" %}</span><span><small>Call</small><b>{{ SITE.phone }}</b></span></a>
+        <a class="foot__card" href="mailto:{{ SITE.email }}" data-cta="footer-email"><span class="badge">{% icon "chat" %}</span><span><small>Email</small><b>{{ SITE.email }}</b></span></a>
+        <a class="foot__card" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan"><span class="badge">{% icon "rupee" %}</span><span><small>Free quote</small><b>Get my price</b></span></a>
+      </div>
+    </div>
+    <div class="foot__cols">
+      <div><h4>Districts</h4><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}">{{ r.name }}</a></li>{% endfor %}<li><a href="{% url 'altitude' %}">Altitude ladder</a></li></ul></div>
+      <div><h4>Packages</h4><ul>{% for t in nav_tiers %}<li><a href="{% url 'tier' t.slug %}">{{ t.name }} trips</a></li>{% endfor %}<li><a href="{% url 'affordable' %}">Affordable Sikkim</a></li><li><a href="{% url 'journeys' %}">Every package</a></li></ul></div>
+      <div><h4>Ideas</h4><ul><li><a href="{% url 'themes' %}">Themes</a></li><li><a href="{% url 'experiences' %}">Experiences</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li><li><a href="{% url 'seasons' %}">Month by month</a></li><li><a href="{% url 'stays' %}">Stays</a></li><li><a href="{% url 'homestays' %}">Homestays</a></li></ul></div>
+      <div><h4>Read</h4><ul><li><a href="{% url 'stories' %}">Rooted stories</a></li><li><a href="{% url 'guides' %}">Guides</a></li><li><a href="{% url 'journal' %}">Journal</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'faq' %}">FAQ</a></li></ul></div>
+      <div><h4>Company</h4><ul><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'contact' %}">Contact</a></li>{% for slug, name in nav_policies|slice:":4" %}<li><a href="{% url 'policy' slug %}">{{ name }}</a></li>{% endfor %}</ul></div>
+    </div>
+    <div class="foot__news">
+      <div><h4>The Sikkim letter</h4><p style="margin:0">Road and permit news, festival dates and the odd story, once a month. No spam.</p></div>
+      <form method="post" action="{% url 'subscribe' %}" data-cta-form="newsletter">{% csrf_token %}<input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="sr" tabindex="-1" autocomplete="off" aria-hidden="true"><label class="sr" for="nl-email">Email</label><input id="nl-email" type="email" name="email" placeholder="Your email" required autocomplete="email"><button class="btn btn--foil" type="submit">Subscribe</button></form>
+    </div>
+    <div class="foot__base">
+      <span>© Sikkim Escapes · {{ SITE.address }} · Photos from Wikimedia Commons, credited on each page and on <a href="{% url 'photo_credits' %}">photo credits</a></span>
+      <ul><li><a href="{% url 'policies' %}">Policies</a></li><li><a href="{% url 'html_sitemap' %}">Sitemap</a></li><li><a href="{% url 'policy' 'privacy' %}">Privacy</a></li></ul>
+    </div>
+  </div>
+</footer>

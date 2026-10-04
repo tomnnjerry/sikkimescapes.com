@@ -1,0 +1,68 @@
+{
+  "slug": "namchi-weekend-budget-2n",
+  "title": "Namchi weekend from NJP, 2 nights",
+  "region": "south-sikkim",
+  "tier": "budget",
+  "nights": 2,
+  "themes": ["monasteries", "family-holidays"],
+  "stops": [{"place": "namchi", "nights": 2}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 7500,
+  "price_basis": "per person, twin sharing, 2 people, small private car (Alto/WagonR class), budget hotel with breakfast",
+  "price_breakdown": [["Stays, 2 nights", 2000], ["Car and driver, 3 days", 4800], ["Entry fees and state fee", 200], ["Our planning fee", 500]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 1800,
+  "meta_description": "Namchi weekend, 2 nights from NJP or Bagdogra: Char Dham, Samdruptse, Rock Garden. Small private car, budget hotel. From ₹7,500 per person.",
+  "summary": "The shortest real Sikkim trip we sell: two nights in Namchi, about 3.5–4 hours from Siliguri, with the Char Dham complex, the 135 ft Guru Rinpoche statue at Samdruptse, Namchi Rock Garden and the old Ngadak monastery. No permits for Indians, no long drives, and a budget that suits a weekend away.",
+  "intro": [
+    "Namchi is the closest proper Sikkim hill town to Siliguri, about 100 km up the Teesta via Melli, and it is built for a weekend. The district headquarters of South Sikkim sits at about 1,315 m, cool but rarely cold, with its two big landmarks facing each other across the town: the giant Shiva of Char Dham on Solophok hill and the gold-and-copper Guru Padmasambhava on the Samdruptse ridge. Both are within 7 km of the bazaar.",
+    "This trip keeps things simple: one driver and small car for all three days, two nights in a clean budget hotel, and a relaxed day of sightseeing in between. Leave Siliguri on a Friday morning or Saturday at dawn and you are back for a Sunday evening train. If you want Ravangla and its Buddha Park too, look at our four-night Ravangla and Namchi trip."
+  ],
+  "highlights": [
+    "Char Dham on Solophok hill at opening time, before the crowds",
+    "The 135 ft Guru Padmasambhava statue at Samdruptse, with Kangchenjunga views on clear mornings",
+    "Namchi Rock Garden's terraced paths and the quiet Ngadak monastery",
+    "Evening at Namchi's central plaza, with momos and tea",
+    "Only about 3.5–4 hours each way from NJP or Siliguri"
+  ],
+  "days": [
+    {"day": 1, "title": "NJP or Bagdogra to Namchi", "place": "namchi", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 100 km · 3.5–4 h", "text": "Your driver meets you at NJP station or Bagdogra Airport in the morning. The road runs north through Sevoke and the forested Teesta gorge, crosses into Sikkim at Melli and climbs past terraced farms and cardamom gullies to Namchi. Stop at a roadside dhaba near Melli for tea. Check in at your hotel by early afternoon, rest, then walk to the central plaza in the evening, when families come out, the snack stalls open and the Samdruptse statue is lit on its ridge above the town. Hotels collect Sikkim's ₹50 per person entry fee at check-in.", "meals": "Breakfast next day"},
+    {"day": 2, "title": "Char Dham, Samdruptse and Rock Garden", "place": "char-dham-solophok", "overnight": "Namchi", "alt_m": 1315, "drive": "≈ 30 km in short hops · local", "text": "Leave at 7.30 am for Char Dham on Solophok hill, about 5 km away, and arrive near opening time, when the light on the Shiva statue is soft and the platforms are quiet. Allow two to three hours for the four dham replicas, the twelve jyotirlingas and the Kirateshwar shrine. After lunch in town, drive up the ridge road to Samdruptse and walk the short paved path to the 135 ft Guru Rinpoche statue, then stop at Namchi Rock Garden on the way down. If there is time, visit Ngadak monastery on the edge of town before sunset.", "meals": "Breakfast"},
+    {"day": 3, "title": "Namchi back to NJP or Bagdogra", "place": "namchi", "overnight": "", "alt_m": 120, "drive": "≈ 100 km · 3.5–4 h", "text": "After breakfast, a slow morning: a walk through Namchi market for local tea, oranges in winter or pickles, and a last look at Samdruptse from the hotel. Leave by 10.30 am to reach NJP or Bagdogra by mid-afternoon, in time for most evening trains and flights. In the monsoon the road along the Teesta can be blocked by slides; if so, your driver will take the longer road via Kalimpong, so leave earlier and allow an extra two hours.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "2 nights in a clean budget hotel in Namchi, twin sharing, with breakfast",
+    "Small private car (Alto/WagonR class) with driver for all three days, fuel, tolls and parking",
+    "Char Dham entry and Sikkim's ₹50 Tourism Sustainable Development fee",
+    "Route notes, timings and our phone support during the trip"
+  ],
+  "excludes": [
+    "Lunch and dinner (about ₹500–700 per person a day)",
+    "Train or flight tickets to NJP or Bagdogra",
+    "Samdruptse and other small entry or camera fees",
+    "Tips, porterage and personal expenses",
+    "Extra costs from road closures or weather"
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for Namchi; foreign nationals need Sikkim's Restricted Area Permit, applied for online via e-FRRO.",
+    "Travelling by shared jeep from Siliguri instead of a private car brings the price down by about ₹2,000–2,500 per person.",
+    "NH10, the road up the Teesta to Melli, closes after monsoon landslides; the detour via Kalimpong adds 2 hours or more. Check current status before you travel.",
+    "Char Dham involves many steps between levels; seniors can take it slowly and skip the upper platforms.",
+    "Carry a light jacket even in summer: Namchi evenings drop to 15 °C in May and about 4 °C in January."
+  ],
+  "upgrade": "Our value version swaps in a better hotel with views and a newer car for about ₹3,000–4,000 more per person.",
+  "faqs": [
+    {"q": "Is two nights enough for Namchi?", "a": "Yes, for Namchi's own sights. One full day covers Char Dham, Samdruptse, Namchi Rock Garden and Ngadak monastery comfortably, and the drives from NJP are only 3.5–4 hours each way. If you also want Ravangla's Buddha Park, Ralang or Temi Tea Garden, add one or two nights."},
+    {"q": "How far is Namchi from NJP?", "a": "About 100 km, a 3.5–4 hour drive via Sevoke, the Teesta valley and Melli. Bagdogra Airport is roughly 15 km further. In the monsoon, landslides on NH10 can force a longer route via Kalimpong; check current status before you travel."},
+    {"q": "What does the ₹7,500 price include?", "a": "Two nights in a budget hotel with breakfast, a small private car and driver for three days including fuel and parking, Char Dham entry, Sikkim's ₹50 state fee and our planning. It does not include lunch, dinner, train or flight tickets, or tips. Prices are indicative and per person for two sharing."},
+    {"q": "Can we do this trip by shared jeep instead?", "a": "Yes. Shared jeeps from Siliguri to Namchi cost about ₹250–350 a seat, and we can book just your hotel and a half-day local car. That saves about ₹2,000–2,500 per person but means earlier starts and less flexibility with luggage."},
+    {"q": "Do we need a permit for Namchi?", "a": "Indian nationals do not need any permit for Namchi or South Sikkim's usual sights. Foreign nationals need Sikkim's Restricted Area Permit, applied for online via e-FRRO after arriving in India. Hotels collect a ₹50 per person state fee. Check current status before you travel."},
+    {"q": "Is the Namchi weekend suitable for children and grandparents?", "a": "Yes. Namchi sits at about 1,315 m, drives are short, and children of any age are allowed. Char Dham has many steps but plenty of resting places; Samdruptse and the Rock Garden are gentle. Tell us about any mobility needs and we will choose a hotel with fewer stairs."},
+    {"q": "What is the best time for a Namchi weekend?", "a": "October to May. October to December give the clearest mountain views; March to May bring flowers and mild days. January and February are cold but bright. June to September is the monsoon, with rain, cloud and possible road closures."},
+    {"q": "Can we see snow on this trip?", "a": "No. Namchi does not get snow, though you may see the snow peaks of the Kangchenjunga range from Samdruptse on clear mornings between October and April. For snow, a winter trip to Tsomgo Lake from Gangtok is the nearest option."},
+    {"q": "Can we start from Gangtok instead of NJP?", "a": "Yes. Gangtok to Namchi is about 78 km and 3 to 3.5 hours by car. We can start in Gangtok and end at NJP or Bagdogra, or return to Gangtok, for a similar price. Ask us when you book."}
+  ]
+}

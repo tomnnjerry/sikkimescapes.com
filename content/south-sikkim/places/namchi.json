@@ -1,0 +1,158 @@
+{
+  "slug": "namchi",
+  "name": "Namchi",
+  "region": "south-sikkim",
+  "kind": "town",
+  "wiki": "Namchi",
+  "image_query": "Namchi town Sikkim Samdruptse",
+  "lat": 27.1661,
+  "lng": 88.3652,
+  "altitude_m": 1500,
+  "local_name": {"name": "Namchi", "language": "Bhutia", "meaning": "sky high", "source": "Wikipedia: Namchi"},
+  "tagline": "Two giant statues, one tidy hill town, mild weather all year",
+  "meta_description": "Namchi travel guide: Samdruptse, Char Dham, Rock Garden, shared jeep fares from Gangtok and Siliguri, hotels and honest 2026 costs.",
+  "summary": "Namchi is the headquarters of Namchi district (South Sikkim), about 78 km and 3–3.5 hours from Gangtok at roughly 1,500 m. It is known for two hilltop pilgrimages, the Guru Rinpoche statue at Samdruptse and the Char Dham complex at Solophok, plus mild weather and easy roads.",
+  "intro": [
+    "Namchi is a neat, mid-sized hill town spread over a ridge facing the Rangeet valley, with Darjeeling's hills to the south-west and Kangchenjunga to the north on clear days. The name is usually translated from Sikkimese (Bhutia) as \"sky high\". It is the administrative centre of the district, so you find a district hospital, banks, ATMs, a busy market around Central Park and a football stadium named after Bhaichung Bhutia, who grew up in the district.",
+    "Most visitors come for a day from Gangtok or Pelling to see the two big monuments that face each other across the town. Samdruptse's statue of Guru Padmasambhava, finished in 2004, sits on a hill above the Rock Garden. Siddhesvara Dham at Solophok, opened in 2011, has a 108 ft Shiva statue and replicas of India's four dhams. Both are 5–7 km from the market by car.",
+    "We suggest at least one night. Namchi is lower and warmer than Gangtok, easy on children and older travellers, and a good hub for the south: Temi tea garden, Ravangla's Buddha Park, Tendong Hill and the Kitam bird sanctuary are all within 1–1.5 hours. It also makes a sensible last night before Siliguri, NJP or Bagdogra, about 3.5–4 hours away."
+  ],
+  "story": {
+    "title": "How a quiet bazaar became a pilgrim town",
+    "text": "For most of the 20th century Namchi was a market and administrative town for the south, with farmers bringing oranges, cardamom and ginger down from the slopes. That changed in a little over fifteen years. On 22 October 1997 the 14th Dalai Lama laid the foundation stone of a statue of Guru Padmasambhava on Samdruptse hill, the \"wish-fulfilling hill\" opposite the town. The statue, about 135 ft tall, was completed in February 2004. In November 2011 Siddhesvara Dham opened on Solophok hill on the other side of town, with a 108 ft Shiva, an 18 ft statue of Kirateshwar and models of the four dhams and twelve jyotirlingas, so that Hindu pilgrims could make a symbolic Char Dham yatra in one place. In 2013 the Buddha Park at Ravangla, 26 km away, added a 130 ft Buddha. Together they turned Namchi district into a pilgrimage corridor visited by Buddhists and Hindus alike, and changed the town's economy from farm market to hotels, taxis and tea stalls.",
+    "source": "Wikipedia: Namchi; Wikipedia: Buddha Park of Ravangla; Lonely Planet India (Samdruptse entry)"
+  },
+  "little_known": [
+    {"fact": "Namchi's football stadium is the Bhaichung Stadium, named after India's former captain Bhaichung Bhutia, who was born in Tinkitam in South Sikkim. Wikipedia notes it was built while he was still playing.", "source": "Wikipedia: Bhaichung Bhutia"},
+    {"fact": "Just above Namchi on the Samdruptse road, Mamley exposes stromatolite-bearing dolomite of the Buxa Formation, Precambrian traces of early life, declared a National Geological Monument by the Geological Survey of India.", "source": "Wikipedia: National Geological Monuments of India"},
+    {"fact": "Samdruptse's Guru Rinpoche and Solophok's Shiva face each other across the town, so from many Namchi rooftops you can see both statues at once on a clear day.", "source": "Sikkim Escapes field notes"}
+  ],
+  "facts": [["Best months", "Oct–Dec and Mar–May"], ["Nights we suggest", "1–2"], ["From Gangtok", "≈ 78 km · 3–3.5 h"], ["Altitude", "≈ 1,500 m"], ["Known for", "Samdruptse, Char Dham, Rock Garden"], ["Permit", "Not needed for Indians; foreigners need the Sikkim RAP"]],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Samdruptse Guru Rinpoche statue", "text": "A gilded statue of Guru Padmasambhava, about 135 ft tall, finished in 2004 on the hill opposite town. Climb the steps for views over Namchi to Kangchenjunga. Entry is around ₹30–50; mornings are clearer and quieter than afternoons."},
+    {"title": "Siddhesvara Dham at Solophok", "text": "Opened in 2011, the complex has a 108 ft Shiva, an 18 ft Kirateshwar and replicas of the four dhams and twelve jyotirlingas. Allow 1.5–2 hours. Entry has been ₹50 per adult; check current status before you travel."},
+    {"title": "Rock Garden and Mamley", "text": "A terraced garden of paths, ponds and viewpoints on the road up to Samdruptse, and close by the Mamley stromatolite site, a protected geological monument. A quick, cheap stop with children and a good picnic spot."},
+    {"title": "Central Park evenings", "text": "The flat paved square in the middle of town where Namchi gathers after work. Momo and thukpa stalls, shops selling local pickles and churpi, and an easy, safe place to walk at dusk."},
+    {"title": "Day trips to Temi and Tendong", "text": "Namchi is a hub: Temi tea garden is about 1.5 hours away, the Tendong Hill trailhead at Damthang around 40 minutes, and Kitam bird sanctuary 30–40 minutes downhill towards the Rangeet."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run from Gangtok's south-and-west taxi stand to Namchi through the day, about 3–3.5 hours, roughly ₹250–350 a seat. From Siliguri, shared jeeps take 3.5–4 hours for about ₹300–400. Jeeps from Jorethang (18 km) leave every half hour or so. Fares are indicative; check current status before you travel."},
+    {"mode": "Private car", "text": "A reserved small car from Gangtok to Namchi costs about ₹3,500–4,500 one way, an SUV ₹4,500–6,000. The road runs down NH10 to Singtam, then climbs south-west through the hills. Many people combine Namchi with Ravangla and Temi as a 2-day loop."},
+    {"mode": "From Bagdogra / NJP", "text": "Bagdogra is about 100 km and NJP about 96 km, both 3.5–4 hours by car via Melli. When NH10 is closed by monsoon slides, drivers use the road through Darjeeling district and Jorethang instead, which adds about an hour. A reserved car costs roughly ₹4,500–6,500."}
+  ],
+  "costs": [["Shared jeep Gangtok–Namchi", "≈ ₹250–350 a seat"], ["Shared jeep Siliguri–Namchi", "≈ ₹300–400 a seat"], ["Namchi sightseeing by car (half day)", "≈ ₹2,000–3,000"], ["Budget room", "≈ ₹1,500–2,500"], ["Char Dham / Samdruptse entry", "≈ ₹30–50 each"], ["Meal (thali or thukpa)", "≈ ₹120–250"]],
+  "where_to_stay": "Namchi has rooms for every budget. Budget hotels cluster around Central Park and the main market, with clean doubles from about ₹1,500–2,500. For space and views, Seven Hill Resort at Phalidara has cottages facing Samdruptse and Solophok. Sobralia Hotels Casino Resort & Spa, on the road to Char Dham, is the most complete upmarket hotel in town, with a lift and spa. If you want a village night instead, Temi tea garden and the Ravangla villages are within 1–1.5 hours.",
+  "stays": ["seven-hill-resort-namchi", "sobralia-resort-namchi"],
+  "tips": [
+    "Visit Samdruptse and Char Dham before 10 am for clearer mountain views and fewer tour buses.",
+    "Namchi is warmer than Gangtok; a light jacket is enough most evenings from March to November.",
+    "Withdraw cash in Namchi if you are heading to Borong, Kewzing or Yangang, where ATMs are scarce.",
+    "Shared jeeps back to Gangtok and Siliguri thin out after about 2 pm, so book a seat in the morning.",
+    "Hotels collect Sikkim's ₹50 per tourist entry fee at check-in; keep the receipt for 30 days."
+  ],
+  "themes": ["monasteries", "family-holidays", "photography"],
+  "nearby": ["samdruptse", "char-dham-solophok", "namchi-rock-garden", "temi-tea-garden"],
+  "experiences": [
+    {
+      "slug": "namchi-two-statues-morning-circuit",
+      "title": "Two statues before breakfast: Namchi's hill circuit",
+      "kind": "spiritual",
+      "duration": "4 hours",
+      "best_time": "7–11 am, October to May",
+      "cost": "≈ ₹2,000–3,000 per car plus ₹80–100 entry per person",
+      "image_query": "Samdruptse Guru Padmasambhava statue Namchi",
+      "wiki": "",
+      "summary": "A morning car loop that takes in Samdruptse's Guru Rinpoche, the Rock Garden and Siddhesvara Dham's Shiva while the light is clear and the coaches are still on the road from Gangtok. Two religions, two hills, one tidy half day.",
+      "body": [
+        "Start at Samdruptse soon after it opens. The statue of Guru Padmasambhava, the 8th-century teacher credited with bringing Buddhism to Sikkim, stands about 135 ft tall on the wish-fulfilling hill. Walk the steps slowly, turn prayer wheels clockwise and look north: on clear October to December mornings Kangchenjunga lines up behind the town.",
+        "Drop down to the Rock Garden for a short walk among its terraces and ponds, then cross town to Solophok. Siddhesvara Dham opened in 2011 and gathers replicas of Badrinath, Jagannath, Dwarka and Rameswaram, plus twelve jyotirlingas, around a 108 ft Shiva. Allow 1.5 hours. Shoes come off inside the shrines; carry socks in winter.",
+        "We finish with tea in Central Park. The whole loop is about 25 km of driving. Hire a car from your hotel or the Namchi taxi stand; agree the route and waiting time before you start. Entry fees are small and paid at each gate, and parking is extra."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Can we do Samdruptse and Char Dham in one morning?", "a": "Yes. They are about 25 minutes apart by car, and each takes 1–1.5 hours. Start at 7:30–8 am and you will be done by lunch. In peak season (May, October) tour groups arrive from Gangtok around 11 am, so the earlier you go, the quieter both sites are."},
+        {"q": "Is there a dress code at Char Dham?", "a": "There is no strict dress code, but modest clothing is respectful, and shoes must be removed inside the temples. Leather items are discouraged in some shrines. Carry socks for cold stone floors in winter. Photography is generally allowed outside; ask before photographing inside."},
+        {"q": "Are the sites accessible for elderly travellers?", "a": "Partly. Char Dham has broad paths and ramps with some steps; you can see the main statue without much climbing. Samdruptse has a long flight of steps up to the statue base, but the view from the lower terrace is still good. Walk slowly and carry water."}
+      ]
+    },
+    {
+      "slug": "namchi-central-park-evening-food-walk",
+      "title": "Momos, sel roti and churpi in Central Park",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "5–7:30 pm, any month",
+      "cost": "≈ ₹300–600 per person",
+      "image_query": "Namchi Central Park Sikkim",
+      "wiki": "",
+      "summary": "An easy evening snack walk around Namchi's paved central square and the lanes behind it: steamed and fried momos, thukpa, sel roti, local pickles and hard churpi to take home. Cheap, safe and a good feel for daily life in a Sikkimese district town.",
+      "body": [
+        "Namchi's Central Park is where the town meets after work. Families sit on the steps, teenagers practise football tricks and the snack stalls light up as the sun goes down behind the Darjeeling ridge. Start with a plate of momos, pork, chicken or vegetable, served with a fiery tomato and chilli sauce.",
+        "Walk the lanes behind the square for sel roti, the ring-shaped rice-flour bread fried at festivals, and for a bowl of thukpa or gyathuk when the evening cools. Small shops sell bamboo-shoot and dalle chilli pickles in reused bottles, and churpi, the yak or cow milk cheese that is chewed for hours.",
+        "We do not run this as a formal tour; we give guests a map and a short list, and let them wander. Expect to spend ₹300–600 per person for a full snack dinner. Carry small notes, as many stalls cannot change ₹500. UPI payment is widely accepted in Namchi."
+      ],
+      "good_for": ["families", "budget", "couples", "solo"],
+      "faqs": [
+        {"q": "Is street food in Namchi safe to eat?", "a": "Generally yes, if you choose busy stalls where food is cooked fresh in front of you. Momos and thukpa are steamed or boiled hot. Drink bottled or filtered water and go easy on the chilli sauce if you are not used to it. Carry a refillable bottle and ask your hotel to fill it."},
+        {"q": "What is churpi and can we carry it home?", "a": "Churpi is a hardened cheese made from yak or cow milk, sold in small cubes threaded on string. It keeps for months without refrigeration, so it travels well. It is very hard and is sucked or chewed slowly. Soft churpi, used in cooking, is also sold fresh."},
+        {"q": "Are there vegetarian options?", "a": "Yes. Vegetable momos, thukpa, aloo dum, chana and sel roti are easy to find, and Namchi has several pure-vegetarian restaurants near the market catering to Char Dham pilgrims. Ask whether momos are made with egg in the dough if you avoid egg."}
+      ]
+    },
+    {
+      "slug": "namchi-mamley-stromatolite-geology-stop",
+      "title": "Billion-year-old rocks at Mamley",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Morning, October to May",
+      "cost": "Free (car hire extra)",
+      "image_query": "stromatolite dolomite rock",
+      "wiki": "National Geological Monuments of India",
+      "summary": "A short stop above Namchi to see stromatolite-bearing dolomite of the Buxa Formation, some of the oldest traces of life in the Sikkim Himalaya, protected as a National Geological Monument. Ten minutes from the Rock Garden and easy to add to the Samdruptse drive.",
+      "body": [
+        "Most people drive past Mamley on the way to Samdruptse without knowing it is there. The Geological Survey of India has declared the stromatolite-bearing dolomites at Mamley a National Geological Monument. Stromatolites are layered structures built up by mats of microbes in shallow ancient seas, and these date to the Proterozoic, well over half a billion years ago.",
+        "On the rock you see fine wavy layers and domes, like a sliced cabbage, in pale grey and cream. A small park with signboards explains the formation. It is a real-world geology lesson for children and a reminder that the Himalaya is built partly from old sea floor pushed up by the collision of India with Asia.",
+        "Allow about an hour including the drive from Namchi. Please do not chip or carry away samples: the site is protected. Combine it with the Rock Garden and Samdruptse in one morning. Wear shoes with grip, as the rocks can be slippery after rain."
+      ],
+      "good_for": ["families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "What exactly is a stromatolite?", "a": "A stromatolite is a layered rock built up over long periods by microbial mats, mainly cyanobacteria, trapping sediment in shallow water. They are among the oldest evidence of life on Earth. At Mamley they sit in dolomite of the Buxa Formation, from the Proterozoic eon."},
+        {"q": "Where is the Mamley site?", "a": "Mamley is just above Namchi on the road towards Samdruptse, close to the Rock Garden. Most Namchi taxi drivers know it as the stromatolite park. It takes about 10–15 minutes from Central Park by car. Ask your driver to stop on the way up to Samdruptse."},
+        {"q": "Is there an entry fee at Mamley?", "a": "We have not seen a fee charged at the time of writing, but rules for protected sites change. Check current status before you travel. Respect the fencing and signboards, and do not remove rock: it is a protected national geological monument."}
+      ]
+    },
+    {
+      "slug": "namchi-kangchenjunga-sunrise-viewpoint",
+      "title": "Kangchenjunga sunrise from the Namchi ridge",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "5–7 am, October to February",
+      "cost": "≈ ₹800–1,500 per car",
+      "image_query": "Kangchenjunga from Namchi Sikkim sunrise",
+      "wiki": "",
+      "summary": "An early drive up towards Samdruptse or Solophok to watch first light turn Kangchenjunga pink, with Namchi still in shadow below. Best on clear post-monsoon and winter mornings. Short, cheap and worth the alarm.",
+      "body": [
+        "Kangchenjunga, at 8,586 m the world's third-highest mountain and the guardian deity of Sikkim, sits about 70 km north-west of Namchi in a straight line. On a clear morning the first sun catches its summit while the valleys are still blue, then slides down the ridge towards Kabru and Pandim.",
+        "The best spots are on the roads up to Samdruptse and Solophok, where the town falls away below you. Leave your hotel 30–40 minutes before sunrise (around 5:15 am in November, 6:15 am in January). Bring a flask of tea; the sites themselves open later, so you watch from the road edge or viewpoint.",
+        "October to February gives the best odds; spring haze often softens the view by April, and the monsoon hides it almost completely. A taxi for a 2-hour sunrise run costs about ₹800–1,500. Dress warmly: Namchi mornings in December and January can be 4–6 °C."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can you see Kangchenjunga from Namchi?", "a": "Yes, on clear days, mostly October to February and some spring mornings. The view is best from higher points like the Samdruptse and Solophok roads. In the monsoon (June to September) clouds usually hide it. Mornings are clearer than afternoons in every season."},
+        {"q": "What time is sunrise in Namchi?", "a": "Roughly 5:00 am in June, 5:30 am in October, 6:00 am in December and 6:15 am in January. The mountain catches light a few minutes before the town does. Leave 30–40 minutes earlier to reach a viewpoint and set up."},
+        {"q": "Is it worth it if the forecast is cloudy?", "a": "Ask your hotel staff the night before; locals read the sky well. If the evening was clear and cold, the morning usually is too. If it rained late, skip it and try the next day. Cloud often lifts briefly at dawn even in shoulder months."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Namchi worth visiting?", "a": "Yes, especially for families, pilgrims and first-time visitors to Sikkim. Namchi has two of the state's biggest religious monuments, mild weather, easy roads and good hotels at every price. It also works as a hub for Temi tea garden, Tendong Hill, Ravangla and Kitam. One night is enough for the town; two lets you add day trips."},
+    {"q": "How far is Namchi from Gangtok?", "a": "About 78 km and 3–3.5 hours by road, via NH10 to Singtam and then the hill road south-west. Shared jeeps cost roughly ₹250–350 a seat; a reserved small car about ₹3,500–4,500 one way. Times stretch in the monsoon when slides slow the road. Check current status before you travel."},
+    {"q": "How do I get from Siliguri or NJP to Namchi?", "a": "By shared jeep from Siliguri (3.5–4 hours, about ₹300–400 a seat) or by reserved car from NJP or Bagdogra (about ₹4,500–6,500). The usual road runs via Melli on NH10. If NH10 is closed by monsoon slides, cars go via Darjeeling district and Jorethang, which adds roughly an hour."},
+    {"q": "What is the best time to visit Namchi?", "a": "October to December for clear mountain views, and March to May for warm days and flowers. Winter (December to February) is cool but sunny, 4–16 °C. June to September is the monsoon: green but cloudy, with occasional road slides. Namchi rarely gets snow."},
+    {"q": "How many days do we need in Namchi?", "a": "One night covers Samdruptse, Char Dham, the Rock Garden and Central Park. Two nights let you add Temi tea garden, the Tendong Hill walk or Kitam bird sanctuary. Many travellers do Namchi as part of a 5–7 night loop with Gangtok, Ravangla and Pelling."},
+    {"q": "Do foreigners need a special permit for Namchi?", "a": "Foreign nationals need the standard Sikkim Restricted Area Permit, applied online through the e-FRRO portal after arriving in India since January 2026. No extra protected-area permit is needed for Namchi or the rest of South Sikkim. Indians need no permit. Check current status before you travel."},
+    {"q": "What are the entry fees at Samdruptse and Char Dham?", "a": "Both charge small entry fees, roughly ₹30–50 per adult, with parking extra at about ₹30–50 a car. Children usually pay less. Fees are revised from time to time, so treat these as indicative and check current status before you travel."},
+    {"q": "Is Namchi good for a family trip?", "a": "Very. Distances are short, the town is safe and clean, altitude is low (about 1,500 m) and there are open spaces such as Central Park, the Rock Garden and the Char Dham grounds. Hotels with lifts and family rooms are available. Medical care is good for a hill town, with a district hospital."},
+    {"q": "Can we combine Namchi and Ravangla in one day?", "a": "Yes. Ravangla is only 26 km (about 1 hour) from Namchi via Damthang. A full day from Namchi can cover Char Dham and Samdruptse in the morning and Buddha Park in the afternoon. Better still, sleep in Ravangla and do Ralang and Temi the next day."}
+  ]
+}

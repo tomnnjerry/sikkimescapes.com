@@ -1,0 +1,193 @@
+{
+  "slug": "silk-route-winter-snow-4n",
+  "title": "Silk Route winter snow trip, 4 nights",
+  "region": "pakyong",
+  "tier": "budget",
+  "nights": 4,
+  "themes": [
+    "snow-and-winter",
+    "lakes-and-passes",
+    "village-homestays"
+  ],
+  "stops": [
+    {
+      "place": "padamchen",
+      "nights": 1
+    },
+    {
+      "place": "zuluk",
+      "nights": 2
+    },
+    {
+      "place": "nathang-valley",
+      "nights": 1
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 14000,
+  "price_basis": "per person, twin or triple sharing, 4 travellers sharing one high-clearance car, homestays with dinner and breakfast and heaters where possible",
+  "price_breakdown": [
+    [
+      "Homestays, 4 nights with meals and heater",
+      6000
+    ],
+    [
+      "Shared Bolero-class car with chains, 5 days",
+      6500
+    ],
+    [
+      "Silk Route permit and entry fee",
+      500
+    ],
+    [
+      "Our planning fee",
+      1000
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 4100,
+  "meta_description": "Silk Route winter snow trip, 4 nights from NJP: Padamchen, two nights at Zuluk with a spare day, Nathang and frozen Kupup. From ₹14,000 per person.",
+  "summary": "A winter Silk Route trip built around snow and a spare day. Sleep low at Padamchen, then two nights at Zuluk so one day can absorb a snow closure, then the frozen Nathang plateau and Kupup's Elephant Lake. Shared high-clearance car with chains and homestays with heaters where power allows.",
+  "intro": [
+    "The white Zuluk loops and a frozen Nathang plateau are what most people picture when they think of the Silk Route in winter. Snow usually reaches Nathang and Kupup by December and falls heaviest on Zuluk and Thambi in January and February. It also closes the road for a day or more after big falls, and that is why this trip has four nights instead of three.",
+    "We sleep one night at Padamchen, two at Zuluk and one at Nathang. The middle day at Zuluk is the flexible one: if the morning is clear, you go up the loops for snow at dawn; if the road is shut, you wait in comfort while the Border Roads Organisation clears it. A high-clearance car with chains and a driver who has done this road in snow many times are part of the price."
+  ],
+  "highlights": [
+    "Snow on the Zuluk loops from Thambi and Lungthung",
+    "The frozen Nathang plateau at about 4,000 m",
+    "Kupup's Elephant Lake under ice in mid-winter",
+    "A built-in spare day for snow closures",
+    "High-clearance car with chains and an experienced winter driver"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Padamchen via the Rongli permit",
+      "place": "padamchen",
+      "overnight": "Padamchen",
+      "alt_m": 2200,
+      "drive": "≈ 130 km · 5.5–6 h",
+      "text": "Your driver meets you at NJP station or Bagdogra airport by 8 or 9 am. The road follows the Teesta up NH10 to Rangpo, where you enter Sikkim, then climbs through Rorathang to Rongli, the market town where the Silk Route permit is processed. Lunch at Rongli while the paperwork is done. Above Rongli the road narrows and climbs through Lingtam and thick forest to Padamchen at about 2,200 m. We stay here on purpose: a gentle first night is the best thing you can do for the climb to Nathang. Evening tea and dinner at a simple, clean family homestay with shared or attached bathroom.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Padamchen to Zuluk, an easy climb",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "alt_m": 2900,
+      "drive": "≈ 13 km · 45 min",
+      "text": "A short drive today, which is the point: your body gets another day to adjust before the high plateau. Leave Padamchen after a relaxed breakfast and climb about 700 m through forest to Zuluk at roughly 2,900 m. The afternoon is free. Walk around the village, watch the Army convoys heading up the loops, and if the sky is clear, ask your driver for a late-afternoon run to the first bends above the village for the evening light. Dinner and an early night at a simple, clean family homestay with shared or attached bathroom.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Snow day and spare day at Zuluk",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "alt_m": 2900,
+      "drive": "Local",
+      "text": "Today is built in as the flexible day of a winter trip. If the road is open and the morning clear, go up the loops at dawn to Thambi and Lungthung for snow on the slopes, play in the drifts where it is safe, and come back for a late breakfast. If fresh snow has closed the road above Zuluk, this is the day you wait while the Border Roads Organisation clears it, with walks around the village and long cups of tea by the stove. Either way you keep tomorrow's plan intact. Overnight at a simple, clean family homestay with shared or attached bathroom.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Thambi sunrise, then up to Nathang",
+      "place": "nathang-valley",
+      "overnight": "Nathang",
+      "alt_m": 4000,
+      "drive": "≈ 24 km · 2 h plus stops",
+      "text": "Wake around 4:30 am for the drive up the zig-zag to Thambi View Point at about 3,400 m or Lungthung a little higher, in time for sunrise over the eastern Himalaya and, on a clear morning, Kangchenjunga to the west. Back to Zuluk for breakfast, then continue up through Lungthung to the Nathang plateau at about 4,000 m. In the afternoon visit the 1888 war memorial and the Gnathang monastery, and, if the road is open, drive about 12 km on past Old Baba Mandir to Kupup and Elephant Lake. Overnight at a simple, clean family homestay with shared or attached bathroom; drink water and keep warm.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Nathang down to NJP or Bagdogra",
+      "place": "nathang-valley",
+      "overnight": "",
+      "alt_m": 120,
+      "drive": "≈ 165 km · 7.5–8 h",
+      "text": "A long road day, so we leave Nathang by about 7 am after breakfast. The drive goes back down the zig-zag past Thambi and Zuluk, through Padamchen and Lingtam to Rongli, then along the Rangpo river to Rorathang and Rangpo and down NH10 beside the Teesta to Siliguri. Lunch on the way at Rongli or Rangpo. Expect to reach NJP or Bagdogra by mid to late afternoon; book onward trains and flights for the evening. In the monsoon, if NH10 is cut, the driver may go via Rhenock, Pedong and Kalimpong instead.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Homestay or budget hotel rooms on twin sharing, with dinner and breakfast at homestays",
+    "Seat in one shared Bolero-class or similar high-clearance car with snow chains, fuel and driver costs",
+    "Room heater charges at homestays where electricity allows",
+    "Silk Route permit processing at Rongli where the route needs it",
+    "The ₹50 Sikkim tourist entry fee",
+    "Our planning, homestay bookings and a phone number that answers during the trip"
+  ],
+  "excludes": [
+    "Train or flight tickets to NJP or Bagdogra",
+    "Lunches, snacks and drinks unless stated",
+    "Boating, entry tickets, snow-boot hire and tips",
+    "Extra nights or car days caused by snow, landslides or road closures",
+    "Personal travel insurance"
+  ],
+  "good_to_know": [
+    "The Old Silk Route beyond Rongli is open to Indian nationals only; foreign nationals, including OCI holders, cannot go to Zuluk, Nathang or Kupup.",
+    "Send a clear photo ID scan and two passport photos per person at least two days ahead so the Rongli permit is quick. Check current status before you travel.",
+    "There are no ATMs above Rongli and mobile signal is patchy above Zuluk; carry enough cash for the whole route.",
+    "Pack for −10 °C or lower at Nathang: thermals, down jacket, windproof layer, cap, gloves, woollen socks, waterproof shoes and UV sunglasses.",
+    "If the road above Zuluk is closed on the Nathang day, Nathang becomes a day trip or is replaced by a lower night; your driver's decision on ice is final.",
+    "NH10 between Siliguri and Rangpo closes after landslides in the monsoon; the alternatives are via Kalimpong and Lava, Algarah, or Pedong and Rhenock, which add one to two hours.",
+    "Book trains or flights with a margin; a snow closure can delay the last day."
+  ],
+  "upgrade": "A private Scorpio-class car for two with the warmest rooms on the route costs about ₹21,000–23,000 per person.",
+  "faqs": [
+    {
+      "q": "Do I need a permit for this trip?",
+      "a": "Yes. Indian travellers need the Silk Route protected-area permit, processed at Rongli for about ₹200 per person plus handling, which is included in the price. Each person needs an original photo ID and two passport photos. Send scans two days ahead and the permit is usually ready within an hour at Rongli. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals book this trip?",
+      "a": "Not this one. The Old Silk Route beyond Rongli, including Padamchen, Zuluk, Nathang and Kupup, is open to Indian nationals only, and OCI card holders count as foreign nationals here. Mixed groups can stay together at Aritar, Rhenock or Gangtok while the Indian members go up. Ask us for a version of this trip that suits everyone, and check current status before you travel."
+    },
+    {
+      "q": "How high does this trip go, and will altitude be a problem?",
+      "a": "The highest point is about 4,100 m and the highest night is at Nathang, about 4,000 m. Cold makes altitude harder, so we sleep at Padamchen and twice at Zuluk before the plateau. Drink water steadily, skip alcohol at height and keep warm. Mild headache is common; vomiting, confusion or breathlessness at rest mean going down at once. Tell us about heart or lung conditions when you book."
+    },
+    {
+      "q": "What happens if a road closes during the trip?",
+      "a": "Snow can close the road above Zuluk or the Kupup stretch for a day or more until the Border Roads Organisation clears it, which is why this trip has a spare day. If a closure costs more than that, we reshuffle the nights or come down early; extra nights and car days are charged at cost. Keep a gap before any flight."
+    },
+    {
+      "q": "Will we definitely see snow?",
+      "a": "Not definitely, but January and February give the best odds. Nathang and Kupup are usually white from December into March; Zuluk and Thambi get snow most winters in January and February, though it can melt within days. Two days on the route doubles your chances. We will tell you honestly about recent conditions before you pay the balance."
+    },
+    {
+      "q": "How cold will it be?",
+      "a": "At Zuluk expect around −3 to 8 °C in January, and at Nathang nights around −10 to −15 °C with daytime highs near freezing. Wind at Thambi and Kupup makes it feel colder. Homestays have quilts and heaters where electricity allows, but power cuts happen. Layers, a hot-water bottle and a warm cap for sleeping make the difference."
+    },
+    {
+      "q": "Is a small car enough in winter?",
+      "a": "Not on this trip. Small hatchbacks manage to Zuluk on dry days but struggle on ice above it. We use Bolero-class or similar high-clearance vehicles in winter, and drivers carry chains and fit them on the loops when needed. That costs a little more, which is already in the price."
+    },
+    {
+      "q": "Can children come on the winter trip?",
+      "a": "Older children who handle cold well, yes, with proper clothing. For young children we suggest changing the plan so they sleep both high nights at Zuluk and visit Nathang by day. Watch for unusual tiredness, vomiting or breathlessness, which mean going down. Ask us before booking with children under eight."
+    },
+    {
+      "q": "Is there mobile network and an ATM on the way?",
+      "a": "ATMs are at Rangpo, Rhenock and Rongli, but there are none at Padamchen, Zuluk, Nathang or Kupup. Mobile signal is weak to absent above Zuluk, and UPI only works where there is signal. Carry cash for heaters, tea stalls, lunches and tips. Homestay Wi-Fi, where it exists, depends on power. Tell family you may be out of reach for a day."
+    }
+  ]
+}

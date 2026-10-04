@@ -1,0 +1,173 @@
+{
+  "slug": "okhrey",
+  "name": "Okhrey",
+  "region": "soreng",
+  "kind": "village",
+  "wiki": "Okhrey",
+  "image_query": "Okhrey village Sikkim",
+  "lat": 27.1428,
+  "lng": 88.1027,
+  "altitude_m": 2300,
+  "local_name": null,
+  "tagline": "A Sherpa village of homestays below the Barsey rhododendron forest",
+  "meta_description": "Okhrey, Soreng district: Sherpa village at 2,300 m, 1950 Nyingma monastery, homestays from ₹1,200 with meals, base for Barsey. Costs and routes.",
+  "summary": "Okhrey is a mainly Sherpa village at about 2,300 m in Soreng district, 8 km below Hilley and the Barsey Rhododendron Sanctuary. It has many family homestays, a Nyingma monastery built in 1950 and quiet farm lanes, and is the most practical base for the Barsey walk, about 125 km from Siliguri.",
+  "intro": [
+    "Okhrey sits on a high, open slope in the west of Soreng district, at about 2,300 m, a few kilometres from the Nepal border. It is one of the revenue circles of Soreng subdivision, and most of its families are Sherpa, the Tibetan-speaking Buddhist community whose name means people from the east. Houses are spread along the road and up the hill, with prayer flags, small chortens and vegetable gardens between them.",
+    "Over the last two decades the village has turned towards travellers walking to the Barsey Rhododendron Sanctuary, whose road-end gate at Hilley is 8 km above. Many families have opened rooms, and their multi-storey wooden-panelled houses now host visitors through the spring bloom and the clear autumn months. Wikipedia's sanctuary article notes the homestays at Okhrey; the Soreng district administration lists Okhrey as a revenue circle.",
+    "Okhrey is cooler and quieter than Rinchenpong or Soreng town. Evenings are for the kitchen fire, butter tea or milk tea, and early nights before a dawn start for Barsey. Up the long flight of steps through the village's rhododendron park is Ugen Thondroling Monastery, built in 1950 and following the Nyingma school. Stay a night at least, two if you want a slow day in the village."
+  ],
+  "story": {
+    "title": "Sherpa homes on Sikkim's western edge",
+    "text": "The Sherpa are best known from Nepal's Khumbu, but Sherpa families have lived in Sikkim and the Darjeeling hills for generations, and the 2011 census recorded about 3.5 per cent of the people of what is now Soreng district speaking Sherpa as their first language. The name comes from Tibetan shar (east) and pa (people): people from the east, a reference to their origins in eastern Tibet. In Okhrey their Buddhism follows the Nyingma, the oldest of the Tibetan schools, and the village gompa, Ugen Thondroling Monastery, was built in 1950. Its name honours Guru Ugyen, Padmasambhava, the teacher Nyingma Buddhists credit with bringing Buddhism to the Himalaya. Inside, look for images of Guru Rinpoche, the eight-spoked wheel and the butter lamps kept burning by the caretaker. Okhrey's homestays grew from this community: families who farmed potatoes, maize and cardamom, and grazed animals in the high forest before Barsey became a sanctuary, now host walkers in the same houses. Ask your hosts about Losar, the Tibetan new year, which Sherpa families celebrate in February or March.",
+    "source": "Wikipedia: Sherpa people; Wikipedia: Soreng district (2011 census languages); Two Together travel guide (Ugen Thondroling Monastery, 1950, Nyingma)"
+  },
+  "little_known": [
+    {"fact": "In the 2011 census, about 3.5 per cent of people in what is now Soreng district gave Sherpa as their first language, and Okhrey is one of the main Sherpa villages of the district.", "source": "Wikipedia: Soreng district"},
+    {"fact": "Okhrey is one of the revenue circles of Soreng subdivision, so although guidebooks still call it West Sikkim, its land records and offices now fall under Soreng district.", "source": "Soreng district administration"},
+    {"fact": "Ugen Thondroling Monastery above the village was built in 1950 and follows the Nyingma school of Tibetan Buddhism, reached by a long flight of steps through the village's rhododendron park.", "source": "Two Together travel guide (Okhrey)"}
+  ],
+  "facts": [
+    ["Best months", "March–May and October–December"],
+    ["Nights we suggest", "1–2"],
+    ["From Gangtok", "≈ 125 km · 5.5–6 h"],
+    ["Altitude", "≈ 2,300 m"],
+    ["Known for", "Sherpa homestays, 1950 Nyingma monastery, base for Barsey"],
+    ["Permit", "Not needed for Indians; foreigners need Sikkim's RAP (e-FRRO)"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Ugen Thondroling Monastery", "text": "Climb the long flight of steps through the village rhododendron park to Okhrey's gompa, built in 1950 and following the Nyingma school. It is small and quiet, with views across the valley. Ask before entering the prayer hall, walk clockwise and leave a small offering."},
+    {"title": "Base for Barsey", "text": "Hilley, the gate to Barsey Rhododendron Sanctuary, is 8 km up the road, 30–40 minutes by car. Leave at dawn, walk 4–5 km to the Barsey ridge, and be back for a late lunch. Homestays arrange taxis for about ₹600–800 one way."},
+    {"title": "Sherpa family homestays", "text": "Okhrey has dozens of homestays in wood-panelled family houses, at about ₹1,200–2,000 per person with meals. Expect rice, dal, garden vegetables, eggs and, if you ask, Sherpa dishes. Rooms fill from late March to May, so book ahead."},
+    {"title": "Village lanes and chortens", "text": "Walk the lanes between houses and terraces in the late afternoon, past chortens, mani walls and prayer flags. Children practise football, farmers bring in potatoes and fodder, and the light turns gold on the hills to the south."},
+    {"title": "Rhododendron park in spring", "text": "The village's own rhododendron park, on the slope below the monastery, flowers from about March to April. It is a gentle preview of Barsey for those who cannot do the longer walk, and a good spot for photographs."},
+    {"title": "Clear winter skies", "text": "From November to February, Okhrey's nights are frosty but its days are often bright and sharp. It is the quietest time to visit, with homestays half-empty and rates lower. Bring proper warm clothes; rooms are rarely heated."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Take a shared jeep from Siliguri or Jorethang to Sombaria (Jorethang–Sombaria about 28 km, 1.5 hours, ₹100–150), then a local jeep or a reserved taxi for the 14 km to Okhrey, about ₹700–1,000 reserved. Some jeeps from Jorethang run to Okhrey directly in the morning; ask at the stand."},
+    {"mode": "Private car", "text": "Okhrey is about 30 km from Soreng (1–1.5 hours), 42 km from Jorethang (2 hours) and about 48 km from Rinchenpong via Soreng (2.5 hours). From Gangtok allow about 5.5–6 hours via Melli and Jorethang. A small car from Rinchenpong costs about ₹3,000–3,500 one way."},
+    {"mode": "From Bagdogra / NJP", "text": "Okhrey is about 125 km from Siliguri, 5–6 hours via Sevoke, Melli, Jorethang and Sombaria. A reserved cab costs about ₹4,500–6,500. NH10 along the Teesta closes after monsoon slides, when cars go via Kalimpong instead. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Jorethang–Sombaria", "≈ ₹100–150 a seat"],
+    ["Reserved taxi Sombaria–Okhrey", "≈ ₹700–1,000"],
+    ["Cab Siliguri–Okhrey", "≈ ₹4,500–6,500"],
+    ["Homestay with meals", "≈ ₹1,200–2,000 per person a night"],
+    ["Taxi Okhrey–Hilley", "≈ ₹600–800 one way"],
+    ["Barsey entry (Indians)", "≈ ₹50 per day"]
+  ],
+  "where_to_stay": "Okhrey is a homestay village; there are no hotels. Sherpa families run dozens of rooms across the village, most with attached bathrooms in newer buildings, at about ₹1,200–2,000 per person a night with meals. Sherpa Lodge is one of the better-known, with seven wood-panelled rooms, and travel writers also mention Kyilkhor Inn and Royal Barsey Homestay. For a dawn start at the trail, small homestays at Hilley, 8 km above, cost about ₹1,000–1,800. Book ahead for late March to May.",
+  "stays": ["okhrey-homestays", "sherpa-lodge-okhrey", "hilley-homestays"],
+  "tips": [
+    "Book late March to May homestays four to eight weeks ahead; spring weekends sell out.",
+    "Bring thermals and a warm hat: Okhrey nights fall to about 0–4 °C in winter and rooms are rarely heated.",
+    "Withdraw cash in Soreng or Jorethang; there is no reliable ATM in Okhrey.",
+    "Ask your hosts the evening before to book the dawn taxi to Hilley.",
+    "Remove shoes and walk clockwise at Ugen Thondroling Monastery, and ask before taking photos inside."
+  ],
+  "themes": ["village-homestays", "monasteries", "flowers-and-forests", "offbeat-sikkim"],
+  "nearby": ["hilley", "barsey-rhododendron-sanctuary", "sombaria", "daramdin"],
+  "experiences": [
+    {
+      "slug": "okhrey-ugen-thondroling-monastery-climb",
+      "title": "Climb to Ugen Thondroling Monastery",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Early morning or late afternoon",
+      "cost": "Free; offering optional",
+      "image_query": "Okhrey monastery Sikkim",
+      "wiki": "",
+      "summary": "Walk up the long flight of steps through Okhrey's rhododendron park to the village gompa, a Nyingma monastery built in 1950, and learn how Sherpa Buddhism shapes daily life here. Quiet, close and a good way to arrive in the village.",
+      "body": [
+        "From the main road through Okhrey, a long flight of steps climbs through the village's rhododendron park to Ugen Thondroling Monastery. It is a steady 15–25 minutes up, with benches and views over the valley on the way. The gompa was built in 1950 and follows the Nyingma school, the oldest of the Tibetan Buddhist traditions, which credits Guru Rinpoche, Padmasambhava, with bringing Buddhism to the Himalaya. The name Ugen honours him.",
+        "The monastery is small and usually quiet, looked after by a caretaker and used by the village for prayers, festivals and family rites. If it is open, remove your shoes, enter quietly and walk clockwise. Look for the image of Guru Rinpoche, the butter lamps and the wall paintings. Ask before taking any photographs inside, and leave a small offering of ₹20–100 if you wish.",
+        "Late afternoon is lovely for the walk, when the light turns gold over the hills to the south; early morning is quieter still. From March to April the rhododendron park flowers on the way up. Take a warm layer and watch your step on the stairs, which can be slippery after rain. Older travellers can go slowly with rests; there is no road to the top."
+      ],
+      "good_for": ["couples", "solo", "photographers", "families"],
+      "faqs": [
+        {"q": "How old is the Okhrey monastery?", "a": "Ugen Thondroling Monastery was built in 1950, according to travel writers who visited and spoke to villagers. It follows the Nyingma school of Tibetan Buddhism. It is a village gompa rather than a large institution, so expect a quiet, simple place."},
+        {"q": "How long is the climb to Okhrey monastery?", "a": "About 15–25 minutes up a long flight of steps from the main road, through the village rhododendron park. There are benches on the way. Go slowly at this altitude of about 2,300 m, and take care on wet steps."},
+        {"q": "Can we visit the Okhrey monastery anytime?", "a": "The grounds are open, but the prayer hall may be locked when the caretaker is away. Early morning and late afternoon give the best chance of finding it open. Ask your homestay host, who can often call ahead."}
+      ]
+    },
+    {
+      "slug": "okhrey-sherpa-kitchen-evening",
+      "title": "Sherpa kitchen evening at an Okhrey homestay",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evenings, October–May",
+      "cost": "Included with homestay meals; ask in advance",
+      "image_query": "Sherpa food thenthuk Himalaya",
+      "wiki": "Sherpa people",
+      "summary": "Spend an evening by the kitchen fire with your Okhrey host family, help with dinner and taste Sherpa and Nepali dishes such as thenthuk, potato dishes and butter tea. The warmest room in the house and the best place for conversation.",
+      "body": [
+        "In most Okhrey homestays the kitchen is the heart of the house, warm from the stove when nights fall to near freezing. Ask your hosts in the afternoon whether you can join them while they cook. Dinner is usually rice, dal, a vegetable from the garden, pickle and, if you ordered it, chicken or eggs. Many Sherpa families also cook thenthuk, a hand-pulled noodle soup, and dishes built on the potatoes that grow well at this altitude.",
+        "Try butter tea if it is offered: black tea churned with butter and salt, more soup than tea, and very welcome on a cold evening. Milk tea is always available too. Help where you are invited, chopping or rolling dough, and ask about family recipes, the seasons and how the village changed when homestays began. Remember you are a guest in a home, not a cookery class.",
+        "Tell your hosts about dietary needs early, as vegetables and stock vary. Alcohol is not part of every household, so do not assume it is on offer. Evenings start early here: dinner is often at 7–7:30 pm and the house is quiet by 9 pm, particularly before a dawn start for Barsey. A small thank-you, such as paying a little extra or bringing fruit from the plains, is appreciated."
+      ],
+      "good_for": ["families", "couples", "solo", "budget"],
+      "faqs": [
+        {"q": "What food is served in Okhrey homestays?", "a": "Mostly rice, dal, seasonal vegetables, pickle and eggs, with chicken on request. Some Sherpa families cook thenthuk noodle soup, potato dishes and butter tea. Food is simple, fresh and usually vegetarian by default. Tell your hosts in advance about any dietary needs."},
+        {"q": "What is butter tea?", "a": "Butter tea is black tea churned with butter and salt, traditional among Sherpa, Bhutia and Tibetan communities. It tastes more like a light soup than sweet tea, and keeps you warm at altitude. Try a little first; milk tea is always available as well."},
+        {"q": "Can we join the family in the kitchen?", "a": "Usually yes, if you ask politely in advance and hosts are not too busy. Many families enjoy sharing their kitchen. Follow their lead, help where invited and keep out of the way when it is busy before dinner."}
+      ]
+    },
+    {
+      "slug": "okhrey-village-lanes-walk",
+      "title": "Late-afternoon walk through Okhrey's lanes",
+      "kind": "village",
+      "duration": "1.5–2 hours",
+      "best_time": "3–5 pm, October–May",
+      "cost": "Free; guide ≈ ₹500–800",
+      "image_query": "Okhrey Sikkim village lanes prayer flags",
+      "wiki": "",
+      "summary": "Wander the lanes of Okhrey between Sherpa houses, potato and maize terraces, chortens and mani walls as the afternoon light softens. An easy, free walk that shows village life beyond the homestay door.",
+      "body": [
+        "After a morning at Barsey, or on a rest day, walk out from your homestay along Okhrey's lanes in the late afternoon. Paths link the houses across the slope, passing vegetable gardens, potato and maize terraces, cowsheds and small chortens. Mani walls, stacked with stones carved with the mantra om mani padme hum, line some paths; walk past them keeping them on your right, as villagers do.",
+        "This is a working village, so you see daily life: children back from school, women carrying fodder, men repairing a roof, prayer flags renewed on a bamboo pole. Greet people with a smile and a namaste or tashi delek, and ask before photographing anyone. A local guide, about ₹500–800, can explain who lives where, what grows when and how the community organises festivals and funerals.",
+        "Light is best from about 3 pm, when the sun drops towards the Singalila ridge and the hills to the south turn gold. Wear shoes with grip, as paths can be steep and muddy. Keep away from dogs guarding houses, and close any gates you open. Be back before dark, which comes early, around 5 pm in December."
+      ],
+      "good_for": ["photographers", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "Is Okhrey safe to walk around?", "a": "Yes. It is a small, friendly village where most visitors walk freely in daylight. Keep a respectful distance from guard dogs, ask before entering private land and return before dark. Paths can be steep and slippery after rain."},
+        {"q": "How should I walk past mani walls and chortens?", "a": "Keep them on your right and walk clockwise around them, as Buddhists do. Do not sit or climb on them, and do not take stones from mani walls. Small gestures like these are noticed and appreciated."},
+        {"q": "Can I photograph people in Okhrey?", "a": "Ask first, every time. Many people are happy to be photographed after a short chat; some prefer not to be. Avoid photographing children without a parent's permission, and never photograph people during prayers or funerals."}
+      ]
+    },
+    {
+      "slug": "okhrey-dawn-drive-to-barsey",
+      "title": "Dawn drive from Okhrey and the Barsey walk",
+      "kind": "adventure",
+      "duration": "6 hours",
+      "best_time": "March–May and October–December, from about 5:30 am",
+      "cost": "≈ ₹600–800 taxi each way plus ₹50 entry (Indians)",
+      "image_query": "Barsey rhododendron ridge Kangchenjunga view",
+      "wiki": "",
+      "summary": "The day most people come to Okhrey for: a dawn taxi 8 km up to Hilley, the 4–5 km forest walk to the Barsey ridge with Kangchenjunga ahead on clear mornings, and back to Okhrey for a late lunch. We cover timing, costs and what to carry.",
+      "body": [
+        "Ask your homestay the evening before to book a taxi for about 5:30–6 am. The 8 km road to Hilley takes 30–40 minutes and costs about ₹600–800 one way. At the Hilley checkpost, pay the sanctuary entry, about ₹50 for Indians and ₹100 for foreigners per day plus a small camera fee in recent seasons. Then start up the broad trail through rhododendron, oak and magnolia forest.",
+        "The walk to the Barsey ridge at about 3,000 m is 4–5 km and takes most people 1.5–2 hours. From March to May the rhododendrons flower; from October to December the sky is usually clearest, and Kangchenjunga stands over the forest from Guras Kunj. Rest, take photographs and have tea at the lodge if it is serving. The descent to Hilley takes about 1–1.5 hours.",
+        "Either take your taxi back to Okhrey or walk the 8 km down the road in 2.5–3 hours. Carry water, snacks, a rain jacket and a warm layer, and go slowly at altitude. Children who walk regularly manage well. From June to September the trail is wet and leechy and the view rarely clears, so we do not recommend it then."
+      ],
+      "good_for": ["families", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "How early should we leave Okhrey for Barsey?", "a": "Leave by about 5:30–6 am to start walking from Hilley by 6:30–7 am. That puts you on the ridge by about 8:30–9 am, before late-morning cloud. In spring, cloud can rise even earlier, so the earlier the better."},
+        {"q": "How much does the Okhrey–Hilley taxi cost?", "a": "About ₹600–800 one way for a small car, or ₹1,200–1,600 for a return with waiting time, in 2026. Your homestay can book it. Shared jeeps are irregular on this stretch, so a reserved taxi is the reliable option."},
+        {"q": "Can we see Kangchenjunga from Barsey?", "a": "Yes, on clear mornings, from the Guras Kunj clearing on the ridge. October to December gives the best chance. In spring the view is often hazy or cloudy by mid-morning, so arrive early. From June to September it is rarely visible."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Okhrey worth visiting?", "a": "Yes, especially from March to May and October to December. It is the most practical base for Barsey Rhododendron Sanctuary, has warm Sherpa family homestays and a quiet 1950 monastery, and gives a real sense of village life. It is not for travellers who want shops, restaurants or nightlife."},
+    {"q": "How far is Okhrey from Hilley?", "a": "About 8 km by road, 30–40 minutes by car. A reserved taxi costs about ₹600–800 one way. Fit walkers can walk up in about 3 hours or, more pleasantly, walk down after the Barsey trek in 2.5–3 hours."},
+    {"q": "What is the altitude of Okhrey?", "a": "About 2,300 m. Most people are fine at this height, but nights are cold and a few travellers notice mild breathlessness on stairs. Walk slowly on the first day, drink water and avoid alcohol before the Barsey walk."},
+    {"q": "How do I reach Okhrey from Siliguri?", "a": "By car, about 125 km and 5–6 hours via Sevoke, Melli, Jorethang and Sombaria, costing about ₹4,500–6,500. By public transport, take a shared jeep to Jorethang, another to Sombaria, then a taxi for the last 14 km. NH10 closes after monsoon slides; check current status before you travel."},
+    {"q": "How cold is Okhrey?", "a": "From December to February nights fall to about 0–4 °C with frost, and days reach 10–15 °C in the sun. March to May has nights of 5–10 °C. October and November are crisp and clear. Homestays give heavy quilts but rarely heaters, so bring warm clothes."},
+    {"q": "Do Okhrey homestays have attached bathrooms?", "a": "Most newer rooms do, with western toilets and hot water from a geyser or bucket. Some older rooms share a bathroom. Ask when booking if this matters to you, and confirm whether hot water is available round the clock or at set times."},
+    {"q": "Is Okhrey in West Sikkim or Soreng district?", "a": "Okhrey is in Soreng district and is one of the revenue circles of Soreng subdivision. It was part of West Sikkim until December 2021, so many maps and booking sites still say West Sikkim. Drivers know it under either name."},
+    {"q": "Can families with children stay in Okhrey?", "a": "Yes. Children usually enjoy the village, the animals and the walk to Barsey. Bring warm clothes for cold nights and go slowly on the trail. For children under five, avoid sleeping higher than Okhrey and watch for any signs of altitude sickness."},
+    {"q": "What else can we combine with Okhrey?", "a": "Okhrey pairs well with Rinchenpong or Kaluk (about 2.5 hours away) for monasteries and Kangchenjunga views, and with Soreng town for Chuli Dara and Tharpu. A typical plan is two nights in Rinchenpong and one or two in Okhrey."}
+  ]
+}

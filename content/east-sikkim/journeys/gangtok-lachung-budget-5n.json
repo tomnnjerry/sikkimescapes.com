@@ -1,0 +1,213 @@
+{
+  "slug": "gangtok-lachung-budget-5n",
+  "title": "Gangtok and Lachung on a budget",
+  "region": "east-sikkim",
+  "tier": "budget",
+  "nights": 5,
+  "themes": [
+    "snow-and-winter",
+    "flowers-and-forests",
+    "lakes-and-passes"
+  ],
+  "stops": [
+    {
+      "place": "gangtok",
+      "nights": 1
+    },
+    {
+      "place": "lachung",
+      "nights": 2
+    },
+    {
+      "place": "gangtok",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 15500,
+  "price_basis": "per person, twin sharing, 2 people, shared jeeps, shared-seat North Sikkim package with lodge and meals, shared Tsomgo seat, budget hotel in Gangtok with breakfast",
+  "price_breakdown": [
+    [
+      "Gangtok stays, 3 nights with breakfast",
+      4500
+    ],
+    [
+      "North Sikkim shared package: 2 nights Lachung, vehicle seat, permit and meals",
+      8000
+    ],
+    [
+      "Shared jeeps NJP–Gangtok and back",
+      1000
+    ],
+    [
+      "Tsomgo and Baba Mandir shared seat with permit",
+      1200
+    ],
+    [
+      "Sikkim tourist fee",
+      50
+    ],
+    [
+      "Our planning fee",
+      750
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 4000,
+  "meta_description": "Gangtok and Lachung in 5 nights on a budget from ₹15,500 per person: Yumthang Valley, a shared North Sikkim package with permits and meals, and Tsomgo Lake.",
+  "summary": "Five nights for about ₹15,500 per person: a night in Gangtok, two nights in Lachung on a shared-seat North Sikkim package with permit and meals, a morning in Yumthang Valley at 3,564 m, and Tsomgo Lake on the way back. The cheapest sensible way to see snow, rhododendrons and the high north.",
+  "intro": [
+    "North Sikkim is where most visitors find the Sikkim they imagined: the Lachung valley at about 2,700 m with apple orchards and wooden houses, and Yumthang above it, a wide valley of rhododendrons in spring and snow in winter. Permits are issued only through registered agents and vehicles, and operators require a minimum two-night stay, so the cheapest way in is a shared-seat package. We book you onto one with a reliable operator and a clean, simple lodge.",
+    "We put Tsomgo Lake after Lachung, not before, so your body has two nights at 2,700 m before the 3,753 m lake. The trip ends with Tsomgo and a last evening at Lal Market before an early drive down. Lachung, Yumthang and Zero Point reopened on 8 September 2025; check current road and permit status before you travel. If you want Nathu La too, Indian nationals can add it on the Tsomgo day when it falls between Wednesday and Sunday, for a small extra charge on the shared seat."
+  ],
+  "highlights": [
+    "Yumthang Valley at 3,564 m, with rhododendrons from late April and snow in winter",
+    "Two nights in Lachung, a village run by its own traditional council, the Dzumsa",
+    "Waterfalls and the Teesta gorge on the North Sikkim highway",
+    "Tsomgo Lake and Baba Mandir after you have acclimatised",
+    "A shared-seat package that keeps the North Sikkim cost under ₹8,000"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Shared jeep to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "We meet you at NJP or Bagdogra and put you on a shared jeep up NH10 through the Teesta valley and the Rangpo check post. In the monsoon NH10 closes after landslides, and the detour via Kalimpong and Lava adds two to four hours; check current road status before you travel. Send us scans of your ID and photos a week ahead so our registered agent can apply for the North Sikkim permit, and bring two passport photos and originals. Check in near MG Marg, walk the main street and pack a small bag for Lachung.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "North Sikkim highway to Lachung",
+      "place": "lachung",
+      "overnight": "Lachung",
+      "alt_m": 2700,
+      "drive": "≈ 118 km · 5–6 h",
+      "text": "Your shared vehicle leaves Gangtok at about 9–10 am, because tourist vehicles must cross the Toong check post by 4 pm. The road runs north past Kabi Lungchok, where the Lepcha chief Thekong Tek and the Bhutia leader Khye Bumsa swore blood brotherhood, then Mangan and the Seven Sisters and Naga waterfalls, before climbing up the Teesta gorge to Chungthang, where the Lachung and Lachen rivers meet. You reach Lachung, at about 2,700 m, by late afternoon. Dinner at the lodge and an early night.",
+      "meals": "Lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Yumthang Valley",
+      "place": "yumthang-valley",
+      "overnight": "Lachung",
+      "alt_m": 2700,
+      "drive": "≈ 50 km round trip · 4–5 h",
+      "text": "Leave after an early breakfast for Yumthang Valley, about 24 km and an hour up the road at 3,564 m, through the Shingba Rhododendron Sanctuary. From late April to May the slopes are red, pink and white with rhododendrons; in winter the valley lies under snow. Zero Point, about 23 km further at roughly 4,700 m, is an optional add-on paid in Lachung, usually ₹2,000–3,500 per vehicle and shared among passengers, if the road is open. Afternoon free to walk Lachung's orchards and visit the village monastery.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Back to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 118 km · 5–6 h",
+      "text": "After breakfast your shared vehicle drives back down the Lachung valley and the Teesta gorge to Gangtok, with a lunch stop near Mangan and a pause at the waterfalls if they are flowing. You reach Gangtok by mid-afternoon. Give us your ID and photos again for tomorrow's Tsomgo permit. The rest of the evening is yours: a hot shower, a plate of thukpa on MG Marg and an early night. Your big bags, stored at the Gangtok hotel, are waiting for you.",
+      "meals": "Breakfast, lunch"
+    },
+    {
+      "day": 5,
+      "title": "Tsomgo Lake and Baba Mandir",
+      "place": "tsomgo-lake",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 104 km round trip · 7–8 h",
+      "text": "With two nights at 2,700 m behind you, the climb to Tsomgo Lake at 3,753 m feels easier. Your shared vehicle leaves about 7:30 am, passes the 15th Mile check post and reaches the lake in 1.5–2 hours; its Sikkimese name is usually explained as 'head of the lake'. Continue to Baba Mandir, the 1982 shrine to Sepoy Harbhajan Singh, at about 4,000 m. Indian nationals can add Nathu La from Wednesday to Sunday for about ₹300–400 more. Back by 4 pm for a last evening at Lal Market.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Down to NJP or Bagdogra",
+      "place": "gangtok",
+      "overnight": "",
+      "alt_m": 126,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "After breakfast we put you on a shared jeep to NJP or Siliguri, or on the SNT bus. You arrive by early afternoon, in time for evening trains and later flights from Bagdogra. If your flight leaves before about 1 pm, tell us when you book and we will suggest a last night in Siliguri. In the monsoon allow extra time for possible NH10 closures and the Kalimpong detour; check current road status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-sonam-delek-gangtok",
+    "mintokling-guest-house-gangtok"
+  ],
+  "includes": [
+    "3 nights in a clean budget hotel near MG Marg, twin sharing, with breakfast",
+    "Shared-seat North Sikkim package: vehicle, permit and 2 nights in a simple Lachung lodge with meals from lunch on day 2 to lunch on day 4",
+    "Yumthang Valley visit",
+    "Shared seat to Tsomgo Lake and Baba Mandir with permit",
+    "Shared jeep seats NJP or Siliguri to Gangtok and back",
+    "Sikkim ₹50 tourist fee and our planning fee"
+  ],
+  "excludes": [
+    "Train or flights to NJP or Bagdogra",
+    "Zero Point add-on, paid in Lachung",
+    "Nathu La add-on (Indian nationals only)",
+    "Gangtok lunches and dinners",
+    "Snow-boot rental, entry fees and tips"
+  ],
+  "good_to_know": [
+    "Children under 5 are not permitted in North Sikkim protected areas",
+    "Operators require a minimum 2-night North Sikkim stay, and vehicles must cross the Toong check post by 4 pm",
+    "Shared North Sikkim vehicles carry 8–10 passengers; seats are allotted by the operator",
+    "Lachung lodges are simple; heating and hot water can be limited in winter",
+    "Lachung and Lachen have restricted packaged water bottles at times; carry a refillable bottle",
+    "Check current road and permit status before you travel; roads have been repeatedly disrupted since the October 2023 Teesta flood"
+  ],
+  "upgrade": "Our value family trip gives you a reserved North Sikkim vehicle, a better Lachung lodge and a 3-star Gangtok hotel for roughly ₹10,000–12,000 more per person.",
+  "faqs": [
+    {
+      "q": "Is Lachung open in 2026?",
+      "a": "Yes, as of our latest update. Lachung, Yumthang and Zero Point reopened to tourists on 8 September 2025 after damage from the October 2023 Teesta flood. Roads in North Sikkim are still repaired regularly and can close after landslides, especially in the monsoon. Check current road and permit status before you travel; we confirm it before you pay."
+    },
+    {
+      "q": "Why do we stay a night in Gangtok before Lachung?",
+      "a": "Because permits for North Sikkim are applied for through a registered agent with your documents, and the vehicle leaves Gangtok in the morning to cross the Toong check post by 4 pm. Arriving from the plains on day 1 and leaving for Lachung on day 2 is the earliest realistic plan. It also gives you a night at 1,650 m first."
+    },
+    {
+      "q": "Is Zero Point included?",
+      "a": "No. Zero Point, about 23 km beyond Yumthang at roughly 4,700 m, is an add-on paid in Lachung, usually ₹2,000–3,500 per vehicle, shared among the passengers in a shared vehicle. It depends on snow and road conditions on the day. Foreigners can visit with a protected area permit in a group of two or more."
+    },
+    {
+      "q": "Can children go on this trip?",
+      "a": "Children aged 5 and over, yes. Children under 5 are not permitted in North Sikkim's protected areas, including Lachung and Yumthang. Older children manage well but can get carsick on the long drive, so carry medicine and snacks. For families with toddlers we suggest our Gangtok and Tsomgo trips instead. Check current rules before you travel."
+    },
+    {
+      "q": "What is a shared North Sikkim package?",
+      "a": "A seat in a registered vehicle of 8–10 passengers, run by a Sikkim operator, with the permit, two nights in a simple Lachung lodge and meals included. It costs about ₹6,500–9,000 per person in 2026. You share the vehicle with other travellers and follow a fixed schedule. A reserved vehicle costs much more for two people."
+    },
+    {
+      "q": "When can we see snow in Yumthang?",
+      "a": "Usually from December to March, and sometimes into April. Zero Point often has snow until May and again from October. Heavy snowfall can close the road above Lachung for days, so winter trips need some flexibility. For rhododendrons, go from late April to May, when the Shingba sanctuary on the way to Yumthang flowers."
+    },
+    {
+      "q": "Can foreigners go to Lachung and Yumthang?",
+      "a": "Yes. Foreign nationals can visit Lachung, Yumthang and Zero Point with a protected area permit, in a group of two or more, through a registered agent, in addition to the Sikkim Restricted Area Permit applied for on e-FRRO. Shared packages may not accept foreigners on every departure, so book early. Check current rules before you travel."
+    },
+    {
+      "q": "How cold is Lachung?",
+      "a": "Lachung at about 2,700 m is cold at night most of the year: around −5 to 5 °C from December to February, 5–12 °C in spring and autumn. Yumthang and Zero Point are colder still. Simple lodges may have limited heating, so pack thermals, a down jacket, cap and gloves, and ask for extra blankets."
+    },
+    {
+      "q": "What if the road to Lachung closes?",
+      "a": "If the permit is cancelled before departure, the operator refunds the unused package, and we rearrange your days around Gangtok, Tsomgo and Rumtek. If a road closes while you are in Lachung, you may need an extra night there, paid locally. That is why Tsomgo comes last: if you return a day late, we move or drop it rather than risk your train."
+    }
+  ]
+}

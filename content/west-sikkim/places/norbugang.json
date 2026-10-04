@@ -1,0 +1,170 @@
+{
+  "slug": "norbugang",
+  "name": "Norbugang",
+  "region": "west-sikkim",
+  "kind": "heritage site",
+  "wiki": "Norbugang Chorten",
+  "image_query": "Norbugang coronation throne Yuksom",
+  "lat": 27.3772,
+  "lng": 88.2189,
+  "altitude_m": 1800,
+  "local_name": null,
+  "tagline": "The stone throne where Sikkim's first king was consecrated in 1642",
+  "meta_description": "Norbugang, Yuksom: the 1642 coronation throne of Sikkim's first Chogyal, the Norbugang Chorten, Lhatsun Chempo's footprint, Kathok Lake and how to visit.",
+  "summary": "Norbugang is the small hill above Yuksom where three lamas consecrated Phuntsog Namgyal as Sikkim's first Chogyal in 1642. A four-seat stone throne survives under a large tree, beside the Norbugang Chorten, a temple and a big prayer wheel. It is a 15–20 minute walk from the bazaar; allow 45 minutes.",
+  "intro": [
+    "Norbugang is a quiet, tree-shaded park about 1.2 km from Yuksom bazaar, reached by a lane that leaves the main road near Kathok Lake. It holds the most important civic monument in Sikkim: the stone throne on which Phuntsog Namgyal was consecrated as the first Chogyal, or religious king, in 1642, marking the start of the Namgyal dynasty that ruled until 1975.",
+    "The throne is a rectangular stone platform with four seats in stepped order and a raised back. By tradition the highest seat was for Lhatsun Chempo, the senior of the three lamas, the seat to his right for the king, and the two lower seats for the other lamas, Sempa Chempo and Rigzin Chempo. In front of it, a stone under a low railing and metal cover carries what devotees believe is Lhatsun Chempo's footprint.",
+    "Beside the throne stands the Norbugang Chorten, which Wikipedia says was erected after the coronation; it is said to contain earth and water from across Sikkim. A small temple and a large prayer wheel complete the site. Kathok Lake, below on the main road, is associated with the holy water used to anoint the king."
+  ],
+  "story": {
+    "title": "Four seats under a tree",
+    "text": "In 1642, according to Sikkim's histories summarised in Wikipedia, three lamas who had come from Tibet by the north, west and south gathered at Yuksom to consecrate a king who would protect Buddhism in the land. They chose Phuntsog Namgyal, then 38, a descendant of the eastern Tibetan prince Khye Bumsa. The ceremony took place at Norbugang, on a pedestal of stones on a pine-covered hill, and he was anointed with water from a sacred urn. The throne they used survives. Its four seats step down in rank: Lhatsun Chempo's highest, the new Chogyal's beside it, and two for the other lamas. Guides at Yuksom point out the footprint stone in front, believed by the devout to be Lhatsun Chempo's. The Norbugang Chorten nearby was built to mark the event, and tradition holds that it was filled with soil and water from different parts of Sikkim, a symbol of a land gathered under one ruler. Stand here and you are at the first page of the kingdom's history.",
+    "source": "Wikipedia: Yuksom; Phuntsog Namgyal; Norbugang Chorten; Lonely Planet: Norbugang Park"
+  },
+  "little_known": [
+    {"fact": "The Norbugang Chorten is said to contain earth and water from across Sikkim, symbolising the kingdom united at the 1642 coronation.", "source": "Lonely Planet; Wikipedia: Norbugang Chorten"},
+    {"fact": "Phuntsog Namgyal was 38 when he was consecrated at Norbugang in 1642, and he ruled until his son Tensung Namgyal succeeded him in 1670.", "source": "Wikipedia: Phuntsog Namgyal"},
+    {"fact": "The throne's four seats are ranked: the highest for Lhatsun Chempo, the next for the king, and two lower seats for the other lamas.", "source": "Lonely Planet: Norbugang Park"}
+  ],
+  "facts": [
+    ["Best months", "Oct–May"],
+    ["Nights we suggest", "Visit from Yuksom (stay 1 night there)"],
+    ["From Gangtok", "≈ 150 km · 6.5–7.5 h (1.2 km from Yuksom bazaar)"],
+    ["Altitude", "About 1,800 m"],
+    ["Known for", "1642 coronation throne, Norbugang Chorten, footprint stone"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0 (stay in Yuksom)",
+  "highlights": [
+    {"title": "The coronation throne", "text": "A stone platform with four stepped seats and a raised back, under a large tree. It is simple and small, which makes it more moving: this is where the kingdom of Sikkim was formally founded in 1642. Do not sit on or climb it."},
+    {"title": "Lhatsun Chempo's footprint", "text": "In front of the throne, a stone with a low railing and a metal cover bears what devotees believe is the footprint of Lhatsun Chempo, the senior lama. Lift the cover gently if allowed, and close it again."},
+    {"title": "Norbugang Chorten", "text": "A whitewashed chorten erected after the coronation, said to contain earth and water from across Sikkim. Walk around it clockwise, as local visitors do, and look at the prayer flags strung from the trees around it."},
+    {"title": "Temple and prayer wheel", "text": "A small temple and a large prayer wheel stand in the park. Turning the big wheel clockwise is a common act of merit. The temple may be locked; ask the caretaker if you would like to see inside."},
+    {"title": "Kathok Lake below", "text": "On the way up, stop at Kathok Lake, associated with the holy water used to anoint the first Chogyal. The flags reflected in the still water make a good photograph in the soft evening light."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Yuksom bazaar, walk towards Kathok Lake and take the lane about 600 m up to the park, roughly 15–20 minutes in all. The lane is quiet and gentle."},
+    {"mode": "Private car", "text": "Cars can drive close to the park. It is part of every Pelling–Yuksom day tour, indicatively ₹3,500–5,000 per car from Pelling, along with Khecheopalri Lake and the Kanchenjunga Falls."},
+    {"mode": "From Bagdogra / NJP", "text": "Reach Yuksom via Melli, Jorethang, Legship and Tashiding, about 170 km and 6.5–7.5 hours, or break the journey in Pelling. Check NH10 status before you travel."}
+  ],
+  "costs": [
+    ["Entry", "Free or a small fee; check current status"],
+    ["Pelling–Yuksom day tour", "≈ ₹3,500–5,000 a car"],
+    ["Local guide in Yuksom", "≈ ₹1,000–2,000 for 2 hours"],
+    ["Temple offering", "Voluntary, ≈ ₹20–100"]
+  ],
+  "where_to_stay": "Stay in Yuksom, a 15–20 minute walk away. Yuksum Residency and Hotel Tashigang are the main value hotels, and family homestays around the village offer simple rooms with meals. For premium hotels, stay in Pelling, two hours away, and visit Norbugang on a day trip.",
+  "stays": ["yuksum-residency-yuksom", "hotel-tashigang-yuksom", "yuksom-village-homestays"],
+  "tips": [
+    "Do not sit on, climb or place objects on the throne; it is sacred and historic.",
+    "Walk clockwise around the chorten and turn the prayer wheel with your right hand.",
+    "Visit in late afternoon light for photographs, or early morning for silence.",
+    "Hire a local guide in Yuksom; the site has few signs and the story is the point.",
+    "Combine with Kathok Lake on the way up and Dubdi the next morning."
+  ],
+  "themes": ["crafts-and-culture", "monasteries", "photography", "family-holidays"],
+  "nearby": ["yuksom", "dubdi-monastery", "tashiding", "khecheopalri-lake"],
+  "experiences": [
+    {
+      "slug": "norbugang-founding-story-guided",
+      "title": "The founding of Sikkim, told at the throne",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Year-round, morning or late afternoon",
+      "cost": "≈ ₹1,000–2,000 for a local guide",
+      "image_query": "Norbugang Chorten Yuksom Sikkim",
+      "wiki": "Phuntsog Namgyal",
+      "summary": "Sit near the Norbugang throne with a Yuksom guide and hear how three lamas, a search across Sikkim and a stone platform under a tree founded the Namgyal kingdom in 1642.",
+      "body": [
+        "The throne itself is a modest stone platform. What gives it weight is the story, and that is best heard on the spot. A local guide explains the arrival of the three lamas from the north, west and south, why they wanted a lay king, and how they found Phuntsog Namgyal near present-day Gangtok.",
+        "You will hear how the seats are ranked, the meaning of anointing with sacred water, and why the chorten beside the throne is said to hold soil and water from across Sikkim. Guides often add how Phuntsog Namgyal and the lamas spread Buddhism among the Lepcha.",
+        "The guide can then walk you to Kathok Lake and through the village, connecting the coronation to Dubdi on the hill above and to Rabdentse, where the court moved in 1670."
+      ],
+      "good_for": ["families", "first-timers", "seniors", "solo"],
+      "faqs": [
+        {"q": "Who was consecrated at Norbugang?", "a": "Phuntsog Namgyal, the first Chogyal of Sikkim, was consecrated at Norbugang in 1642 at the age of 38 by three lamas from Tibet. He founded the Namgyal dynasty, which ruled Sikkim until the monarchy ended in 1975."},
+        {"q": "Who were the three lamas of Yuksom?", "a": "Wikipedia's article on Yuksom names them as Lhatsun Chempo, Sempa Chempo and Rigzin Chempo, lamas of the Nyingma school who came from Tibet. Lhatsun Chempo, the senior, is linked with the founding of Dubdi and other early monasteries of West Sikkim."},
+        {"q": "Where can I find a guide in Yuksom?", "a": "Ask at your hotel or homestay, or let us arrange one before you arrive. Many Yuksom guides also lead treks and know the village history well. Indicatively ₹1,000–2,000 for a 1–2 hour heritage walk."}
+      ]
+    },
+    {
+      "slug": "norbugang-kathok-evening-kora",
+      "title": "Evening kora around Kathok Lake",
+      "kind": "spiritual",
+      "duration": "45 minutes",
+      "best_time": "Year-round, late afternoon",
+      "cost": "Free",
+      "image_query": "Kathok Lake Yuksom prayer flags",
+      "wiki": "",
+      "summary": "Join Yuksom residents for a slow clockwise walk around Kathok Lake at dusk, the lake associated with the holy water that anointed Sikkim's first king.",
+      "body": [
+        "Kathok Lake is a small, still pond by the main road below Norbugang, ringed with prayer flags. Its water is associated with the sacred water used at the 1642 coronation. In the evening, local residents often walk around it, turning beads and murmuring prayers.",
+        "Walk clockwise, at their pace, and keep quiet. As the light fades the flags reflect in the water and the hills around Yuksom turn blue. It is one of the simplest and most local experiences in West Sikkim.",
+        "Do not throw anything into the lake or feed fish. Afterwards, walk up the lane to Norbugang if it is still light, or back to the bazaar for tea."
+      ],
+      "good_for": ["couples", "solo", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Where is Kathok Lake?", "a": "Beside the main road in Yuksom, below Norbugang, a few minutes' walk from the bazaar. The lane to the coronation throne leaves the road near the lake. It is small, ringed with prayer flags and easy to walk around in 10–15 minutes."},
+        {"q": "Why is Kathok Lake sacred?", "a": "It is associated with the holy water used to anoint Phuntsog Namgyal at his consecration as the first Chogyal in 1642. Local people still treat it as sacred, walk around it clockwise and keep it clean."},
+        {"q": "Can I photograph people at Kathok Lake?", "a": "Photograph the lake and flags freely, but ask before photographing people, especially those praying. Many older residents prefer not to be photographed. A smile and a gesture usually get a clear answer."}
+      ]
+    },
+    {
+      "slug": "norbugang-chorten-sketch-photo",
+      "title": "Light and shade at the Norbugang Chorten",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Oct–Mar, late afternoon",
+      "cost": "Free",
+      "image_query": "Norbugang Chorten prayer flags",
+      "wiki": "",
+      "summary": "Spend a slow hour photographing or sketching the throne, chorten and prayer flags of Norbugang in late afternoon light, when the park is usually empty.",
+      "body": [
+        "Norbugang is a small, shaded site, and most day visitors stay ten minutes. In late afternoon, after the Pelling day tours have left, the light slants through the trees onto the whitewashed chorten and the grey stone of the throne, and prayer flags glow against the sky.",
+        "Bring a sketchbook or a camera with a wide lens for the throne under its tree and a short telephoto for details of the chorten and flags. Respect the site: no climbing on the throne, no tripods on monuments, and no drones.",
+        "From October to March, clear evenings bring warm light; in spring, haze softens it. Walk back via Kathok Lake for reflections before dark."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Is photography allowed at Norbugang?", "a": "Outdoor photography is generally fine at Norbugang. Do not climb on the throne or chorten for a better angle, do not place tripods on the monuments and ask before photographing people or inside the temple. Drones need official permission."},
+        {"q": "When is the best light at Norbugang?", "a": "Late afternoon, roughly 1–2 hours before sunset, when light filters through the trees onto the chorten and throne and the site is quiet. October to March gives the clearest evenings. Early morning is also quiet but shadier."},
+        {"q": "How long should I spend at Norbugang?", "a": "Thirty to 45 minutes is enough for most visitors. Photographers, sketchers and history readers may want an hour or more. Combine with Kathok Lake and a walk through the village fields for a relaxed late afternoon."}
+      ]
+    },
+    {
+      "slug": "norbugang-yuksom-fields-walk",
+      "title": "Village fields walk from Norbugang",
+      "kind": "village",
+      "duration": "1.5 hours",
+      "best_time": "Mar–May and Oct–Nov",
+      "cost": "Free; guide optional",
+      "image_query": "Yuksom terraced fields village",
+      "wiki": "",
+      "summary": "From Norbugang, wander the lanes and field paths of Yuksom past farmhouses, cardamom and vegetable plots, chortens and mani walls, and see the first capital as a working village.",
+      "body": [
+        "Yuksom is a farming village before it is a heritage site. From Norbugang, lanes and footpaths lead past houses with vegetable gardens, small cardamom plots, maize and millet terraces depending on season, and chortens and mani walls carved with prayers.",
+        "Keep to paths, close gates, and ask before entering anyone's land. Villagers are used to trekkers and usually greet visitors warmly. In autumn you may see harvests; in spring, ploughing and planting.",
+        "A local guide can explain crops and village life and take you to quieter corners. Otherwise, wander for an hour and finish back at the bazaar for tea."
+      ],
+      "good_for": ["families", "couples", "solo", "budget"],
+      "faqs": [
+        {"q": "What crops grow around Yuksom?", "a": "Small farms grow vegetables, maize, millet, potatoes and large cardamom, with oranges at lower levels. Crops vary by season and household. Many families combine farming with tourism, working as guides, porters or homestay hosts."},
+        {"q": "Is it okay to walk through village fields?", "a": "Yes, on paths and lanes, as villagers do. Do not walk across planted fields, pick crops or enter houses uninvited. Close any gates behind you and keep dogs and children close. Greet people with a smile; most are friendly."},
+        {"q": "Do I need a guide for walks around Yuksom?", "a": "Not for short walks on lanes near the village. A guide helps if you want to learn about crops and households or to reach quieter paths further out. Indicatively ₹1,000–2,000 for 1–2 hours."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is Norbugang?", "a": "Norbugang is the site above Yuksom where Phuntsog Namgyal was consecrated as the first Chogyal of Sikkim in 1642. It holds the four-seat stone coronation throne, the Norbugang Chorten, a footprint stone, a small temple and a large prayer wheel."},
+    {"q": "How far is Norbugang from Yuksom?", "a": "About 1.2 km from Yuksom bazaar: walk towards Kathok Lake and take the 600 m lane up, 15–20 minutes in all. Cars can drive close to the site. It is part of every Yuksom day tour from Pelling."},
+    {"q": "Is there an entry fee at Norbugang?", "a": "It has generally been free or charged a small maintenance fee. Check current status before you travel. Donations at the temple are voluntary. Keep small notes for any fee and for tea in the bazaar afterwards."},
+    {"q": "What is the Norbugang Chorten?", "a": "A chorten (stupa) built after the 1642 coronation at Norbugang. Tradition holds that it contains earth and water from across Sikkim, a symbol of the land united under the new Chogyal. Walk around it clockwise."},
+    {"q": "Can I sit on the Norbugang throne?", "a": "No. The throne is a sacred and historic monument, and sitting on or climbing it is disrespectful. Photograph it from in front or the sides. Local visitors bow or offer a khada scarf; you may simply stand quietly."},
+    {"q": "How long should I spend at Norbugang?", "a": "Allow 30–45 minutes for the throne, chorten, temple and prayer wheel. With Kathok Lake and a guide's telling of the founding story, plan about 1.5 hours. Late afternoon is the most pleasant time."},
+    {"q": "Is Norbugang worth visiting?", "a": "Yes, if you care about why Sikkim exists as a place. It is small and simple, but it is where the kingdom began in 1642. Combined with Kathok Lake, Dubdi and Tashiding, it makes Yuksom one of the most meaningful stops in West Sikkim."},
+    {"q": "What is the footprint at Norbugang?", "a": "In front of the throne, a stone under a low railing and metal cover carries what devotees believe is the footprint of Lhatsun Chempo, the senior of the three lamas. Lift the cover gently if allowed and close it again."},
+    {"q": "When was Sikkim's first king crowned?", "a": "Phuntsog Namgyal was consecrated as the first Chogyal at Norbugang, Yuksom, in 1642. The Namgyal dynasty he founded ruled Sikkim until 1975, when the monarchy ended and Sikkim became a state of India."}
+  ]
+}

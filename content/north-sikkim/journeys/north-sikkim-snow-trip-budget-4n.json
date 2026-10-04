@@ -1,0 +1,74 @@
+{
+  "slug": "north-sikkim-snow-trip-budget-4n",
+  "title": "Lachung snow trip, December to February",
+  "region": "north-sikkim",
+  "tier": "budget",
+  "nights": 4,
+  "themes": ["snow-and-winter", "family-holidays", "lakes-and-passes"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "lachung", "nights": 2}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 11500,
+  "price_basis": "per person, twin sharing, shared jeeps and a shared North Sikkim SUV seat, budget hotel in Gangtok, heated budget lodge in Lachung with meals, snow gear hire",
+  "price_breakdown": [["Gangtok budget hotel, 2 nights with breakfast", 1800], ["Lachung lodge with heater, 2 nights with dinner and breakfast", 3200], ["Shared North Sikkim SUV seat with permit", 3500], ["Snow boots, coat and gloves hire for one day", 600], ["Shared jeeps Siliguri–Gangtok–Siliguri", 1000], ["Sikkim tourist fee", 200], ["Our planning fee", 1200]],
+  "best_months": [2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3564,
+  "meta_description": "4 nights for snow in North Sikkim, December to February: Lachung, Yumthang under snow, heated lodge and snow gear hire included, from ₹11,500 per person.",
+  "summary": "A winter trip built for seeing snow: one night in Gangtok, two in Lachung in a lodge with a heater, a morning at Yumthang Valley under snow with hired boots and coat included, and a last night in Gangtok. Zero Point is a bonus if the road is open. Best from mid-December to February.",
+  "intro": [
+    "For many Indian families, the first time touching snow is the whole reason to come to Sikkim in winter. From December to February, Yumthang Valley above Lachung is usually white, frozen waterfalls hang beside the road, and Lachung itself often wakes up under fresh snow. This trip is built around that: a lodge with a room heater in Lachung, hired snow boots, coat and gloves included, and two nights so you have a second morning if the first is closed by snowfall.",
+    "Winter has honest limits. Heavy snow can close the road above Lachung for a day or more, and Zero Point is often shut in January and February, so we sell it as a bonus, not a promise. Nights in Lachung fall to about −5 °C. Children under 5 are not permitted in North Sikkim, and the North leg needs at least two nights, which this trip meets. Check current status before you travel."
+  ],
+  "highlights": [
+    "Yumthang Valley under snow, with snow boots, coat and gloves included",
+    "Frozen waterfalls on the road up the Lachung Chu",
+    "A heated lodge in Lachung, where nights drop to about −5 °C",
+    "Two Lachung nights, giving a second chance if snow closes the road",
+    "Winter prices, about ₹11,500 per person for four nights"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 115–124 km · 4.5–5 h", "text": "From Bagdogra or NJP, a local taxi or auto takes you to the Siliguri jeep stand, and a shared jeep climbs the Teesta valley through Sevoke and Rangpo to Gangtok in 4.5 to 5 hours. Winter is dry, so NH10 is usually open, though fog in the plains can delay early flights. Check in to your budget hotel near MG Marg, hand over your ID and photos for the North Sikkim permit, and pick up anything you lack: a woollen cap, thermal socks, lip balm. Gangtok evenings in winter are about 4 to 8 °C.", "meals": "None"},
+    {"day": 2, "title": "Gangtok to Lachung", "place": "lachung", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 118 km · 5–7 h", "text": "Report to the North Sikkim stand at Vajra by 9 am. The shared SUV follows the highway past Kabi, the Seven Sisters Waterfall and Phodong, with lunch near Mangan at your own cost, and crosses the Toong check post before 4 pm. Beyond Chungthang the air turns sharp and you may see the first snow on the slopes. Reach Lachung by late afternoon. The lodge has a room heater, and our partner shop fits your snow boots, coat and gloves this evening, so you are ready for an early start. Dinner and an early night.", "meals": "Dinner"},
+    {"day": 3, "title": "Yumthang in the snow", "place": "yumthang-valley", "overnight": "Lachung", "alt_m": 2700, "drive": "≈ 48 km return · 3–5 h", "text": "Leave Lachung at about 7 am, a little later than in summer because the road needs light to be safe on ice. The drive to Yumthang Valley, 24 km at 3,564 m, passes frozen waterfalls and rhododendron forest heavy with snow. On the valley floor, walk, play and take photographs, but keep children close and stay away from the river edge. If the road to Zero Point is open, the group may choose to add it for a shared fee. Back in Lachung by lunch, with an afternoon by the heater or a walk through the snowy village.", "meals": "Breakfast, Dinner"},
+    {"day": 4, "title": "Back to Gangtok", "place": "gangtok", "overnight": "Gangtok", "alt_m": 1650, "drive": "≈ 118 km · 5–7 h", "text": "Return the hired gear and leave Lachung after breakfast. If snowfall closed the road to Yumthang yesterday and has cleared overnight, the driver may take you up early this morning instead, before the drive back; this is why we book two nights. The road down to Chungthang can be icy in the shade, so drivers go slowly. Lunch near Mangan at your own cost, and reach Gangtok by late afternoon. A warm bowl of thukpa on MG Marg is the traditional way to finish a snow trip.", "meals": "Breakfast"},
+    {"day": 5, "title": "Gangtok to Siliguri", "place": "gangtok", "overnight": "", "alt_m": 125, "drive": "≈ 115–124 km · 4.5–5 h", "text": "Take a morning shared jeep down to Siliguri, leaving by 7 to 8 am for an afternoon flight from Bagdogra or a train from NJP. The road descends 1,500 m through the Teesta valley, and the temperature climbs with it, so wear layers you can peel off. In December and January, fog in the plains sometimes delays flights at Bagdogra, so check your flight status before leaving Gangtok. If you prefer to travel on your own schedule, we can book a private car for about ₹3,500–4,500 for the vehicle.", "meals": "Breakfast"}
+  ],
+  "stays": ["snow-lion-mountain-resort-lachung", "lachung-homestays"],
+  "includes": [
+    "2 nights in a budget hotel in Gangtok with breakfast",
+    "2 nights in a heated budget lodge in Lachung with dinner and breakfast",
+    "Seat in a shared registered North Sikkim SUV, Gangtok–Lachung–Yumthang–Gangtok",
+    "North Sikkim Protected Area Permit processing",
+    "Snow boots, long coat and gloves hire for the Yumthang day",
+    "Shared jeep seats Siliguri–Gangtok–Siliguri",
+    "Sikkim ₹50 tourist fee"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Zero Point extension when open (≈ ₹3,000–4,000 per vehicle, shared)",
+    "Lunches, and dinners in Gangtok",
+    "Tips, personal expenses and 5 percent GST",
+    "Extra nights if snow or a slide holds the vehicle up north"
+  ],
+  "good_to_know": [
+    "Heavy snow can close the road above Lachung; Zero Point is often closed in January and February.",
+    "Children under 5 are not permitted in North Sikkim.",
+    "Nights in Lachung fall to about −5 °C; bring thermals, a down jacket and woollen socks.",
+    "Fog can delay flights at Bagdogra in December and January.",
+    "Keep away from frozen river edges at Yumthang.",
+    "Check current status before you travel."
+  ],
+  "upgrade": "Our comfort snow honeymoon adds a private Innova and Le Coxy Resort in Lachung, from about ₹42,000 per person for five nights.",
+  "faqs": [
+    {"q": "Will there definitely be snow?", "a": "Snow is likely but never certain. From mid-December to February, Yumthang Valley is usually snow-covered, and Lachung often gets fresh falls. In a dry winter, snow may lie only higher up towards Zero Point. March often still has deep snow at Yumthang with more reliable roads."},
+    {"q": "Is Zero Point open in winter?", "a": "Often not. Zero Point can be closed for days or weeks between January and early March after heavy snowfall, and drivers decide on the morning. When it is open, it costs roughly ₹3,000–4,000 per vehicle, shared. Yumthang itself usually has plenty of snow in this season, so you will not miss out."},
+    {"q": "Is a winter trip safe for children?", "a": "For children aged 5 and above in good health, yes, with care. Dress them in more layers than you think, keep gloves dry, limit time in the cold, and keep them away from frozen river edges. Children under 5 are not permitted in North Sikkim. Watch for altitude symptoms such as listlessness or vomiting."},
+    {"q": "What snow gear is included?", "a": "Hire of knee-high snow boots, a long padded coat and gloves for the Yumthang day is included, fitted in Lachung the evening before. Bring your own thermals, a fleece, woollen socks, a cap and sunglasses. If your feet are larger than Indian size 10, bring your own warm boots."},
+    {"q": "How cold does it get?", "a": "Lachung falls to about −5 °C at night and reaches about 5 to 8 °C on a sunny afternoon in winter. Yumthang is colder, and wind makes it feel well below freezing. Gangtok in winter is about 4 to 15 °C. The lodge room has a heater, but power cuts happen, so bring warm sleepwear."},
+    {"q": "What if snow closes the road?", "a": "If the road to Yumthang is closed on day 3, the driver will try again on the morning of day 4 before you leave. If permits to Lachung are stopped before you leave Gangtok, we refund the North Sikkim portion or swap in Tsomgo Lake, which also has winter snow. Extra nights caused by snow are charged at cost."},
+    {"q": "Can we see snow at Tsomgo Lake instead?", "a": "Yes. Tsomgo Lake at about 3,750 m, a half-day trip from Gangtok, is often frozen and surrounded by snow from January to March, and needs no overnight stay. We can add it with an extra Gangtok night. Nathu La can be added for Indian nationals on open days. Both depend on snow closures."},
+    {"q": "Is the road dangerous in winter?", "a": "Registered North Sikkim drivers handle icy roads every winter and slow down or stop when conditions are poor. The risk is delay more than danger: snow can close the road for a day. We never push a driver to go when the police or Army say no. Keep a spare day before your flight."},
+    {"q": "Can I bring my own car for a snow trip?", "a": "No. Private and outside vehicles are not allowed into North Sikkim's protected areas. Only registered North Sikkim tourist vehicles with permits can go to Lachung and Yumthang. You can drive your own car to Gangtok and leave it at your hotel, then take the shared or reserved North Sikkim vehicle."}
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_note": "Binding master list. Every slug here MUST be created by the agent that owns its district. Agents may ADD places to reach their count but must never rename or drop these. Journeys in any district may use any slug from this list.",
+  "districts": {
+    "east-sikkim": {"name": "Gangtok district (East Sikkim)", "hq": "Gangtok", "places": {
+      "gangtok": "Gangtok", "rumtek": "Rumtek", "ranka-lingdum": "Ranka and Lingdum", "tsomgo-lake": "Tsomgo Lake",
+      "nathu-la": "Nathu La", "baba-mandir": "Baba Harbhajan Singh Mandir", "kyongnosla": "Kyongnosla Alpine Sanctuary",
+      "cho-la": "Cho La", "fambong-lho": "Fambong Lho Wildlife Sanctuary", "ranipool-saramsa": "Ranipool and Saramsa Garden",
+      "hanuman-tok": "Hanuman Tok", "ganesh-tok": "Ganesh Tok", "tashi-view-point": "Tashi View Point",
+      "enchey": "Enchey Monastery", "martam": "Martam", "sang": "Sang"}},
+    "north-sikkim": {"name": "Mangan district (North Sikkim)", "hq": "Mangan", "places": {
+      "mangan": "Mangan", "dzongu": "Dzongu", "tholung-monastery": "Tholung Monastery", "lachung": "Lachung",
+      "yumthang-valley": "Yumthang Valley", "zero-point": "Zero Point (Yumesamdong)", "shingba-rhododendron-sanctuary": "Shingba Rhododendron Sanctuary",
+      "lachen": "Lachen", "thangu": "Thangu", "chopta-valley": "Chopta Valley", "gurudongmar-lake": "Gurudongmar Lake",
+      "chungthang": "Chungthang", "singhik": "Singhik", "kabi-lungchok": "Kabi Lungchok", "phodong": "Phodong",
+      "labrang": "Labrang", "seven-sisters-waterfall": "Seven Sisters Waterfall", "naga-waterfall": "Naga Waterfall"}},
+    "west-sikkim": {"name": "Gyalshing district (West Sikkim)", "hq": "Gyalshing", "places": {
+      "pelling": "Pelling", "gyalshing": "Gyalshing", "pemayangtse": "Pemayangtse Monastery", "rabdentse": "Rabdentse Ruins",
+      "sangacholing": "Sanga Choeling Monastery", "khecheopalri-lake": "Khecheopalri Lake", "yuksom": "Yuksom",
+      "dubdi-monastery": "Dubdi Monastery", "norbugang": "Norbugang", "tashiding": "Tashiding", "dentam": "Dentam",
+      "uttarey": "Uttarey", "hee-bermiok": "Hee Bermiok", "singshore-bridge": "Singshore Bridge",
+      "kanchenjunga-falls": "Kanchenjunga Falls", "darap": "Darap", "dzongri-goecha-la": "Dzongri and Goecha La",
+      "khangchendzonga-national-park": "Khangchendzonga National Park"}},
+    "south-sikkim": {"name": "Namchi district (South Sikkim)", "hq": "Namchi", "places": {
+      "namchi": "Namchi", "char-dham-solophok": "Char Dham, Solophok", "samdruptse": "Samdruptse", "namchi-rock-garden": "Namchi Rock Garden",
+      "tendong-hill": "Tendong Hill", "ravangla": "Ravangla", "buddha-park-ravangla": "Buddha Park (Tathagata Tsal)",
+      "ralang-monastery": "Ralang Monastery", "temi-tea-garden": "Temi Tea Garden", "maenam-wildlife-sanctuary": "Maenam Wildlife Sanctuary",
+      "borong": "Borong", "yangang": "Yangang", "kitam-bird-sanctuary": "Kitam Bird Sanctuary", "jorethang": "Jorethang",
+      "melli": "Melli", "kewzing": "Kewzing"}},
+    "pakyong": {"name": "Pakyong district (Old Silk Route)", "hq": "Pakyong", "places": {
+      "pakyong": "Pakyong", "aritar": "Aritar", "mankhim": "Mankhim", "zuluk": "Zuluk", "nathang-valley": "Nathang Valley",
+      "kupup": "Kupup", "padamchen": "Padamchen", "lingtam": "Lingtam", "rongli": "Rongli", "rhenock": "Rhenock",
+      "rangpo": "Rangpo", "rolep": "Rolep", "rorathang": "Rorathang", "thambi-view-point": "Thambi View Point"}},
+    "soreng": {"name": "Soreng district", "hq": "Soreng", "places": {
+      "soreng": "Soreng", "rinchenpong": "Rinchenpong", "kaluk": "Kaluk", "hilley": "Hilley",
+      "barsey-rhododendron-sanctuary": "Barsey Rhododendron Sanctuary", "okhrey": "Okhrey", "daramdin": "Daramdin",
+      "sombaria": "Sombaria", "mangalbarey": "Mangalbarey", "tharpu": "Tharpu and Mangardzong"}}
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "slug": "dubdi-monastery",
+  "name": "Dubdi Monastery",
+  "region": "west-sikkim",
+  "kind": "monastery",
+  "wiki": "Dubdi Monastery",
+  "image_query": "Dubdi Monastery Yuksom Sikkim",
+  "lat": 27.3667,
+  "lng": 88.2297,
+  "altitude_m": 2100,
+  "local_name": null,
+  "tagline": "The hermit's cell above Yuksom, often called Sikkim's oldest monastery",
+  "meta_description": "Dubdi Monastery above Yuksom (2,100 m): dated to 1701, called Sikkim's oldest, the hour-long forest walk, timings, caretaker tips and history.",
+  "summary": "Dubdi Monastery stands at about 2,100 m on a forested spur, a 3 km, one-hour climb from Yuksom. Dated to 1701 and often called the oldest monastery in Sikkim, it is also known as the Hermit's Cell after Lhatsun Chempo. It is small, quiet and looked after by a caretaker monk.",
+  "intro": [
+    "Dubdi sits on a hilltop above Yuksom, surrounded by forest, with views back over the village and the Rathong Chu valley. Wikipedia records that it was established in 1701 and describes it as the oldest monastery in Sikkim still standing: the only survivor of the four monasteries built in that early period. Its name means 'the retreat'.",
+    "The monastery belongs to the Nyingma order. It is also known as Yuksom Monastery and as the Hermit's Cell, after its ascetic founder Lhatsun Namkha Jigme, better known as Lhatsun Chempo, the senior of the three lamas who consecrated the first Chogyal at nearby Norbugang in 1642. The present building is small and simple, and holds statues and murals.",
+    "Today Dubdi is quiet. Only a caretaker monk lives there, and Wikipedia notes that visitors should inform him in advance to have the hall opened. Most people who walk up do so for the forest, the silence and the sense of standing where Sikkim's Buddhism took root."
+  ],
+  "story": {
+    "title": "The Hermit's Cell of Lhatsun Chempo",
+    "text": "Lhatsun Namkha Jigme, called Lhatsun Chempo, was a Nyingma lama from Tibet remembered in Sikkim as the most important of the three who consecrated Phuntsog Namgyal in 1642. Sikkimese tradition links him with meditation retreats around Yuksom and with the founding of early monasteries in the west, including Dubdi, Pemayangtse and Sanga Choeling. Dubdi, whose name means 'the retreat', is known as the Hermit's Cell in his memory. Wikipedia dates the monastery to 1701, in the reign of the third Chogyal, and describes it as built to commemorate the founding of the kingdom, and as the only one of four monasteries of that time to survive. The gap between the lama's life in the mid-17th century and the building's date is common in Sikkim's early history: sacred sites were often marked first by a hermit's presence and only later by a permanent temple. Walk up in the early morning and the reason a hermit chose this hill is easy to feel.",
+    "source": "Wikipedia: Dubdi Monastery; Yuksom"
+  },
+  "little_known": [
+    {"fact": "Dubdi is the only one of the four monasteries built in that early period of the kingdom that still survives, according to Wikipedia.", "source": "Wikipedia: Dubdi Monastery"},
+    {"fact": "Only one caretaker monk lives at Dubdi, and visitors are advised to let him know in advance if they want the prayer hall opened.", "source": "Wikipedia: Dubdi Monastery"},
+    {"fact": "Dubdi is also called Yuksom Monastery and the Hermit's Cell, after its ascetic founder, Lhatsun Namkha Jigme.", "source": "Wikipedia: Dubdi Monastery"}
+  ],
+  "facts": [
+    ["Best months", "Oct–May"],
+    ["Nights we suggest", "Stay 1 night in Yuksom"],
+    ["From Gangtok", "≈ 150 km to Yuksom · 6.5–7.5 h, then 1 h walk"],
+    ["Altitude", "2,100 m"],
+    ["Known for", "Dated to 1701, Hermit's Cell, forest walk"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0 (stay in Yuksom)",
+  "highlights": [
+    {"title": "The forest climb", "text": "The 3 km path from Yuksom climbs about 300 m through oak, chestnut and rhododendron, with stone steps in places. It takes about an hour up and 40 minutes down, and in the early morning the forest is full of birdsong."},
+    {"title": "A monastery from 1701", "text": "Dubdi is dated to 1701 and is often called the oldest surviving monastery in Sikkim. The building is small and simple, with murals and statues of Nyingma figures inside."},
+    {"title": "Silence on the spur", "text": "With only a caretaker in residence and few visitors, Dubdi is one of the quietest religious sites in Sikkim. Sit in the courtyard and listen to the prayer flags and the wind in the trees."},
+    {"title": "View over Yuksom", "text": "From the monastery grounds, glimpses through the trees show Yuksom's fields, the Rathong Chu valley and the hills towards Tashiding. On clear winter mornings the ranges to the north appear above the forest."},
+    {"title": "Acclimatisation walk", "text": "Trekkers bound for Dzongri and Goecha La use the Dubdi climb as a warm-up the day before the trek. It tests legs and lungs at about 2,100 m without overdoing it."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "The trail starts at the upper edge of the village and climbs about 3 km through forest to the monastery, roughly 1 hour up. Ask locally for the start; it is well used."},
+    {"mode": "Private car", "text": "There is no road to the monastery. Drive to Yuksom, about 40 km and 2 hours from Pelling (indicatively ₹2,500–3,500 one way), and walk up. Day tours from Pelling usually do not leave time for Dubdi."},
+    {"mode": "From Bagdogra / NJP", "text": "Reach Yuksom, about 170 km and 6.5–7.5 hours via Melli, Jorethang, Legship and Tashiding, or break the trip in Pelling. Walk to Dubdi the next morning."}
+  ],
+  "costs": [
+    ["Entry", "No fixed fee; donation welcome"],
+    ["Local guide from Yuksom", "≈ ₹800–1,500 for the walk"],
+    ["Car Pelling–Yuksom", "≈ ₹2,500–3,500 one way"],
+    ["Yuksom homestay", "≈ ₹1,200–2,200 per person with meals"]
+  ],
+  "where_to_stay": "Stay in Yuksom so you can walk to Dubdi in the early morning. Yuksum Residency and Hotel Tashigang are the main value hotels, and village homestays offer simple rooms with meals at lower cost. Pelling, two hours away, has comfort and premium hotels but makes Dubdi hard to fit in.",
+  "stays": ["yuksum-residency-yuksom", "hotel-tashigang-yuksom", "yuksom-village-homestays"],
+  "tips": [
+    "Ask your hotel or homestay to tell the caretaker monk you are coming, so the hall can be opened.",
+    "Start by 7–8 am: cooler air, better birding and a good chance the caretaker is in.",
+    "Wear shoes with grip; the stone steps and earth path are slippery after rain.",
+    "Carry water; there are no shops on the trail or at the monastery.",
+    "Check for leeches after the walk between May and September."
+  ],
+  "themes": ["monasteries", "treks-and-walks", "crafts-and-culture", "birds-and-wildlife"],
+  "nearby": ["yuksom", "norbugang", "tashiding", "khangchendzonga-national-park"],
+  "experiences": [
+    {
+      "slug": "dubdi-early-morning-climb",
+      "title": "Early climb to Dubdi from Yuksom",
+      "kind": "adventure",
+      "duration": "2.5 hours",
+      "best_time": "Oct–May, 7–10 am",
+      "cost": "Free; guide ≈ ₹800–1,500",
+      "image_query": "Dubdi monastery forest trail",
+      "wiki": "Dubdi Monastery",
+      "summary": "Walk an hour up through forest from Yuksom to Dubdi, dated to 1701 and called Sikkim's oldest monastery, arriving while the hill is quiet and the light soft.",
+      "body": [
+        "Leave Yuksom soon after breakfast. The trail climbs steadily for about 3 km and 300 m of height through mixed forest of oak, chestnut and rhododendron, with stone steps on steeper sections and a few benches. Most walkers take an hour, stopping to catch their breath.",
+        "At the top, Dubdi sits in a small clearing with prayer flags and a courtyard. If the caretaker monk has been told you are coming, he may open the prayer hall to show the statues and murals; leave a donation and thank him.",
+        "Rest in the courtyard, then walk down in 40 minutes, back in time for lunch in Yuksom and an afternoon at Norbugang or a drive to Tashiding."
+      ],
+      "good_for": ["couples", "solo", "families", "photographers"],
+      "faqs": [
+        {"q": "How long is the walk to Dubdi Monastery?", "a": "About 3 km each way with roughly 300 m of climb. Most people take an hour going up and 40 minutes coming down. Allow 2.5 hours in total, including time at the monastery."},
+        {"q": "Is the Dubdi walk hard?", "a": "It is moderate: a steady climb on a clear path with steps in places. Reasonably fit adults and active children manage it. Older travellers can do it slowly with rests and a walking stick. Avoid it in heavy rain, when steps are slippery."},
+        {"q": "Will the monastery be open?", "a": "Only a caretaker monk lives at Dubdi, and the hall is opened when he is there. Ask your hotel or homestay to let him know you are coming, ideally the day before. Even when the hall is closed, the grounds and views are worth the walk."}
+      ]
+    },
+    {
+      "slug": "dubdi-forest-birding",
+      "title": "Birding on the Dubdi trail",
+      "kind": "wildlife",
+      "duration": "3 hours",
+      "best_time": "Mar–May and Oct–Dec, dawn",
+      "cost": "≈ ₹2,000–3,500 for a birding guide",
+      "image_query": "Sikkim Himalayan forest birds",
+      "wiki": "",
+      "summary": "Walk slowly up the forested trail to Dubdi at dawn with binoculars, looking and listening for the mid-hill birds of West Sikkim before the day warms up.",
+      "body": [
+        "The forest between Yuksom and Dubdi, from about 1,800 to 2,100 m, is typical mid-hill Himalayan habitat, and the trail is quiet enough to stop often. At dawn, mixed flocks move through the canopy and calls echo across the slope.",
+        "Laughingthrushes, minivets, sibias, yuhinas, tits and sunbirds are typical of this belt in Sikkim; a birding guide will know what has been seen recently. We do not promise particular species; luck, season and patience decide.",
+        "Take three hours rather than one for the climb, wear muted colours and keep voices low. Finish at the monastery, where the clearing gives a chance to see birds against the sky."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "What birds can I see near Yuksom?", "a": "Mid-hill forests around Yuksom hold many Himalayan species, including laughingthrushes, minivets, sibias, yuhinas, tits, barbets and sunbirds, with more on the higher park trail. Sightings vary by season and luck; a local birding guide improves your chances greatly."},
+        {"q": "When is the best season for birding at Yuksom?", "a": "March to May, when birds are breeding and calling, and October to December, when the air is clear and some higher-altitude species move down. Dawn is the best time of day. The monsoon is wet and leechy."},
+        {"q": "Do I need special equipment for birding at Dubdi?", "a": "Binoculars are essential, and a camera with a telephoto lens helps. Carry a field guide or bird app for the Indian subcontinent, water, a light jacket and rain gear outside the dry season. Wear muted clothes and soft-soled shoes."}
+      ]
+    },
+    {
+      "slug": "dubdi-meditation-sit",
+      "title": "A quiet sit at the Hermit's Cell",
+      "kind": "wellness",
+      "duration": "1 hour",
+      "best_time": "Year-round, morning",
+      "cost": "Free; donation welcome",
+      "image_query": "Dubdi monastery courtyard",
+      "wiki": "",
+      "summary": "Spend an unhurried hour in the courtyard or hall of Dubdi, the 'retreat' linked with the hermit lama Lhatsun Chempo, in silence or simple meditation.",
+      "body": [
+        "Dubdi means 'the retreat', and the monastery is known as the Hermit's Cell after Lhatsun Chempo, the lama associated with the founding of Buddhism in Sikkim. Few places in the state suit quiet reflection better: there is no road, no crowd and often no one but the caretaker.",
+        "Sit in the courtyard facing the forest, or in the hall if the caretaker allows. You do not need any practice; simply sitting still and listening to the flags and birds for 20–30 minutes is enough. Keep phones off.",
+        "If you meditate regularly, ask the caretaker whether a longer sit is acceptable. Leave a donation, thank him, and walk down slowly."
+      ],
+      "good_for": ["solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Can I meditate at Dubdi Monastery?", "a": "Quiet sitting in the courtyard is generally welcome, and many visitors do so. Inside the hall, ask the caretaker monk first. Keep silent, remove shoes and hats, and avoid sitting with your feet pointing at the altar. Leave a small donation if you can."},
+        {"q": "Are there meditation retreats near Yuksom?", "a": "We do not know of regular public retreats at Dubdi. Some monasteries in Sikkim host courses at times, and practitioners occasionally arrange stays through personal contacts. Ask us what is available during your dates and we will check."},
+        {"q": "What is the significance of the name Dubdi?", "a": "Wikipedia translates Dubdi as 'the retreat'. The monastery is also called the Hermit's Cell after Lhatsun Namkha Jigme, the ascetic lama remembered as its founder and as the senior lama at the 1642 coronation."}
+      ]
+    },
+    {
+      "slug": "dubdi-yuksom-heritage-circuit",
+      "title": "Dubdi, Norbugang and Kathok in one morning",
+      "kind": "culture",
+      "duration": "4 hours",
+      "best_time": "Oct–May, 7–11 am",
+      "cost": "≈ ₹1,000–2,000 for a local guide",
+      "image_query": "Yuksom heritage Norbugang Dubdi",
+      "wiki": "",
+      "summary": "Link the three sites of Sikkim's founding on foot: climb to Dubdi at dawn, walk down to Norbugang's coronation throne and finish beside Kathok Lake, with a Yuksom guide.",
+      "body": [
+        "Start early with the climb to Dubdi, an hour through forest. Spend 30 minutes at the monastery dated to 1701 and linked with Lhatsun Chempo, the senior lama of the founding.",
+        "Walk back down to Yuksom and across to Norbugang, where the four-seat stone throne of the 1642 coronation stands under its tree beside the Norbugang Chorten. Your guide will explain the ranking of the seats and the footprint stone in front.",
+        "Finish at Kathok Lake, associated with the holy water that anointed the first Chogyal. By late morning you have walked through the first chapter of Sikkim's history, ready for lunch and an afternoon drive to Tashiding."
+      ],
+      "good_for": ["families", "first-timers", "solo", "couples"],
+      "faqs": [
+        {"q": "Can I see Dubdi, Norbugang and Kathok Lake in one morning?", "a": "Yes. Allow about 4 hours: 2.5 hours for the Dubdi climb and visit, and 1–1.5 hours for Norbugang and Kathok Lake on foot. Start by 7–8 am to finish before lunch and leave the afternoon for Tashiding."},
+        {"q": "Is a guide necessary for Yuksom's heritage sites?", "a": "Not for finding them, but a guide explains the history and the meaning of what you see, which otherwise has few signs. Indicatively ₹1,000–2,000 for a half day. We arrange guides who also lead treks and know the village well."},
+        {"q": "What should I carry for the Yuksom heritage walk?", "a": "Water, a light jacket, sun protection, small cash for donations and tea, and shoes with grip. Outside October to March carry a rain jacket, and from May to September add insect repellent and leech socks."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Dubdi the oldest monastery in Sikkim?", "a": "Dubdi, dated to 1701, is widely described as the oldest surviving monastery in Sikkim, and Wikipedia calls it the only survivor of four built in that early period. Other monasteries such as Pemayangtse and Sanga Choeling have earlier traditions of foundation but were rebuilt later."},
+    {"q": "How do I reach Dubdi Monastery?", "a": "Walk from Yuksom. The trail starts near the top of the village and climbs about 3 km through forest, around 1 hour up and 40 minutes down. There is no road to the monastery. Yuksom is about 40 km and 2 hours from Pelling."},
+    {"q": "Is Dubdi Monastery open every day?", "a": "The grounds are open, but the prayer hall is opened by the single caretaker monk when he is present. Let him know in advance through your hotel or homestay. Timings are informal; morning is the best chance."},
+    {"q": "Is there an entry fee at Dubdi Monastery?", "a": "There is normally no fixed fee. Donations to the monastery are welcome and help with upkeep; leave them in the box or with the caretaker after your visit. Check current status before you travel."},
+    {"q": "Who founded Dubdi Monastery?", "a": "Wikipedia records that Dubdi was established in 1701 and is named the Hermit's Cell after its ascetic founder, Lhatsun Namkha Jigme (Lhatsun Chempo), the senior lama of the 1642 coronation. It belongs to the Nyingma order."},
+    {"q": "Can I visit Dubdi on a day trip from Pelling?", "a": "It is possible but rushed. The drive is 2 hours each way, and the walk needs 2.5 hours. Most Pelling–Yuksom day tours skip it. Stay a night in Yuksom and climb in the early morning instead."},
+    {"q": "Is the Dubdi walk safe in the monsoon?", "a": "The trail stays open but becomes slippery, muddy and leech-infested from June to September. Wear shoes with grip and leech socks, carry an umbrella and avoid it in heavy rain. Check current status before you travel."},
+    {"q": "Can children walk to Dubdi?", "a": "Active children over about 6 usually manage the one-hour climb with breaks. Hold hands on steep steps. Carry water and snacks. The forest and the monastery at the top make it a satisfying family walk."},
+    {"q": "What can I see inside Dubdi Monastery?", "a": "A small prayer hall with statues of Nyingma figures and murals, opened by the caretaker when he is present. Photography inside is usually not allowed; ask first."}
+  ]
+}

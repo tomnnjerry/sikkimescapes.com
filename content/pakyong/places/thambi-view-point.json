@@ -1,0 +1,170 @@
+{
+  "slug": "thambi-view-point",
+  "name": "Thambi View Point",
+  "region": "pakyong",
+  "kind": "viewpoint",
+  "wiki": "",
+  "image_query": "Thambi view point Zuluk loops",
+  "lat": 27.2658,
+  "lng": 88.7854,
+  "altitude_m": 3413,
+  "local_name": null,
+  "tagline": "Sunrise above the Zuluk loops, beside the 1888 Lingtu ridge",
+  "meta_description": "Thambi View Point, about 3,400 m above Zuluk: sunrise over the Silk Route loops and Kangchenjunga, the 1888 Lingtu fort ridge, timings, permits and costs.",
+  "summary": "Thambi View Point is a roadside lookout at about 3,400 m, some 6 km above Zuluk on the Silk Route. From here you see the zigzag loops below and, on clear mornings, the Kangchenjunga range. Most visitors come at sunrise from Zuluk. Indian nationals only, with the Silk Route permit via Rongli.",
+  "intro": [
+    "Thambi View Point is not a village or a monument: it is a bend in the road with a railing, a signboard and one of the most photographed views in Sikkim. Stand at the edge and the road you drove from Zuluk folds back on itself below you in loop after loop. Turn west on a clear morning and the Kangchenjunga range is on the horizon.",
+    "The road continues up from Thambi to Lungthung at about 3,800 m, where a few homestays and army posts sit on an open ridge, and then over to Nathang Valley. Most travellers do the climb as a pre-dawn trip from Zuluk, watch sunrise at Thambi, stop again at Lungthung, then either return to Zuluk for breakfast or carry on to Nathang and Kupup.",
+    "There are no facilities at the view point apart from the occasional tea stall in season, and it is cold, often below freezing at dawn. The area is restricted: Indian nationals need the Silk Route permit arranged via Rongli, and foreigners are not allowed. Snow can close the road between December and March. Check current status before you travel."
+  ],
+  "story": {
+    "title": "Lingtu: the Tibetan fort on the ridge",
+    "text": "The ridge just above Thambi is the Lingtu of British and Tibetan history. Wikipedia's article on the Sikkim expedition, and OpenStreetMap, place Lingtu near Lungthung on this stretch of road. In the 1880s Tibetan troops crossed Jelep La, built a fortified gate across the road from Darjeeling into Tibet, and raised a fort to guard it, about 21 km inside Sikkim. After an ultimatum expired on 15 March 1888, Brigadier-General Thomas Graham's force fought at Jeluk (Zuluk) on 20 March, camped at Garnei within a mile of the fort, and occupied Lingtu on 21 March, against light resistance from a small garrison. The Tibetans regrouped beyond Gnathang, a plateau three or four miles north, and attacked the British camp there in May. Today the army road loops past the ridge, and few travellers at the railing know that the slope above them was once a frontier fort.",
+    "source": "Wikipedia: Sikkim expedition"
+  },
+  "little_known": [
+    {"fact": "Lingtu, the Tibetan fort taken by the British on 21 March 1888, stood on the ridge near Lungthung just above Thambi; the Chinese name for the 1888 campaign means 'Battle of the Longtu Mountain'.", "source": "Wikipedia: Sikkim expedition"},
+    {"fact": "Thambi sits at about 3,400 m, some 600 m above Zuluk, although the road distance between them is only around 6 km because of the stacked loops.", "source": "SRTM elevation data; road distance as driven"},
+    {"fact": "The road through Thambi is National Highway 717B, which connects Rhenock and Rongli with Menla via Zuluk on the Sikkim side of the border ridge.", "source": "Wikipedia: Pakyong district"}
+  ],
+  "facts": [
+    ["Best months", "Oct–Mar for clear sunrise; Apr–May for rhododendrons"],
+    ["Nights we suggest", "Visit from Zuluk; 1 night at Lungthung if acclimatised"],
+    ["From Gangtok", "≈ 96 km · 5 h via Rongli and Zuluk"],
+    ["Altitude", "≈ 3,400 m (11,200 ft)"],
+    ["Known for", "Zuluk loops, Kangchenjunga sunrise, Lingtu ridge"],
+    ["Permit", "Silk Route permit via Rongli; Indian nationals only"]
+  ],
+  "best_months": [2, 1, 1, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "The loops at first light", "text": "As the sun rises behind you, the hairpin road below Thambi appears one bend at a time out of the shadow. Photographers set up 20 minutes before sunrise; everyone else arrives with a flask of tea and stamps their feet against the cold."},
+    {"title": "Kangchenjunga on the skyline", "text": "On clear mornings, mostly October to early March, the Kangchenjunga range shows to the west and catches the first pink light. From April the haze builds, and the monsoon months usually bring cloud."},
+    {"title": "Lungthung ridge", "text": "Drive 15 minutes higher to Lungthung at about 3,800 m for a wider, open view of the range and the ridges towards Bhutan and Tibet, and a cup of tea at a homestay if one is serving."},
+    {"title": "The 1888 frontier", "text": "The Lingtu fort taken by the British in March 1888 stood on this ridge. There is nothing to see of it now, but knowing it changes how you look at the slope above the railing."},
+    {"title": "Snow days", "text": "Between December and February Thambi often carries snow, turning the loops into white lines. It is beautiful and unpredictable: the road can close at short notice, so keep a spare day and check current status before you travel."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "There is no shared transport to Thambi. Come up from Zuluk in your Silk Route car or a local vehicle hired through your homestay, typically ≈ ₹1,500–2,000 for a sunrise round trip if not already included in your package."},
+    {"mode": "Private car", "text": "From Zuluk, about 6 km and 30–40 minutes up the loops. From Gangtok, about 96 km and 5 hours via Rongli and Zuluk, so almost everyone stays a night at Zuluk first. Only Sikkim-registered vehicles with Silk Route permission are allowed."},
+    {"mode": "From Bagdogra / NJP", "text": "Around 150 km and 6–7 hours to Zuluk via Rangpo and Rongli, or via Kalimpong, Pedong and Rhenock when NH10 is closed after monsoon slides. Sleep at Zuluk or lower, then drive up for sunrise. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Sunrise trip from Zuluk", "≈ ₹1,500–2,000 per vehicle if not in package"],
+    ["Silk Route permit via Rongli", "≈ ₹200–500 per person through an agent"],
+    ["Lungthung homestay with meals", "≈ ₹1,300–2,000 per person a night"],
+    ["Tea at a seasonal stall", "≈ ₹30–50 a cup"]
+  ],
+  "where_to_stay": "There is nowhere to stay at Thambi itself. Most travellers sleep in Zuluk's family homestays, 30–40 minutes below, and drive up before dawn. Acclimatised travellers can sleep at Lungthung, a short drive above, in a few basic homestays with sunrise from the doorstep. Nathang Valley's homestays are another 30–45 minutes on. Families and first-timers should stay at Zuluk or lower at Padamchen.",
+  "stays": ["lungthung-homestays", "zuluk-homestays"],
+  "tips": [
+    "Arrive 20–30 minutes before sunrise and bring a flask of tea; there may be no stall open.",
+    "Wear your warmest layers: it is often below freezing at dawn, even in October.",
+    "Keep phone and camera batteries inside your jacket; cold drains them fast.",
+    "Do not walk onto the loose edge for photos; the drop is steep and the ground can be icy.",
+    "Do not photograph army posts or vehicles, and never fly a drone here."
+  ],
+  "themes": ["lakes-and-passes", "photography", "snow-and-winter"],
+  "nearby": ["zuluk", "nathang-valley", "padamchen", "kupup"],
+  "experiences": [
+    {
+      "slug": "thambi-loops-sunrise-photography",
+      "title": "Photograph the loops at sunrise",
+      "kind": "nature",
+      "duration": "1–1.5 hours at the view point",
+      "best_time": "Oct–Mar, 20 minutes before sunrise",
+      "cost": "Free (vehicle from Zuluk extra)",
+      "image_query": "Zuluk loops sunrise Sikkim",
+      "wiki": "",
+      "summary": "Set up at the Thambi railing before dawn and watch the zigzag road emerge from shadow as the sun rises, with the Kangchenjunga range to the west on clear days. The classic Silk Route photograph, and worth the cold start.",
+      "body": [
+        "The famous picture of the Silk Route is taken here: the road folding back on itself in tight loops, sometimes with a single vehicle's headlights climbing through them. To get it, arrive at Thambi 20–30 minutes before sunrise, when the sky is turning blue and the loops are still in shadow.",
+        "A wide lens covers the loops; a short telephoto picks out the Kangchenjunga range on the western skyline as it turns pink. A small tripod helps in low light, but space at the railing is limited on busy mornings in October and December, so be considerate. After sunrise, the light flattens quickly; many photographers move on to Lungthung for the range in full light.",
+        "Expect temperatures below freezing and wind. Keep spare batteries warm, wear gloves you can operate a camera with, and do not step beyond the railing for a better angle. In winter, snow on the loops makes the best pictures but can close the road. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "couples", "first-timers"],
+      "faqs": [
+        {"q": "What lens is best for Thambi View Point?", "a": "A wide-angle lens (16–35 mm on full frame, or your phone's main and wide cameras) captures the loops. A 70–200 mm picks out the Kangchenjunga range and details on the road. A small tripod helps before sunrise. Phones do well too; use night mode before sunrise and normal mode after."},
+        {"q": "Is Thambi crowded at sunrise?", "a": "On weekends and holiday weeks in October, December and January, several vehicles can arrive at once and space at the railing gets tight. On weekdays and in February or November it is usually quiet. Arrive early, share the space, and keep car headlights off once parked."},
+        {"q": "Can we see the loops in the afternoon?", "a": "Yes, the loops are visible all day, but afternoon cloud often rolls up from the valley, especially from March onwards, and the light is flat. Clear mornings give the best views and colour. If you arrive in the afternoon from Rongli, stop briefly and return at sunrise."}
+      ]
+    },
+    {
+      "slug": "thambi-lungthung-kangchenjunga-view",
+      "title": "Continue to Lungthung for the range",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Just after sunrise, Oct–Mar",
+      "cost": "Free (vehicle from Zuluk extra)",
+      "image_query": "Lungthung Sikkim Kangchenjunga view",
+      "wiki": "",
+      "summary": "Drive 15 minutes beyond Thambi to the open ridge at Lungthung, about 3,800 m, for a wider view of the Kangchenjunga range and the border ridges, and a hot drink if a homestay is serving.",
+      "body": [
+        "Thambi frames the loops; Lungthung frames the mountains. The ridge is open and treeless, and on a clear morning the Kangchenjunga range spreads across the western horizon while the high ridges towards the Tibet border rise behind you. A few homestays and army posts are the only buildings.",
+        "Most Silk Route cars stop here for 20–30 minutes after Thambi, then continue to Nathang Valley or return to Zuluk for breakfast. If a homestay is open, a cup of tea or noodles here is welcome in the cold. In winter, the slopes around Lungthung are often snow-covered and families stop to play.",
+        "At about 3,800 m, walk slowly and do not climb the slopes above the road; breathlessness comes quickly. People who felt unwell at Zuluk should stay in the car and go back down. Indian nationals only, with the Silk Route permit. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "families", "couples"],
+      "faqs": [
+        {"q": "How far is Lungthung from Thambi View Point?", "a": "A few kilometres up the same road, about 15 minutes' drive. Most cars stop at both on the same morning: Thambi for the loops at sunrise, then Lungthung for the wider mountain view. The road continues to Nathang Valley in another 30–45 minutes."},
+        {"q": "Is Lungthung higher than Zuluk?", "a": "Yes, by about 1,000 m. Zuluk is around 2,800 m and Lungthung around 3,800 m. That is why we suggest a short stop for most people and an overnight only for those already acclimatised. Watch for headache, dizziness or breathlessness at rest, and go down if they appear."},
+        {"q": "Can we see Kangchenjunga from Lungthung?", "a": "On clear mornings, yes, with a wider view than from Thambi. Your best chances are October to early March. Cloud and haze make it hit-and-miss from April, and the monsoon months usually hide the range completely."}
+      ]
+    },
+    {
+      "slug": "thambi-lingtu-1888-stop",
+      "title": "Read the 1888 battlefield from the road",
+      "kind": "culture",
+      "duration": "30–45 minutes",
+      "best_time": "Any clear morning",
+      "cost": "Free",
+      "image_query": "Sikkim expedition 1888",
+      "wiki": "Sikkim expedition",
+      "summary": "Stop between Thambi and Lungthung and trace the 1888 campaign on the ground: the stockade at Jeluk below, the Tibetan fort of Lingtu on the ridge, and Gnathang beyond, where the decisive fighting of that year took place.",
+      "body": [
+        "This is a history stop rather than a sight. From the road between Thambi and Lungthung you can see the whole stage of the 1888 Sikkim expedition. Below is Zuluk, the Jeluk of British reports, where Graham's force attacked a Tibetan stockade on 20 March. Above you is the ridge of Lingtu, where Tibetan troops had built a fortified gate across the trade road and a fort to guard it.",
+        "The British occupied Lingtu on 21 March 1888. The Tibetans regrouped and on 22 May attacked the British camp at Gnathang, three or four miles to the north, with what British accounts claimed were 3,000 men. The campaign ended in British victory by September, and the 1890 Convention of Calcutta fixed the Sikkim–Tibet border along the watershed you can see ahead.",
+        "There are no markers on the ridge itself, and much of it lies in army areas, so stay by the road and do not climb. Read the Wikipedia article on the Sikkim expedition before you go, then visit the memorial at Nathang to complete the story."
+      ],
+      "good_for": ["solo", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Can we visit the site of Lingtu fort?", "a": "No marked site exists, and the ridge lies close to army positions, so we do not take guests off the road. You can see the ground from the road between Thambi and Lungthung. The story is best told on the spot and completed at the war memorial near Gnathang in Nathang Valley."},
+        {"q": "Who fought in the 1888 Sikkim expedition?", "a": "A British Indian force under Brigadier-General Thomas Graham against Tibetan troops who had occupied Lingtu in Sikkim. The British won, and the 1890 Convention of Calcutta between Britain and China recognised British influence over Sikkim and set the Sikkim–Tibet border. Wikipedia's article on the Sikkim expedition gives a detailed account."},
+        {"q": "Is there a memorial to the 1888 battle?", "a": "Yes, a war memorial near Gnathang in Nathang Valley remembers men who died during the British occupation of Gnathang. It is a short stop on the Silk Route circuit, usually combined with the gumpa at Gnathang. Indian nationals only, with the Silk Route permit."}
+      ]
+    },
+    {
+      "slug": "thambi-winter-snow-stop",
+      "title": "Snow play on the high road in winter",
+      "kind": "adventure",
+      "duration": "1–2 hours",
+      "best_time": "Late Dec–Feb, when the road is open",
+      "cost": "Free; gumboots for hire ≈ ₹100–200 if available",
+      "image_query": "Zuluk snow road Sikkim winter",
+      "wiki": "",
+      "summary": "In winter the slopes around Thambi and Lungthung often carry fresh snow within a few steps of the road. A chance for families from the plains to touch snow on the Silk Route, if the army and the weather allow.",
+      "body": [
+        "From late December to February, snowfall on the upper Silk Route is common, and the open slopes between Thambi and Lungthung become the easiest place on the route to step off the road into snow. For many families from the plains it is their first snow, and it is a reason to travel in winter despite the cold.",
+        "The catch is that snow also closes the road. After heavy falls the army and road teams may stop vehicles above Zuluk for a day or more, and black ice makes the loops risky in the early morning. We plan winter trips with spare days and confirm the road with homestays and drivers each evening.",
+        "Dress properly: waterproof boots or gumboots, gloves, thermals and a good jacket. Stay close to the road and do not walk onto slopes or cornices. Children tire quickly at this height; keep play short and keep them warm. Check current status before you travel."
+      ],
+      "good_for": ["families", "first-timers", "couples"],
+      "faqs": [
+        {"q": "When is there snow at Thambi and Lungthung?", "a": "Most often from late December to February, with occasional falls in March and even early April. Snow is never guaranteed, and heavy falls can close the road. We watch forecasts and ask homestays each evening during winter trips. Check current status before you travel."},
+        {"q": "Is the Silk Route open in January?", "a": "Often, but not always. Heavy snowfall can close the road above Zuluk for a day or several, and permits may be paused. We build at least one spare day into January and February trips. If the upper road is closed, Zuluk and the lower villages usually remain reachable."},
+        {"q": "What should we wear for snow at Thambi?", "a": "Waterproof boots or gumboots, two pairs of socks, thermals, a fleece, a windproof down or padded jacket, gloves and a warm cap. Sunglasses help on bright mornings. Cotton jeans get wet and cold fast; carry a spare pair of socks and trousers in the car."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Thambi View Point from Zuluk?", "a": "About 6 km up the loops, 30–40 minutes by car. Most travellers leave Zuluk before dawn for sunrise and return for breakfast, or continue to Lungthung and Nathang Valley. The road can be slow and icy in winter, so start early and trust your driver's judgement."},
+    {"q": "What is the altitude of Thambi View Point?", "a": "About 3,400 m, often quoted as 11,200 ft. That is around 600 m higher than Zuluk. Spend only an hour or so here if you are not acclimatised, walk slowly, and go down if you feel headache, dizziness or breathlessness at rest."},
+    {"q": "Can foreigners visit Thambi View Point?", "a": "No. Thambi lies on the restricted upper Silk Route, which is open to Indian nationals only, with a permit arranged via Rongli. Foreign travellers can visit Aritar, Mankhim and Rhenock on the lower route. Rules change, so check current status before you travel."},
+    {"q": "What time is sunrise at Thambi?", "a": "Roughly 5:00–5:30 am from April to August, 5:30–6:00 am in October, and around 6:15 am in December and January. Plan to be at the railing 20–30 minutes earlier. Your Zuluk homestay will tell you the departure time that works for the season."},
+    {"q": "Is Thambi worth visiting without a clear view of Kangchenjunga?", "a": "Yes. The loops below Thambi are the reason most people come, and they are visible even when cloud hides the high peaks. On cloudy days the mist moving through the bends has its own drama. If it is fully clouded in, wait 15 minutes; the valley often clears briefly."},
+    {"q": "Are there toilets or food at Thambi View Point?", "a": "No permanent facilities. A tea stall sometimes operates in the busy season, and a few homestays at Lungthung may serve tea and noodles. Use the toilet at your Zuluk homestay before leaving, and carry water and snacks."},
+    {"q": "Which is better for sunrise, Thambi or Lungthung?", "a": "Thambi for the loops, Lungthung for the mountains. Most cars stop at Thambi for sunrise and then drive 15 minutes higher to Lungthung for the wider Kangchenjunga view. If you sleep at Lungthung, you get the mountains from the door but lose the classic loops photo at first light."},
+    {"q": "Is it safe for children to go to Thambi?", "a": "For a short stop, yes, for children who did well at Zuluk. Keep them warm and in the car if they feel unwell. We do not suggest overnight stays at Lungthung or Nathang for infants and toddlers. Children under 5 are not permitted in some North Sikkim protected areas; for the Silk Route, ask us."},
+    {"q": "Is a separate permit needed for Thambi?", "a": "No separate permit. The Silk Route permit arranged via Rongli covers Zuluk, Thambi, Lungthung and Nathang for Indian nationals. Your driver carries copies, and police or army may check them on the way. Fees are about ₹200–500 per person through agents. Check current status before you travel."}
+  ]
+}

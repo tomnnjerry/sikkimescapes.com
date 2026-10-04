@@ -1,0 +1,170 @@
+{
+  "slug": "fambong-lho",
+  "name": "Fambong Lho Wildlife Sanctuary",
+  "region": "east-sikkim",
+  "kind": "sanctuary",
+  "wiki": "Fambong Lho Wildlife Sanctuary",
+  "image_query": "Fambong Lho Wildlife Sanctuary forest Sikkim",
+  "lat": 27.3113,
+  "lng": 88.5337,
+  "altitude_m": 2100,
+  "local_name": null,
+  "tagline": "Oak, magnolia and red panda forest west of Gangtok",
+  "meta_description": "Fambong Lho Wildlife Sanctuary guide: forest walks to Tinjure ridge, birds and red panda habitat, permits, guide and car costs, best months from Gangtok.",
+  "summary": "Fambong Lho is a 51 sq km wildlife sanctuary of broadleaf and conifer forest on the ridge west of Gangtok, rising from about 1,524 m to 2,749 m at Tinjure. Set up in 1984, it is the nearest big forest to the capital for birding and day hikes. Visit with a guide and forest permission.",
+  "intro": [
+    "Fambong Lho covers about 51 sq km of forested ridge on the far side of the Ranka valley from Gangtok, roughly 25–30 km away by road. It was declared a wildlife sanctuary in 1984. The altitude runs from about 1,524 m to 2,749 m at Tinjure, the highest point, and streams from its slopes drain to the Teesta and the Dikchu river.",
+    "The forest changes with height: subtropical broadleaf trees lower down, then oak, magnolia, rhododendron and bamboo, and conifers near the ridge. The sanctuary is known for birds, with records of the satyr tragopan, fire-tailed myzornis, minlas, barwings, scimitar babblers and even a rare hornbill. Mammals include barking deer, yellow-throated marten, red panda and Royle's pika.",
+    "Visitors come for day walks and birding rather than sightseeing. There is a forest log house inside the sanctuary, and trails lead up towards Tinjure ridge. You need forest department permission and, in practice, a local guide who knows the paths. March to May brings flowering rhododendrons and magnolias; October to December gives clear views."
+  ],
+  "story": {
+    "title": "A forest at the meeting of two worlds",
+    "text": "Fambong Lho sits where two of the great biological realms meet: the Palearctic of temperate Asia and the Indomalayan of the tropics. Within a few kilometres of trail you climb from forest that feels almost subtropical, with ferns and broadleaf evergreens, into cool oak, magnolia and rhododendron, then conifers on the ridge. The sanctuary's Wikipedia entry and Sikkim forest department material list five ecoregions, from subtropical grassland to sub-alpine conifer forest, inside an area smaller than many city districts. That mix is why birders value it: species of the warm valleys and of the high forest overlap here, close enough to Gangtok for a morning trip. The forest is not untouched. On 4 February 2017 a major fire broke out on Tinjure ridge, and helicopters spent several days dropping water before it was brought under control. Parts of the ridge are still recovering.",
+    "source": "Wikipedia: Fambong Lho Wildlife Sanctuary; Sikkim Forest Department"
+  },
+  "little_known": [
+    {"fact": "Fambong Lho was declared a wildlife sanctuary in 1984 and covers about 51 sq km, from 1,524 m to 2,749 m at Tinjure.", "source": "Wikipedia: Fambong Lho Wildlife Sanctuary"},
+    {"fact": "In February 2017 a fire on Tinjure ridge inside the sanctuary burned for several days; 18 helicopters were sent to help put it out.", "source": "Wikipedia: Fambong Lho Wildlife Sanctuary"},
+    {"fact": "Birders have recorded a rare hornbill and the fire-tailed myzornis in Fambong Lho, both prized species in the eastern Himalaya.", "source": "Wikipedia: Fambong Lho Wildlife Sanctuary"}
+  ],
+  "facts": [
+    ["Best months", "March–May and October–December"],
+    ["Nights we suggest", "Day trip from Gangtok"],
+    ["From Gangtok", "≈ 25–30 km · 1–1.5 h"],
+    ["Altitude", "≈ 1,524–2,749 m"],
+    ["Known for", "Birding, broadleaf forest, Tinjure ridge, red panda habitat"],
+    ["Permit", "Forest department permission and entry fee; guide advised"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Birding close to the capital", "text": "Within about an hour of Gangtok, Fambong Lho's mixed forest holds minlas, barwings, laughingthrushes, scimitar babblers, the satyr tragopan and, with luck, the fire-tailed myzornis. Early mornings from October to May are best. A local bird guide doubles your sightings."},
+    {"title": "Tinjure ridge", "text": "The highest point of the sanctuary, at about 2,749 m, Tinjure gives views over the forest towards the Kangchenjunga range on clear days. Trails climb steadily through oak, rhododendron and bamboo. Parts of the ridge are still recovering from the 2017 fire."},
+    {"title": "Spring flowers in the forest", "text": "From March to May, rhododendrons and magnolias flower through the middle and upper forest, and orchids bloom on the trunks lower down. It is the most colourful time to walk, though afternoon showers start in May."},
+    {"title": "The forest log house", "text": "A forest department log house stands inside the sanctuary, a base for walks deeper into the forest. Beyond it, the trail climbs through uninhabited forest towards the ridge. Ask us about current arrangements, as access and bookings are managed by the forest department."},
+    {"title": "Red panda country", "text": "Bamboo thickets in the upper forest are red panda habitat, and forest records note the animal here, along with barking deer, yellow-throated martens and Royle's pikas. Sightings of the panda are rare; go with low expectations and a quiet group."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "There is no regular shared transport into the sanctuary. Shared jeeps run from Gangtok towards Ranka and Rumtek, but you would still need to walk or hire a car to reach the trailhead. For a day hike, a reserved car is far more practical."},
+    {"mode": "Private car", "text": "A reserved small car from Gangtok to the sanctuary edge and back costs about ₹2,500–3,500 for the day, including waiting time. The drive of 25–30 km on the Ranka side takes 1–1.5 hours. We arrange forest permission and a local guide in advance."},
+    {"mode": "From Bagdogra / NJP", "text": "Fambong Lho is a day trip from Gangtok. From Bagdogra or NJP, allow 4–5 hours to Gangtok on NH10, which closes in the monsoon, then visit on a later day. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Reserved small car, day trip", "≈ ₹2,500–3,500"],
+    ["Local guide or bird guide, day", "≈ ₹2,000–3,500"],
+    ["Sanctuary entry and permission", "Small fee; ask us for the current rate"],
+    ["Packed lunch from Gangtok", "≈ ₹200–400 a person"]
+  ],
+  "where_to_stay": "Most visitors stay in Gangtok and go for the day. The Hidden Forest Retreat at Sichey, with its orchid nursery and birdlife, suits nature lovers; Netuk House on Tibet Road is a characterful base; Mintokling Guest House and Hotel Sonam Delek suit budgets. For a quieter base on the same side of the valley, Martam village homestays are about an hour away beyond Rumtek. Overnight stays inside the sanctuary depend on forest department arrangements; ask us.",
+  "stays": ["hidden-forest-retreat-gangtok", "martam-village-homestays"],
+  "tips": [
+    "Start early: birds are most active from dawn to about 10 am.",
+    "Arrange forest permission and a guide before the day; trails are not signposted.",
+    "Wear leech socks and waterproof shoes from May to September.",
+    "Carry water, snacks and a light rain jacket; there are no shops inside the sanctuary.",
+    "Keep voices low and never play bird calls; it disturbs nesting birds."
+  ],
+  "themes": ["birds-and-wildlife", "flowers-and-forests", "treks-and-walks"],
+  "nearby": ["ranka-lingdum", "rumtek", "gangtok", "martam"],
+  "experiences": [
+    {
+      "slug": "fambong-lho-forest-day-hike",
+      "title": "Day hike through Fambong Lho forest",
+      "kind": "nature",
+      "duration": "5–6 hours",
+      "best_time": "March–May and October–December",
+      "cost": "Guide ≈ ₹2,000–3,500; car ≈ ₹2,500–3,500",
+      "image_query": "Fambong Lho forest trail",
+      "wiki": "Fambong Lho Wildlife Sanctuary",
+      "summary": "A guided day walk through Fambong Lho's layers of forest, from broadleaf trees and ferns into oak, magnolia, rhododendron and bamboo. Steady climbing, birdsong and almost no other walkers, about an hour from Gangtok.",
+      "body": [
+        "We start early from Gangtok and drive about 25–30 km to the sanctuary edge on the Ranka side. With a local guide and forest permission, the walk follows forest paths uphill. Lower down, the trees are broadleaf evergreens hung with ferns, mosses and orchids; higher up, the forest turns to oak, magnolia, rhododendron and stands of bamboo.",
+        "The pace is gentle, with plenty of stops for birds, plants and views. A typical day covers 8–12 km with 500–800 m of climbing, depending on the route your guide chooses and the season. Packed lunch is eaten in a clearing or near the forest log house. Paths can be muddy and steep in places.",
+        "From March to May, rhododendrons and magnolias flower; from October to December the air is clearest. In the monsoon, leeches and slippery paths make walking hard, and we usually suggest other options. Carry water, rain gear and warm layers, as the upper forest is several degrees colder than Gangtok."
+      ],
+      "good_for": ["couples", "solo", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the Fambong Lho day hike?", "a": "It is moderate: about 8–12 km with 500–800 m of climbing, on forest paths that can be steep, rooty and muddy. Reasonably fit walkers, including active older children and seniors, manage it at a gentle pace. Good shoes with grip and a walking pole help on descents."},
+        {"q": "Do we need a guide for Fambong Lho?", "a": "Yes. Trails inside the sanctuary are not signposted, branch frequently and pass through dense forest. A local guide keeps you on track, arranges forest permission and spots birds and wildlife you would miss. Expect about ₹2,000–3,500 for a day."},
+        {"q": "Are there leeches in Fambong Lho?", "a": "Yes, from about May to September, especially after rain. Wear leech socks or tuck trousers into socks, and carry salt or a lighter to remove leeches. They are harmless but unpleasant. From October to April, leeches are rare and walking is much more comfortable."}
+      ]
+    },
+    {
+      "slug": "fambong-lho-birding-morning",
+      "title": "Birding morning in Fambong Lho",
+      "kind": "wildlife",
+      "duration": "4–5 hours",
+      "best_time": "October–May, dawn to 10 am",
+      "cost": "Bird guide ≈ ₹2,500–3,500; car ≈ ₹2,500–3,500",
+      "image_query": "satyr tragopan Sikkim",
+      "wiki": "",
+      "summary": "An early start with a local bird guide in one of the best forest birding sites near Gangtok. Mixed flocks of minlas, barwings and tits, laughingthrushes and scimitar babblers, with chances of the satyr tragopan and other prized species.",
+      "body": [
+        "Fambong Lho's position, where tropical and temperate forest meet, gives it an unusually long bird list for its size. Records include hill partridge, satyr tragopan, fire-tailed myzornis, bar-throated and red-tailed minlas, black-eared shrike babbler, scaly laughingthrush, streak-breasted scimitar babbler, rusty-fronted barwing, yellow-browed tit, red-headed bullfinch and crimson-browed finch.",
+        "We leave Gangtok before dawn and reach the forest edge as the birds start calling. Mixed flocks move through the canopy in the first hours; a good guide hears them coming. Walk slowly, stay together and keep voices low. Never use playback calls, especially in the breeding season from April to June.",
+        "Winter, from November to February, brings altitudinal migrants down into the middle forest, while spring brings breeding plumage and song. Bring binoculars, a field guide to Indian birds and warm layers for the cold early start. Combine the morning with a lunch in Gangtok or a visit to Ranka and Lingdum."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "What birds can we see in Fambong Lho?", "a": "Common species include minlas, laughingthrushes, tits, barwings and scimitar babblers in mixed flocks. With luck and a good guide, you may see the satyr tragopan, hill partridge, fire-tailed myzornis or red-headed bullfinch. A rare hornbill has also been recorded."},
+        {"q": "When is the best season for birding in Fambong Lho?", "a": "October to May is best. Winter brings altitudinal migrants down into the forest and clear mornings; April and May bring breeding plumage and song. Avoid playback in the breeding season. The monsoon, June to September, is wet, leechy and harder for birding."},
+        {"q": "Can we combine Fambong Lho birding with Kyongnosla?", "a": "Yes, on separate days. Fambong Lho covers the middle-altitude forest, from about 1,500 to 2,750 m, while Kyongnosla, on the Tsomgo road, covers the high forest above 3,300 m, where the blood pheasant lives. Two mornings give a good cross-section of Sikkim's forest birds."}
+      ]
+    },
+    {
+      "slug": "fambong-lho-tinjure-ridge-walk",
+      "title": "Climb towards Tinjure ridge",
+      "kind": "adventure",
+      "duration": "Full day",
+      "best_time": "October–December and March–April",
+      "cost": "Guide ≈ ₹2,500–3,500; car ≈ ₹3,000–3,500",
+      "image_query": "Tinjure ridge Sikkim forest",
+      "wiki": "",
+      "summary": "A longer, harder walk up through Fambong Lho to the area of Tinjure, at about 2,749 m the sanctuary's highest point. For fit walkers who want a proper forest climb and, on clear days, mountain views, within a day of Gangtok.",
+      "body": [
+        "Tinjure is the highest point of Fambong Lho, at about 2,749 m. The route up climbs steadily through oak, magnolia, rhododendron and bamboo, with the forest becoming cooler and more open near the ridge. Above the log house there are no settlements, just forest, so you must be self-sufficient for the day.",
+        "Expect a long day of 7–9 hours with substantial climbing, depending on where you start and the route your guide chooses. On clear days in October to December, the upper ridge gives views over the forest towards the Kangchenjunga range. Parts of the ridge are still recovering from the major fire of February 2017.",
+        "Go only with a local guide and forest permission, and start early to be off the ridge before afternoon cloud. Carry plenty of water, food, a warm layer, a rain jacket, a headtorch and a basic first-aid kit. This walk is not suitable in the monsoon or after heavy rain."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How high is Tinjure in Fambong Lho?", "a": "Tinjure is the highest point of Fambong Lho Wildlife Sanctuary, at about 2,749 m (9,019 ft). The sanctuary's lowest areas are around 1,524 m. The walk up involves a long, steady climb through several forest types, so it suits fit, experienced walkers."},
+        {"q": "Is the Tinjure walk suitable for beginners?", "a": "Not really. It is a long day with substantial climbing on forest paths, little shelter and no shops or settlements on the upper section. Beginners should try the shorter forest day hike first. Fit walkers with some hill experience will enjoy it with a guide."},
+        {"q": "What happened in the 2017 Fambong Lho fire?", "a": "On 4 February 2017, a major forest fire broke out on Tinjure ridge inside the sanctuary. It took several days to control, and 18 helicopters were sent to help douse it. Parts of the ridge are still recovering."}
+      ]
+    },
+    {
+      "slug": "fambong-lho-spring-rhododendron-magnolia",
+      "title": "Rhododendrons and magnolias in spring",
+      "kind": "nature",
+      "duration": "4–5 hours",
+      "best_time": "Mid-March to early May",
+      "cost": "Guide ≈ ₹2,000–3,000; car ≈ ₹2,500–3,500",
+      "image_query": "Sikkim magnolia rhododendron forest spring",
+      "wiki": "",
+      "summary": "A gentle spring walk in the middle forest of Fambong Lho, when magnolias and rhododendrons flower and orchids open on the tree trunks. The most colourful time to visit, and an easy add-on to a Gangtok stay in March or April.",
+      "body": [
+        "Spring arrives in Fambong Lho from mid-March. The white and pink flowers of magnolia trees show first against the still-bare canopy, followed by rhododendrons in red and pink higher up. Lower down, epiphytic orchids bloom on mossy trunks. Birds are in full song, and the forest is at its most alive.",
+        "This walk keeps to the middle forest, with modest climbing and plenty of time to stop and photograph. Your guide will point out trees, orchids and birds. Afternoon cloud and showers become common from late April, so start early and plan to be back at the car by early afternoon.",
+        "Flowering times shift with the year by a week or two, and with altitude. If you miss the peak in Fambong Lho, the higher Kyongnosla forest on the Tsomgo road flowers later, usually from mid-April to late May. Do not pick flowers or collect orchids; it is illegal in the sanctuary."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "families"],
+      "faqs": [
+        {"q": "When do magnolias flower in Fambong Lho?", "a": "Usually from mid-March to early April in the middle forest, often before the trees come into leaf. Rhododendrons follow from late March into May, higher up. Timing varies with the year. Ask us for recent reports before you plan a spring walk."},
+        {"q": "Is the spring walk in Fambong Lho easy?", "a": "It is one of the easier ways into the sanctuary: a few hours with modest climbing on forest paths, at a gentle pace. Paths can still be uneven and muddy after rain, so wear shoes with grip. Older children and active seniors usually manage well."},
+        {"q": "Can we see orchids in Fambong Lho?", "a": "Yes. Epiphytic orchids grow on trees in the lower and middle forest and flower mainly in spring and early summer. Your guide can help spot them. Collecting orchids is illegal in the sanctuary; buy licensed plants from nurseries in Gangtok if you want one."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Fambong Lho Wildlife Sanctuary?", "a": "It lies on the forested ridge west of Gangtok, across the Ranka valley, about 25–30 km by road and 1–1.5 hours away. It covers about 51 sq km, from 1,524 m to 2,749 m at Tinjure, and is managed by the Sikkim Forest Department."},
+    {"q": "Do we need a permit for Fambong Lho?", "a": "You need permission from the Sikkim Forest Department and pay a small entry fee. No protected-area permit like Tsomgo's is required for Indians. Foreigners with the Sikkim Restricted Area Permit can usually visit. We arrange permission and a guide in advance. Check current status before you travel."},
+    {"q": "What animals live in Fambong Lho?", "a": "Recorded mammals include barking deer, yellow-throated marten, red panda, Himalayan striped squirrel and Royle's pika, with musk deer and red fox higher up. Birds are the main attraction, including the satyr tragopan, minlas and laughingthrushes. Mammal sightings are uncommon."},
+    {"q": "Is Fambong Lho good for families?", "a": "For families who enjoy walking, yes. Short forest walks with a guide suit children over about eight. The longer climb to Tinjure is not suitable for young children. There are no cafés or toilets inside, so carry everything you need and plan to be out for half a day."},
+    {"q": "What is the best time to visit Fambong Lho?", "a": "March to May for flowers and birdsong, October to December for clear weather and views. January and February are cold but often clear. June to September is monsoon: leeches, slippery paths and heavy rain make walking difficult, and we usually suggest other options."},
+    {"q": "How much does a Fambong Lho trip cost?", "a": "Expect about ₹2,500–3,500 for a reserved small car from Gangtok for the day, ₹2,000–3,500 for a local guide, and a small sanctuary entry fee. A packed lunch adds ₹200–400 per person. Prices are indicative and vary with season and route."},
+    {"q": "Can we stay overnight in Fambong Lho?", "a": "A forest log house exists inside the sanctuary, managed by the forest department. Availability and booking rules change, so ask us before you plan an overnight stay. Most visitors stay in Gangtok or at a Martam homestay and visit for the day."},
+    {"q": "Is Fambong Lho the same as Fambong La?", "a": "Yes. The sanctuary's name appears in several spellings, including Fambong Lho, Fambong La and Fambonglho. All refer to the same 51 sq km wildlife sanctuary west of Gangtok. Its Wikipedia article and most government material use Fambong Lho."},
+    {"q": "Can we see red pandas in Fambong Lho?", "a": "Red pandas live in the upper bamboo forest, but they are shy and rarely seen. Treat a sighting as a lucky bonus. For a certain view, visit the Himalayan Zoological Park at Bulbuley in Gangtok, which keeps red pandas in large forested enclosures."}
+  ]
+}

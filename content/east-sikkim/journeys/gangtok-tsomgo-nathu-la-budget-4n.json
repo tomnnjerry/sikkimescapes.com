@@ -1,0 +1,199 @@
+{
+  "slug": "gangtok-tsomgo-nathu-la-budget-4n",
+  "title": "Gangtok, Tsomgo and Nathu La on a budget",
+  "region": "east-sikkim",
+  "tier": "budget",
+  "nights": 4,
+  "themes": [
+    "lakes-and-passes",
+    "monasteries",
+    "snow-and-winter"
+  ],
+  "stops": [
+    {
+      "place": "gangtok",
+      "nights": 4
+    }
+  ],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 11000,
+  "price_basis": "per person, twin sharing, 2 people, shared jeeps and shared permit-day seat, small car shared by two for sightseeing, budget hotel with breakfast",
+  "price_breakdown": [
+    [
+      "Stays, 4 nights with breakfast",
+      6000
+    ],
+    [
+      "Shared jeeps NJP–Gangtok and back",
+      1000
+    ],
+    [
+      "Tsomgo, Baba Mandir and Nathu La shared seat with permits",
+      1500
+    ],
+    [
+      "Rumtek and Lingdum day, small car shared by two",
+      1250
+    ],
+    [
+      "Dawn viewpoint on the last morning, small car shared by two",
+      750
+    ],
+    [
+      "Sikkim tourist fee",
+      50
+    ],
+    [
+      "Our planning fee",
+      500
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 4310,
+  "meta_description": "Gangtok, Tsomgo Lake, Baba Mandir and Nathu La in 4 nights on a budget from ₹11,000 per person, with Rumtek, Lingdum, a dawn viewpoint and shared jeeps.",
+  "summary": "Four nights in Gangtok for about ₹11,000 per person, built around the Nathu La day: the 4,310 m pass on the Tibet border, with Tsomgo Lake and Baba Mandir on the way. Add Rumtek and Lingdum across the valley, a dawn Kanchenjunga viewpoint and evenings on MG Marg. For Indian nationals; Nathu La is usually closed Monday and Tuesday.",
+  "intro": [
+    "Nathu La is the highest place most visitors reach in Sikkim, and it is only open to Indian nationals, usually from Wednesday to Sunday. This trip is built so you get there: the permit day sits in the middle of four nights, with a spare day after it in case snow or Army orders close the road. You travel on shared jeeps and a shared permit-day seat, and split a small car for the two sightseeing days, which keeps the cost down without missing anything.",
+    "You sleep four nights in the same clean budget hotel near MG Marg, so there is no packing and unpacking. Day 2 is a gentle day in town to get used to the altitude, day 3 is the permit day, and day 4 crosses the valley to Rumtek, seat of the 16th Karmapa, and the forest monastery at Lingdum. On the last morning you can see Kanchenjunga at dawn before the drive down. Every cost is listed below."
+  ],
+  "highlights": [
+    "Nathu La at 4,310 m, the old trade pass to Tibet, reopened for border trade in 2006",
+    "Tsomgo Lake at 3,753 m and the Baba Harbhajan Singh shrine",
+    "Rumtek, the Dharma Chakra Centre, and the quiet forest monastery at Lingdum",
+    "Kanchenjunga at dawn from Tashi View Point or Hanuman Tok",
+    "Four nights in one hotel, with a spare day for snow closures"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Shared jeep to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "We meet you at NJP or Bagdogra and put you on a shared jeep up NH10 through the Teesta valley and the Rangpo check post into Sikkim. In the monsoon NH10 closes after landslides, and traffic goes via Kalimpong and Lava, adding two to four hours; check current road status before you travel. Check in near MG Marg and give us your photo ID and two passport photos for the Nathu La and Tsomgo permits, which our registered agent applies for the day before. Rest, drink water and take an easy evening walk.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Rest day: MG Marg and the ropeway",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "",
+      "text": "A slow day helps your body adjust to 1,650 m before tomorrow's climb to 4,310 m. Walk the ridge from MG Marg to the Ridge Park and the Flower Exhibition Centre, ride the 1 km ropeway between Deorali and Tashiling, and visit the Do Drul Chorten, built in 1945–46, where you can turn its 108 prayer wheels. The Namgyal Institute of Tibetology is next door; check its opening days locally. Eat momos and thukpa in the lanes off MG Marg and go to bed early.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Tsomgo, Baba Mandir and Nathu La",
+      "place": "nathu-la",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 110 km round trip · 8–9 h",
+      "text": "Leave at about 7:30 am on your shared permit-day seat. The road climbs past the 15th Mile check post and the Kyongnosla forest to Tsomgo Lake at 3,753 m, then on to Baba Mandir, the shrine to Sepoy Harbhajan Singh, built in 1982 at about 4,000 m. Nathu La is the last steep climb, at 4,310 m, where you walk slowly up to the border fence. Visitors usually get 30–45 minutes. You are back by about 4 pm. If the pass is closed for snow, we move this day to day 4.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Rumtek and Lingdum monasteries",
+      "place": "rumtek",
+      "overnight": "Gangtok",
+      "alt_m": 1650,
+      "drive": "≈ 60 km · 5–6 h",
+      "text": "Your shared small car crosses the valley to Rumtek, about 24 km away. A monastery was first built here in the mid-18th century under the 12th Karmapa, and the 16th Karmapa built the present Dharma Chakra Centre after leaving Tibet in 1959; it was inaugurated in 1966. Carry ID for the security check. See the Golden Stupa, then drive to Lingdum near Ranka, a Zurmang Kagyu monastery completed around the end of the 1990s in a forest clearing. Back in Gangtok for a final evening at Lal Market.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Dawn viewpoint, then down to the plains",
+      "place": "gangtok",
+      "overnight": "",
+      "alt_m": 126,
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "On a clear morning between October and April, leave at about 5:15 am for Tashi View Point or Ganesh Tok to see the Kanchenjunga range turn gold, then return for breakfast. By 8:30 am you are on a shared jeep down to NJP or Siliguri, arriving by early afternoon for evening trains and later flights from Bagdogra. If your flight leaves before about 1 pm, skip the viewpoint. In the monsoon allow extra time for possible NH10 closures; check current road status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-sonam-delek-gangtok",
+    "mintokling-guest-house-gangtok"
+  ],
+  "includes": [
+    "4 nights in a clean budget hotel near MG Marg, twin sharing, with breakfast",
+    "Shared jeep seats NJP or Siliguri to Gangtok and back",
+    "Shared seat to Tsomgo Lake, Baba Mandir and Nathu La, with permits",
+    "Small car shared by two for the Rumtek and Lingdum day and the dawn viewpoint",
+    "Sikkim ₹50 tourist fee",
+    "Our planning, permit paperwork and 24-hour phone support"
+  ],
+  "excludes": [
+    "Train or flights to NJP or Bagdogra",
+    "Lunches and dinners",
+    "Entry fees, ropeway ticket, yak rides and snow-boot rental",
+    "Extra costs from road closures, such as an added night",
+    "Tips and anything not listed"
+  ],
+  "good_to_know": [
+    "Nathu La is open to Indian nationals only, usually Wednesday to Sunday; book so that day 3 falls on an open day",
+    "Permits need a photo ID and two passport photos per person, given to us on arrival day",
+    "Nathu La closes after snow, most often from December to March; check current status before you travel",
+    "Walk slowly at 4,310 m; go down if a headache worsens or you feel breathless at rest",
+    "Carry ID to Rumtek for the security check at the gate",
+    "Carry a refillable bottle; packaged water is restricted in parts of Sikkim at times"
+  ],
+  "upgrade": "Our value version gives you a private small car for every day and a 3-star hotel such as Hotel Tibet or Netuk House, for roughly ₹9,000 more per person.",
+  "faqs": [
+    {
+      "q": "Can foreigners book this Nathu La trip?",
+      "a": "Not the Nathu La day. Nathu La is open only to Indian nationals. Foreign nationals can visit Tsomgo Lake in a group of two or more with a one-day permit through our registered agent, and Rumtek and Lingdum need no extra permit. We can adapt this trip for foreigners with Tsomgo only. Check current rules before you travel."
+    },
+    {
+      "q": "Which days of the week should we start?",
+      "a": "Start on a Monday, Tuesday, Wednesday or Thursday, so that day 3, the Nathu La day, falls between Wednesday and Saturday, when the pass is usually open, and day 4 can serve as a spare open day. Nathu La is normally closed on Monday and Tuesday. Check current status before you travel, as open days can change."
+    },
+    {
+      "q": "Why is there a rest day before Nathu La?",
+      "a": "Because the climb from Gangtok's 1,650 m to Nathu La's 4,310 m happens in about three hours, and a day at Gangtok first lets your body adjust. It reduces headaches and breathlessness at the pass. The rest day is still full: MG Marg, the ropeway, the Do Drul Chorten and the Tibetology institute."
+    },
+    {
+      "q": "What if Nathu La is closed on our permit day?",
+      "a": "We move the permit day to day 4 and do Rumtek on day 3. If the pass stays closed, we still go to Tsomgo Lake and Baba Mandir when the road allows, and refund the unused Nathu La part of the shared seat. Snow closures are most common from December to March."
+    },
+    {
+      "q": "How cold is it at Nathu La?",
+      "a": "Cold in every season. From November to April temperatures at the pass are usually below freezing, with a sharp wind, and even in summer it is around 5–10 °C. Wear a down or heavy fleece jacket, cap, gloves and sunglasses. Snow boots can be rented on the way up in winter for about ₹100–200."
+    },
+    {
+      "q": "Is Nathu La safe for older travellers?",
+      "a": "For healthy travellers who go slowly, usually yes, but it is 4,310 m and the last stretch to the border involves steep steps. People with heart or lung conditions should ask their doctor first. Anyone with chest pain, severe breathlessness or confusion should go down at once. Many older travellers happily stop at Baba Mandir."
+    },
+    {
+      "q": "What documents do Indian travellers need?",
+      "a": "A photo ID per person, ideally a passport, voter ID or driving licence, and two passport-size photos. Give them to us on arrival day so our registered agent can apply for the Nathu La and Tsomgo permits. Carry the same original ID on the permit day. Children need ID too, such as a school ID with photo."
+    },
+    {
+      "q": "Is Gangtok good in winter for this trip?",
+      "a": "Yes, if you want snow. From December to March Tsomgo is often frozen and Nathu La is snowbound, which many travellers come for. The trade-off is more closures after heavy snowfall, which is why this trip has a spare day. Gangtok itself is cold at night, around 4–5 °C, so ask about heating."
+    },
+    {
+      "q": "Can we upgrade to a private car for the Nathu La day?",
+      "a": "Yes. A reserved vehicle for Tsomgo, Baba Mandir and Nathu La costs about ₹6,500–7,500 in 2026 including permits, roughly ₹2,000–2,500 more per person for two than the shared seat. It lets you stop when you want. For families of four or more it is often the better value. Prices are indicative."
+    }
+  ]
+}

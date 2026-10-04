@@ -1,0 +1,158 @@
+{
+  "slug": "ralang-monastery",
+  "name": "Ralang Monastery",
+  "region": "south-sikkim",
+  "kind": "monastery",
+  "wiki": "Ralang Monastery",
+  "image_query": "Ralang Monastery Palchen Choeling Sikkim",
+  "lat": 27.3286,
+  "lng": 88.3348,
+  "altitude_m": 1940,
+  "local_name": null,
+  "tagline": "Kagyu monastery of the mask dances, 6 km below Ravangla",
+  "meta_description": "Ralang Monastery near Ravangla: history since 1768, the old and new monasteries, Pang Lhabsol and winter cham dances, timings and how to visit.",
+  "summary": "Ralang is a Kagyu monastery about 6 km from Ravangla, at roughly 1,940 m. The original was founded in 1768; the large Palchen Choeling Monastic Institute was built nearby in 1995 by the 12th Gyaltsab Rinpoche. It is best known for its cham mask dances at Pang Lhabsol and in the 10th Tibetan month.",
+  "intro": [
+    "Ralang lies on the slope below Ravangla, looking out over the Rangeet valley towards West Sikkim. There are really two monasteries here. The old one, Karma Rabtenling, dates its founding to 1768 and was rebuilt between 1975 and 1981. The new one, Palchen Choeling, a large monastic institute in classic Tibetan style, was completed in 1995 under the 12th Gyaltsab Rinpoche, one of the senior lamas of the Karma Kagyu.",
+    "Palchen Choeling is one of the largest monasteries in Sikkim. Its assembly hall is richly painted, and on most days you can hear young monks chanting or debating in the courtyard. Visitors are welcome in daytime as long as they follow the usual courtesies: shoes off inside, clockwise movement and no photos during prayers without permission.",
+    "Ralang is famous for its cham, the masked dances performed by monks in elaborate costumes. Wikipedia records dances on the 15th day of the 7th Tibetan month, linked to Pang Lhabsol, the worship of Kangchenjunga, and on the 29th day of the 10th month, with Mahakala rituals in the 9th month. If your dates match, plan your whole trip around it."
+  ],
+  "story": {
+    "title": "Grains thrown from Tibet",
+    "text": "The founding story of Ralang, recorded in its Wikipedia history, begins with the Karmapa, head of the Karma Kagyu school. Sikkim's Chogyals had close ties with the Karmapas, and on his return from a visit, the Karmapa performed a rabney, a consecration ritual, and threw grains from Tsurphu, his home monastery in Tibet. Where the grains fell, the story goes, became the site of Ralang monastery, founded in 1768. For two centuries the old monastery, Karma Rabtenling, served the Kagyu community of the south. After the Karmapa lineage moved into exile in 1959 and the 16th Karmapa settled at Rumtek near Gangtok, Ralang gained new importance. The old buildings were rebuilt between 1975 and 1981, and in 1995 the 12th Gyaltsab Rinpoche, one of the Karmapa's principal lineage holders, completed the new Palchen Choeling Monastic Institute nearby, which trains monks in ritual, philosophy and the cham dances for which Ralang is known.",
+    "source": "Wikipedia: Ralang Monastery"
+  },
+  "little_known": [
+    {"fact": "Ralang's founding legend says the Karmapa threw grains from Tsurphu Monastery in Tibet, and the monastery was built where they landed.", "source": "Wikipedia: Ralang Monastery"},
+    {"fact": "The old monastery, Karma Rabtenling, was rebuilt between 1975 and 1981; the new Palchen Choeling institute was completed in 1995.", "source": "Wikipedia: Ralang Monastery"},
+    {"fact": "Ralang's cham calendar includes the 15th day of the 7th month, the 29th day of the 10th month, and Mahakala rituals in the 9th month.", "source": "Wikipedia: Ralang Monastery"}
+  ],
+  "facts": [["Best months", "Oct–Dec and Mar–May; festival dates vary"], ["Nights we suggest", "Stay in Ravangla or Borong"], ["From Gangtok", "≈ 72 km · 3.5 h"], ["Altitude", "≈ 1,940 m"], ["Known for", "Kagyu monastery, cham mask dances"], ["Permit", "Not needed"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 1, 2, 2, 2, 2],
+  "nights": "0 (visit from Ravangla)",
+  "highlights": [
+    {"title": "Palchen Choeling assembly hall", "text": "A large, richly painted hall in Tibetan style, completed in 1995. Murals show the Kagyu lineage, protectors and the life of the Buddha. Sit quietly at the back during prayers if invited."},
+    {"title": "Old Karma Rabtenling monastery", "text": "The original monastery, founded in 1768 and rebuilt in 1975–81, a short drive or walk from the new institute. Smaller, older in feel, and much quieter."},
+    {"title": "Cham mask dances", "text": "Monks in masks and silk costumes perform ritual dances on fixed Tibetan calendar dates, including Pang Lhabsol in August–September and a winter cham in the 10th month."},
+    {"title": "Young monks at study", "text": "Palchen Choeling trains monks from childhood. On ordinary days you may see debate practice or hear chanting from the classrooms. Watch from a distance and do not interrupt."},
+    {"title": "Views over the Rangeet", "text": "The monastery terraces look across the Rangeet valley to the ridges of West Sikkim. On clear days snow peaks appear to the north-west."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Get to Ravangla by shared jeep from Gangtok (about ₹250–400) or Namchi (₹100–150). From Ravangla, local jeeps towards Ralang and Borong run a few times a day for about ₹40–80, or take a taxi for ₹400–700 return with waiting."},
+    {"mode": "Private car", "text": "Ralang is about 6 km and 15 minutes from Ravangla. Most visitors combine it with Buddha Park in one morning, about ₹2,000–3,000 for a small car. Add Borong (5 km beyond) for a full day."},
+    {"mode": "From Bagdogra / NJP", "text": "About 125–130 km and 5 hours by car via Namchi or Singtam to Ravangla, then down to Ralang. If NH10 is closed after monsoon slides, the route through Darjeeling district and Jorethang is the usual alternative."}
+  ],
+  "costs": [["Entry", "Free; donations welcome"], ["Taxi Ravangla–Ralang return", "≈ ₹400–700"], ["Ravangla sightseeing car (Buddha Park + Ralang)", "≈ ₹2,000–3,000"], ["Butter lamp offering", "≈ ₹20–100"], ["Tea and snacks nearby", "≈ ₹50–150"]],
+  "where_to_stay": "Most visitors sleep in Ravangla, 15 minutes away: Mt. Narsing Village Resort for value, The Barfung Retreat for comfort, and simple hotels from about ₹1,500. For a quieter night closer to the monastery, the homestays of Borong, about 5 km beyond Ralang, put you near the hot spring and the Maenam trail. During cham festivals, book rooms well ahead.",
+  "stays": ["mt-narsing-village-resort-ravangla", "the-barfung-retreat-ravangla", "borong-village-homestays"],
+  "tips": [
+    "Check the Tibetan calendar or ask us for cham dates before fixing your trip.",
+    "Remove shoes and hats inside the assembly hall; move clockwise.",
+    "Ask before photographing monks or rituals, and never use flash during prayers.",
+    "Visit both the new Palchen Choeling and the old Karma Rabtenling.",
+    "During festivals, arrive early for a good viewing spot and bring a cushion."
+  ],
+  "themes": ["monasteries", "festivals", "crafts-and-culture"],
+  "nearby": ["ravangla", "borong", "buddha-park-ravangla", "kewzing"],
+  "experiences": [
+    {
+      "slug": "ralang-morning-prayers-palchen-choeling",
+      "title": "Morning prayers at Palchen Choeling",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "7–9 am, any month",
+      "cost": "Free; donation welcome",
+      "image_query": "monks prayer hall Sikkim monastery",
+      "wiki": "",
+      "summary": "Arrive early to hear monks chanting in Palchen Choeling's assembly hall, with drums, horns and the smell of butter lamps. Sit quietly at the back if invited, then walk the courtyard as the day's classes begin.",
+      "body": [
+        "Monastic days begin early. At Palchen Choeling the morning assembly usually brings monks of all ages to the hall for chanting, with the deep rhythm of drums and long horns. Times vary, so ask the evening before through your hotel or guide, and arrive a little early.",
+        "Visitors are often allowed to sit quietly at the back of the hall. Remove shoes and hats, switch off phones, walk clockwise and sit with your feet not pointing at the altar. Do not photograph during prayers unless a senior monk gives permission. A small donation at the altar is welcome but not expected.",
+        "Afterwards, walk around the courtyard and terraces. Young monks head to classes; older ones prepare for the day's rituals. The murals in the hall show the Kagyu lineage, protector deities and scenes from the Buddha's life; a guide can explain what you are seeing."
+      ],
+      "good_for": ["solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Can visitors attend prayers at Ralang Monastery?", "a": "Often yes, if you are quiet and respectful. Ask a monk or your guide first. Sit at the back, keep phones off and avoid photography during prayers unless permitted. Some rituals are closed to visitors; accept politely if asked to wait outside."},
+        {"q": "What time are morning prayers at Ralang?", "a": "Usually early morning, but timings vary with season and the monastery's schedule. Ask through your hotel or guide the day before. Arriving at 7 am gives a good chance of hearing chanting."},
+        {"q": "Is there a dress code?", "a": "Dress modestly: covered shoulders and knees are respectful. Remove shoes and hats before entering the hall. Avoid loud colours or revealing clothing. Carry socks for cold floors in winter."}
+      ]
+    },
+    {
+      "slug": "ralang-old-karma-rabtenling-walk",
+      "title": "Walk to old Ralang, Karma Rabtenling",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Morning or late afternoon, dry months",
+      "cost": "Free",
+      "image_query": "old Ralang monastery Sikkim",
+      "wiki": "",
+      "summary": "Most visitors stop at the big new monastery and leave. Walk on to Karma Rabtenling, the original Ralang monastery founded in 1768 and rebuilt in 1975–81: smaller, older in feel and often almost empty.",
+      "body": [
+        "The old monastery stands a short distance from Palchen Choeling along the road towards Borong. It is the original Ralang, founded in 1768, which according to tradition was built where the Karmapa's grains from Tsurphu fell. Rebuilt between 1975 and 1981, it is modest in size, with a small assembly hall and a few caretaker monks.",
+        "The walk between the two takes 20–30 minutes on a quiet road through village fields. The contrast is the point: the new institute is grand and busy, the old monastery intimate and still. Ask the caretaker if the hall can be opened; a small donation is customary.",
+        "This is a good place to sit and reflect, away from the crowds that visit during the day. Late afternoon light on the old walls is lovely. Combine the walk with a drive on to Borong and its hot spring, or back up to Ravangla for the evening."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Where is the old Ralang monastery?", "a": "A short distance from the new Palchen Choeling institute, towards Borong. It is about a 20–30 minute walk or 5 minutes by car. Ask locally for the old gompa or Karma Rabtenling."},
+        {"q": "Is the old monastery always open?", "a": "Not always. A caretaker usually lives nearby and will open the hall if asked. Mornings are the most reliable time. Leave a small donation if the hall is opened for you."},
+        {"q": "How old is the old Ralang monastery?", "a": "The monastery dates its founding to 1768. The present buildings were reconstructed between 1975 and 1981, so the structure is newer than the foundation, but the site and many objects inside carry the older history."}
+      ]
+    },
+    {
+      "slug": "ralang-pang-lhabsol-cham-day",
+      "title": "Pang Lhabsol cham at Ralang",
+      "kind": "culture",
+      "duration": "Full day",
+      "best_time": "15th day of the 7th Tibetan month (Aug–Sep)",
+      "cost": "Free; car ≈ ₹2,500–3,500",
+      "image_query": "Pang Lhabsol cham dance Sikkim masks",
+      "wiki": "Cham dance",
+      "summary": "On Pang Lhabsol, the day Sikkim honours Kangchenjunga as its guardian, Ralang's monks perform masked cham dances in the courtyard. Warriors, protectors and the mountain deity appear in silk and painted masks. A full day of colour, drums and ritual.",
+      "body": [
+        "Pang Lhabsol honours Kangchenjunga, worshipped in Sikkim as Dzö-nga, the guardian deity of the land. The festival is closely tied to the story of the blood-brotherhood oath between the Lepcha and Bhutia peoples, and is one of Sikkim's most important religious days. Ralang is one of the main monasteries where cham is performed for it.",
+        "Dancers in elaborate silk robes and painted masks represent protector deities and warriors. Movements are slow and deliberate, set to drums, cymbals and long horns, and each dance carries a ritual meaning. Families gather from surrounding villages, and the courtyard fills early with spectators sitting on mats and steps.",
+        "Arrive early for a good spot, bring a cushion, water, sun cover and a rain jacket: this is the monsoon season. Do not walk across the dance area, and ask before photographing. Dates follow the lunar calendar and move each year; check current status before you travel and book Ravangla rooms early."
+      ],
+      "good_for": ["photographers", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "When is Pang Lhabsol at Ralang?", "a": "On the 15th day of the 7th Tibetan lunar month, usually in late August or September. The exact date changes each year. Ask us or check the Sikkim government holiday list before you travel, as Pang Lhabsol is also a state holiday."},
+        {"q": "Can tourists watch the cham at Ralang?", "a": "Yes. Visitors are welcome to watch from the spectator areas. Keep off the dance ground, do not use flash, and ask before photographing monks up close. Local families come early, so arrive by mid-morning for a good view."},
+        {"q": "What should we bring to a cham festival?", "a": "A cushion or mat, water, snacks, sun protection and a rain jacket, since Pang Lhabsol falls in the monsoon. Wear comfortable layers. Cash is useful for food stalls and donations. Expect a long day; dances can run for hours."}
+      ]
+    },
+    {
+      "slug": "ralang-winter-cham-10th-month",
+      "title": "Ralang's winter cham in the 10th month",
+      "kind": "culture",
+      "duration": "Full day",
+      "best_time": "29th day of the 10th Tibetan month (usually Dec)",
+      "cost": "Free; car ≈ ₹2,500–3,500",
+      "image_query": "Sikkim monastery mask dance winter",
+      "wiki": "Cham dance",
+      "summary": "Ralang's second great dance falls on the 29th day of the 10th Tibetan month, usually in December. Clear winter skies, fewer tourists and the drama of protector dances in the courtyard make it our favourite time to see cham in South Sikkim.",
+      "body": [
+        "Wikipedia records cham at Ralang on the 29th day of the 10th Tibetan month as well as at Pang Lhabsol. In Sikkim this period is associated with Kagyed-style dances that drive out the negative forces of the old year before Losar. Masked protector deities perform in sequence, ending with rituals in which offerings representing evil are destroyed.",
+        "December is dry and clear in South Sikkim, so you are likely to see the dances under blue skies, with snow peaks visible across the Rangeet valley. Crowds are local rather than touristic: families in their best clothes, elders with prayer wheels, children perched on walls.",
+        "Days are sunny but cold in the shade, and nights near freezing. Bring warm layers and a thermos. As with every cham, keep off the dance ground, avoid flash and ask before close-up photos. Exact dates vary each year; check current status before you travel."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "When is the winter cham at Ralang?", "a": "On the 29th day of the 10th Tibetan lunar month, which usually falls in December. Dates move each year with the lunar calendar. Ask us or contact the monastery through a local guide well before you plan your trip."},
+        {"q": "Is the winter cham the same as Kagyed?", "a": "In Sikkim, dances held on the 28th–29th of the 10th month are commonly called Kagyed, performed to drive out evil before the new year. Ralang's records list a cham on the 29th of the 10th month; local guides often call it Kagyed. The details of each monastery's programme differ."},
+        {"q": "How cold is Ralang in December?", "a": "Days are usually sunny at around 10–15 °C, but shaded courtyards feel colder, and nights drop near freezing. Wear thermals, a down jacket and warm shoes. Bring a flask of tea. Sit in the sun when you can."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Ralang Monastery from Ravangla?", "a": "About 6 km, roughly 15 minutes by car or 2–2.5 hours on foot downhill. A taxi from Ravangla costs about ₹400–700 return with waiting. Many visitors combine it with Buddha Park in one morning."},
+    {"q": "When was Ralang Monastery founded?", "a": "The original monastery dates its founding to 1768. It was rebuilt between 1975 and 1981. The new Palchen Choeling Monastic Institute nearby was completed in 1995 by the 12th Gyaltsab Rinpoche."},
+    {"q": "Which school of Buddhism does Ralang follow?", "a": "Ralang belongs to the Kagyu school of Tibetan Buddhism, specifically the Karma Kagyu tradition headed by the Karmapa. Its founding is associated with a Karmapa's blessing, and it is linked closely with Rumtek near Gangtok."},
+    {"q": "What is the best time to visit Ralang Monastery?", "a": "Any dry month for an ordinary visit; October to December brings the clearest views. For festivals, plan around Pang Lhabsol (August–September) or the winter cham in the 10th Tibetan month (usually December). Dates vary yearly."},
+    {"q": "Is there an entry fee at Ralang?", "a": "No regular entry fee is charged at the time of writing. Donations at the altar are welcome. During festivals, food stalls and small fees for parking may apply. Check current status before you travel."},
+    {"q": "Can we photograph inside Ralang Monastery?", "a": "Ask first. Photography inside the assembly hall is often restricted, and never appropriate during prayers without permission. Courtyards and exteriors are usually fine. During cham, avoid flash and keep off the dance ground."},
+    {"q": "What is the difference between old and new Ralang?", "a": "The old monastery, Karma Rabtenling, is the original 1768 foundation, rebuilt in 1975–81, small and quiet. The new Palchen Choeling, completed in 1995, is a large monastic institute where monks study and most ceremonies are held. Both are worth seeing."},
+    {"q": "Can we stay near Ralang Monastery?", "a": "Most visitors stay in Ravangla, 15 minutes away. For a quieter night, homestays in Borong, about 5 km beyond Ralang, are simple and welcoming. During festivals, book well ahead as rooms fill with pilgrims."},
+    {"q": "Is Ralang suitable for elderly visitors?", "a": "Yes. Cars can reach close to both monasteries, and the main courtyard is level. Some steps lead to the halls. During festivals crowds and long sitting can be tiring; bring a cushion and find a shaded spot."}
+  ]
+}
