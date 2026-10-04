@@ -49,10 +49,13 @@ def read(p):
     return json.loads(Path(p).read_text(encoding="utf-8"))
 
 
+BAD_FILES = ['Guesthouse Borong, Flores.jpg', 'Southeast Sikkim (Joseph Dalton Hooker, 1854).jpg', 'A little girl and her reflection.jpg', 'Close wing resting position of Niphanda cymbia', 'Tourism offices, Melli', 'Sikkim Village.jpg', 'Pakyong to Siliguri Bus Service', 'Chains buried into solid concrete', 'Guesthouse Borong', 'Chumbi Valley', 'Geology of', 'Pegmatitic', ' wing ', 'Classroom in East Sikkim', 'The monument of Guru Padma Sambhava or Samdruptse.jpg']
+
+
 def clean(recs):
     seen, out = set(), []
     for r in recs:
-        if r["file"] in seen or BAD_TITLE.search(r["file"]):
+        if r["file"] in seen or BAD_TITLE.search(r["file"]) or any(f in r["file"] for f in BAD_FILES):
             continue
         seen.add(r["file"])
         out.append(r)
