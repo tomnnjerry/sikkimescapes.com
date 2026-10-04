@@ -1,0 +1,345 @@
+{
+  "slug": "rolep",
+  "name": "Rolep",
+  "region": "pakyong",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Rolep village Sikkim river",
+  "lat": 27.2,
+  "lng": 88.665,
+  "altitude_m": 1200,
+  "local_name": null,
+  "tagline": "Riverside farming hamlet for slow days",
+  "meta_description": "Rolep, Sikkim: a quiet farming hamlet on the Rangpo river in Rongli sub-division, at about 1,200 m. River walks, homestays, food, costs and how to reach it.",
+  "summary": "Rolep is a small farming hamlet on the Rangpo river in Rongli sub-division of Pakyong district, at about 1,200 m, with terraced fields, river sounds and a few family homestays. Wikipedia lists it among the villages around Rongli. It is a slow stop, not a sightseeing one, and it lies outside the Silk Route permit belt as far as we know; check before you go.",
+  "intro": [
+    "Rolep is named among the villages around Rongli town in Wikipedia's article on Rongli, which puts it in Rongli sub-division along the Rangpo river valley. Houses and small fields sit on terraces just above the water. There is no list of sights, which is the reason people come: to walk the riverbank, watch birds, eat home food and sleep to the sound of the river.",
+    "Figures for height vary between sources; about 1,200 m is a fair guide, warm compared with Zuluk. We have not verified the exact road distance from Rongli, so ask your host for directions and drive time before you go. SNT services between Gangtok and Rongli via Rorathang are reported to include a Rolep run, but check current status before you travel.",
+    "A handful of family homestays take guests at roughly ₹1,300–2,000 per person with meals. Mobile signal is weak in the valley bottom, which most guests count as a benefit. In the monsoon, water rises fast after rain upstream, so stay out of the main channel and avoid the road after heavy rain."
+  ],
+  "story": {
+    "title": "The river that runs through Rongli",
+    "text": "Rolep lives on the Rangpo river, one of the main rivers of east Sikkim, and its story is the river's. Wikipedia's article on Rongli says the Rangpo and the Jaldhaka both originate from lakes in Rongli sub-division. The Rangpo flows past Pakyong sub-division villages and Rorathang and joins the Teesta at Rangpo town, while Rongli Khola meets it at Rongli. Wikipedia's article on Rorathang adds that the Rangpo is joined by the Pachey and Reshi at Rorathang, and that it forms part of the Sikkim and West Bengal boundary after the Reshi joins. So the water you hear at Rolep passes the markets of Rongli and Rorathang and meets the Teesta at the gateway town of Rangpo. For a village, that is a lot of geography: a small place on a river that draws the border of two states. No further legends are needed, and we do not tell any we cannot source.",
+    "source": "Wikipedia: Rongli; Wikipedia: Rorathang; Wikipedia: Rangpo River"
+  },
+  "little_known": [
+    {
+      "fact": "Wikipedia lists Rolep among the villages around Rongli town, alongside Lingtam, Padamchen, Dalapchand, Chujachen and Zuluk.",
+      "source": "Wikipedia: Rongli"
+    },
+    {
+      "fact": "Wikipedia's Rorathang article says SNT buses connect Rolep and Rongli with Gangtok via Pakyong, Rangpo and Singtam. Check current status of services before you travel.",
+      "source": "Wikipedia: Rorathang"
+    },
+    {
+      "fact": "Wikipedia says the Rangpo river rises from lakes in Rongli sub-division and meets the Teesta at Rangpo town, so Rolep is on a river system that reaches the Sikkim border.",
+      "source": "Wikipedia: Rongli"
+    }
+  ],
+  "facts": [
+    [
+      "Best months",
+      "Oct–Apr; warm and humid in summer"
+    ],
+    [
+      "Nights we suggest",
+      "1–3"
+    ],
+    [
+      "From Gangtok",
+      "≈ 70 km · 3–3.5 h via Rongli (confirm with host)"
+    ],
+    [
+      "Altitude",
+      "≈ 1,200 m (sources vary)"
+    ],
+    [
+      "Known for",
+      "River walks, slow village stay"
+    ],
+    [
+      "Permit",
+      "Not needed as far as we know; check current status before you travel"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "1–3",
+  "highlights": [
+    {
+      "title": "River walks",
+      "text": "Short walks along the Rangpo river bank and farm lanes, best in the morning. In winter the water is low and clear. In the monsoon keep well away from the edge."
+    },
+    {
+      "title": "Birds along the water",
+      "text": "Trees by the river hold common hill birds. We do not promise particular species. Early morning and dusk are best, and a local guide helps."
+    },
+    {
+      "title": "Terraced fields",
+      "text": "Rice, maize and vegetables grow on terraces above the water. Ask before entering any field and for the day's work to explain."
+    },
+    {
+      "title": "Home cooking",
+      "text": "Meals follow the season: terrace rice, greens, squash, pickles and sometimes fish when the family has a catch. Ask your host what is growing."
+    },
+    {
+      "title": "A quiet recovery night",
+      "text": "After the high Silk Route, Rolep's warm air and low height are gentle. Many guests find it a good place to rest on the way down."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Shared jeep",
+      "text": "Shared jeeps and SNT buses run from Gangtok and Rangpo towards Rongli via Rorathang. A local run serves Rolep, but timings are few and change, so ask your host and check current status before you travel. Fares are small, usually under ₹300."
+    },
+    {
+      "mode": "Private car",
+      "text": "From Gangtok about 70 km and 3 to 3.5 hours via Pakyong and Rorathang, then a local road. Confirm the exact route and drive time with your host, because we have not verified it. A reserved small car costs about ₹4,000–5,500 one way."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "About 115 km and 4.5 to 5 hours via Sevoke, Rangpo and Rorathang. NH10 can close after monsoon landslides; the alternative is via Kalimpong and Pedong. Pakyong Airport has no scheduled flights, so plan on Bagdogra (IXB) or NJP."
+    }
+  ],
+  "costs": [
+    [
+      "Homestay with meals",
+      "≈ ₹1,300–2,000 per person a night"
+    ],
+    [
+      "Reserved small car from Gangtok",
+      "≈ ₹4,000–5,500 one way"
+    ],
+    [
+      "Shared jeep to Rongli area",
+      "≈ ₹200–300 a seat"
+    ],
+    [
+      "Local guide for a half day",
+      "≈ ₹300–600"
+    ],
+    [
+      "Meal (home thali)",
+      "Included with stay"
+    ]
+  ],
+  "where_to_stay": "A few family homestays take guests at about ₹1,300–2,000 per person with meals; our rolep-homestays listing covers them. Rooms are simple and the setting is the draw. For more comfort, stay at Aritar or Pakyong, within a drive. For more height, move up to Lingtam or Padamchen with the Silk Route permit. Book ahead and confirm how to reach the house, since road names are rarely marked. We do not name individual families here.",
+  "stays": [
+    "rolep-homestays"
+  ],
+  "tips": [
+    "Ask your host for exact directions and the last safe time to arrive.",
+    "Carry cash; UPI and ATMs are not dependable in the valley.",
+    "Stay out of the main river channel, and avoid it entirely in the monsoon.",
+    "Bring insect repellent for summer evenings.",
+    "Confirm permit status with your host and check current status before you travel."
+  ],
+  "themes": [
+    "village-homestays",
+    "offbeat-sikkim",
+    "birds-and-wildlife",
+    "treks-and-walks"
+  ],
+  "nearby": [
+    "rongli",
+    "lingtam",
+    "rorathang",
+    "aritar"
+  ],
+  "experiences": [
+    {
+      "slug": "rolep-river-bank-morning-walk",
+      "title": "Rangpo river bank morning walk",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Oct–Apr, settled weather",
+      "cost": "Free",
+      "image_query": "Rangpo river bank Sikkim village",
+      "wiki": "Rangpo River",
+      "summary": "An easy morning stroll beside the Rangpo river with your host, listening to the water, looking for birds and watching terraces wake up.",
+      "body": [
+        "The Rangpo river rises from lakes in Rongli sub-division, according to Wikipedia, and runs past Rorathang to the Teesta at Rangpo. At Rolep you meet it as a clear, quick river between stones.",
+        "Walk with your host or a guide to a safe bank. Keep to the path, watch for slippery stones and stay out of the main channel. In winter, shallow pools are safe for a quick paddle with a local's advice.",
+        "Early morning is best for light and birds. Carry water and a hat, and tell someone where you are going. Do not go near the river in or after heavy rain."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Is the river safe for swimming?",
+          "a": "No, not in the main channel. Water can rise fast after upstream rain, especially from June to September. Paddling in a shallow edge pool in winter can be fine, with a local's advice."
+        },
+        {
+          "q": "What time is best for the walk?",
+          "a": "Early morning for light, quiet and birds. Avoid the heat of the day in summer and avoid the monsoon."
+        },
+        {
+          "q": "Do we need a guide?",
+          "a": "Not strictly, but your host will know safe banks and paths. Ask before you set off."
+        }
+      ]
+    },
+    {
+      "slug": "rolep-village-terrace-farm-visit",
+      "title": "Terrace farm visit",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "Year round; rice season Jun–Oct",
+      "cost": "≈ ₹300–500 for a guide",
+      "image_query": "Terraced rice fields Sikkim village",
+      "wiki": "",
+      "summary": "A guided look at the terraces above the river: what grows, when it is planted and how the family works, if the season suits.",
+      "body": [
+        "Rolep's terraces grow rice, maize and vegetables, and farm life follows the monsoon. In June and July fields are flooded for rice, in autumn they turn golden, and in winter they are bare or planted with vegetables.",
+        "Walk with your host or a guide who can introduce you to families politely. Ask before entering fields, photographing people or picking crops. Most families are happy to explain if you show interest.",
+        "Wear shoes with grip, because terrace edges are narrow and slippery. Carry water, and take your litter back. A small purchase of vegetables or pickles is a fair way to thank a family."
+      ],
+      "good_for": [
+        "families",
+        "solo",
+        "first-timers",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "When is rice planted and harvested?",
+          "a": "Usually transplanted around June to July and harvested around October to November, but timing varies with the year and the field. Ask your host."
+        },
+        {
+          "q": "Can we help with farm work?",
+          "a": "Only if the family invites you. Do not assume. Offer to help with small tasks, and do not interrupt work."
+        },
+        {
+          "q": "Are the paths safe for children?",
+          "a": "Terrace edges are narrow and slippery. Keep children close and supervised, and avoid wet days."
+        }
+      ]
+    },
+    {
+      "slug": "rolep-home-cooked-river-meal",
+      "title": "Home-cooked river meal",
+      "kind": "food",
+      "duration": "evening",
+      "best_time": "Year round",
+      "cost": "Included in homestay ≈ ₹1,300–2,000",
+      "image_query": "Sikkim home thali rice dal greens",
+      "wiki": "",
+      "summary": "A family meal in a Rolep homestay, built around the season and what the garden gives: terrace rice, greens, squash and pickles.",
+      "body": [
+        "Rolep meals follow the fields. Expect rice from the terraces, dal, seasonal greens, squash and homemade pickles. Sometimes fish appears when the family has a catch. Ask what grows in your month and what the family eats.",
+        "Vegetarian is easy; tell your host about allergies and preferences in advance. Fermented foods such as gundruk and sinki sometimes appear and may be strong in flavour. Try a little first.",
+        "Eat with the family if invited. Do not ask people to pose or perform. Electricity can be patchy, so bring a torch."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "solo",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "What will we eat?",
+          "a": "Home-style rice, dal, greens and vegetables, with a meat or egg dish if you want. Ask your host in advance about preferences."
+        },
+        {
+          "q": "Is fish common?",
+          "a": "Sometimes, when the family has a catch from the river or a local source. Do not expect it daily."
+        },
+        {
+          "q": "Do homestays accept UPI?",
+          "a": "Not reliably. Carry cash."
+        }
+      ]
+    },
+    {
+      "slug": "rolep-birdwatching-along-the-water",
+      "title": "Birdwatching along the water",
+      "kind": "wildlife",
+      "duration": "2 hours",
+      "best_time": "Oct–Mar, early mornings",
+      "cost": "≈ ₹300–600 for a guide",
+      "image_query": "Brown dipper river Sikkim",
+      "wiki": "Brown dipper",
+      "summary": "A quiet early session by the river, looking for dippers, wagtails and forest-edge birds in the warm valley.",
+      "body": [
+        "Streams like the Rangpo suit river birds. Wikipedia's list for the nearby Pangolakha sanctuary includes the brown dipper, along with laughingthrushes, minlas and yuhinas in the forest.",
+        "Go at first light with a local guide. Walk slowly along the bank, stay behind cover where possible and listen before you look. Binoculars help.",
+        "We do not promise species. Take your litter with you, do not use recorded calls and do not chase birds. The river is dangerous in rain, so go only in settled weather."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "photographers",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "What birds can we see?",
+          "a": "Common river and forest birds such as dippers, wagtails, bulbuls and sunbirds are possible. Sightings depend on season and luck. We do not promise species."
+        },
+        {
+          "q": "Do we need binoculars?",
+          "a": "They help. Bring your own if you have them. Some guides carry a pair."
+        },
+        {
+          "q": "When is the best season?",
+          "a": "Usually October to March for cooler, drier weather and lower water. The monsoon is poor for walking."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Rolep?",
+      "a": "Rolep is a hamlet in Rongli sub-division of Pakyong district, on the Rangpo river valley. Wikipedia lists it among villages around Rongli. We recommend confirming exact directions with your host."
+    },
+    {
+      "q": "What is there to do in Rolep?",
+      "a": "Walk the river bank and farm lanes, watch birds, eat home food and rest. There are no major sights. It is a slow place."
+    },
+    {
+      "q": "Do we need a permit for Rolep?",
+      "a": "As far as we know Rolep is not inside the Silk Route protected area, but rules and boundaries can change. Ask your host and check current status before you travel."
+    },
+    {
+      "q": "How far is Rolep from Rongli?",
+      "a": "We have not verified the exact distance. Ask your host. Allow about an hour or more on narrow hill roads."
+    },
+    {
+      "q": "How much does a homestay cost?",
+      "a": "About ₹1,300–2,000 per person a night with meals, indicative. Cash is usually needed."
+    },
+    {
+      "q": "Is it safe to swim in the river?",
+      "a": "No. Currents are strong and water rises after rain upstream. Stay out of the main channel."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "October to April for settled weather and low water. Summers are warm and humid, and the monsoon has slides and high rivers."
+    },
+    {
+      "q": "Is there mobile signal?",
+      "a": "Weak in the valley bottom. Carry cash and download maps in advance."
+    },
+    {
+      "q": "Can foreigners visit Rolep?",
+      "a": "Foreigners with a Sikkim Restricted Area Permit may be able to, if Rolep is outside the protected belt, but we advise confirming. Ask us and check current status before you travel."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "rangpo-to-zuluk",
+    "from": "rangpo",
+    "to": "zuluk",
+    "distance_km": 60,
+    "summary": "Rangpo to Zuluk is about 60 km via Rorathang and Rongli, usually 3.5 to 4 hours. The last 30 km above Rongli is inside the Silk Route protected area, so Indian travellers need a permit from Rongli. Foreigners are not allowed beyond Rongli. Check current status before you travel.",
+    "options": [
+      {
+        "mode": "Shared jeep to Rongli, then local vehicle",
+        "time": "4–5 h",
+        "cost": "≈ ₹300–500 a seat to Rongli, plus ≈ ₹1,500–2,500 for a local vehicle the last stretch",
+        "text": "Take a shared jeep from Rangpo to Rongli via Rorathang, finish the permit there and hire a permit-registered local vehicle for the last 30 km. No shared jeeps run through for tourists, and services thin out after midday, so start early and check current status before you travel."
+      },
+      {
+        "mode": "Private car",
+        "time": "3.5–4 h",
+        "cost": "≈ ₹4,500–6,500 per vehicle for the Silk Route day (small car to SUV)",
+        "text": "A reserved car takes you through Rongli, where the driver or your homestay finishes the permit, then up through Lingtam and Padamchen to Zuluk. Your driver must be familiar with the road. Plan to reach Rongli before about 2 pm because offices can stop issuing in the afternoon."
+      },
+      {
+        "mode": "From Bagdogra / NJP",
+        "time": "6–7 h",
+        "cost": "Not advised in one day with sightseeing",
+        "text": "From Bagdogra it is about 90 km to Rangpo and then about 60 km to Zuluk, around 6 to 7 hours without stops. We suggest a first night at Aritar, Lingtam or Padamchen instead. NH10 closes after monsoon landslides; the alternative is via Kalimpong and Algarah or Lava, so check current status before you travel."
+      }
+    ],
+    "stops_on_way": [
+      "Rorathang junction",
+      "Rongli permit office",
+      "Lingtam",
+      "Padamchen"
+    ],
+    "tip": "Send ID scans to your homestay a day ahead so the Rongli permit is ready, and carry two passport photos per traveller.",
+    "faqs": [
+      {
+        "q": "Do I need a permit for Zuluk?",
+        "a": "Yes. Indian nationals need a Silk Route protected-area permit, processed at Rongli through a registered agent, driver or homestay, for about ₹200–500 per person. Foreigners are not allowed beyond Rongli. Check current status before you travel."
+      },
+      {
+        "q": "How long does Rangpo to Zuluk take?",
+        "a": "Allow 3.5 to 4 hours in a private car, including 30 to 60 minutes at the Rongli permit office. In shared transport, 4 to 5 hours or more. Landslides, convoys and monsoon rain can add hours."
+      },
+      {
+        "q": "Can I do Rangpo to Zuluk and back in one day?",
+        "a": "It is possible but tiring and not advised: about 120 km round trip on winding roads, plus permit time. Better to stay a night at Padamchen or Zuluk so you also see Thambi sunrise. Check current status before you travel."
+      },
+      {
+        "q": "Is the road open in monsoon?",
+        "a": "Often, but slides on NH10 and on the Rongli road can block it, and visibility is poor. We advise winter or the clear months of March to May and October to December. Check current status before you travel."
+      }
+    ]
+  },
+  {
+    "slug": "gangtok-to-aritar",
+    "from": "gangtok",
+    "to": "aritar",
+    "distance_km": 68,
+    "summary": "Gangtok to Aritar is about 67 to 70 km via Ranipool, Pakyong and Rorathang, taking around 3 hours. Aritar is outside the Silk Route protected area, so no permit is needed. It makes a gentle first night before Rongli and Zuluk.",
+    "options": [
+      {
+        "mode": "Shared jeep via Rhenock",
+        "time": "3.5–4.5 h",
+        "cost": "≈ ₹250–400 to Rhenock, plus ≈ ₹150–300 local to Aritar",
+        "text": "Shared jeeps and SNT buses run from Gangtok to Rhenock via Pakyong and Rorathang; from Rhenock a local vehicle covers the last 10 km or so. Services are fewer after midday and change often, so check current status before you travel."
+      },
+      {
+        "mode": "Private car",
+        "time": "3 h",
+        "cost": "≈ ₹3,500–5,000 one way (small car)",
+        "text": "A reserved small car takes you straight to Aritar, with stops at Pakyong for tea. This is the easiest option for families, and lets you reach Lampokhari by late afternoon. Fares rise in October and May."
+      },
+      {
+        "mode": "From Bagdogra / NJP",
+        "time": "4–4.5 h",
+        "cost": "≈ ₹4,500–6,000 by private car",
+        "text": "About 110–115 km via Sevoke, Rangpo and Rorathang. NH10 closes after monsoon landslides; the alternative is via Kalimpong and Algarah or Lava, so check current status before you travel. Pakyong Airport has no scheduled flights, so plan on Bagdogra (IXB) or NJP."
+      }
+    ],
+    "stops_on_way": [
+      "Ranipool",
+      "Pakyong bazaar",
+      "Rorathang",
+      "Rhenock"
+    ],
+    "tip": "Leave Gangtok by 9 am so you reach Aritar with time for the lake before dusk.",
+    "faqs": [
+      {
+        "q": "Do I need a permit for Aritar?",
+        "a": "No. Aritar is outside the Silk Route protected area. The permit starts at Rongli and is for Indian nationals only. Check current status before you travel."
+      },
+      {
+        "q": "How far is Aritar from Gangtok?",
+        "a": "About 67 to 70 km, taking roughly 3 hours by road via Pakyong. Wikipedia gives 67 km. Slides in the monsoon can add time."
+      },
+      {
+        "q": "Is there a direct shared jeep from Gangtok to Aritar?",
+        "a": "Not a regular one that we can promise. Most people take a shared jeep to Rhenock and then a local vehicle, or hire a car. Check current status before you travel."
+      },
+      {
+        "q": "Can I go from Aritar to Zuluk the next day?",
+        "a": "Yes. Aritar to Rongli is about 20 km, then about 30 km up to Zuluk with a permit from Rongli, for Indian nationals only. Leave early so you reach Rongli before the office gets busy."
+      }
+    ]
+  },
+  {
+    "slug": "rongli-to-zuluk",
+    "from": "rongli",
+    "to": "zuluk",
+    "distance_km": 30,
+    "summary": "Rongli to Zuluk is about 30 km on NH 717B through Lingtam and Padamchen, usually 1.5 to 2 hours. The road climbs from about 1,585 m to 2,800 m. It is inside the protected area, so the Rongli permit is needed. Indian nationals only.",
+    "options": [
+      {
+        "mode": "Local permit-registered vehicle",
+        "time": "1.5–2 h",
+        "cost": "≈ ₹2,000–3,500 per vehicle one way",
+        "text": "There is no regular shared service for tourists on this stretch. Hire a permit-registered local jeep or car at Rongli, or arrange pick-up through your homestay. Confirm the fare before you start. Check current status before you travel."
+      },
+      {
+        "mode": "Private car or SUV from your trip",
+        "time": "1.5–2 h",
+        "cost": "Included in a Silk Route day, ≈ ₹4,500–6,500 a day",
+        "text": "Most visitors continue in the same car they used from Gangtok or Siliguri. A small car manages the road in dry weather; an SUV is more comfortable in rain or snow."
+      },
+      {
+        "mode": "Walking or shared local transport",
+        "time": "Not advised",
+        "cost": "Not advised",
+        "text": "Sections of road are narrow and used by army convoys, so we do not suggest walking. Local people use shared vehicles, but tourists must be on a permit with a registered vehicle."
+      }
+    ],
+    "stops_on_way": [
+      "Lingtam",
+      "Padamchen",
+      "Forest viewpoints",
+      "Army checkpoints"
+    ],
+    "tip": "Do not photograph military installations or convoys; ask your driver where it is allowed.",
+    "faqs": [
+      {
+        "q": "How long is Rongli to Zuluk?",
+        "a": "About 30 km, around 1.5 to 2 hours, depending on traffic, convoys and road works. Check current status before you travel."
+      },
+      {
+        "q": "Where do I get the permit?",
+        "a": "At Rongli before you start, through a registered agent, driver or homestay. Carry photo ID and two passport photos for every traveller. Indian nationals only."
+      },
+      {
+        "q": "Is there any place to eat on the way?",
+        "a": "Small tea and snack shops operate at Lingtam, Padamchen and near Zuluk, with limited hours. Carry water and snacks. Many homestays prepare packed lunch on request."
+      },
+      {
+        "q": "Can I go to Zuluk if I am a foreigner?",
+        "a": "No. The Old Silk Route beyond Rongli is not open to foreigners. Aritar and Rhenock are outside the belt. Check current status before you travel."
+      }
+    ]
+  },
+  {
+    "slug": "zuluk-to-nathang-valley",
+    "from": "zuluk",
+    "to": "nathang-valley",
+    "distance_km": 25,
+    "summary": "Zuluk to Nathang Valley is about 25 km by way of Thambi View Point and Lungthung, usually 1 to 1.5 hours. The road climbs from about 2,800 m to about 3,750 m, so allow time for acclimatisation. Permits are Indian nationals only.",
+    "options": [
+      {
+        "mode": "Private car or SUV",
+        "time": "1–1.5 h",
+        "cost": "Included in a Silk Route day, ≈ ₹4,500–6,500 a day",
+        "text": "Most travellers do this leg in the same vehicle. An SUV is more comfortable at height, and drivers know where fog and ice make stops unwise. Start by 8 am for clear views and to reach Nathang before afternoon cloud."
+      },
+      {
+        "mode": "Local permit-registered vehicle",
+        "time": "1–1.5 h",
+        "cost": "≈ ₹2,500–4,000 per vehicle one way",
+        "text": "If you are staying at Zuluk and moving up, your homestay can arrange a local vehicle. Confirm the fare in advance and keep your permit with you."
+      },
+      {
+        "mode": "Not by shared jeep",
+        "time": "Not available",
+        "cost": "Not available for tourists",
+        "text": "No tourist shared jeep covers this leg; locals use shared vehicles. Plan on private or local registered transport."
+      }
+    ],
+    "stops_on_way": [
+      "Thambi View Point",
+      "Lungthung",
+      "Army checkpoints",
+      "High-pass viewpoints"
+    ],
+    "tip": "Spend a night at Padamchen or Zuluk before sleeping at Nathang, which is around 3,750 m.",
+    "faqs": [
+      {
+        "q": "How far is Zuluk to Nathang?",
+        "a": "About 25 km, taking around 1 to 1.5 hours. Fog, ice or convoys can add time. Check current status before you travel."
+      },
+      {
+        "q": "Is Nathang safe for altitude?",
+        "a": "At about 3,750 m, mild headaches are common for people who arrive from the plains. Spend a night at Padamchen or Zuluk first, drink water and go slowly. Seek help if symptoms worsen."
+      },
+      {
+        "q": "Do I need a separate permit for Nathang?",
+        "a": "The Silk Route permit covers the named places including Nathang, for Indian nationals only. Carry your permit and ID. Check current status before you travel."
+      },
+      {
+        "q": "Can I see snow on this road?",
+        "a": "Often between December and March, depending on the year. Roads may be closed or restricted after snow. Check current status before you travel."
+      }
+    ]
+  }
+]
