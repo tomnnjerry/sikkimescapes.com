@@ -1,0 +1,172 @@
+{
+  "slug": "khangchendzonga-national-park",
+  "name": "Khangchendzonga National Park",
+  "region": "west-sikkim",
+  "kind": "sanctuary",
+  "wiki": "Khangchendzonga National Park",
+  "image_query": "Khangchendzonga National Park Sikkim",
+  "lat": 27.6563,
+  "lng": 88.3123,
+  "altitude_m": 1780,
+  "local_name": {"name": "Kangchendzönga", "language": "Tibetan", "meaning": "The five treasures of the high snow (the mountain the park is named after)", "source": "Wikipedia: Kangchenjunga"},
+  "tagline": "India's first mixed World Heritage Site, entered on foot from Yuksom",
+  "meta_description": "Khangchendzonga National Park: India's first mixed UNESCO World Heritage Site (2016), 1,784 km² around Kangchenjunga. Entry from Yuksom, permits, fees, treks.",
+  "summary": "Khangchendzonga National Park covers about 1,784 km² of Sikkim around Kangchenjunga (8,586 m), across Mangan and Gyalshing districts. Notified in 1977, it became India's first mixed UNESCO World Heritage Site in July 2016. Visitors enter on foot from Yuksom (1,780 m), with a park permit, registered agency and licensed guide.",
+  "intro": [
+    "Khangchendzonga National Park is the great wild heart of Sikkim. It takes in the Sikkim side of Kangchenjunga, the world's third highest mountain, with its glaciers, high lakes, alpine meadows and the deep forested valleys below. Wikipedia gives its area as 1,784 km² in Mangan district (North Sikkim) and Gyalshing district (West Sikkim). To the north it adjoins Tibet's Qomolangma reserve, and to the west Nepal's Kanchenjunga Conservation Area, so the protection runs across three countries.",
+    "UNESCO inscribed the park in July 2016 as India's first mixed World Heritage Site, listed for both nature and culture. The natural criteria recognise its scenery and biodiversity across an altitude range of about 1,220 m to 8,586 m. The cultural criteria recognise it as a sacred landscape: for Sikkim's Buddhists the hidden land of Demazong, and for the Lepcha people a place woven into their origin stories and rituals.",
+    "There are no roads inside the park. For almost every visitor, the door is Yuksom in West Sikkim, where the trail to Sachen, Tshoka, Dzongri and Goecha La begins. You can walk in for a day, two nights or the full 9-day trek, but every entry needs a park permit, registration at Yuksom and a registered guide. Foreign nationals also need a Protected Area Permit in a group of two or more. Check current status before you travel."
+  ],
+  "story": {
+    "title": "Demazong, the hidden valley of rice",
+    "text": "Long before it was a national park, the land around Kangchenjunga was a sacred geography. In Sikkim's Buddhist tradition, Guru Padmasambhava, who brought Vajrayana Buddhism to Tibet in the 8th century, is believed to have blessed this land and concealed it as a beyul, a hidden refuge to be opened in a time of need. Its name is Beyul Demazong, usually translated as 'the hidden valley of rice'. Lakes, caves, rocks and peaks inside the park are named places of pilgrimage, and the mountain itself is worshipped as Dzö-nga, Sikkim's guardian deity, honoured each year at Pang Lhabsol. The Lepcha, considered the earliest inhabitants of Sikkim, have their own older relationship with these mountains, which appear in their accounts of origin and in their rituals. When UNESCO listed the park in 2016, it chose two cultural criteria for exactly this reason, describing a living landscape shared by both traditions. That is why some lakes here may not be camped beside and why, as Wikipedia's article on Kangchenjunga records, the first climbers in 1955 stopped short of the summit at the request of the Chogyal.",
+    "source": "UNESCO World Heritage List: Khangchendzonga National Park; Wikipedia: Khangchendzonga National Park; Kangchenjunga"
+  },
+  "little_known": [
+    {"fact": "Wikipedia records about 550 bird species in the park and six cat species: Indian leopard, clouded leopard, snow leopard, jungle cat, Asian golden cat and leopard cat.", "source": "Wikipedia: Khangchendzonga National Park"},
+    {"fact": "Camera traps have recorded the dhole, the Asiatic wild dog, in the park at elevations between about 2,500 m and 4,100 m, according to Wikipedia.", "source": "Wikipedia: Khangchendzonga National Park"},
+    {"fact": "The park is part of the wider Khangchendzonga Biosphere Reserve, which is included in UNESCO's Man and the Biosphere Programme, separate from its World Heritage listing.", "source": "Wikipedia: Khangchendzonga National Park"}
+  ],
+  "facts": [
+    ["Best months", "Apr–mid-May and late Sep–Nov"],
+    ["Nights we suggest", "2 (Tshoka) to 10 (Goecha La) from Yuksom"],
+    ["From Gangtok", "≈ 150 km to Yuksom · 6.5–7.5 h, then on foot"],
+    ["Altitude", "≈ 1,220–8,586 m; entry at Yuksom 1,780 m"],
+    ["Known for", "UNESCO mixed site, Kangchenjunga, forests, sacred lakes"],
+    ["Permit", "Park permit and registered guide; foreigners also RAP and PAP"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2–10",
+  "highlights": [
+    {"title": "India's first mixed World Heritage Site", "text": "UNESCO listed the park in July 2016 under four criteria: two natural, for scenery and biodiversity, and two cultural, for its living sacred traditions. Before it, every Indian World Heritage Site was either natural or cultural. Walking in from Yuksom, you pass through both kinds of value at once."},
+    {"title": "Seven kilometres of altitude", "text": "Within about 40 km in a straight line the park climbs from warm valley forest near 1,200 m through oak, maple, magnolia, fir and rhododendron to alpine meadow, glacier and the 8,586 m summit. Few protected areas on Earth pack so much altitude into so little ground."},
+    {"title": "The Yuksom trail", "text": "The trail from Yuksom to Sachen, Tshoka and Dzongri is the only practical way in for most visitors. A two-night walk to Tshoka, a 5–6 day Dzongri trek or the full Goecha La trek all start at the park gate at the top of the village."},
+    {"title": "Birds and shy mammals", "text": "About 550 bird species are recorded, including blood pheasant and satyr tragopan. Snow leopard, red panda, Himalayan tahr and bharal live here too, but are rarely seen. Trekkers regularly see birds in the forests between Yuksom and Tshoka, especially in spring."},
+    {"title": "A sacred landscape", "text": "Lakes such as Samiti, caves, rocks and peaks are places of pilgrimage in the Buddhist tradition of Demazong and in Lepcha belief. Prayer flags, mani walls and chortens along the trail are part of that landscape. Walk around them clockwise and leave them undisturbed."},
+    {"title": "Seen from Pelling", "text": "If you cannot trek, the park still fills the view. The line of snow peaks you see from Pelling at dawn, from Kabru to Pandim, is the park's southern skyline. Two nights in Pelling and two in Yuksom take you as close as a road can."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Reach Yuksom, the park's main gateway, by shared jeep from Gyalshing, Pelling, Tashiding or Legship, indicatively ₹150–250 a seat from Pelling. From Siliguri or Gangtok, take a shared jeep to Gyalshing or Jorethang first. Inside the park, travel is on foot only."},
+    {"mode": "Private car", "text": "From Pelling to Yuksom, about 40 km and 2 hours, indicatively ₹2,500–3,500 one way. From Gangtok, about 150 km and 6.5–7.5 hours. Northern routes into the park through Dzongu and Lachen need special permits and are rarely open to ordinary visitors."},
+    {"mode": "From Bagdogra / NJP", "text": "About 170 km and 6.5–7.5 hours to Yuksom via Melli, Jorethang, Legship and Tashiding, indicatively ₹6,500–8,500 by private car. Trekking agencies often run shared transport from NJP for about ₹2,000–3,500 return. NH10 closes after heavy rain; the alternative is via Darjeeling. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Park fee, Indians (first 7 days)", "≈ ₹350, then ≈ ₹40 a day; check current status"],
+    ["Park fee, foreigners (first 7 days)", "≈ ₹560, then ≈ ₹80 a day; check current status"],
+    ["Guided day walk from Yuksom", "≈ ₹1,500–3,000 total"],
+    ["Dzongri group trek (5–6 days)", "≈ ₹13,000–18,000 per person"],
+    ["Goecha La group trek (9 walking days)", "≈ ₹22,000–30,000 per person plus GST"]
+  ],
+  "where_to_stay": "There are no hotels in the park. On treks, groups camp at designated sites such as Sachen, Tshoka, Dzongri, Thansing and Lamuney, and the Forest Department runs basic trekkers' huts at Tshoka, Dzongri and Thansing. Base yourself in Yuksom before and after: Yuksum Residency and Hotel Tashigang are practical value hotels, and village homestays cost about ₹1,200–2,200 per person with meals. For comfort or premium rooms, stay in Pelling, two hours away, at Norbu Ghang Retreat and Spa or The Elgin Mount Pandim.",
+  "stays": ["yuksum-residency-yuksom", "hotel-tashigang-yuksom", "yuksom-village-homestays", "the-elgin-mount-pandim-pelling"],
+  "tips": [
+    "Even a day walk beyond the park gate at Yuksom needs a permit; ask the forest office or us first.",
+    "Carry out every wrapper, battery and bottle; single-use plastic is checked at Yuksom.",
+    "Do not collect plants, seeds or rocks, and do not light wood fires inside the park.",
+    "Drones need specific permission, which is rarely granted; leave yours at home.",
+    "Book trekking dates early for October and late April, when group departures fill."
+  ],
+  "themes": ["treks-and-walks", "birds-and-wildlife", "flowers-and-forests", "lakes-and-passes"],
+  "nearby": ["yuksom", "dzongri-goecha-la", "dubdi-monastery", "khecheopalri-lake"],
+  "experiences": [
+    {
+      "slug": "khangchendzonga-np-tshoka-overnight-walk",
+      "title": "Two nights in the park: Yuksom to Tshoka",
+      "kind": "adventure",
+      "duration": "3 days, 2 nights",
+      "best_time": "Apr–mid-May and Oct–Nov",
+      "cost": "≈ ₹8,000–14,000 per person, guided with camping",
+      "image_query": "Tshoka Sikkim trek campsite",
+      "wiki": "",
+      "summary": "A short taste of the park without the full trek: walk from Yuksom through forest above the Prek Chu to Sachen and up to Tshoka at about 3,000 m, then return, with a registered guide, park permit and camping support.",
+      "body": [
+        "Not everyone has nine days for Goecha La. Many registered agencies in Yuksom offer a shorter walk to Tshoka and back. Day one climbs from Yuksom to Sachen at about 2,200 m through warm broadleaf forest, crossing side streams on bridges above the Prek Chu.",
+        "Day two crosses the river near Bakhim and climbs to Tshoka at about 3,000 m, a small trekkers' settlement with a small monastery, and on clear mornings a view of Pandim. In April the rhododendrons around Tshoka flower. Day three is a long descent back to Yuksom.",
+        "It still needs a park permit, registration at Yuksom and a licensed guide. Tshoka is high enough to feel the altitude, so walk slowly and drink plenty of water. Check current status before you travel."
+      ],
+      "good_for": ["couples", "solo", "first-timers", "families"],
+      "faqs": [
+        {"q": "Can I visit Khangchendzonga National Park without doing the full trek?", "a": "Yes. Options include a guided day walk from Yuksom into the forest, a two-night walk to Tshoka and back, or the 5–6 day Dzongri trek. All need a park permit, registration at Yuksom and a registered guide. Check current status before you travel."},
+        {"q": "How high is Tshoka?", "a": "About 3,000 m, roughly 1,200 m above Yuksom. Most fit walkers reach it comfortably in two days via Sachen. Some people feel mild headaches or breathlessness at this height; walk slowly, drink 3–4 litres of water a day and tell your guide if symptoms worsen."},
+        {"q": "What does a Tshoka walk cost?", "a": "Indicatively ₹8,000–14,000 per person for a guided three-day walk with camping, food and park fees, depending on group size and the agency. Transport to Yuksom and your nights there are usually extra. Prices are indicative for 2026; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "khangchendzonga-np-forest-birding",
+      "title": "Birding in the park's lower forests",
+      "kind": "wildlife",
+      "duration": "4–6 hours",
+      "best_time": "Mar–May and Oct–Nov, from dawn",
+      "cost": "Park permit plus ≈ ₹1,500–3,000 for a guide",
+      "image_query": "satyr tragopan Sikkim",
+      "wiki": "Satyr tragopan",
+      "summary": "Walk the first stretch of the Yuksom trail at dawn with a guide who knows the birds, in forests where the park records about 550 species, from laughingthrushes and sunbirds to, with luck, pheasants and tragopans higher up.",
+      "body": [
+        "Wikipedia records about 550 bird species in Khangchendzonga National Park, among them the blood pheasant, satyr tragopan, Himalayan griffon, lammergeier, green pigeons and sunbirds. Many of the forest species can be found in the lower park, on the trail from Yuksom towards Sachen.",
+        "Start at first light from the park gate at the top of Yuksom, with your permit arranged the day before. The first hours bring mixed flocks of warblers, tits, minivets and laughingthrushes through the canopy, barbets calling from the ridges and sunbirds on flowering shrubs. Pheasants and tragopans live higher and are shy; seeing one is luck, not a promise.",
+        "Carry binoculars, water and rain gear. Walk slowly and quietly, keep to the trail and do not use playback. Be back in Yuksom by early afternoon."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "What birds can I see in Khangchendzonga National Park?", "a": "Wikipedia lists about 550 species, including blood pheasant, satyr tragopan, Himalayan griffon, lammergeier, snow pigeon, Asian emerald cuckoo and many sunbirds. On a day walk from Yuksom expect common forest species such as laughingthrushes, minivets, barbets and warblers; the high-altitude pheasants need longer treks and luck."},
+        {"q": "Do I need a permit for birding in the park?", "a": "Yes. Even a day walk beyond the park gate at Yuksom needs a park permit and registration, and the current rules expect a registered guide. We arrange these the day before. Foreign nationals also need Sikkim's Restricted Area Permit. Check current status before you travel."},
+        {"q": "When is the best time for birding in the park?", "a": "March to May, when many birds are breeding and singing, and October to November, after the monsoon. Start at dawn, when activity peaks. Avoid June to September, when rain, leeches and cloud make the trail difficult and birds hard to see in the dripping forest."}
+      ]
+    },
+    {
+      "slug": "khangchendzonga-np-demazong-sacred-walk",
+      "title": "Walking the edge of Demazong",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Year-round except heavy monsoon",
+      "cost": "≈ ₹1,000–2,000 for a local guide",
+      "image_query": "Dubdi Monastery Yuksom forest",
+      "wiki": "",
+      "summary": "With a Yuksom guide, walk from Kathok Lake to Dubdi Monastery and the first stretch of the park trail, learning how the land around Kangchenjunga is held sacred as Beyul Demazong and why that shaped UNESCO's listing.",
+      "body": [
+        "UNESCO listed Khangchendzonga National Park partly for its sacred meaning: the Buddhist idea of Beyul Demazong, a hidden land blessed by Guru Padmasambhava, and the Lepcha people's relationship with its mountains, lakes and caves. Yuksom, on the park's edge, is the best place to understand this without trekking.",
+        "Start at Kathok Lake, associated with the sacred water used at the first Chogyal's consecration in 1642. Walk up through forest to Dubdi Monastery, dated to 1701 and often called the oldest in Sikkim. With a permit, continue a short way along the park trail past prayer flags and mani stones.",
+        "A local guide links the places into one story. Walk clockwise around chortens and mani walls, dress modestly at the monastery and keep your voice low."
+      ],
+      "good_for": ["seniors", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "What is Demazong?", "a": "Beyul Demazong, usually translated as 'the hidden valley of rice', is the Buddhist name for Sikkim as a sacred hidden land, believed to have been blessed and concealed by Guru Padmasambhava. The area around Kangchenjunga is its heart, and its lakes, caves and peaks are places of pilgrimage. UNESCO's listing recognises this tradition."},
+        {"q": "Why is Khangchendzonga National Park a mixed heritage site?", "a": "UNESCO listed it in July 2016 under two natural criteria, for exceptional scenery and biodiversity, and two cultural criteria, for its role as a living sacred landscape for Sikkim's Buddhists and the Lepcha people. It was the first site in India listed for both natural and cultural value."},
+        {"q": "Do I need a permit for the Demazong walk?", "a": "Not for Kathok Lake or Dubdi Monastery, which are outside the park. If you continue beyond the park gate onto the trail, you need a park permit and should go with a registered guide. We arrange this in Yuksom. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "khangchendzonga-np-skyline-from-pelling",
+      "title": "Name the park's peaks from Pelling at dawn",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Oct–Mar, sunrise",
+      "cost": "Free",
+      "image_query": "Kangchenjunga range from Pelling sunrise",
+      "wiki": "Kangchenjunga",
+      "summary": "Watch the sun rise on the park's southern skyline from a Pelling viewpoint and learn to pick out Kabru, Kangchenjunga, Pandim and their neighbours, the peaks that trekkers see up close from Dzongri and Goecha La.",
+      "body": [
+        "From Pelling, at about 2,150 m, the snow peaks on the northern horizon are the southern ramparts of Khangchendzonga National Park. On a clear morning between October and March, step out before sunrise to a terrace or viewpoint facing north and watch the summits turn pink, then gold.",
+        "Kangchenjunga (8,586 m) is the broad massif near the centre. Kabru's long ridge runs to its left, along the Nepal border, and Pandim's pointed summit stands to the right, closer to you. Wikipedia's Goecha La article lists the main peaks seen on the trek, a useful key for naming what you see.",
+        "Bring a warm layer and a hot drink, and be patient: cloud often lifts briefly just after sunrise. Binoculars show the glaciers clearly."
+      ],
+      "good_for": ["families", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Which peaks can I see from Pelling?", "a": "On a clear morning, the Kangchenjunga massif (8,586 m) near the centre, Kabru's long ridge to its left and Pandim (6,691 m) to the right, with other peaks of the range such as Rathong and Koktang along the skyline. Exact visibility depends on your viewpoint and the weather."},
+        {"q": "When is the view of Kangchenjunga clearest from Pelling?", "a": "October to March, especially in the first hour after sunrise. October and November are clear after the monsoon; December to February are clear but cold. From April, haze and cloud build, and in June to September the range is rarely visible for more than a few minutes."},
+        {"q": "Is the view from Pelling the same as from Goecha La?", "a": "No. From Pelling you see the range from about 40 km away across several valleys, a wide panorama. From Dzongri Top and the Goecha La viewpoint, trekkers stand much closer, facing Kabru, Pandim and the south-east face of Kangchenjunga directly. Both are worth seeing; Pelling needs no permit."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Why is Khangchendzonga National Park a UNESCO site?", "a": "UNESCO listed it in July 2016 for both natural and cultural value, making it India's first mixed World Heritage Site. The natural criteria recognise its exceptional scenery and biodiversity across about 1,220 m to 8,586 m. The cultural criteria recognise its role as a sacred landscape for Sikkim's Buddhists and the Lepcha people."},
+    {"q": "How big is Khangchendzonga National Park?", "a": "About 1,784 km², according to Wikipedia, with a large buffer zone around it. It spans Mangan district (North Sikkim) and Gyalshing district (West Sikkim), and borders Nepal's Kanchenjunga Conservation Area to the west and Tibet's Qomolangma reserve to the north. It was first notified in 1977."},
+    {"q": "Can tourists visit Khangchendzonga National Park?", "a": "Yes, mainly on foot from Yuksom in West Sikkim, on the trails to Tshoka, Dzongri and Goecha La. You need a park permit, registration at Yuksom and a registered local guide; solo trekking is not allowed. Foreign nationals also need a Restricted Area Permit and a Protected Area Permit. Check current status before you travel."},
+    {"q": "What is the entry fee for Khangchendzonga National Park?", "a": "The park fee has been about ₹350 per Indian for the first seven days plus about ₹40 for each extra day, and about ₹560 per foreign national for seven days plus about ₹80 a day. Camping, guide and porter charges are separate. Your registered agent pays these at Yuksom. Check current status before you travel."},
+    {"q": "What animals live in Khangchendzonga National Park?", "a": "Wikipedia lists about 550 bird species and mammals including snow leopard, clouded leopard, red panda, Himalayan tahr, bharal, musk deer, goral, serow, dhole and Himalayan wolf. Large mammals are shy and rarely seen by trekkers, but birdlife is rich, especially in the forests between Yuksom and Tshoka in spring."},
+    {"q": "Can I visit the park in a day from Pelling?", "a": "Not in a meaningful way. There are no roads inside the park; the nearest entry is on foot from Yuksom, about two hours from Pelling, and even a day walk beyond the gate needs a permit. A better plan is a night or two in Yuksom, with a guided walk into the park's lower forest."},
+    {"q": "When is the best time to visit Khangchendzonga National Park?", "a": "For trekking, April to mid-May for rhododendrons and late September to November for clear mountain views. December to February is very cold, with snow on the upper trail. We avoid the June–August monsoon, when the lower trail is slippery and leech-ridden and views are rare."},
+    {"q": "Is Kangchenjunga climbed from Sikkim?", "a": "No. Wikipedia notes that the Indian side of the mountain is off limits to climbers, out of respect for its place as Sikkim's guardian deity. Trekkers on the Goecha La route stop at a viewpoint at about 4,570 m. The mountain is climbed from Nepal, where the first climbers in 1955 stopped short of the true summit."},
+    {"q": "Who manages Khangchendzonga National Park?", "a": "The Sikkim Forest Department manages the park, working with village bodies such as the Khangchendzonga Conservation Committee in Yuksom on trail clean-ups, guide training and limits on firewood use. Rules on permits, camping and waste are firmly enforced at Yuksom and on the trail. Check current status before you travel."}
+  ]
+}

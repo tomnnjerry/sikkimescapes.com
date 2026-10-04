@@ -1,0 +1,171 @@
+{
+  "slug": "singhik",
+  "name": "Singhik",
+  "region": "north-sikkim",
+  "kind": "viewpoint",
+  "wiki": "Singhik",
+  "image_query": "Singhik viewpoint Kangchenjunga North Sikkim",
+  "lat": 27.517,
+  "lng": 88.552,
+  "altitude_m": 1500,
+  "local_name": null,
+  "tagline": "A Lepcha village above Mangan with a view up to Kangchenjunga",
+  "meta_description": "Singhik, 4 km from Mangan: viewpoint over Dzongu to Kangchenjunga and Siniolchu, a Lepcha village on the North Sikkim Highway. Best times, costs and tips.",
+  "summary": "Singhik is a village about 4 km beyond Mangan and roughly 70 km from Gangtok, on the North Sikkim Highway at about 1,500 m. Its viewpoint looks across the Teesta into Dzongu and, on clear mornings, up to the Kangchenjunga range and Siniolchu. No permit is needed, and it makes a good tea or lunch stop on the way north.",
+  "intro": [
+    "Singhik straddles the North Sikkim Highway a short drive above Mangan. Wikipedia notes that most of its people are Lepcha, with Nepali and Bhutia families too, and that the village sits at around 1,560 m. Houses, small shops and fields spread along the ridge, and the land drops steeply on the west side to the Teesta far below.",
+    "The reason travellers stop is the view. From the viewpoint by the road you look straight across the gorge into Dzongu, its villages and cardamom forest spread over the slopes opposite, and up the valley towards the high peaks. On a clear morning between October and March, the Kangchenjunga range and the sharp summit of Siniolchu rise above the head of the valley. In cloud you will see nothing beyond the ridges, so timing matters.",
+    "Singhik is below the Toong check post, so no protected area permit is needed. It works as a 20–30 minute stop on the drive to Lachung or Lachen, as a short outing from a night in Mangan, or as the last look back at the snows on the way down. Check current status before you travel."
+  ],
+  "story": {
+    "title": "Looking into the Lepcha homeland",
+    "text": "From the Singhik viewpoint you are looking at two Lepcha landscapes at once. Singhik itself is a largely Lepcha village: Wikipedia puts the Lepcha share of its people at nearly 80 percent. Across the Teesta lies Dzongu, the reserve set aside for the Lepcha in the Chogyal era, where outsiders may not buy land. Above both, on a clear day, stands the Kangchenjunga range. The Wikipedia article on the Lepcha people records that mountains, rivers and lakes are sacred in Lepcha belief, and Kangchenjunga above all; Sikkimese tradition more widely honours the mountain as a guardian deity, which is celebrated at the Pang Lhabsol festival. The Lepcha call their homeland Mayel Lyang, and many writers translate it as the hidden or blessed land. Standing at Singhik with the valley opening below you, it is easy to see why a people would think of this place as both home and sanctuary. Ask a Singhik or Dzongu host for their own telling; if it is local tradition, enjoy it as told locally.",
+    "source": "Wikipedia, Singhik and Lepcha people; Wikipedia, Pang Lhabsol"
+  },
+  "little_known": [
+    {"fact": "Lepcha make up nearly 80 percent of Singhik's population, according to Wikipedia, with Nepali and Bhutia families making up the rest.", "source": "Wikipedia, Singhik"},
+    {"fact": "Siniolchu, the sharp 6,888 m peak often seen from the Singhik area on clear days, was called the most beautiful snow mountain in the world by the explorer Douglas Freshfield; it was first climbed in 1936.", "source": "Wikipedia, Siniolchu"},
+    {"fact": "Singhik is only about 4 km from Mangan, the district headquarters, which makes it an easy add-on to a Mangan night or a Dzongu trip.", "source": "Wikipedia, Singhik"}
+  ],
+  "facts": [
+    ["Best months", "October–March for views"],
+    ["Nights we suggest", "0 (stop) or stay in Mangan"],
+    ["From Gangtok", "≈ 70 km · 2.5–3 h"],
+    ["Altitude", "≈ 1,500 m"],
+    ["Known for", "Kangchenjunga and Siniolchu view, Dzongu panorama"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [2, 2, 1, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The Kangchenjunga view", "text": "On clear mornings from October to March the Kangchenjunga range shows at the head of the valley, with Siniolchu's sharp summit prominent. Early light is best; by late morning clouds often build. In spring and the monsoon, haze and cloud usually hide the peaks."},
+    {"title": "Dzongu across the gorge", "text": "Directly opposite lies Dzongu, the Lepcha reserve: terraced villages, cardamom forest, waterfalls and the road winding up the Rongyong valley. Even when the peaks are hidden, this view explains Dzongu's separateness better than any map."},
+    {"title": "A Lepcha village on the highway", "text": "Singhik is mostly Lepcha. Walk a little along the road and side lanes, buy fruit or tea at a local shop, and you see daily life in a district where Lepcha is the most common first language."},
+    {"title": "Lunch and tea stop", "text": "Some North Sikkim tours stop at Singhik or Mangan for lunch. Small roadside places serve tea, momos, noodles and simple rice meals. Keep it short on the way up because of the Toong check post cut-off at 4:00 pm."},
+    {"title": "The last look on the way down", "text": "Returning from Lachung or Lachen, a stop at Singhik in the morning light gives a last view up the valley before the drive to Gangtok. Ask your driver to time it; a few minutes here is worth more than an hour of hazy afternoon."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Take a shared jeep from Gangtok's Vajra stand to Mangan, about 2.5–3 hours for ₹250–350 a seat, then a local taxi for the 4 km to Singhik. Some jeeps heading further north pass through Singhik."},
+    {"mode": "Private car", "text": "A reserved car from Gangtok takes about 2.5–3 hours for 70 km via Kabi, Phodong and Mangan. Most travellers stop at Singhik on the way to Lachung or Lachen, which costs nothing extra."},
+    {"mode": "From Bagdogra / NJP", "text": "Singhik is about 180 km from NJP or Bagdogra, best reached after a night in Gangtok. NH10 closes after slides in the monsoon, when drivers use the Kalimpong or Algarah roads."}
+  ],
+  "costs": [
+    ["Shared jeep Gangtok–Mangan", "≈ ₹250–350 a seat"],
+    ["Local taxi Mangan–Singhik return", "≈ ₹500–800"],
+    ["Reserved car Gangtok–Singhik", "≈ ₹3,500–5,000 one way"],
+    ["Tea and snacks", "≈ ₹50–150"],
+    ["Budget room in Mangan nearby", "≈ ₹1,500–2,500 a night"]
+  ],
+  "where_to_stay": "Singhik has very little tourist accommodation, and we do not list a property here we cannot vouch for. For an early-morning view, stay 4 km away in Mangan, where Hotel Tamarind on the highway and simpler lodges in the bazaar cost about ₹1,500–4,000 a room, and drive up at first light. Alternatively, stay with a Lepcha family in Dzongu across the river, with a permit, and stop at Singhik on your way in or out.",
+  "stays": [],
+  "tips": [
+    "Come early in the morning between October and March for the best chance of clear peaks.",
+    "Carry binoculars or a zoom lens to pick out Siniolchu and the Dzongu villages.",
+    "Keep the stop short on the way north so you pass the Toong check post before 4:00 pm.",
+    "Ask before photographing people or homes in the village.",
+    "Bring a warm layer for early mornings in winter, when it can be close to freezing."
+  ],
+  "themes": ["photography", "village-homestays", "offbeat-sikkim"],
+  "nearby": ["mangan", "dzongu", "naga-waterfall", "chungthang"],
+  "experiences": [
+    {
+      "slug": "singhik-sunrise-kangchenjunga-view",
+      "title": "First light on Kangchenjunga from Singhik",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "6–8 am, October–March",
+      "cost": "Free; taxi from Mangan ≈ ₹500–800",
+      "image_query": "Siniolchu Kangchenjunga view from Singhik",
+      "wiki": "Siniolchu",
+      "summary": "Drive up from Mangan before sunrise and watch the first light touch the Kangchenjunga range and Siniolchu at the head of the valley, with Dzongu waking up across the gorge. Clear winter mornings give the best chance.",
+      "body": [
+        "The best time at Singhik is the first hour after sunrise on a clear day between October and March. The valley below is still in shadow, smoke rises from kitchens in Dzongu, and the snow peaks at the head of the valley catch the sun first. Siniolchu, 6,888 m, stands out for its sharp, steep summit, and the Kangchenjunga massif fills the skyline behind on the clearest days.",
+        "Stay in Mangan the night before and leave by about 5:30 to 6 am, depending on the month. It is cold at this hour in winter, so bring a jacket, cap and gloves, and a flask of tea. A zoom lens or binoculars help you pick out the peaks and the Dzongu villages.",
+        "Weather decides everything. On a cloudy morning you may see only the near ridges. In that case enjoy the Dzongu view and the village waking up, and try again on the way down from Lachung or Lachen."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can you see Kangchenjunga from Singhik?", "a": "Yes, on clear days. The Kangchenjunga range and Siniolchu are visible at the head of the valley, best from October to March in the early morning. Clouds often build by late morning, and from April to September haze and monsoon cloud usually hide the peaks."},
+        {"q": "What time is sunrise at Singhik?", "a": "Sunrise in North Sikkim ranges from about 4:50 am in June to about 6:20 am in late December and January. For views, arrive 15–20 minutes before sunrise and stay an hour. In the clear season, October to March, that means roughly 5:30 to 6:15 am."},
+        {"q": "Which peaks are visible from Singhik?", "a": "On clear days you can usually pick out Siniolchu, a sharp 6,888 m peak, and parts of the Kangchenjunga massif at the head of the Dzongu valley. Exactly which summits show depends on cloud and where you stand. Local people and drivers can point them out."}
+      ]
+    },
+    {
+      "slug": "singhik-lepcha-village-stroll",
+      "title": "A short walk through Singhik village",
+      "kind": "village",
+      "duration": "1 hour",
+      "best_time": "Morning, October–May",
+      "cost": "Free",
+      "image_query": "Lepcha house North Sikkim village",
+      "wiki": "",
+      "summary": "Take an unhurried hour along Singhik's lanes and roadside, a mostly Lepcha village above Mangan. See terraced fields, cardamom on the slopes and daily life on the highway, and stop for tea at a local shop.",
+      "body": [
+        "Singhik is not built for tourists, and that is its charm. The village runs along the highway and a few lanes off it, with houses, small shops, a school and fields and cardamom on the slopes below. Most families are Lepcha, with Nepali and Bhutia neighbours, and you will hear several languages in a short walk.",
+        "Walk slowly, greet people and stop for tea at a local shop. Look for traditional features on older houses, prayer flags, and the way fields step down the slope towards the Teesta. If someone offers to show you their garden or cardamom, take time to listen.",
+        "This is private land and a living village, so stay on public paths and ask before taking photographs of people or homes. Watch for traffic on the highway, which is narrow in places."
+      ],
+      "good_for": ["solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Who lives in Singhik?", "a": "Singhik is a largely Lepcha village; Wikipedia gives the Lepcha share as nearly 80 percent, with Nepali and Bhutia families as well. Most families farm, grow cardamom or work in government and services in nearby Mangan. It is a working village, not a tourist settlement."},
+        {"q": "Is there anything to do in Singhik besides the view?", "a": "A short village walk, tea at a local shop and the view are the main things. Singhik is best as a stop of 20 minutes to an hour, or an early-morning outing from Mangan. Combine it with Dzongu across the river for a fuller day."},
+        {"q": "Is it safe to walk along the highway at Singhik?", "a": "Generally yes, but the road is narrow in places and jeeps move fast. Walk facing traffic, keep to the edge, and use side lanes where you can. Avoid walking at dusk without a torch, and do not stop on bends for photos."}
+      ]
+    },
+    {
+      "slug": "singhik-dzongu-panorama-photo-stop",
+      "title": "Reading Dzongu from the Singhik viewpoint",
+      "kind": "culture",
+      "duration": "20–30 minutes",
+      "best_time": "Morning, any clear month",
+      "cost": "Free",
+      "image_query": "Dzongu valley view from Mangan",
+      "wiki": "",
+      "summary": "Use the Singhik viewpoint to read the Lepcha reserve of Dzongu laid out across the Teesta: villages, roads, cardamom forest and the valley leading to the snows. A short stop that adds meaning to any Dzongu visit.",
+      "body": [
+        "From Singhik the whole of lower Dzongu lies across the gorge like a model. Your driver or host can point out the villages, the road that winds up the Rongyong valley, and the bridges over the Teesta. The reserve's protection is easy to see here: no hotel blocks or resort strips, just homes and fields among the trees.",
+        "If you are going into Dzongu, stop here first so you know where you are heading. If you are not, this is the closest look many travellers get. Combine it with what you know of the reserve's history: the Chogyal-era protection, the 2007–08 hydropower protests, and the homestay movement that followed.",
+        "Morning light is best for photographs. Use a zoom to pick out details, and avoid photographing people in Dzongu from a distance without their knowledge."
+      ],
+      "good_for": ["photographers", "first-timers", "families"],
+      "faqs": [
+        {"q": "Can you see Dzongu from Singhik?", "a": "Yes. Singhik looks directly across the Teesta gorge to lower Dzongu, with its villages, cardamom forests and road up the Rongyong valley. It is one of the best places to see the reserve without a permit. On clear days the snow peaks rise above the head of the valley."},
+        {"q": "Do I need a permit for the Singhik viewpoint?", "a": "No. Singhik is on the North Sikkim Highway below the Toong check post, and no permit is needed. You need a separate permit, issued in Mangan, only if you want to enter Dzongu across the river. Check current status before you travel."},
+        {"q": "Is the Singhik viewpoint worth a stop?", "a": "Yes, for 20–30 minutes, especially in the morning. Even without the snow peaks, the view across to Dzongu is one of the most informative in North Sikkim. It costs nothing on the way to Lachung or Lachen and helps you understand the district."}
+      ]
+    },
+    {
+      "slug": "singhik-mangan-morning-loop",
+      "title": "A Mangan and Singhik morning loop",
+      "kind": "wellness",
+      "duration": "2–3 hours",
+      "best_time": "October–March mornings",
+      "cost": "≈ ₹500–800 for a local taxi, or walk",
+      "image_query": "North Sikkim highway morning Mangan",
+      "wiki": "",
+      "summary": "On a night in Mangan, spend the next morning on an easy loop to Singhik and back, by taxi or partly on foot, for the view, tea and fresh air before driving north. A gentle way to start a North Sikkim trip.",
+      "body": [
+        "If you stay in Mangan, Singhik makes an easy morning outing. Take a local taxi up at first light for the view, then walk part of the way back down the highway, about 4 km in all, with the gorge on one side and the village and fields on the other. It is gentle and mostly downhill if you start from Singhik.",
+        "Stop for tea in Singhik, look for birds in the trees along the road, and watch the valley clear as the sun climbs. Back in Mangan, have breakfast before setting off for Lachung, Lachen or Dzongu, with time in hand for the Toong check post.",
+        "Walk facing traffic and avoid the busiest hours. In the monsoon, wet roads and slides make walking unsafe, so take the taxi both ways."
+      ],
+      "good_for": ["couples", "solo", "seniors"],
+      "faqs": [
+        {"q": "Can I walk from Mangan to Singhik?", "a": "Yes, it is about 4 km along the North Sikkim Highway, with some climb. Many people take a taxi up and walk back down. Walk facing traffic, keep to the edge, and avoid it in heavy rain or after dark. Allow about an hour each way on foot."},
+        {"q": "Is a night in Mangan worth it for Singhik?", "a": "If you love mountain views or are travelling slowly, yes. A night in Mangan lets you reach Singhik at first light, when the peaks are most likely to be clear, and splits the long drive north. If you are short of time, a daytime stop on the way works too."},
+        {"q": "Are there birds to see around Singhik?", "a": "Yes, the forest edges and gardens along the highway hold common hill birds such as bulbuls, laughingthrushes, sunbirds and drongos, especially in early morning. Bring binoculars. For serious birding, Dzongu's forests across the river are richer."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Singhik?", "a": "Singhik is a village on the North Sikkim Highway in Mangan district (North Sikkim), about 4 km beyond Mangan and roughly 70 km from Gangtok. It sits at around 1,500 m on a ridge above the Teesta, looking across to Dzongu and up towards the Kangchenjunga range."},
+    {"q": "What is Singhik famous for?", "a": "Singhik is best known for its viewpoint, which looks across the Teesta gorge to Dzongu and, on clear days, up to the Kangchenjunga range and Siniolchu. It is also a largely Lepcha village and a common tea or lunch stop on the way to Lachung and Lachen."},
+    {"q": "Do I need a permit for Singhik?", "a": "No. Singhik is below the Toong check post, so Indian travellers do not need a protected area permit. Foreigners need the online Sikkim restricted area permit to be in the state. Permits are needed for Dzongu and beyond Toong. Check current status before you travel."},
+    {"q": "What is the best time to visit Singhik?", "a": "October to March gives the best chance of clear mountain views, especially in the early morning. April and May are pleasant but often hazy. June to September is the monsoon, with cloud hiding the peaks and landslides on the highway."},
+    {"q": "How long does it take to reach Singhik from Gangtok?", "a": "About 2.5–3 hours by car for roughly 70 km via Kabi, Phodong and Mangan. Shared jeeps go as far as Mangan, from where a local taxi covers the last 4 km. Allow more time in the monsoon, when slides can delay traffic."},
+    {"q": "Can I stay at Singhik?", "a": "Accommodation in Singhik itself is very limited. We suggest staying in Mangan, 4 km away, and driving up at sunrise, or staying with a Lepcha family in Dzongu with a permit. Mangan has Hotel Tamarind and simpler bazaar lodges."},
+    {"q": "Which mountains can you see from Singhik?", "a": "On clear days you can see Siniolchu, a 6,888 m peak with a striking sharp summit, and parts of the Kangchenjunga massif at the head of the Dzongu valley. Early mornings between October and March give the clearest views."},
+    {"q": "Is Singhik on the way to Lachung and Lachen?", "a": "Yes. Singhik is on the North Sikkim Highway just past Mangan, on the route to Chungthang, where the road divides for Lachung and Lachen. A 20–30 minute stop fits easily, but keep an eye on time: tourist vehicles must cross the Toong check post by 4:00 pm."},
+    {"q": "Is Singhik good for families?", "a": "Yes, as a short stop. The viewpoint is by the road, the altitude of about 1,500 m is easy, and there are small shops for tea and snacks. Keep children away from the road edge and the drop on the gorge side, and hold hands near traffic."}
+  ]
+}
