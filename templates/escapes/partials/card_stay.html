@@ -1,6 +1,11 @@
-{% load tales %}<a class="card card--wide rv" href="{{ s.url }}" data-item data-region="{{ s.region }}" data-kind="{{ s.kind|slugify }}" style="--tint: {{ s.region_obj.tint }}; --deep: {{ s.region_obj.deep }}">
-  {% photo s|first_img alt=s.name sizes="(max-width: 760px) 100vw, 33vw" credit=False %}
-  <span class="chip">{{ s.kind }}{% if s.place_obj %} · {{ s.place_obj.name }}{% endif %}</span>
-  <span class="card__title card__title--s">{{ s.name }}</span>
-  <p>{{ s.summary|truncatewords:26 }}</p>
+{% load esc %}<a class="card rv" href="{{ s.url }}" data-land="{{ s.region }}" data-item data-region="{{ s.region }}" data-tier="{{ s.tier }}" data-kind="{{ s.kind|slugify }}">
+  <div class="card__media">{% include "escapes/partials/media.html" with img=s|first_img alt=s.name ph_icon="village" %}
+    <span class="chip chip--{{ s.tier }}">{{ s.tier_obj.name }}</span>
+  </div>
+  <div class="card__body">
+    <h3>{{ s.name }}</h3>
+    <div class="card__meta"><span>{{ s.kind|capfirst }}</span>{% if s.place_obj %}<span>{{ s.place_obj.name }}</span>{% endif %}</div>
+    <p>{{ s.summary|truncatewords:24 }}</p>
+    {% if s.price_band %}<div class="card__foot"><span class="small muted">{{ s.price_band }}</span></div>{% endif %}
+  </div>
 </a>

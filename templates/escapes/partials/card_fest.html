@@ -1,0 +1,10 @@
+{% load esc %}<a class="card rv" href="{{ f.url }}" data-land="{{ f.region }}" data-item data-region="{{ f.region }}">
+  <div class="card__media">{% include "escapes/partials/media.html" with img=f|first_img alt=f.name ph_icon="flag" %}
+    <span class="chip chip--land">{% icon "flag" %}{{ f.community|default:"Festival"|truncatechars:28 }}</span>
+  </div>
+  <div class="card__body">
+    <h3>{{ f.name }}</h3>
+    <p>{{ f.summary|truncatewords:22 }}</p>
+    <div class="card__meta"><span>{% icon "calendar" %}{{ f.when|truncatechars:48 }}</span>{% if f.place_obj %}<span>{{ f.place_obj.name }}</span>{% endif %}</div>
+  </div>
+</a>

@@ -1,7 +1,11 @@
-{% load tales %}<a class="card rv" href="{{ p.url }}" data-item data-region="{{ p.region }}" data-kind="{{ p.kind|slugify }}" style="--tint: {{ p.region_obj.tint }}; --deep: {{ p.region_obj.deep }}">
-  {% photo p|first_img alt=p.name cls="arch" sizes="(max-width: 760px) 100vw, 25vw" credit=False %}
-  <span class="chip">{{ p.kind|default:p.region_obj.name }}</span>
-  <span class="card__title card__title--s">{{ p.name }}</span>
-  <p>{{ p.tagline }}</p>
-  <span class="card__meta">Best {{ p.best_label }}{% if p.nights %} · {{ p.nights }} nights{% endif %}</span>
+{% load esc %}<a class="card rv" href="{{ p.url }}" data-land="{{ p.region }}" data-item data-region="{{ p.region }}" data-kind="{{ p.kind|slugify }}">
+  <div class="card__media">{% include "escapes/partials/media.html" with img=p|first_img alt=p.name ph_icon=p.region_obj.icon %}
+    <span class="chip chip--land">{{ p.kind|default:"place" }}</span>
+    {% if p.altitude_m %}<span class="ms" aria-label="Altitude {{ p.altitude_m|metres }}"><span class="ms__cap">{{ p.name|truncatechars:10 }}</span><span class="ms__val">{{ p.altitude_m|split_alt }}</span><span class="ms__unit">M</span></span>{% endif %}
+  </div>
+  <div class="card__body">
+    <h3>{{ p.name }}</h3>
+    <p>{{ p.tagline }}</p>
+    <div class="card__meta"><span>{% icon "calendar" %}Best {{ p.best_label|default:"all year" }}</span>{% if p.nights %}<span>{{ p.nights }} nights</span>{% endif %}<span>{{ p.region_obj.name }}</span></div>
+  </div>
 </a>

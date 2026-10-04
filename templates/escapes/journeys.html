@@ -1,18 +1,69 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Private luxury journeys in Nepal and India · Tales of Luxury{% endblock %}
-{% block description %}Private luxury itineraries across Nepal, Rajasthan, Ladakh, North East India, Kerala, Goa and UP &amp; Bihar, with day-by-day plans and indicative prices.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim tour packages with honest prices · Sikkim Escapes{% endblock %}
+{% block description %}Every Sikkim package we run, from shared-jeep budget trips to private value tours, with the price breakdown, nights, altitude and best months. Filter by district, tier, length and budget.{% endblock %}
+{% block og_title %}Sikkim packages with every cost shown{% endblock %}
+{% block og_image %}{% with img=journeys.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Journeys</p><h1 class="h-hero">Routes, <span class="accent">by hand</span></h1>
-  <p class="lede">Each journey is a starting point with real hotels, real drive times and an indicative price per person, twin sharing. Change anything.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px">
-  <div class="filters" data-filter-group="#jr-list" role="group" aria-label="Filter journeys">
-    <button type="button" data-key="region" data-value="" aria-pressed="true">All lands</button>
-    {% for r in regions %}<button type="button" data-key="region" data-value="{{ r.slug }}" aria-pressed="false">{{ r.name }}</button>{% endfor %}
-    <label>Style <select data-key="themes"><option value="">Any</option>{% for t in themes %}<option value="{{ t.slug }}">{{ t.name }}</option>{% endfor %}</select></label>
-    <label>Length <select data-key="length"><option value="">Any</option><option value="short">Short escapes</option><option value="mid">About a week</option><option value="long">The grand tour</option></select></label>
+{% include "escapes/partials/phero.html" with h_title="Sikkim packages, priced honestly" h_kicker="Packages" h_lede="Routes that work on Sikkim's roads, from a shared-jeep weekend to a private week with your own car. Each one shows its nights, its highest point and how the price breaks down." h_seed="packages" %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="answer"><b>Short answer</b><p>Our packages start and end at Bagdogra (IXB) or NJP, or in Gangtok. Prices are indicative per person, twin sharing, and every package lists what the money pays for. Pick one as a starting point: we change hotels, nights and the tier to fit your dates.</p></div>
   </div>
-  
-  <div class="grid grid--3" data-fill id="jr-list">{% for j in journeys %}{% include "tales/partials/card_journey.html" %}{% endfor %}{% include "tales/partials/fill.html" %}</div>
 </section>
+
+<section class="sec" aria-labelledby="all-h" style="padding-top:0">
+  <div class="wrap">
+    <h2 class="h2 sr" id="all-h">Every package</h2>
+    <form class="filters" data-filters="pack-grid" aria-label="Filter packages" onsubmit="return false">
+      <label class="sr" for="f-region">District</label>
+      <select id="f-region" data-filter="region"><option value="">Any district</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+      <label class="sr" for="f-tier">Tier</label>
+      <select id="f-tier" data-filter="tier"><option value="">Any tier</option>{% for t in nav_tiers %}<option value="{{ t.slug }}">{{ t.name }}</option>{% endfor %}</select>
+      <label class="sr" for="f-nights">Length</label>
+      <select id="f-nights" data-filter-range="nights"><option value="">Any length</option><option value="1-4">Up to 3 nights</option><option value="4-6">4 to 5 nights</option><option value="6-8">6 to 7 nights</option><option value="8-99">8 nights or more</option></select>
+      <label class="sr" for="f-price">Budget per person</label>
+      <select id="f-price" data-filter-range="price"><option value="">Any budget</option>{% for b in nav_bands %}<option value="{{ b.lo }}-{{ b.hi }}">{{ b.name }}</option>{% endfor %}</select>
+      <label class="sr" for="f-theme">Theme</label>
+      <select id="f-theme" data-filter="themes"><option value="">Any theme</option>{% for t in themes %}<option value="{{ t.slug }}">{{ t.name }}</option>{% endfor %}</select>
+      <button type="button" data-filter-reset>Clear</button>
+      <span class="filters__count" data-filter-count aria-live="polite">{{ journeys|length }} result{{ journeys|length|pluralize }}</span>
+    </form>
+
+    {% if journeys %}
+    <div class="grid g3" id="pack-grid" data-fill>
+      {% for j in journeys|dictsort:"price_from_inr" %}{% include "escapes/partials/card_journey.html" %}{% endfor %}
+      {% include "escapes/partials/fill.html" with fill_title="Price a route of your own" %}
+    </div>
+    <div class="empty mt" data-filter-empty hidden>
+      <p><b>Nothing matches all of those filters.</b></p>
+      <p>Tell us what you had in mind and we will build it: <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">get my price</a>.</p>
+    </div>
+    {% else %}
+    <div class="empty">Packages are being added. <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">Tell us your dates</a> and we will send a priced plan.</div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--paper2" aria-labelledby="ways-h">
+  <div class="wrap">
+    {% url 'affordable' as aff_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Other ways in" sh_title="Browse by budget, tier or length" sh_id="ways-h" sh_more_url=aff_url sh_more="Affordable Sikkim" %}
+    <div class="bands">
+      {% for b in nav_bands %}<a class="bandcard{% if forloop.first %} bandcard--hot{% endif %} rv" href="{% url 'band' b.slug %}">{% icon "rupee" %}<small>Per person</small><b>{{ b.name }}</b><small>Sorted by price</small></a>{% endfor %}
+    </div>
+    <div class="grid g2 mt">
+      <div>
+        <p class="kicker">By tier</p>
+        <div class="rows">{% for t in nav_tiers %}<a href="{% url 'tier' t.slug %}"><b>{{ t.name }}</b><small>{{ t.label }} · {{ t.n }} package{{ t.n|pluralize }}</small></a>{% endfor %}</div>
+      </div>
+      <div>
+        <p class="kicker">By length</p>
+        <div class="rows">{% for n in nav_nights %}<a href="{% url 'nights' n %}"><b>{{ n }} nights, {{ n|add:1 }} days</b><small>Sorted by price</small></a>{% endfor %}</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--tight"><div class="wrap">{% include "escapes/partials/trust.html" %}</div></section>
+{% include "escapes/partials/cta.html" with cta_title="Not quite right? Send us your version" %}
 {% endblock %}

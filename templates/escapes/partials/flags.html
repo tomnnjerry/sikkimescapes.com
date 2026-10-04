@@ -1,0 +1,1 @@
+{% load esc %}{% if facts %}<div class="flags">{% for f in facts %}<div class="flag"><p>{{ f.fact }}</p>{% if f.obj %}<a href="{{ f.obj.url }}">{{ f.obj.name }}</a>{% endif %}{% if f.source %}<small>Source: {{ f.source }}</small>{% endif %}</div>{% endfor %}</div>{% endif %}

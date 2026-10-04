@@ -1,6 +1,10 @@
-{% load tales %}<a class="card card--wide rv" href="{{ e.url }}" data-item data-region="{{ e.region }}" data-kind="{{ e.kind }}" style="--tint: {{ e.region_obj.tint }}; --deep: {{ e.region_obj.deep }}">
-  {% photo e|first_img alt=e.title sizes="(max-width: 760px) 100vw, 25vw" credit=False %}
-  <span class="chip">{{ e.kind }} · {{ e.duration }}</span>
-  <span class="card__title card__title--s">{{ e.title }}</span>
-  <span class="card__meta">{{ e.place_obj.name }}, {{ e.region_obj.name }}</span>
+{% load esc %}<a class="card rv" href="{{ e.url }}" data-land="{{ e.region }}" data-item data-region="{{ e.region }}" data-kind="{{ e.kind }}">
+  <div class="card__media">{% include "escapes/partials/media.html" with img=e|first_img alt=e.title ph_icon=e.kind %}
+    <span class="chip chip--land">{% icon e.kind %}{{ e.kind|kind_name }}</span>
+  </div>
+  <div class="card__body">
+    <h3>{{ e.title }}</h3>
+    <p>{{ e.summary|truncatewords:22 }}</p>
+    <div class="card__meta">{% if e.duration %}<span>{% icon "calendar" %}{{ e.duration }}</span>{% endif %}<span>{{ e.place_obj.name }}</span>{% if e.cost %}<span>{{ e.cost }}</span>{% endif %}</div>
+  </div>
 </a>

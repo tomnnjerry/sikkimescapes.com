@@ -1,0 +1,8 @@
+{% load esc %}{% if j.price_breakdown %}<div class="receipt" data-receipt>
+  <h3>Honest price</h3>
+  <p class="receipt__sub">{{ j.price_basis|default:"Per person, twin sharing" }}</p>
+  <div class="receipt__bar" aria-hidden="true">{% for label, amount in j.price_breakdown %}<i data-amt="{{ amount }}" style="flex:{{ amount }}"></i>{% endfor %}</div>
+  {% for label, amount in j.price_breakdown %}<div class="receipt__row"><span>{{ label }}</span><span></span><b>{{ amount|inr }}</b></div>{% endfor %}
+  <div class="receipt__total"><span>From, per person</span><b>{{ j.price_from_inr|inr }}</b></div>
+  <p class="small muted" style="margin:12px 0 0">Indicative. Final price depends on dates, group size and rooms. Check current status before you travel.</p>
+</div>{% endif %}

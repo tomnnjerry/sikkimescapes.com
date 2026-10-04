@@ -1,8 +1,9 @@
 {% load static esc %}<!doctype html>
-<html lang="en-IN" class="js">
+<html lang="en-IN">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add("js")</script>
 <title>{% block title %}Sikkim Escapes · Honest Sikkim trips from Gangtok{% endblock %}</title>
 <meta name="description" content="{% block description %}Sikkim-only trips from shared-jeep budget escapes to premium tours: honest prices with every cost shown, permits handled, and the local stories behind every valley.{% endblock %}">
 <link rel="canonical" href="{{ canonical }}">
@@ -10,6 +11,8 @@
 <meta property="og:title" content="{% block og_title %}Sikkim Escapes{% endblock %}">
 <meta property="og:url" content="{{ canonical }}">
 <meta property="og:type" content="website">
+<meta property="og:description" content="{% block og_description %}Sikkim-only trips with honest prices, permits handled and the local stories behind every valley.{% endblock %}">
+<meta name="twitter:card" content="summary_large_image">
 {% block og_image %}{% endblock %}
 <meta name="theme-color" content="#0A1424">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath d='M10 62V28a22 22 0 0 1 44 0v34z' fill='%23FCFBF6' stroke='%231A1714' stroke-width='3'/%3E%3Cpath d='M10 28a22 22 0 0 1 44 0z' fill='%23F3C318' stroke='%231A1714' stroke-width='3'/%3E%3Cpath d='M18 50l8-11 5 6 4-5 9 10z' fill='%231A1714'/%3E%3C/svg%3E">
@@ -79,9 +82,6 @@
   </div>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
-<script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js" defer></script>
 <script src="{% static 'js/milestone.js' %}?v={{ V }}" defer></script>
 {% block scripts %}{% endblock %}
 </body>

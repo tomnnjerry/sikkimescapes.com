@@ -88,3 +88,21 @@ if os.environ.get("SE_HASHED_STATIC") == "1":
                         if "whitenoise.middleware.WhiteNoiseMiddleware" in MIDDLEWARE
                         else "django.contrib.staticfiles.storage.ManifestStaticFilesStorage"},
     }
+
+# Production hardening: on when DEBUG is off (set DJANGO_DEBUG=0 on the server).
+if not DEBUG:
+    if SECRET_KEY.startswith("dev-only"):
+        raise RuntimeError("Set DJANGO_SECRET_KEY before running with DJANGO_DEBUG=0")
+    SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
+    SECURE_SSL_REDIRECT = os.environ.get("SE_SSL_REDIRECT", "1") == "1"
+    SESSION_COOKIE_SECURE = True
+    CSRF_COOKIE_SECURE = True
+    SECURE_HSTS_SECONDS = int(os.environ.get("SE_HSTS_SECONDS", "0"))  # raise to 31536000 once HTTPS is confirmed
+    SECURE_CONTENT_TYPE_NOSNIFF = True
+    SECURE_REFERRER_POLICY = "strict-origin-when-cross-origin"
+
+LOGGING = {
+    "version": 1, "disable_existing_loggers": False,
+    "handlers": {"console": {"class": "logging.StreamHandler"}},
+    "root": {"handlers": ["console"], "level": "WARNING"},
+}

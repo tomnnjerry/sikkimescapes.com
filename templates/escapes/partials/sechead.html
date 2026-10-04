@@ -1,0 +1,1 @@
+{% load esc %}<div class="sec__head"><div>{% if sh_kicker %}<p class="kicker">{{ sh_kicker }}</p>{% endif %}<h2 class="h2"{% if sh_id %} id="{{ sh_id }}"{% endif %}>{{ sh_title }}</h2>{% if sh_text %}<p>{{ sh_text }}</p>{% endif %}</div>{% if sh_more_url %}<a class="sec__more" href="{{ sh_more_url }}">{{ sh_more|default:"See all" }} {% icon "arrow" %}</a>{% endif %}</div>

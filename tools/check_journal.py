@@ -10,7 +10,22 @@ ROOT = Path(__file__).resolve().parent.parent / "content"
 sys.path.insert(0, str(Path(__file__).parent))
 from check_region import BANNED  # noqa: E402
 
-slugs = json.loads((ROOT / "_slugs.json").read_text(encoding="utf-8"))
+DISTRICTS = ["east-sikkim", "north-sikkim", "west-sikkim", "south-sikkim", "pakyong", "soreng"]
+
+
+def _district_slugs(base):
+    """Every linkable slug in one district, read straight from its content files."""
+    def files(sub):
+        return [json.loads(p.read_text(encoding="utf-8"))["slug"] for p in sorted((base / sub).glob("*.json"))]
+
+    def array(name):
+        f = base / name
+        return [d["slug"] for d in json.loads(f.read_text(encoding="utf-8"))] if f.exists() else []
+    return {"places": files("places"), "journeys": files("journeys"), "guides": files("guides"),
+            "stays": array("stays.json"), "festivals": array("festivals.json")}
+
+
+slugs = {d: _district_slugs(ROOT / d) for d in DISTRICTS if (ROOT / d).is_dir()}
 known = {k: set() for k in ("place", "journey", "stay", "guide", "festival")}
 for land in slugs.values():
     for k in known:

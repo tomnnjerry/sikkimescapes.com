@@ -1,7 +1,15 @@
-{% load tales %}<a class="card rv" href="{{ j.url }}" data-item data-region="{{ j.region }}" data-themes="{{ j.themes|join:' ' }}" data-length="{% if j.nights <= 6 %}short{% elif j.nights <= 10 %}mid{% else %}long{% endif %}" style="--tint: {{ j.region_obj.tint }}; --deep: {{ j.region_obj.deep }}">
-  {% photo j|first_img alt=j.title cls="arch" sizes="(max-width: 760px) 100vw, 33vw" credit=False %}
-  <span class="chip">{{ j.region_obj.name }} · {{ j.nights }} nights</span>
-  <span class="card__title">{{ j.title }}</span>
-  <span class="card__meta">{% for s in j.stop_objs %}{{ s.obj.name }}{% if not forloop.last %} · {% endif %}{% endfor %}</span>
-  {% if j.price_from_inr %}<span class="ledger__row"><span>From</span><span class="ledger__dots"></span><b>{{ j.price_from_inr|inr }} pp</b></span>{% endif %}
+{% load esc %}<a class="card rv" href="{{ j.url }}" data-land="{{ j.region }}" data-item data-region="{{ j.region }}" data-tier="{{ j.tier }}" data-nights="{{ j.nights }}" data-price="{{ j.price_from_inr|default:0 }}" data-themes="{{ j.themes|join:' ' }}">
+  <div class="card__media">{% include "escapes/partials/media.html" with img=j|first_img alt=j.title ph_icon="route" %}
+    <span class="chip chip--{{ j.tier }}">{{ j.tier_obj.name }}</span>
+    {% if j.max_altitude_m %}<span class="ms" aria-label="Highest point {{ j.max_altitude_m|metres }}"><span class="ms__cap">Top</span><span class="ms__val">{{ j.max_altitude_m|split_alt }}</span><span class="ms__unit">M</span></span>{% endif %}
+  </div>
+  <div class="card__body">
+    <h3>{{ j.title }}</h3>
+    <div class="card__meta"><span>{% icon "calendar" %}{{ j.nights }} nights, {{ j.days_count }} days</span>{% if j.pace %}<span>{{ j.pace }}</span>{% endif %}</div>
+    <p>{% for s in j.stop_objs %}{{ s.obj.name }}{% if not forloop.last %} · {% endif %}{% endfor %}</p>
+    <div class="card__foot">
+      {% if j.price_from_inr %}<span class="price"><small>From, per person</small><b>{{ j.price_from_inr|inr }}</b></span>{% endif %}
+      <span style="width:40%">{% spark j.profile %}</span>
+    </div>
+  </div>
 </a>
