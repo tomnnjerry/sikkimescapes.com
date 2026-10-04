@@ -1,0 +1,171 @@
+{
+  "slug": "pakyong",
+  "name": "Pakyong",
+  "region": "pakyong",
+  "kind": "town",
+  "wiki": "Pakyong",
+  "image_query": "Pakyong Sikkim town valley",
+  "lat": 27.2394,
+  "lng": 88.5961,
+  "altitude_m": 1350,
+  "local_name": {"name": "Pa yong", "language": "Lepcha", "meaning": "Bamboo of the bow", "source": "Wikipedia: Pakyong"},
+  "tagline": "District town below Sikkim's airport on a ridge",
+  "meta_description": "Pakyong, Sikkim: district headquarters at about 1,350 m, 32 km from Gangtok. Airport status, Lepcha name, Vivanta stay, food market and how to fit it in.",
+  "summary": "Pakyong is the headquarters of Pakyong district, a hill town at about 1,350 m some 32 km south of Gangtok. It is best known for Pakyong Airport on the ridge above, which has had no scheduled flights since June 2024. Most travellers pass through on the way to Rongli and the Silk Route, or stay a quiet night at Vivanta.",
+  "intro": [
+    "Pakyong spreads along a ridge above the Rangpo valley, with paddy terraces, ginger plots and bamboo falling away below the town. It sits on National Highway 717A, the road from Ranipool near Gangtok to Rorathang, Rhenock and on to Kalimpong district, so almost every car heading for Aritar or the Silk Route from Gangtok passes through. Since December 2021 it has been the headquarters of the new Pakyong district, and the bazaar has the offices, banks and schools to match.",
+    "The town's best-known landmark is Pakyong Airport, built at about 1,416 m on a ridge above the town and opened in 2018. Wikipedia describes how the runway was laid on land created by huge embankments in deep valleys. Flights have stopped and started since, and there have been no scheduled flights since June 2024. Plan your trip on Bagdogra (IXB) or New Jalpaiguri (NJP), and check current status before you travel.",
+    "For travellers Pakyong is a convenient half-way point rather than a sightseeing list. Stop for momos and tea in the bazaar, buy local produce such as dalle chillies, ginger and chhurpi, or spend a night at Vivanta Sikkim among the paddy fields outside town, a calm alternative to Gangtok at the start or end of a Silk Route trip. No special permit is needed, and foreign travellers can stay here with the general Sikkim entry permit."
+  ],
+  "story": {
+    "title": "An airport built on a man-made ridge",
+    "text": "Sikkim was long the only Indian state without a working airport. The Pakyong project was approved in October 2008 and the foundation stone laid in February 2009. Wikipedia's article on Pakyong Airport records what followed: protests by villagers seeking fair compensation stopped work more than once, landslides above the runway forced slope repairs, and the cost rose from about ₹309 crore to about ₹605 crore. The site itself was the challenge. Engineers built the runway on land created by an embankment wall as high as 263 ft across deep valleys, using slope-stabilisation methods to hold the hillside. On 5 March 2018 an Indian Air Force Dornier 228 became the first aircraft to land. The airport was inaugurated on 24 September 2018 and commercial flights to Kolkata began on 4 October. Fog and cloud soon proved a problem for an airport first planned for visual flying, and services were suspended in 2019, resumed in January 2021 with satellite approach procedures, and stopped again. As of 2026 there are no scheduled flights, so the airport is a sight on the ridge rather than your way in.",
+    "source": "Wikipedia: Pakyong Airport"
+  },
+  "little_known": [
+    {"fact": "In March 1888, during the British campaign against the Tibetan fort at Lingtu, Lt-Col Mitchell sent 200 men to hold Pakyong while the main column marched up towards Rongli and Zuluk.", "source": "Wikipedia: Sikkim expedition"},
+    {"fact": "Footballer Baichung Bhutia, a former India captain and Padma Shri awardee, studied at St Xavier's School in Pakyong, which Wikipedia describes as one of Sikkim's top schools in the 1990s.", "source": "Wikipedia: Pakyong"},
+    {"fact": "Pakyong's markets trade large cardamom, broom grass and ginger in season, alongside fermented foods such as gundruk, kinema and sinki, and the hot dalle khorsani chilli grown by local farmers.", "source": "Wikipedia: Pakyong"}
+  ],
+  "facts": [
+    ["Best months", "Mar–May and Oct–Dec; pleasant most of the year"],
+    ["Nights we suggest", "0–1"],
+    ["From Gangtok", "≈ 32 km · 1–1.5 h via Ranipool"],
+    ["Altitude", "≈ 1,350 m (airport ≈ 1,416 m)"],
+    ["Known for", "District headquarters, Pakyong Airport, Vivanta Sikkim"],
+    ["Permit", "Not needed"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "The airport ridge", "text": "Pakyong Airport sits at about 1,416 m on a ridge raised by embankments above deep valleys. Even without flights, the runway and the views across the Rangpo valley from the approach road show how much earth was moved to give Sikkim an airport."},
+    {"title": "A calm base outside Gangtok", "text": "Vivanta Sikkim, IHCL's hotel among the paddy and bamboo near Pakyong, has a heated outdoor pool, a Jiva spa and valley views. It works as a quiet first or last night on a Silk Route trip, about an hour from Gangtok."},
+    {"title": "The bazaar on NH717A", "text": "Pakyong's main street has banks, pharmacies, sweet shops and momo stalls. It is a good place to withdraw cash, buy medicines and pick up snacks before Rongli, where the choice narrows."},
+    {"title": "Local produce", "text": "In season you will see sacks of large cardamom, bundles of broom grass, ginger, dalle chillies and blocks of chhurpi cheese in the market. Ask before photographing traders, and buy a little to take home."},
+    {"title": "Gateway to the lower villages", "text": "From Pakyong, roads drop to Rorathang (about 19 km) and on to Rhenock, Aritar and Rongli. It is the natural turn-off for anyone going from Gangtok to the Silk Route without using NH10 through Singtam and Rangpo."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps and SNT buses run between Gangtok and Pakyong through the day, about ₹80–150 a seat and 1–1.5 hours. Jeeps and buses for Rongli, Rhenock and Rorathang also pass through Pakyong, so you can change here for the lower Silk Route villages."},
+    {"mode": "Private car", "text": "From Gangtok, about 32 km and 1–1.5 hours via Ranipool and the NH717A turn-off at Setipool. A reserved small car costs about ₹1,500–2,000 one way. Pakyong is a natural stop on the Gangtok–Aritar or Gangtok–Rongli drive."},
+    {"mode": "From Bagdogra / NJP", "text": "About 120–125 km and 4–4.5 hours via NH10 to Rangpo, then up via Rorathang, or via Singtam and Ranipool. NH10 closes after monsoon slides; the alternative is via Kalimpong and Algarah, which joins NH717A. Pakyong Airport has had no scheduled flights since June 2024. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Gangtok–Pakyong", "≈ ₹80–150 a seat"],
+    ["Reserved small car Gangtok–Pakyong", "≈ ₹1,500–2,000 one way"],
+    ["Budget room in town", "≈ ₹1,500–2,500 a night"],
+    ["Vivanta Sikkim", "≈ ₹9,000–16,000 a room a night"],
+    ["Momos and tea in the bazaar", "≈ ₹100–200"]
+  ],
+  "where_to_stay": "Most travellers do not sleep in Pakyong town itself, which has a few simple lodges used by people on government business. The stay that draws visitors is Vivanta Sikkim, IHCL's hotel set among paddy terraces a short drive from the airport, with a heated pool, a spa and an all-day restaurant; it suits couples and families who want hotel comfort without Gangtok's traffic. Budget travellers usually push on to Aritar's lakeside homestays, about 40 km and 1.5–2 hours away, or to Rolep and Lingtam beyond Rongli. Gangtok, an hour north, has every budget.",
+  "stays": ["vivanta-sikkim-pakyong"],
+  "tips": [
+    "Do not book any trip around Pakyong Airport flights; plan on Bagdogra or NJP and check current status before you travel.",
+    "Withdraw cash in Pakyong or Rongli; there are no ATMs on the high road above Rongli.",
+    "Ask your driver to take the Pakyong–Rorathang road to the Silk Route if NH10 is jammed at Singtam or Rangpo.",
+    "Pick up medicines, snacks and a refillable water bottle in the Pakyong bazaar before heading on.",
+    "Do not photograph the airport's security areas; enjoy the views from public roads only."
+  ],
+  "themes": ["food-and-tea", "family-holidays", "honeymoons"],
+  "nearby": ["rorathang", "ranipool-saramsa", "aritar", "rangpo"],
+  "experiences": [
+    {
+      "slug": "pakyong-bazaar-produce-walk",
+      "title": "Morning walk through the Pakyong bazaar",
+      "kind": "food",
+      "duration": "1–1.5 hours",
+      "best_time": "8–11 am, any season",
+      "cost": "Free; ≈ ₹200–500 for snacks and produce",
+      "image_query": "Sikkim market chhurpi dalle chilli",
+      "wiki": "",
+      "summary": "A slow morning walk along Pakyong's main street, tasting momos and sel roti and looking at what the district grows and ferments: large cardamom, ginger, dalle chillies, gundruk, kinema and blocks of hard chhurpi cheese.",
+      "body": [
+        "Pakyong is a working district town, not a tourist bazaar, and that is the reason to walk it. In the morning the shops along NH717A open their shutters, tea stalls fill with office workers and students, and farmers from villages around Pacheykhani and Machong bring vegetables in sacks and baskets. Start with tea and a plate of momos, then walk the length of the market slowly.",
+        "Wikipedia's article on Pakyong lists the foods that matter here: gundruk, fermented leafy greens dried for soups; kinema, fermented soybean; sinki, fermented radish; and chhurpi, the cheese made from buttermilk, sold both soft and as hard blocks to chew. Look too for dalle khorsani, the small round red chilli that Sikkim is proud of, and in season for sacks of large cardamom, ginger and broom grass.",
+        "Ask before you photograph people or stalls, and buy something small if you do. Dalle chillies are fierce; try a sliver first. Most items are cheap, and a pack of dried gundruk or a jar of dalle pickle is a light, honest souvenir. Shops close earlier on Sundays in some weeks, so check current status before you travel."
+      ],
+      "good_for": ["families", "budget", "solo", "first-timers"],
+      "faqs": [
+        {"q": "What is dalle khorsani?", "a": "Dalle khorsani is a small, round, very hot red chilli grown in Sikkim and the Darjeeling hills. It is eaten fresh, pickled in oil or ground into a paste. Pakyong's farmers grow it widely. Try a small piece first, keep water or curd nearby, and buy a sealed jar of pickle if you want to take some home."},
+        {"q": "Is chhurpi safe to eat?", "a": "Yes. Chhurpi is cheese made from the curd left after butter is churned. Soft chhurpi is used in curries and pickles, while hard chhurpi is dried until it is like a stone and chewed slowly for an hour or more. Be careful with your teeth on hard chhurpi, and give it only to older children."},
+        {"q": "Can we buy large cardamom in Pakyong?", "a": "Usually, in season. Large cardamom is harvested from about August to October and traded in Pakyong, Rorathang and Rangpo markets after drying. Buy from a shop rather than a farm trader if you want small packets. Prices change with each harvest, so ask a couple of shops before you buy."}
+      ]
+    },
+    {
+      "slug": "pakyong-airport-ridge-viewpoint",
+      "title": "Views from the airport ridge road",
+      "kind": "nature",
+      "duration": "45 minutes",
+      "best_time": "Clear mornings, Oct–Apr",
+      "cost": "Free",
+      "image_query": "Pakyong Airport runway Sikkim",
+      "wiki": "Pakyong Airport",
+      "summary": "A short stop on the public road near Pakyong Airport, about 1,416 m up, to see the runway built on a man-made ridge and look across the Rangpo valley. A good leg-stretch on the Gangtok–Rongli drive.",
+      "body": [
+        "Pakyong Airport is one of the more unusual pieces of engineering in Sikkim. Wikipedia describes how the runway was built on land created by an embankment wall as high as 263 ft across deep valleys, at about 1,416 m. From the public approach road you can see how the ridge has been reshaped and how the hills drop away on both sides.",
+        "On clear mornings from October to April the valleys below are a patchwork of terraces, villages and bamboo, with the Rangpo river somewhere at the bottom. Your driver will know a safe place to stop on the public road. Combine the stop with tea in Pakyong bazaar and continue towards Rorathang and Rongli.",
+        "This is a security area. Do not enter the airport perimeter, do not fly drones and do not photograph security posts or staff. Treat it as a view from a public road, not an airport tour. Pakyong Airport has had no scheduled flights since June 2024, so do not expect to see aircraft. Check current status before you travel."
+      ],
+      "good_for": ["families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Can tourists visit Pakyong Airport?", "a": "Not as a sightseeing visit. The terminal and runway are inside a secured area, and with no scheduled flights since June 2024 there is no public reason to enter. You can see the ridge and the valleys from public roads nearby. Do not fly drones or photograph security installations."},
+        {"q": "Why does Pakyong Airport have no flights?", "a": "Wikipedia notes that the airport was first designed for visual flying, and frequent fog and cloud made operations unreliable. Services were suspended in 2019, resumed in 2021 with satellite approach procedures and later stopped again. As of 2026 there are no scheduled flights. Check current status before you travel."},
+        {"q": "How high is Pakyong Airport?", "a": "About 4,646 ft, or roughly 1,416 m, according to Wikipedia, which counts it among the five highest airports in India. It lies about 31 km south of Gangtok on a ridge above Pakyong town, which is slightly lower at around 1,350 m."}
+      ]
+    },
+    {
+      "slug": "pakyong-paddy-terrace-walk",
+      "title": "Village walk among the paddy terraces",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "Jul–Oct for green and gold paddy; Mar–Apr for planting",
+      "cost": "Free; ≈ ₹500–1,000 for a local guide",
+      "image_query": "Sikkim paddy terraces village",
+      "wiki": "",
+      "summary": "An easy walk on village paths and quiet roads below Pakyong, among rice terraces, bamboo and ginger fields, with a local guide or your hotel's directions. Best in the weeks before the autumn harvest.",
+      "body": [
+        "The slopes around Pakyong are farmed in terraces, and in late summer and autumn the paddy turns from green to gold. Village paths and quiet link roads connect hamlets such as Pacheykhani, Namcheybong and Machong, and a two-hour walk downhill and back gives you a sense of how most people in the district still live: rice in the terraces, ginger and maize on drier ground, cows in the yard, bamboo along the streams.",
+        "If you are staying at Vivanta, ask at the desk for a walking route; if not, ask your driver to find a local guide in the bazaar. Paths are steep in places and slippery after rain, so wear shoes with grip. Walk early, when it is cool and the light is soft.",
+        "Remember that these are working farms and family land. Stay on paths, close any gates, do not pick crops and ask before photographing people at work. October harvest weeks are busy, and you may see families threshing on the terraces. In the monsoon expect leeches on grassy paths."
+      ],
+      "good_for": ["couples", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "When is the paddy harvest around Pakyong?", "a": "Rice is usually planted with the monsoon in June and July and harvested around October and November, depending on altitude and the year's rain. The terraces look greenest in August and September and golden in October. Ask your hotel or driver which villages are harvesting that week."},
+        {"q": "Do we need a guide for walks near Pakyong?", "a": "Not strictly, but a local guide helps you find paths through private land and introduces you to families on the way. Expect about ₹500–1,000 for a couple of hours. Without a guide, stick to quiet link roads and well-used paths, and ask locals before leaving the road."},
+        {"q": "Are there leeches on the Pakyong walks?", "a": "In the monsoon, from late June to September, yes, on grassy and forest paths. Wear long socks over your trousers, carry salt or leech-repellent spray, and check your legs after the walk. Outside the monsoon leeches are rare, and the walks are dry and pleasant."}
+      ]
+    },
+    {
+      "slug": "pakyong-vivanta-slow-day",
+      "title": "A slow day at Vivanta Sikkim",
+      "kind": "wellness",
+      "duration": "Half or full day",
+      "best_time": "All year; Oct–Apr for clear views",
+      "cost": "Room rates ≈ ₹9,000–16,000 a night; spa extra",
+      "image_query": "Vivanta Sikkim Pakyong pool",
+      "wiki": "",
+      "summary": "Spend a rest day at Vivanta Sikkim among the paddy terraces near Pakyong: a swim in the heated outdoor pool, a treatment at the Jiva spa and a long lunch with Sikkimese dishes. A good recovery day after the Silk Route.",
+      "body": [
+        "After three or four nights in homestays at Zuluk and Nathang, a day of hot water and soft beds is welcome. Vivanta Sikkim, IHCL's first hotel in the state, sits among paddy and bamboo near Pakyong, about an hour from Gangtok. Its temperature-controlled outdoor pool faces the hills, and the Jiva spa offers massages and treatments.",
+        "We suggest arriving by lunchtime on your way down from Rongli, eating Sikkimese dishes at the all-day restaurant, swimming in the afternoon and taking an early night. Next morning you are about 4 hours from Bagdogra or NJP, or an hour from Gangtok if your trip continues.",
+        "Prices are hotel prices: rooms are about ₹9,000–16,000 a night, and spa treatments are extra. Rates rise in October, at Diwali and over Christmas and New Year. Book ahead for those weeks. Pakyong has no scheduled flights at present, so plan your arrival and departure by road. Check current status before you travel."
+      ],
+      "good_for": ["couples", "families", "seniors"],
+      "faqs": [
+        {"q": "Is Vivanta Sikkim close to Gangtok?", "a": "It is about an hour's drive from Gangtok, near Pakyong and about 7–8 km from Pakyong Airport. It works well as a quiet alternative to staying in Gangtok, or as a first or last night on a Silk Route or Aritar trip, since Rorathang and Rongli are on the way."},
+        {"q": "Is the pool at Vivanta Sikkim heated?", "a": "The hotel describes its outdoor pool as temperature-controlled, and it is used through most of the year. Evenings get cool at about 1,350 m, so swim in the afternoon. Check pool timings and any maintenance closures with the hotel before you book."},
+        {"q": "Is Vivanta Sikkim worth it on a budget trip?", "a": "If your budget is tight, no: Aritar homestays at ₹1,500–2,500 per person with meals give you more of the district. If you want one comfortable night after the high Silk Route, especially with children or older parents, a single Vivanta night makes the trip easier."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Pakyong worth visiting?", "a": "As a stop, yes; as a destination, only for a quiet night. Pakyong is the district headquarters, with the airport ridge, a useful bazaar and Vivanta Sikkim. Most travellers pass through on the way from Gangtok to Aritar or the Silk Route, stop for tea and cash, and move on. Give it a night if you want a calm hotel base."},
+    {"q": "How far is Pakyong from Gangtok?", "a": "About 32 km, or 1 to 1.5 hours by road via Ranipool and the NH717A turn-off. Shared jeeps and SNT buses run through the day for about ₹80–150 a seat. A reserved small car costs about ₹1,500–2,000 one way. Traffic in Gangtok and at Ranipool can add time at peak hours."},
+    {"q": "Are there flights to Pakyong Airport in 2026?", "a": "No scheduled flights have operated since June 2024. Book your trip on Bagdogra (IXB), about 4–4.5 hours by road, or New Jalpaiguri (NJP) railway station. If flights resume we will update this page, but always check current status before you travel and do not rely on Pakyong for fixed plans."},
+    {"q": "Do I need a permit for Pakyong?", "a": "No special permit is needed for Pakyong town. Indian travellers just pay the ₹50 Sikkim tourist entry fee at their first hotel. Foreign travellers need the general Sikkim Restricted Area Permit, applied for online through the e-FRRO portal. The Silk Route permit applies only beyond Rongli. Check current status before you travel."},
+    {"q": "What does the name Pakyong mean?", "a": "Wikipedia explains the name from the Lepcha words pa yong, meaning bamboo of the bow, in keeping with the Lepcha habit of naming places after useful things found there. Bamboo still grows thickly around the town. Locally the name is pronounced closer to pakyim in Nepali."},
+    {"q": "How do I get from Pakyong to the Silk Route?", "a": "Drive down to Rorathang, about 19 km, and follow the Rangpo river up to Rongli, about 14 km more, where the Silk Route permit is processed. Allow about 1.5 hours from Pakyong to Rongli. From Rongli, Zuluk is about 33 km and 1.5–2 hours up the hill through Lingtam and Padamchen."},
+    {"q": "What is the weather like in Pakyong?", "a": "Mild for most of the year at about 1,350 m. Winter days are around 8–16 °C with cold nights, spring and autumn days around 15–24 °C, and the monsoon from mid-June to September is warm, wet and foggy. It never gets the snow of Zuluk. Pack a light jacket in any season."},
+    {"q": "Where can I eat in Pakyong?", "a": "The bazaar on NH717A has small restaurants and stalls serving momos, thukpa, chowmein and rice thalis for about ₹100–250. For a sit-down meal with a wider menu, Vivanta Sikkim's restaurant is open to non-residents, though at hotel prices. Carry snacks for the drive on to Rongli."},
+    {"q": "Is Pakyong good for families?", "a": "Yes, as a comfortable stop. The altitude is low enough that nobody feels it, Vivanta has a pool and space for children, and Gangtok is an hour away. Use Pakyong as a soft first or last night with grandparents or young children before or after the higher Silk Route villages."}
+  ]
+}

@@ -6,16 +6,43 @@
     "distance_km": 40,
     "summary": "Gangtok to Tsomgo Lake is about 40 km on NH310, the Nathu La road, climbing from 1,650 m to 3,753 m in about 2 hours. It is a permit day trip in a Sikkim-registered tourist vehicle, usually combined with Baba Mandir, leaving by 7–8 am and back by late afternoon.",
     "options": [
-      {"mode": "Shared tour seat", "time": "≈ 2 h each way", "cost": "≈ ₹800–1,200 a person for Tsomgo and Baba Mandir", "text": "The cheapest way: an agent in Gangtok sells you a seat in a shared tourist vehicle on a fixed Tsomgo and Baba Mandir circuit and files your permit with ID and two photos the day before. Departures are around 7–8 am from central Gangtok. Seats fill fast in May, October and holiday weeks, so book a day or two ahead."},
-      {"mode": "Reserved car", "time": "≈ 2 h each way", "cost": "≈ ₹4,500–6,500 a car; ≈ ₹6,500–9,000 with Nathu La", "text": "A reserved Sikkim-registered tourist vehicle, usually an SUV, lets you stop at Kyongnosla and photo points at your own pace. The agent arranges the permit; foreigners in a group of two or more get a one-day pass and normally need a reserved car. Permits require you to start back by early afternoon. Check current status before you travel."}
+      {
+        "mode": "Shared tour seat",
+        "time": "≈ 2 h each way",
+        "cost": "≈ ₹800–1,200 a person for Tsomgo and Baba Mandir",
+        "text": "The cheapest way: an agent in Gangtok sells you a seat in a shared tourist vehicle on a fixed Tsomgo and Baba Mandir circuit and files your permit with ID and two photos the day before. Departures are around 7–8 am from central Gangtok. Seats fill fast in May, October and holiday weeks, so book a day or two ahead."
+      },
+      {
+        "mode": "Reserved car",
+        "time": "≈ 2 h each way",
+        "cost": "≈ ₹4,500–6,500 a car; ≈ ₹6,500–9,000 with Nathu La",
+        "text": "A reserved Sikkim-registered tourist vehicle, usually an SUV, lets you stop at Kyongnosla and photo points at your own pace. The agent arranges the permit; foreigners in a group of two or more get a one-day pass and normally need a reserved car. Permits require you to start back by early afternoon. Check current status before you travel."
+      }
     ],
-    "stops_on_way": ["Kyongnosla Alpine Sanctuary and the forest check post", "Roadside waterfalls below Kyongnosla", "Tsomgo check post (permit check)", "Lakeshore tea stalls and yak handlers"],
+    "stops_on_way": [
+      "Kyongnosla Alpine Sanctuary and the forest check post",
+      "Roadside waterfalls below Kyongnosla",
+      "Tsomgo check post (permit check)",
+      "Lakeshore tea stalls and yak handlers"
+    ],
     "tip": "Spend at least one night in Gangtok before going up, carry your ID and two photos for the permit, and pack warm layers even in May, since the lake sits at 3,753 m.",
     "faqs": [
-      {"q": "How long does it take from Gangtok to Tsomgo Lake?", "a": "About 2 hours for roughly 40 km, with a stop at the check post. The road climbs more than 2,000 m, with hairpins and army traffic. After snow or rain, delays are common. Most trips leave Gangtok by 7–8 am and return by mid to late afternoon after adding Baba Mandir."},
-      {"q": "Do we need a permit for Tsomgo Lake?", "a": "Yes. Indian and foreign visitors need a protected-area permit arranged through a Sikkim Tourism-registered agent, usually the day before, with ID and two photos. Foreigners must be in a group of two or more and get a one-day pass. Fees and rules change, so check current status before you travel."},
-      {"q": "Can we drive our own car to Tsomgo Lake?", "a": "No. Only Sikkim-registered tourist vehicles with a permit can go beyond the check post. Private cars from outside Sikkim must stay in Gangtok, and you hire a local vehicle through an agent. A shared seat costs about ₹800–1,200, a reserved car about ₹4,500–6,500, indicatively."},
-      {"q": "Is the Tsomgo road open in winter?", "a": "Usually, but heavy snow can close it for a day or more between December and March, and permits may be suspended. Vehicles sometimes stop short of the lake after fresh snow. Keep a buffer day in your plan, and check current status before you travel; we confirm the evening before."}
+      {
+        "q": "How long does it take from Gangtok to Tsomgo Lake?",
+        "a": "About 2 hours for roughly 40 km, with a stop at the check post. The road climbs more than 2,000 m, with hairpins and army traffic. After snow or rain, delays are common. Most trips leave Gangtok by 7–8 am and return by mid to late afternoon after adding Baba Mandir."
+      },
+      {
+        "q": "Do we need a permit for Tsomgo Lake?",
+        "a": "Yes. Indian and foreign visitors need a protected-area permit arranged through a Sikkim Tourism-registered agent, usually the day before, with ID and two photos. Foreigners must be in a group of two or more and get a one-day pass. Fees and rules change, so check current status before you travel."
+      },
+      {
+        "q": "Can we drive our own car to Tsomgo Lake?",
+        "a": "No. Only Sikkim-registered tourist vehicles with a permit can go beyond the check post. Private cars from outside Sikkim must stay in Gangtok, and you hire a local vehicle through an agent. A shared seat costs about ₹800–1,200, a reserved car about ₹4,500–6,500, indicatively."
+      },
+      {
+        "q": "Is the Tsomgo road open in winter?",
+        "a": "Usually, but heavy snow can close it for a day or more between December and March, and permits may be suspended. Vehicles sometimes stop short of the lake after fresh snow. Keep a buffer day in your plan, and check current status before you travel; we confirm the evening before."
+      }
     ]
   },
   {
@@ -25,16 +52,43 @@
     "distance_km": 54,
     "summary": "Gangtok to Nathu La is about 54 km, 2.5–3 hours, on NH310 past Tsomgo Lake to the India–China border pass at 4,310 m. It is open only to Indian nationals with a permit filed a day ahead, usually Wednesday to Sunday, in a Sikkim-registered tourist vehicle.",
     "options": [
-      {"mode": "Shared tour seat", "time": "≈ 2.5–3 h each way", "cost": "≈ ₹1,200–1,800 a person for Tsomgo, Baba Mandir and Nathu La", "text": "Agents in Gangtok sell seats on shared vehicles running the full circuit on open days. Hand over ID and two photos the day before; the Nathu La permit costs about ₹200 per person. Only Indian nationals can join. Departures are around 7 am, and the pass visit itself is short, so the day centres on Tsomgo and Baba Mandir."},
-      {"mode": "Reserved SUV", "time": "≈ 2.5–3 h each way", "cost": "≈ ₹6,500–9,000 a car", "text": "A reserved Sikkim-registered SUV for Tsomgo, Baba Mandir and Nathu La gives more flexibility for stops and for older travellers who need a slower pace. The agent arranges both permits. Nathu La is usually closed on Mondays and Tuesdays and after heavy snow. Check current status before you travel."}
+      {
+        "mode": "Shared tour seat",
+        "time": "≈ 2.5–3 h each way",
+        "cost": "≈ ₹1,200–1,800 a person for Tsomgo, Baba Mandir and Nathu La",
+        "text": "Agents in Gangtok sell seats on shared vehicles running the full circuit on open days. Hand over ID and two photos the day before; the Nathu La permit costs about ₹200 per person. Only Indian nationals can join. Departures are around 7 am, and the pass visit itself is short, so the day centres on Tsomgo and Baba Mandir."
+      },
+      {
+        "mode": "Reserved SUV",
+        "time": "≈ 2.5–3 h each way",
+        "cost": "≈ ₹6,500–9,000 a car",
+        "text": "A reserved Sikkim-registered SUV for Tsomgo, Baba Mandir and Nathu La gives more flexibility for stops and for older travellers who need a slower pace. The agent arranges both permits. Nathu La is usually closed on Mondays and Tuesdays and after heavy snow. Check current status before you travel. Check current rates before you travel."
+      }
     ],
-    "stops_on_way": ["Kyongnosla Alpine Sanctuary", "Tsomgo Lake", "Sherathang trade mart (seen from the road)", "Baba Mandir on the way back"],
+    "stops_on_way": [
+      "Kyongnosla Alpine Sanctuary",
+      "Tsomgo Lake",
+      "Sherathang trade mart (seen from the road)",
+      "Baba Mandir on the way back"
+    ],
     "tip": "Spend at least one night in Gangtok first for the permit and acclimatisation, carry original ID, and walk very slowly at the pass, which is at 4,310 m.",
     "faqs": [
-      {"q": "Can foreigners visit Nathu La?", "a": "No. Nathu La is open only to Indian nationals. Foreign travellers can usually visit Tsomgo Lake on a one-day permit in a group of two or more through a registered agent, but not Nathu La. NRIs and OCI holders should check their eligibility with us. Check current status before you travel."},
-      {"q": "On which days is Nathu La open?", "a": "As we understand it, Nathu La is usually open to tourists from Wednesday to Sunday and closed on Mondays and Tuesdays, with further closures after heavy snow or for official reasons. Permits are filed a day ahead through a registered agent. Check current status before you travel."},
-      {"q": "Is Nathu La safe for seniors and children?", "a": "Many seniors and children visit, but at 4,310 m the thin air affects everyone. Spend a night or two in Gangtok first, walk slowly at the pass, drink water and limit your time there. Anyone with heart or lung conditions should consult a doctor first and may prefer to stop at Tsomgo."},
-      {"q": "How much does a Nathu La trip cost from Gangtok?", "a": "Indicatively, a shared seat for Tsomgo, Baba Mandir and Nathu La costs about ₹1,200–1,800 per person, and a reserved SUV about ₹6,500–9,000 a car, plus about ₹200 per person for the Nathu La permit and the Tsomgo permit fees. Check current rates before you travel."}
+      {
+        "q": "Can foreigners visit Nathu La?",
+        "a": "No. Nathu La is open only to Indian nationals. Foreign travellers can usually visit Tsomgo Lake on a one-day permit in a group of two or more through a registered agent, but not Nathu La. NRIs and OCI holders should check their eligibility with us. Check current status before you travel."
+      },
+      {
+        "q": "On which days is Nathu La open?",
+        "a": "As we understand it, Nathu La is usually open to tourists from Wednesday to Sunday and closed on Mondays and Tuesdays, with further closures after heavy snow or for official reasons. Permits are filed a day ahead through a registered agent. Check current status before you travel."
+      },
+      {
+        "q": "Is Nathu La safe for seniors and children?",
+        "a": "Many seniors and children visit, but at 4,310 m the thin air affects everyone. Spend a night or two in Gangtok first, walk slowly at the pass, drink water and limit your time there. Anyone with heart or lung conditions should consult a doctor first and may prefer to stop at Tsomgo."
+      },
+      {
+        "q": "How much does a Nathu La trip cost from Gangtok?",
+        "a": "Indicatively, a shared seat for Tsomgo, Baba Mandir and Nathu La costs about ₹1,200–1,800 per person, and a reserved SUV about ₹6,500–9,000 a car, plus about ₹200 per person for the Nathu La permit and the Tsomgo permit fees. Check current rates before you travel."
+      }
     ]
   },
   {
@@ -44,16 +98,42 @@
     "distance_km": 24,
     "summary": "Gangtok to Rumtek is about 24 km, an hour by road, down to Ranipool on the Ranikhola and up the far side of the valley to the Karma Kagyu seat at about 1,500 m. Shared jeeps run in the morning; most visitors take a reserved small car and add Lingdum.",
     "options": [
-      {"mode": "Shared jeep", "time": "≈ 1–1.25 h", "cost": "≈ ₹80–120 a seat", "text": "Shared jeeps to Rumtek leave from a stand in central Gangtok through the morning and return in the afternoon. Your hotel will know the current stand. Timings change and the last return can be early, so confirm it with the driver. It is the cheapest way, best for solo travellers with flexible plans."},
-      {"mode": "Reserved small car", "time": "≈ 1 h", "cost": "≈ ₹1,500–2,500 return; ≈ ₹2,500–3,500 with Ranka and Lingdum", "text": "A reserved car from Gangtok waits while you visit the main hall, the Golden Stupa and Old Rumtek. Adding Lingdum near Ranka and Banjhakri Falls makes a half day of 4–5 hours. Agree the stops and waiting time before you set off."}
+      {
+        "mode": "Shared jeep",
+        "time": "≈ 1–1.25 h",
+        "cost": "≈ ₹80–120 a seat",
+        "text": "Shared jeeps to Rumtek leave from a stand in central Gangtok through the morning and return in the afternoon. Your hotel will know the current stand. Timings change and the last return can be early, so confirm it with the driver. It is the cheapest way, best for solo travellers with flexible plans."
+      },
+      {
+        "mode": "Reserved small car",
+        "time": "≈ 1 h",
+        "cost": "≈ ₹1,500–2,500 return; ≈ ₹2,500–3,500 with Ranka and Lingdum",
+        "text": "A reserved car from Gangtok waits while you visit the main hall, the Golden Stupa and Old Rumtek. Adding Lingdum near Ranka and Banjhakri Falls makes a half day of 4–5 hours. Agree the stops and waiting time before you set off. Expect about ₹10–20 for monastery entry and carry photo ID."
+      }
     ],
-    "stops_on_way": ["Ranipool junction and Saramsa Garden (short detour)", "Old Rumtek Monastery", "Lingdum Monastery near Ranka (on the return loop)"],
+    "stops_on_way": [
+      "Ranipool junction and Saramsa Garden (short detour)",
+      "Old Rumtek Monastery",
+      "Lingdum Monastery near Ranka (on the return loop)"
+    ],
     "tip": "Carry original photo ID for the security gate at Rumtek, and arrive before 10 am or around 3 pm to catch prayers in the main hall.",
     "faqs": [
-      {"q": "How far is Rumtek from Gangtok?", "a": "About 24 km by road, roughly an hour each way via Ranipool. The road drops to the Ranikhola at about 900 m and climbs back to Rumtek at about 1,500 m. Shared jeeps cost about ₹80–120 a seat; a reserved small car about ₹1,500–2,500 return, indicatively."},
-      {"q": "Do we need ID to visit Rumtek?", "a": "Yes. Security forces at the gate check photo ID because of the long-running dispute over the Karmapa succession. Carry an original Aadhaar card, passport or driving licence. Foreigners should carry their passport and Sikkim permit. There is no separate permit for Rumtek."},
-      {"q": "Can we combine Rumtek with other places?", "a": "Yes. Lingdum Monastery near Ranka, Banjhakri Falls and Saramsa Garden at Ranipool are on or near the way, making a half day of 4–5 hours by reserved car for about ₹2,500–3,500. Martam village, beyond Rumtek, is ideal for a homestay night or lunch."},
-      {"q": "When is the best time to visit Rumtek?", "a": "October to May, in the morning before 10 am or around 3 pm, when monks are often at prayer. June brings the Tse-chu mask dances at Old Rumtek. The monsoon, from June to September, slows the road but rarely closes it. Check current status before you travel."}
+      {
+        "q": "How far is Rumtek from Gangtok?",
+        "a": "About 24 km by road, roughly an hour each way via Ranipool. The road drops to the Ranikhola at about 900 m and climbs back to Rumtek at about 1,500 m. Shared jeeps cost about ₹80–120 a seat; a reserved small car about ₹1,500–2,500 return, indicatively."
+      },
+      {
+        "q": "Do we need ID to visit Rumtek?",
+        "a": "Yes. Security forces at the gate check photo ID because of the long-running dispute over the Karmapa succession. Carry an original Aadhaar card, passport or driving licence. Foreigners should carry their passport and Sikkim permit. There is no separate permit for Rumtek."
+      },
+      {
+        "q": "Can we combine Rumtek with other places?",
+        "a": "Yes. Lingdum Monastery near Ranka, Banjhakri Falls and Saramsa Garden at Ranipool are on or near the way, making a half day of 4–5 hours by reserved car for about ₹2,500–3,500. Martam village, beyond Rumtek, is ideal for a homestay night or lunch."
+      },
+      {
+        "q": "When is the best time to visit Rumtek?",
+        "a": "October to May, in the morning before 10 am or around 3 pm, when monks are often at prayer. June brings the Tse-chu mask dances at Old Rumtek. The monsoon, from June to September, slows the road but rarely closes it. Check current status before you travel."
+      }
     ]
   },
   {
@@ -63,16 +143,42 @@
     "distance_km": 32,
     "summary": "Gangtok to Martam is about 29–34 km, 1–1.5 hours, via Ranipool and Rumtek to a farming village of paddy terraces and family homestays. Most guests take a reserved car or a host pickup; a few shared jeeps run towards Rumtek and Sang.",
     "options": [
-      {"mode": "Shared jeep", "time": "≈ 1.25–1.5 h", "cost": "≈ ₹80–150 a seat", "text": "Shared jeeps run from Gangtok towards Rumtek and Sang, passing near Martam, mainly for villagers. They leave in the morning and return in the afternoon, with timings that change, so confirm with the stand and your homestay host. Fine for light packers on a budget."},
-      {"mode": "Reserved small car", "time": "≈ 1–1.5 h", "cost": "≈ ₹1,500–2,000 one way", "text": "A reserved small car from Gangtok takes you to your homestay door, with time at Rumtek on the way if you like. Your host can also arrange a pickup for a similar fee. On the way out, a direct car from Martam to Bagdogra or NJP costs about ₹3,500–4,500."}
+      {
+        "mode": "Shared jeep",
+        "time": "≈ 1.25–1.5 h",
+        "cost": "≈ ₹80–150 a seat",
+        "text": "Shared jeeps run from Gangtok towards Rumtek and Sang, passing near Martam, mainly for villagers. They leave in the morning and return in the afternoon, with timings that change, so confirm with the stand and your homestay host. Fine for light packers on a budget. Carry small notes for the fare."
+      },
+      {
+        "mode": "Reserved small car",
+        "time": "≈ 1–1.5 h",
+        "cost": "≈ ₹1,500–2,000 one way",
+        "text": "A reserved small car from Gangtok takes you to your homestay door, with time at Rumtek on the way if you like. Your host can also arrange a pickup for a similar fee. On the way out, a direct car from Martam to Bagdogra or NJP costs about ₹3,500–4,500. Check current rates before you travel."
+      }
     ],
-    "stops_on_way": ["Ranipool junction", "Rumtek Monastery", "Old Rumtek Monastery"],
+    "stops_on_way": [
+      "Ranipool junction",
+      "Rumtek Monastery",
+      "Old Rumtek Monastery"
+    ],
     "tip": "Ask your homestay for exact directions or a pickup, since houses are spread across the valley and not all are on the main road.",
     "faqs": [
-      {"q": "How do we get from Gangtok to Martam?", "a": "The easiest way is a reserved small car via Ranipool and Rumtek, about 1–1.5 hours for ₹1,500–2,000 one way, or a pickup arranged by your homestay. Shared jeeps towards Rumtek and Sang cost about ₹80–150 a seat but run on changing timetables. Check current rates before you travel."},
-      {"q": "Can we walk from Rumtek to Martam?", "a": "Yes. Many guests drive to Rumtek, visit the monastery, then walk down to Martam on village roads and footpaths, roughly 6–8 km in 2.5–3 hours. A local guide is advised, since paths branch through private farms. Send luggage ahead with the car."},
-      {"q": "Can we go directly from Bagdogra to Martam?", "a": "Yes. Turn off NH10 at Ranipool and continue via Rumtek, about 4.5–5 hours from Bagdogra (IXB) or NJP, for about ₹3,500–4,500 for a small car. NH10 closes after monsoon slides; the alternative is via Kalimpong or Algarah. Check current status before you travel."},
-      {"q": "Is the road to Martam good?", "a": "It is a paved but narrow hill road beyond Rumtek, with some rough patches and steep bends. Small cars manage it well. After heavy rain, minor slides can slow it. Drive times of 1–1.5 hours from Gangtok are realistic. Ask your host about the final stretch to the house."}
+      {
+        "q": "How do we get from Gangtok to Martam?",
+        "a": "The easiest way is a reserved small car via Ranipool and Rumtek, about 1–1.5 hours for ₹1,500–2,000 one way, or a pickup arranged by your homestay. Shared jeeps towards Rumtek and Sang cost about ₹80–150 a seat but run on changing timetables. Check current rates before you travel."
+      },
+      {
+        "q": "Can we walk from Rumtek to Martam?",
+        "a": "Yes. Many guests drive to Rumtek, visit the monastery, then walk down to Martam on village roads and footpaths, roughly 6–8 km in 2.5–3 hours. A local guide is advised, since paths branch through private farms. Send luggage ahead with the car."
+      },
+      {
+        "q": "Can we go directly from Bagdogra to Martam?",
+        "a": "Yes. Turn off NH10 at Ranipool and continue via Rumtek, about 4.5–5 hours from Bagdogra (IXB) or NJP, for about ₹3,500–4,500 for a small car. NH10 closes after monsoon slides; the alternative is via Kalimpong or Algarah. Check current status before you travel."
+      },
+      {
+        "q": "Is the road to Martam good?",
+        "a": "It is a paved but narrow hill road beyond Rumtek, with some rough patches and steep bends. Small cars manage it well. After heavy rain, minor slides can slow it. Drive times of 1–1.5 hours from Gangtok are realistic. Ask your host about the final stretch to the house."
+      }
     ]
   }
 ]

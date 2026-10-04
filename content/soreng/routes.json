@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "jorethang-to-soreng",
+    "from": "jorethang",
+    "to": "soreng",
+    "distance_km": 28,
+    "summary": "Jorethang to Soreng is about 28 km over the Akar bridge and up through Nayabazar, usually 1–1.5 hours. Shared jeeps run through the day for roughly ₹80–150 a seat, and a reserved small car costs about ₹1,500–2,000. Jorethang is where most travellers from Siliguri change.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1–1.5 h", "cost": "≈ ₹80–150 a seat", "text": "Shared jeeps leave the Jorethang stand for Soreng through the day, most often in the morning, and leave when full. Buy your seat at the counter or from the driver. Luggage goes on the roof under a tarpaulin, so pack valuables in a day bag. The last jeeps up leave in the mid to late afternoon."},
+      {"mode": "Private car", "time": "1 h", "cost": "≈ ₹1,500–2,000 one way", "text": "A reserved small car from Jorethang takes about an hour. It lets you stop at Tharpu for the Mangardzong site, or carry on to Sribadam, Kaluk or Rinchenpong the same day. Agree the fare and any stops before you set off; prices rise in April, May and the October holidays."},
+      {"mode": "From Siliguri / NJP", "time": "4–5 h", "cost": "≈ ₹4,500–6,000 small car; jeep ≈ ₹250–350 to Jorethang", "text": "The district gives Soreng as about 100 km from Siliguri and 115 km from NJP. The road follows NH10 along the Teesta to Melli, then the Rangeet to Jorethang. NH10 closes after monsoon landslides, when drivers go via Kalimpong or Darjeeling. A few shared jeeps run Siliguri–Soreng direct in the morning. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Akar bridge over the Rangeet", "Nayabazar", "Tharpu and Mangardzong (short detour)", "Soreng bazaar"],
+    "tip": "Leave Jorethang before noon: shared jeeps thin out in the afternoon, and you want daylight for the climb.",
+    "faqs": [
+      {"q": "How far is Soreng from Jorethang?", "a": "About 28 km by road, crossing the Rangeet on the Akar bridge, which the district names as its entry point from Namchi district, then climbing through Nayabazar. Allow 1–1.5 hours by shared jeep and about an hour by private car, longer after rain."},
+      {"q": "How much is a shared jeep from Jorethang to Soreng?", "a": "Roughly ₹80–150 a seat in 2026, indicative. Fares are fixed by the local taxi association and posted at some counters. Jeeps leave when full, most often in the morning. A reserved small car costs about ₹1,500–2,000 one way."},
+      {"q": "Is there a direct jeep from Siliguri to Soreng?", "a": "A few shared jeeps run direct from Siliguri to Soreng, usually leaving in the morning from the area near the SNT bus terminus, about 4 hours. Otherwise take a jeep to Jorethang, about 3.5–4 hours, and change. NH10 closes after monsoon slides; check current status before you travel."},
+      {"q": "What is there to see between Jorethang and Soreng?", "a": "The Rangeet at the Akar bridge, the bazaar at Nayabazar, and farm villages as the road climbs. With a private car you can detour to Tharpu to see the Mangardzong site, linked to the story of the Mangar raja Sintu Pati Sen."}
+    ]
+  },
+  {
+    "slug": "jorethang-to-rinchenpong",
+    "from": "jorethang",
+    "to": "rinchenpong",
+    "distance_km": 32,
+    "summary": "Jorethang to Rinchenpong is about 32 km, climbing from the Rangeet valley to the ridge at about 1,650 m in around 1.5 hours. Shared jeeps run through the day for about ₹120–180 a seat; a reserved small car costs about ₹1,800–2,500 one way.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1.5 h", "cost": "≈ ₹120–180 a seat", "text": "Shared jeeps for Rinchenpong and Kaluk leave the Jorethang stand through the day, most reliably in the morning; the last ones up leave in the mid-afternoon. Some go to Kaluk first, 3 km below Rinchenpong. Tell the driver where you are staying, as many will drop you at the homestay gate for a small extra."},
+      {"mode": "Private car", "time": "1–1.5 h", "cost": "≈ ₹1,800–2,500 one way", "text": "A reserved small car takes about 1–1.5 hours and lets you stop for photographs as the Kangchenjunga range appears near the ridge. You can route via Mangalbarey, about 25 km from Jorethang, to visit the bazaar or Rahuney Cave, then climb about 19 km to Rinchenpong on the back road."},
+      {"mode": "From Siliguri / NJP", "time": "4.5–5 h", "cost": "≈ ₹4,500–6,000 small car", "text": "Bagdogra and NJP are about 115–125 km from Rinchenpong, 4.5–5 hours via Sevoke, Melli and Jorethang. The Teesta stretch of NH10 closes after monsoon slides, when cars go via Kalimpong or Darjeeling. By shared jeep, go Siliguri–Jorethang (3.5–4 hours, ₹250–350) and change. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Akar bridge over the Rangeet", "Nayabazar", "Mangalbarey (on the alternative road)", "Kaluk bazaar"],
+    "tip": "Travel up in the morning: the Kangchenjunga range is clearest from the ridge before cloud builds, usually by late morning.",
+    "faqs": [
+      {"q": "How far is Rinchenpong from Jorethang?", "a": "About 32 km by the usual road, around 1.5 hours by shared jeep and 1–1.5 hours by private car. Kaluk is about 30 km from Jorethang on the same ridge. Routing via Mangalbarey adds a little distance but a quieter road and a possible stop at Rahuney Cave."},
+      {"q": "How much is a shared jeep from Jorethang to Rinchenpong?", "a": "About ₹120–180 a seat, indicative 2026 fares. Jeeps leave when full, mostly in the morning, and the last ones go up in the mid-afternoon. A reserved small car costs about ₹1,800–2,500 one way, more in April, May and the October holidays."},
+      {"q": "Can I go from Siliguri to Rinchenpong in one day?", "a": "Yes. By car it is about 4.5–5 hours from Siliguri, NJP or Bagdogra. By shared jeep, change at Jorethang and aim to leave Siliguri by about 9 am so you catch an afternoon jeep up. NH10 closes after monsoon slides; check current status before you travel."},
+      {"q": "Is the road from Jorethang to Rinchenpong safe?", "a": "It is a normal Sikkim hill road with many bends and some narrow stretches, driven daily by local jeeps. After heavy rain, small slides can slow traffic. Travel in daylight, avoid the late afternoon in the monsoon and allow extra time from June to September."}
+    ]
+  },
+  {
+    "slug": "soreng-to-okhrey",
+    "from": "soreng",
+    "to": "okhrey",
+    "distance_km": 30,
+    "summary": "Soreng to Okhrey is about 30 km west via Sombaria, 1–1.5 hours by car, climbing from about 1,300 m to about 2,300 m. Shared jeeps reach Sombaria; from there a reserved car covers the last 14 km. Hilley, the Barsey trailhead, is 8 km beyond Okhrey.",
+    "options": [
+      {"mode": "Shared jeep and local car", "time": "1.5–2 h", "cost": "≈ ₹60–100 jeep seat, then ≈ ₹700–1,000 car", "text": "Take a shared jeep from Soreng bazaar to Sombaria, about 16 km, then reserve a local car at the Sombaria stand for the 14 km to Okhrey. Shared vehicles above Sombaria are rare, so do not count on one. Morning departures are best; draw cash in Soreng or Sombaria first, as Okhrey has no ATM we would rely on."},
+      {"mode": "Private car", "time": "1–1.5 h", "cost": "≈ ₹2,000–2,500 one way", "text": "A reserved small car from Soreng takes 1–1.5 hours over about 30 km via Sombaria. It can carry on 8 km to Hilley if you are walking to Barsey. From Rinchenpong, the full run to Okhrey via Soreng is about 48 km and 2.5 hours, about ₹3,000–3,500."},
+      {"mode": "From Siliguri / NJP", "time": "5–6 h", "cost": "≈ ₹4,500–6,500 small car", "text": "Okhrey is about 125 km from Siliguri via Sevoke, Melli, Jorethang and Sombaria; this route bypasses Soreng town. NH10 along the Teesta closes after monsoon slides, when cars go via Kalimpong or Darjeeling. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Soreng bazaar (cash and supplies)", "Sombaria bazaar and jeep stand", "Farm villages above Sombaria", "First views of the Singalila ridge"],
+    "tip": "Draw cash in Soreng or Sombaria, as Okhrey and Hilley have no ATMs you should rely on.",
+    "faqs": [
+      {"q": "How far is Okhrey from Soreng?", "a": "About 30 km by road via Sombaria, usually 1–1.5 hours by car. Sombaria is about 16 km from Soreng and 14 km below Okhrey. Hilley, where the Barsey walk begins, is 8 km beyond Okhrey, about 30–40 minutes more."},
+      {"q": "Is there a shared jeep from Soreng to Okhrey?", "a": "Rarely direct. The usual way is a shared jeep from Soreng to Sombaria, then a reserved local car for the last 14 km, about ₹700–1,000. Ask at the Soreng stand in the morning in case a vehicle is going through to Okhrey."},
+      {"q": "Will I feel the altitude going from Soreng to Okhrey?", "a": "Okhrey is about 2,300 m, about 1,000 m higher than Soreng, and Barsey's ridge is about 3,000 m. Most people feel nothing worse than breathlessness on climbs. Walk slowly on your first afternoon, drink water and sleep a night in Okhrey before the Barsey walk."},
+      {"q": "Can I visit Barsey as a day trip from Soreng?", "a": "Yes, with an early start: about 38 km to Hilley by car, then the 4–5 km walk each way to the Barsey ridge. A car for the day costs about ₹3,500–4,500. It is a long day, and cloud often rises by midday, so a night in Okhrey is better."}
+    ]
+  },
+  {
+    "slug": "pelling-to-rinchenpong",
+    "from": "pelling",
+    "to": "rinchenpong",
+    "distance_km": 31,
+    "summary": "Pelling to Rinchenpong is about 31 km via Gyalshing and Legship, down to the Rangeet and up to the ridge, usually 1.5–2 hours by car. A reserved small car costs about ₹2,000–2,500. It links Gyalshing district's sights with Soreng's quieter villages.",
+    "options": [
+      {"mode": "Private car", "time": "1.5–2 h", "cost": "≈ ₹2,000–2,500 one way", "text": "The simplest way. The road drops from Pelling through Gyalshing to Legship on the Rangeet, then climbs to Kaluk and Rinchenpong. Allow 1.5–2 hours with a short stop. Most drivers in Pelling know the route; agree the fare and whether they will drop you at your homestay gate in Rinchenpong."},
+      {"mode": "Shared jeep", "time": "2.5–3.5 h", "cost": "≈ ₹150–250 in total", "text": "There is no regular direct shared jeep. Take a jeep from Pelling to Gyalshing, then one towards Legship or Jorethang, and ask for a connection to Rinchenpong or Kaluk. Changes make it slow, and services thin out after midday, so start early."},
+      {"mode": "Via Jorethang", "time": "3–3.5 h", "cost": "≈ ₹3,000–3,500 small car", "text": "If roads via Legship are blocked, drivers may go via Jorethang, which is longer. This route does not use NH10. Road conditions on both sides of the Rangeet change after heavy rain, so check current status before you travel."}
+    ],
+    "stops_on_way": ["Gyalshing bazaar", "Legship and the Rangeet bridge", "Kaluk bazaar", "First views of the Kangchenjunga range from the ridge"],
+    "tip": "Leave Pelling after an early visit to Pemayangtse so you reach Rinchenpong for the late-afternoon light on the range.",
+    "faqs": [
+      {"q": "How far is Rinchenpong from Pelling?", "a": "About 31 km by road via Gyalshing and Legship, usually 1.5–2 hours by car. Kaluk is about 29 km. Although the two are close as the crow flies, the road drops to the Rangeet at Legship and climbs again, so it is slower than the distance suggests."},
+      {"q": "How much does a taxi from Pelling to Rinchenpong cost?", "a": "About ₹2,000–2,500 one way for a small car, indicative 2026 rates, more for an SUV and in peak weeks. Agree the fare before you leave, including any stops. Shared options need two or three changes and take much longer."},
+      {"q": "Should I stay in Pelling or Rinchenpong?", "a": "Both, if you can. Pelling has more sights, such as Pemayangtse and Rabdentse, and more hotels. Rinchenpong is quieter, with village homestays, an old monastery and a wide Kangchenjunga view. Two nights in each is a good balance for western Sikkim."},
+      {"q": "Is there a bus from Pelling to Rinchenpong?", "a": "Not a direct one we would rely on. SNT and private buses serve the main towns, but for Rinchenpong you would need to change at Gyalshing or Legship. A reserved car is much simpler, and the cost shared between two or three people is reasonable."}
+    ]
+  }
+]
