@@ -1,0 +1,348 @@
+{
+  "slug": "phodong",
+  "name": "Phodong",
+  "region": "north-sikkim",
+  "kind": "village",
+  "wiki": "Phodong",
+  "image_query": "Phodong Monastery Sikkim",
+  "lat": 27.412,
+  "lng": 88.572,
+  "altitude_m": 1400,
+  "local_name": {
+    "name": "Phodong (also Phodang, Podong)",
+    "language": "Tibetan",
+    "meaning": "The name is written pho gdong in Tibetan; we have not found a documented meaning, so we do not give one",
+    "source": "Wikipedia, Phodong Monastery"
+  },
+  "tagline": "A Kagyu monastery town on the North Sikkim Highway",
+  "meta_description": "Phodong, 38 km from Gangtok: the Kagyu monastery founded in 1740, the December chaam dance, Labrang above and a permit-free half-day. Costs and timings.",
+  "summary": "Phodong is a small town about 38 km and 1.5 hours north of Gangtok on the North Sikkim Highway, known for Phodong Monastery, a Karma Kagyu monastery credited to Chogyal Gyurmed Namgyal in 1740, and for Labrang Monastery above it. It lies below the protected areas, so Indian visitors need no permit.",
+  "intro": [
+    "Phodong is a terraced hill town on the North Sikkim Highway, about 38 km from Gangtok and roughly 1.5 hours by car. Wikipedia describes it as famous for Phodong Monastery and for Labrang Monastery, which sits a little higher. The main occupation is farming on terraced slopes, though tourism has added to the economy, and the town has a small bazaar and a State Bank of India branch.",
+    "Phodong Monastery belongs to the Karma Kagyu school. The infobox in Wikipedia's article gives 1740 and credits Chogyal Gyurmed Namgyal, with an older monastery having stood here before. Each December its monks perform the chaam masked dance on the 28th and 29th days of the 10th Tibetan month, a date that moves with the lunar calendar. Phodong's chaam leads into the Losoong season.",
+    "For visitors, Phodong is the best-known monastery stop on the road north, and it fits easily into a day trip from Gangtok with Kabi Lungchok and Labrang. It is outside the protected areas, so Indian travellers need no protected area permit. Fixed fees and opening hours are not guaranteed. Check current status before you travel."
+  ],
+  "story": {
+    "title": "A monastery rebuilt by a prince-abbot",
+    "text": "Wikipedia's article on Phodong Monastery says that the monastery was built in the early 18th century, on the site of an older one, and its infobox records 1740 and Chogyal Gyurmed Namgyal as founder. The article also mentions the 9th Karmapa, Wangchuk Dorje, who is said to have been invited by the king of Sikkim and to have founded three monasteries: Rumtek, Phodong and Ralang. Dates for these are not consistent across sources, so we give them as the article does and not as settled fact. It adds that the monastery was reconstructed by Sidkeong Tulku Namgyal, recognised as the reincarnation of his uncle Sidkeong Namgyal, who had been abbot here. The article puts the community at about 260 monks and records old murals. The Mangan district administration credits the present monastery to Chogyal Gyurmed Namgyal in the 18th century. For the history of the Karma Kagyu in Sikkim, the Sikkim government's Ecclesiastical Affairs Department is a good further source.",
+    "source": "Wikipedia, Phodong Monastery; Sikkim Ecclesiastical Affairs Department"
+  },
+  "little_known": [
+    {
+      "fact": "Phodong Monastery is one of three monasteries Wikipedia associates with the 9th Karmapa's time in Sikkim, along with Rumtek and Ralang, though the dates given by different sources vary.",
+      "source": "Wikipedia, Phodong Monastery"
+    },
+    {
+      "fact": "Phodong's annual chaam falls on the 28th and 29th days of the 10th Tibetan month, so its Gregorian date shifts each year, usually in early to mid December.",
+      "source": "Wikipedia, Phodong Monastery"
+    },
+    {
+      "fact": "Wikipedia records about 260 monks living at Phodong Monastery and a collection of ancient murals, though this figure may be out of date.",
+      "source": "Wikipedia, Phodong Monastery"
+    }
+  ],
+  "facts": [
+    [
+      "Best months",
+      "October to May"
+    ],
+    [
+      "Nights we suggest",
+      "0 to 1"
+    ],
+    [
+      "From Gangtok",
+      "≈ 38 km · 1.5 h"
+    ],
+    [
+      "Altitude",
+      "≈ 1,400 m (approximate)"
+    ],
+    [
+      "Known for",
+      "Phodong Monastery, Labrang, December chaam"
+    ],
+    [
+      "Permit",
+      "Not needed for Indian visitors; foreigners need the Sikkim restricted area permit"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0–1",
+  "highlights": [
+    {
+      "title": "Phodong Monastery",
+      "text": "A Karma Kagyu monastery with a prayer hall, old murals and monks' quarters, set above terraced fields. Remove shoes before entering, dress modestly and ask before photographing inside the hall. Visiting hours and any fee are set by the monastery, so check current status."
+    },
+    {
+      "title": "The December chaam",
+      "text": "On the 28th and 29th days of the 10th Tibetan month, monks in masks and brocade perform sacred dances in the courtyard, in the season before Losoong. Arrive early, stay behind the edge of the dance ground and treat it as a ritual."
+    },
+    {
+      "title": "Labrang Monastery above",
+      "text": "Labrang, a Nyingma monastery, is about 2 km above Phodong, with a museum and a bronze statue of Karma Guru. A few minutes' drive from Phodong, it makes a natural second stop."
+    },
+    {
+      "title": "Terraced slopes",
+      "text": "The slopes around Phodong are farmed in terraces, as Wikipedia notes. Walking the lanes above the bazaar shows how people live here, with small fields, cardamom and vegetable plots. Keep to paths and ask before photographing people."
+    },
+    {
+      "title": "A practical lunch halt",
+      "text": "Phodong's small bazaar has simple eating places with tea, momos and rice meals at roughly ₹150 to 250, and a State Bank of India branch. It suits lunch on a day trip from Gangtok, ahead of a return before dusk."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Shared jeep",
+      "text": "Shared jeeps from Gangtok to Mangan pass through Phodong, and some drop here. Fares are roughly ₹250 to 400 a seat, indicative. Services thin out in the afternoon, so ask at the Vajra stand in Gangtok about the return before you commit."
+    },
+    {
+      "mode": "Private car",
+      "text": "A reserved small car from Gangtok takes about 1.5 hours for 38 km. A day loop with Kabi Lungchok, the waterfall, Phodong and Labrang is indicatively ₹3,000 to 4,500. The highway can close after monsoon slides."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "Go to Gangtok first, 4.5 to 5 hours on NH10 from either, longer via Kalimpong or Algarah when NH10 is closed by slides. Visit Phodong on a day trip from Gangtok or on your way north."
+    }
+  ],
+  "costs": [
+    [
+      "Shared jeep Gangtok to Mangan (via Phodong)",
+      "≈ ₹300–450 a seat"
+    ],
+    [
+      "Day loop by small car",
+      "≈ ₹3,000–4,500 a car"
+    ],
+    [
+      "Monastery entry",
+      "Free or a small donation, as far as we know"
+    ],
+    [
+      "Budget room in Gangtok",
+      "≈ ₹1,500–3,000"
+    ],
+    [
+      "Meal (thali)",
+      "≈ ₹150–250"
+    ]
+  ],
+  "where_to_stay": "Most visitors see Phodong in a day from Gangtok and do not stay. If you want a quieter base for the chaam or for the Labrang and Dzongu side, ask us about small lodges and homestays in the Phodong area, whose availability we confirm at the time of booking. Mangan, about 29 km further north, has simple hotels and is the usual halt before the Toong check post. Budget rooms in Gangtok run about ₹1,500 to 3,000.",
+  "stays": [],
+  "tips": [
+    "Remove shoes and hats before the prayer hall, and keep shoulders and knees covered.",
+    "Never cross the courtyard during the chaam, and do not use flash or drones.",
+    "Ask before photographing monks or inside the hall, and follow any signs.",
+    "Plan the Phodong chaam trip early: lunar dates move each year, so confirm them in November.",
+    "Carry cash for small donations and snacks, because card use is limited in the bazaar."
+  ],
+  "themes": [
+    "monasteries",
+    "festivals",
+    "crafts-and-culture",
+    "offbeat-sikkim"
+  ],
+  "nearby": [
+    "labrang",
+    "kabi-lungchok",
+    "seven-sisters-waterfall",
+    "mangan"
+  ],
+  "experiences": [
+    {
+      "slug": "phodong-monastery-courtyard-visit",
+      "title": "Visiting Phodong Monastery",
+      "kind": "spiritual",
+      "duration": "1–1.5 hours",
+      "best_time": "Morning, October to May",
+      "cost": "Free or a small donation",
+      "image_query": "Phodong Monastery courtyard Sikkim",
+      "wiki": "Phodong Monastery",
+      "summary": "A calm hour at a Karma Kagyu monastery that Wikipedia credits to Chogyal Gyurmed Namgyal in 1740: courtyard, prayer hall, murals and monks at work. A short, rewarding stop on the road north.",
+      "body": [
+        "Park below the monastery and walk up through the gate. The courtyard is wide, with the main prayer hall on one side and monks' quarters around it. Wikipedia's article records old murals and about 260 monks, though numbers change. A caretaker may open the hall for visitors, and you are welcome to sit quietly at the back.",
+        "Take off your shoes and hat before going inside. Ask before photographing the murals or statues, and follow any sign. Do not touch the paintings or instruments. If monks are chanting, stay for a few minutes and listen, because the long horns, cymbals and drums are part of the tradition.",
+        "Arrive in the morning, when the light is soft and the hall is least crowded. Monasteries are working institutions, and opening hours and fees are set by the monastery, so check current status before you travel. A small donation in the box is appreciated and is a good way to say thank you."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "What are the opening hours of Phodong Monastery?",
+          "a": "We do not have fixed hours to quote. Many Sikkim monasteries welcome visitors through the morning and early afternoon, with a pause at midday, but this varies with prayers and festivals. Ask your driver or check current status before you travel, and aim to arrive between 9 am and noon."
+        },
+        {
+          "q": "Is there an entry fee for Phodong Monastery?",
+          "a": "As far as we know there is no fixed ticket, but a donation box is usual and a small offering is welcome. Photography fees or restrictions may apply inside the prayer hall. Arrangements can change, so check current status before you travel and follow signs and the caretaker's advice."
+        },
+        {
+          "q": "What should I wear at Phodong Monastery?",
+          "a": "Wear modest clothes that cover shoulders and knees, and shoes that slip off easily. You will leave your shoes and hat outside the hall. Carry a warm layer, since the stone floors and courtyard are cold in winter and the prayer hall is often cool even on sunny days."
+        }
+      ]
+    },
+    {
+      "slug": "phodong-december-chaam-day",
+      "title": "A December day at the Phodong chaam",
+      "kind": "culture",
+      "duration": "Half to full day",
+      "best_time": "Early to mid December (lunar)",
+      "cost": "Free; car ≈ ₹3,000–4,500",
+      "image_query": "Phodong Monastery chaam mask dance",
+      "wiki": "Kagyed",
+      "summary": "Watch the annual chaam at Phodong Monastery on the 28th and 29th days of the 10th Tibetan month, usually in December. Monks in masks and brocade perform a sacred dance in the courtyard before Losoong, the Bhutia new year.",
+      "body": [
+        "The chaam is a ritual, not a performance. Monks wearing masks of protector deities move in measured steps to long horns, drums and cymbals, enacting the clearing of obstacles before the new year. Jesters appear between the serious dances. Wikipedia's Phodong Monastery article gives the festival dates as the 28th and 29th days of the 10th month.",
+        "Because the lunar calendar moves, the Gregorian dates change each year, so confirm them with us or the monastery in November. Come early, by 9 am, to find a place at the edge of the courtyard, and be ready for crowds. The valley is cold in December, so wear warm layers and carry water and a cap.",
+        "Phodong is on the North Sikkim Highway and needs no protected area permit for Indian visitors, so the chaam is an easy day trip from Gangtok. Do not cross the dance ground, do not use flash or drones and ask before photographing people. Check current status before you travel."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "families",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "When is the Phodong chaam?",
+          "a": "On the 28th and 29th days of the 10th Tibetan month, which is usually in early to mid December. The exact Gregorian dates change every year with the lunar calendar. Confirm with the monastery or with us in November, and check current status before you travel."
+        },
+        {
+          "q": "Can tourists watch the Phodong chaam?",
+          "a": "Yes, visitors are welcome to watch from the edge of the courtyard. It is a religious ritual, so be quiet, stay off the dance ground, turn off phone sounds and follow the instructions of the monastery volunteers. Ask before photographing people, and avoid flash and drones."
+        },
+        {
+          "q": "Do we need to book a hotel for the chaam?",
+          "a": "If you want to stay near Phodong, book early, as lodging is limited and local families attend. Most visitors come on a day trip from Gangtok, leaving by 6:30 to 7 am. For a stay, Mangan is about 29 km further north. Check current status before you travel."
+        }
+      ]
+    },
+    {
+      "slug": "phodong-terrace-village-lanes-walk",
+      "title": "A terraced village walk above the bazaar",
+      "kind": "village",
+      "duration": "1.5–2 hours",
+      "best_time": "Morning, October to May",
+      "cost": "Free",
+      "image_query": "Terraced fields Phodong Sikkim village",
+      "wiki": "",
+      "summary": "A gentle walk on the lanes above Phodong's bazaar, through terraced fields and farm plots. It shows how the town lives, with farming as the main occupation, and links easily to the walk up towards Labrang.",
+      "body": [
+        "Wikipedia notes that the main occupation in Phodong is farming on terraced slopes, and the lanes above the bazaar show what that looks like: stepped fields cut into the hillside, small plots of maize, vegetables and cardamom and houses with their own tanks and gardens. In October the harvest is under way and the light is soft.",
+        "Walk without hurry and keep to paths and lanes. Do not enter fields, pick crops or step on terraces, because the edges are fragile. Greet people you meet, and ask before photographing anyone or their house. A cup of tea at the bazaar afterwards helps your visit support local business.",
+        "The walk can connect to the road up to Labrang Monastery, about 2 km above Phodong, which is steep in places. Wear shoes with grip, carry water and a rain jacket, and avoid the monsoon months of June to September. Check current status before you travel."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "budget",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Is it safe to walk around Phodong?",
+          "a": "Yes, by day on the lanes above the bazaar. The terrain is steep, and paths can be slippery after rain, so wear shoes with grip and avoid the walk in heavy rain. The highway has blind bends and traffic, so keep to the verge. Tell your driver your route and return time."
+        },
+        {
+          "q": "Can we walk from Phodong to Labrang?",
+          "a": "Yes, though it is a steep uphill walk of about 2 km, which takes 45 minutes to an hour. Many visitors drive up and walk back down. Take water and check the weather first. Landslides and rain can make the lane slippery. Check current status before you travel."
+        },
+        {
+          "q": "Can we meet local farmers?",
+          "a": "If you are walking, it is fine to greet people and ask politely, but do not expect a guided farm visit. For an organised village experience, Dzongu's Lepcha homestays are a better choice, though a permit is required there. Ask us about options and permits. Check current status before you travel."
+        }
+      ]
+    },
+    {
+      "slug": "phodong-gangtok-day-trip",
+      "title": "Phodong from Gangtok by shared jeep or car",
+      "kind": "adventure",
+      "duration": "6–8 hours",
+      "best_time": "Weekdays, October to May",
+      "cost": "≈ ₹300–450 a seat; car ≈ ₹3,000–4,500",
+      "image_query": "North Sikkim Highway Phodong Gangtok road",
+      "wiki": "",
+      "summary": "How to see Phodong in a day from Gangtok, with a budget option by shared jeep and a comfortable option by reserved small car. We give realistic timings, costs and the return-trip catch to watch for.",
+      "body": [
+        "By shared jeep: take a morning vehicle to Mangan from the Vajra stand in Gangtok and ask to be dropped at Phodong, about 38 km and 1.5 hours away, for roughly ₹300 to 450 a seat. After the monastery, ask your driver or other jeeps about the return, because services thin out in the afternoon. This works for solo and budget travellers who are flexible.",
+        "By reserved car: a small car for the day, about ₹3,000 to 4,500, indicative, lets you stop at Tashi View Point, Kabi Lungchok, the Seven Sisters Waterfall, Phodong Monastery and Labrang in one loop, with lunch at Phodong. Leave Gangtok by 8:30 am and expect to be back by late afternoon.",
+        "Whichever you choose, the road is winding and slides can close it after rain. NH10 and the North Sikkim Highway close at times in the monsoon. No protected area permit is needed for Indian travellers. Check current status before you travel, and keep an hour in hand for delays."
+      ],
+      "good_for": [
+        "budget",
+        "solo",
+        "families",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "Can I do Phodong as a day trip from Gangtok?",
+          "a": "Yes. It is about 38 km and 1.5 hours each way, so a day leaves time for the monastery, Labrang above it and a stop at Kabi Lungchok. Leave by 8:30 am and plan to be back before dusk. Shared jeep or reserved car both work. Check current status before you travel."
+        },
+        {
+          "q": "How do I come back from Phodong by shared jeep?",
+          "a": "Shared jeeps pass Phodong from Mangan towards Gangtok through the day, but fewer run in the afternoon, so ask your driver or local drivers and do not leave the return until late. A reserved car removes this uncertainty. Check current status before you travel."
+        },
+        {
+          "q": "Is Phodong open on all days?",
+          "a": "The town is, but the monastery may close for prayers or festivals, and some Sikkim monuments have shorter hours on certain days. Check current status before you travel. If your day is fixed, mornings between 9 am and noon are the safest time to arrive."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Phodong?",
+      "a": "Phodong is a town in Mangan district (North Sikkim), about 38 km north of Gangtok on the North Sikkim Highway, roughly 1.5 hours by car. It is known for Phodong Monastery and Labrang Monastery, and lies between Kabi Lungchok and Mangan."
+    },
+    {
+      "q": "What is Phodong Monastery known for?",
+      "a": "It is a Karma Kagyu monastery that Wikipedia credits to Chogyal Gyurmed Namgyal in 1740, with an older monastery having stood here before. It is known for its old murals and for its annual chaam masked dance on the 28th and 29th days of the 10th Tibetan month."
+    },
+    {
+      "q": "Do I need a permit for Phodong?",
+      "a": "No protected area permit is needed for Indian visitors, since Phodong is below the Toong check post. Foreign nationals need the online Sikkim restricted area permit, applied for after arriving in India. Rules can change, so check current status before you travel."
+    },
+    {
+      "q": "How far is Phodong from Gangtok?",
+      "a": "About 38 km, which is roughly 1.5 hours by car in normal conditions. Landslides after rain can add hours. NH10 and the North Sikkim Highway can close in the monsoon, so check current status before you travel and leave Gangtok in the morning."
+    },
+    {
+      "q": "When is the Phodong chaam?",
+      "a": "On the 28th and 29th days of the 10th Tibetan month, usually in early to mid December. The Gregorian dates change each year. Confirm with the monastery or with us in November, and check current status before you travel. Come early for a place at the edge of the courtyard."
+    },
+    {
+      "q": "What is the difference between Phodong and Labrang?",
+      "a": "Phodong Monastery is a Karma Kagyu monastery in the town, with a 1740 founding date and the December chaam. Labrang is a Nyingma monastery about 2 km above, built between 1826 and 1843 and known for its museum. Most visitors see both in one outing."
+    },
+    {
+      "q": "Is there an entry fee at Phodong Monastery?",
+      "a": "As far as we know, no fixed ticket is charged, but a donation is customary and photography in the hall may be limited. Arrangements can change, so check current status before you travel. Carry small notes for the donation box."
+    },
+    {
+      "q": "Can we stay overnight in Phodong?",
+      "a": "Small lodges and homestays exist in the area, but we do not have a fixed list and availability varies. Most visitors stay in Gangtok or Mangan. If you want to stay for the chaam, book early, and check current status before you travel."
+    },
+    {
+      "q": "Is Phodong worth visiting?",
+      "a": "Yes, if you want a working monastery without a permit or a long drive. It is a half-day from Gangtok, easy to combine with Kabi Lungchok and Labrang, and especially good in December for the chaam. It is not a place for a long stay."
+    }
+  ]
+}
