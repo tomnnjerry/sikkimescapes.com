@@ -1,17 +1,41 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Travel guides to Nepal and India's seven lands · Tales of Luxury{% endblock %}
-{% block description %}Planning guides for Nepal, Rajasthan, Ladakh, North East India, Kerala, Goa and UP &amp; Bihar: seasons, permits, hotels, food, wildlife and culture.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim travel guides: costs, permits, seasons · Sikkim Escapes{% endblock %}
+{% block description %}Plain, checked Sikkim guides from our Gangtok desk: real trip costs, permits, road status, seasons, where to stay, food and the rooted stories behind each district.{% endblock %}
+{% block og_title %}Sikkim travel guides from the Gangtok desk{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Guides</p><h1 class="h-hero">Read <span class="accent">before you go</span></h1>
-  <p class="lede">Answer-first guides from our planners: when to go, what permits you need, which hotels and which zones, with the numbers.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px">
-  <div class="filters" data-filter-group="#gd-list" role="group" aria-label="Filter guides">
-    <button type="button" data-key="region" data-value="" aria-pressed="true">All lands</button>
-    {% for r in regions %}<button type="button" data-key="region" data-value="{{ r.slug }}" aria-pressed="false">{{ r.name }}</button>{% endfor %}
+{% include "escapes/partials/phero.html" with h_title="Read before you go" h_kicker="Guides" h_lede="What things really cost, which permits you need, when roads close, and the Lepcha, Bhutia and Nepali histories behind the places. Written by our desk in Gangtok and checked against official sources." h_seed="guides" %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="answer"><b>Short answer</b><p>Start with the money and permit guides for the district you are visiting, then read the season notes for your month. Rules, fees and road status change often, so every guide ends with the same advice: check current status before you travel.</p></div>
   </div>
-  <div id="gd-list">{% for r in regions %}{% if r.guides %}<section class="block" data-section style="margin-bottom: 64px">
-    <h2 class="h-l"><span class="lbadge" data-land="{{ r.slug }}">{% icon r.slug %}</span> {{ r.name }}</h2>
-    <div class="grid grid--3" data-fill>{% for g in r.guides %}{% include "tales/partials/card_guide.html" %}{% endfor %}{% include "tales/partials/fill.html" %}</div></section>{% endif %}{% endfor %}</div>
 </section>
+
+<section class="sec" style="padding-top:0" aria-labelledby="g-h">
+  <div class="wrap">
+    <h2 class="h2 sr" id="g-h">Every guide</h2>
+    <form class="filters" data-filters="guide-grid" aria-label="Filter guides" onsubmit="return false">
+      <label class="sr" for="g-region">District</label>
+      <select id="g-region" data-filter="region"><option value="">Any district</option>{% for r in regions %}{% if r.guides %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endif %}{% endfor %}</select>
+      <label class="sr" for="g-kind">Topic</label>
+      <select id="g-kind" data-filter="kind"><option value="">Any topic</option><option value="money">Money and costs</option><option value="planning">Planning and permits</option><option value="practical">Practical</option><option value="seasons">Seasons</option><option value="stays">Where to stay</option><option value="journeys">Routes and itineraries</option><option value="culture">Culture</option><option value="food">Food</option><option value="stories">Rooted stories</option></select>
+      <button type="button" data-filter-reset>Clear</button>
+      <span class="filters__count" data-filter-count aria-live="polite"></span>
+    </form>
+    <div class="grid g3" id="guide-grid" data-fill>
+      {% for r in regions %}{% for g in r.guides %}{% include "escapes/partials/card_guide.html" %}{% endfor %}{% endfor %}
+      {% include "escapes/partials/fill.html" %}
+    </div>
+    <div class="empty mt" data-filter-empty hidden>No guides on that topic for this district yet. <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask us directly</a>; we answer within one working day.</div>
+  </div>
+</section>
+
+<section class="sec sec--paper2 sec--tight" aria-labelledby="gt-h">
+  <div class="wrap">
+    <p class="kicker" id="gt-h">Quick tools</p>
+    <div class="pills"><a href="{% url 'tool_budget' %}">{% icon "rupee" %}Trip cost calculator</a><a href="{% url 'tool_permits' %}">{% icon "permit" %}Permit checker</a><a href="{% url 'tool_altitude' %}">{% icon "altitude" %}Altitude check</a><a href="{% url 'tool_season' %}">{% icon "calendar" %}Season finder</a><a href="{% url 'stories' %}">{% icon "story" %}Rooted stories</a></div>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

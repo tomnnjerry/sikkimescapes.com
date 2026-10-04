@@ -1,0 +1,158 @@
+{
+  "slug": "borong",
+  "name": "Borong",
+  "region": "south-sikkim",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Borong village South Sikkim",
+  "lat": 27.357,
+  "lng": 88.331,
+  "altitude_m": 1770,
+  "local_name": null,
+  "tagline": "Farm village above the Rangeet with a winter hot spring",
+  "meta_description": "Borong, South Sikkim: the Borong Tsachu hot spring walk, village homestays, Kangchenjunga views, how to reach from Ravangla and honest 2026 costs.",
+  "summary": "Borong is a farming village at about 1,770 m on the slope below Maenam hill, roughly 17 km and an hour beyond Ravangla past Ralang Monastery. People come for quiet homestays, wide views of Kangchenjunga and the Borong Tsachu, a hot spring on the Rangeet that is used mainly from December to February.",
+  "intro": [
+    "Borong sits at the end of the narrow road that leaves Ravangla, passes Ralang Monastery and then contours across the slope above the Rangeet river. Farmhouses are scattered down the hill among terraces of maize, vegetables and, in the damp gullies, large cardamom under alder trees. Across the valley rise the hills of Gyalshing district (West Sikkim), and on clear mornings Kangchenjunga, Pandim and Narsing stand above them to the north-west. There is no real market, no big hotel and very little traffic after dark.",
+    "Two things bring visitors. The first is the Borong Tsachu, a hot spring beside the Rangeet a steep walk below the village. Tsachu simply means hot water in Sikkimese and Tibetan. In winter local families camp beside it for days at a time, as they have for generations. The second is the village itself: a handful of households host guests in spare rooms and cottages, and a night or two here shows you the farming year of South Sikkim at an unhurried pace.",
+    "Borong suits travellers who want quiet more than amenities. It pairs naturally with Ravangla, 17 km up the road, and with Ralang Monastery, 5 km back towards town. Walkers can come the long way, over the Maenam ridge from Ravangla with a local guide. Plan at least two nights so you have one full day without a drive, and carry cash: there is no ATM in the village."
+  ],
+  "story": {
+    "title": "Winter at the tsachu: a hot spring as a village institution",
+    "text": "Sikkim has several hot springs, all called tsachu, and most of them are not spas but seasonal gathering places. Borong's, which Sikkim Tourism lists among the state's hot springs, sits on the bank of the Rangeet below the village. As told locally, families from across South and West Sikkim come down in the dry months, roughly December to February, when the river is low and the pools beside it are usable. Some stay a week or more in simple huts, cooking their own food and bathing several times a day in the belief that the sulphur water eases skin complaints, aching joints and the tiredness of the farming year. Villagers walk down to sell vegetables, eggs and firewood. When the monsoon swells the Rangeet in June, the river floods the pools and the spring is left to itself until the next winter. We repeat the healing claims as local belief, not medical advice. What is certain is the rhythm: a farming village that turns, for three months each year, into host to a small riverside winter camp.",
+    "source": "Sikkim Tourism hot springs listing (sikkimtourism.gov.in); as told locally in Borong"
+  },
+  "little_known": [
+    {"fact": "Ralang, 5 km back towards Ravangla, has its own hot spring, the Ralang Tsachu, also on the Rangeet and also used mainly in winter, so some families visit both in one season.", "source": "Sikkim Tourism hot springs listing"},
+    {"fact": "Borong lies below the Maenam ridge, protected since 1987 as Maenam Wildlife Sanctuary; with a guide, walkers can cross from Ravangla over the ridge and descend to the village in a long day.", "source": "Wikipedia: Maenam Wildlife Sanctuary"},
+    {"fact": "Large cardamom, Sikkim's main cash crop, grows in the shaded gullies around Borong. Sikkim is India's largest producer of large cardamom, harvested from about August to November.", "source": "Spices Board India"}
+  ],
+  "facts": [["Best months", "Oct–Dec and Mar–Apr; Dec–Feb for the hot spring"], ["Nights we suggest", "2"], ["From Gangtok", "≈ 82 km · 3.5–4 h"], ["Altitude", "≈ 1,770 m (hot spring far lower, by the Rangeet)"], ["Known for", "Borong Tsachu hot spring, homestays, Kangchenjunga views"], ["Permit", "Not needed for Indians; foreigners need the Sikkim RAP"]],
+  "best_months": [2, 2, 1, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Borong Tsachu hot spring", "text": "Warm sulphur water collected in simple pools beside the Rangeet, reached by a road drive and a steep footpath of about 45 minutes down. It is a local institution used mainly from December to February, when families camp beside it. In the monsoon the river floods the pools."},
+    {"title": "Kangchenjunga from the village", "text": "On clear mornings from October to February, the Kangchenjunga range, with Pandim and Narsing, rises above the West Sikkim hills directly across the Rangeet valley. Homestay courtyards make the best seats; step out with tea just after sunrise."},
+    {"title": "A night in a farm home", "text": "A few households host guests in spare rooms or small cottages beside the family house. You eat what the family eats, rice, dal, seasonal greens and home pickles, and can walk the fields with your hosts. Expect about ₹1,200–2,000 per person a night with meals."},
+    {"title": "Ralang Monastery on the way", "text": "The Kagyu monastery of Ralang, founded in 1768 and rebuilt with a large new institute in 1995, lies 5 km back towards Ravangla. Stop on the drive in or out, and check whether a cham dance falls during your stay."},
+    {"title": "Over the Maenam ridge", "text": "Fit walkers can reach Borong on foot from Ravangla over the Maenam ridge, through oak and rhododendron forest in the sanctuary. It is a long, guided day with a steep descent; most people do it from October to December or in April."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "A few shared jeeps run between Ravangla and Borong each day, mostly early morning and mid-afternoon, for about ₹80–150 a seat. Your homestay host will know the current times. From Gangtok, take a shared jeep to Ravangla (about 3 hours, ₹250–400) and change. Fares are indicative; check current status before you travel."},
+    {"mode": "Private car", "text": "A reserved small car from Ravangla costs about ₹1,500–2,000 one way for the 17 km, roughly an hour, via Ralang. From Gangtok, a car straight to Borong costs about ₹4,500–5,500. The last stretch is narrow and broken in places, so allow extra time after rain."},
+    {"mode": "From Bagdogra / NJP", "text": "Allow 5–5.5 hours for about 140 km via NH10, Melli, Namchi and Ravangla, at around ₹6,500–8,000 for a reserved car. When NH10 is closed by monsoon slides, drivers use the road through Darjeeling district and Jorethang. Most guests break the journey with a night in Namchi or Ravangla."}
+  ],
+  "costs": [["Shared jeep Ravangla–Borong", "≈ ₹80–150 a seat"], ["Reserved car Ravangla–Borong", "≈ ₹1,500–2,000 one way"], ["Homestay with meals", "≈ ₹1,200–2,000 per person a night"], ["Hot spring", "Free; small local charges may apply"], ["Meal (home thali)", "≈ ₹150–250"]],
+  "where_to_stay": "Stay in Borong itself if you want the village and the hot spring: a handful of family homestays across upper Borong offer simple, clean rooms with home-cooked meals for about ₹1,200–2,000 per person a night. We book these as a cluster and match guests to hosts we know. If you prefer a hotel, base yourself in Ravangla, an hour away, at Mt. Narsing Village Resort or The Barfung Retreat, and visit Borong and the spring as a long day trip.",
+  "stays": ["borong-village-homestays", "mt-narsing-village-resort-ravangla", "the-barfung-retreat-ravangla"],
+  "tips": [
+    "Go down to the hot spring in the morning; the walk back up is steep and takes longer than the descent, so carry water and a snack.",
+    "Withdraw cash in Ravangla or Namchi before you come, as Borong has no ATM and few card or UPI options.",
+    "Mobile signal is patchy; tell family at home you may be offline for a night.",
+    "Pack warm layers from November to February: nights in the village drop to around 3–6 °C.",
+    "Avoid the hot spring path in the monsoon, when it is slippery, leech-prone and the pools are under water."
+  ],
+  "themes": ["village-homestays", "offbeat-sikkim", "treks-and-walks", "photography"],
+  "nearby": ["ralang-monastery", "ravangla", "maenam-wildlife-sanctuary", "kewzing"],
+  "experiences": [
+    {
+      "slug": "borong-tsachu-winter-hot-spring-walk",
+      "title": "Walk down to the Borong Tsachu in winter",
+      "kind": "wellness",
+      "duration": "3–4 hours",
+      "best_time": "9 am–1 pm, December to February",
+      "cost": "Free (car to road head ≈ ₹500–800)",
+      "image_query": "Borong hot spring Rangeet Sikkim",
+      "wiki": "",
+      "summary": "A half-day outing from the village down to the hot spring on the Rangeet, a soak in the warm sulphur pools alongside local families, and the long climb back. Best in the dry winter months when the river is low and the riverside camp is busy.",
+      "body": [
+        "The usual approach is a short drive to the road head below the village, then a downhill footpath of about 45 minutes through fields and scrub to the river. The path is steep and loose in places; good shoes matter more than fitness. Your homestay host can walk you to the start or send a neighbour along for a small fee.",
+        "At the bottom, warm water seeps from the riverbank into simple stone and cement pools, smelling faintly of sulphur. In winter you will find families who have come down for days, cooking on wood fires beside temporary huts. It is their place first: bathe modestly, keep soap and shampoo out of the pools, and do not leave litter.",
+        "Allow about an hour at the spring, then budget an hour or more for the climb back up. Carry water, a towel, a change of clothes and a small bag for your rubbish. Conditions depend on the river each year, and the pools are unusable in the monsoon; check current status before you travel."
+      ],
+      "good_for": ["couples", "solo", "budget"],
+      "faqs": [
+        {"q": "Is the Borong hot spring open all year?", "a": "In practice, no. The pools sit beside the Rangeet and are flooded from about June to September, and the river is still high in October. The spring is used mainly from December to February, with some use into March. Ask your host about conditions that year and check current status before you travel."},
+        {"q": "How hard is the walk to the hot spring?", "a": "It is short but steep: about 45 minutes down on a narrow footpath and an hour or more back up. Anyone reasonably fit can do it slowly with rests. It is not suitable for people with knee problems or for small children who need carrying. Wear shoes with grip and carry water."},
+        {"q": "Are there changing rooms at the spring?", "a": "Facilities are basic and change from year to year. Expect simple pools and perhaps a rough shelter rather than proper changing rooms or toilets. Most visitors wear a swimsuit or shorts and T-shirt under their clothes and bring a towel and a sarong or wrap to change discreetly."}
+      ]
+    },
+    {
+      "slug": "borong-kangchenjunga-dawn-from-the-courtyard",
+      "title": "Kangchenjunga at dawn from a Borong courtyard",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Sunrise, October to February",
+      "cost": "Free",
+      "image_query": "Kangchenjunga range from South Sikkim sunrise",
+      "wiki": "Kangchenjunga",
+      "summary": "No drive, no ticket: step out of your homestay at first light and watch the Kangchenjunga range turn from grey to gold across the Rangeet valley, with Pandim and Narsing beside it. One of the quiet rewards of sleeping in the village rather than visiting for the day.",
+      "body": [
+        "Borong faces north-west across the deep valley of the Rangeet towards the hills of Gyalshing district, and behind them the main Kangchenjunga massif. Kangchenjunga, at 8,586 m the world's third-highest mountain, is worshipped in Sikkim as Dzö-nga, the guardian deity of the land, and is honoured each year at Pang Lhabsol.",
+        "On a clear morning the summit catches the sun a few minutes before anything else, then the light slides down onto Kabru, Pandim and Narsing. Below, mist often fills the Rangeet valley and burns off slowly. The village itself wakes up around you: kitchen fires, cattle, the first jeep heading for Ravangla.",
+        "October to February gives the best odds of a clear sky. Spring haze softens the view by April, and the monsoon usually hides it. Ask your host for the best corner of the courtyard, set an alarm for about 30 minutes before sunrise and keep a warm jacket and a cup of tea at hand."
+      ],
+      "good_for": ["couples", "photographers", "families", "seniors"],
+      "faqs": [
+        {"q": "Can you see Kangchenjunga from Borong?", "a": "Yes, on clear days, mostly from October to February and on some spring mornings. The range appears across the Rangeet valley above the West Sikkim hills. Mornings are far clearer than afternoons. In the monsoon, from June to September, cloud usually hides the peaks for days at a time."},
+        {"q": "What time is sunrise in Borong?", "a": "Roughly 5:30 am in October, 6:00 am in December and 6:15 am in January, and close to 5:00 am in early summer. The summit of Kangchenjunga lights up a few minutes before the valley. Be outside about 20–30 minutes before sunrise to see the sky change."},
+        {"q": "Which peaks can we see from Borong?", "a": "On a clear day you usually see Kangchenjunga with Kabru to its south, and Pandim and Narsing closer and to the east of the main massif. Exactly what you see depends on where your homestay sits on the slope. Your hosts will name the peaks for you."}
+      ]
+    },
+    {
+      "slug": "borong-farm-terrace-walk-with-hosts",
+      "title": "A farm walk through Borong with your hosts",
+      "kind": "village",
+      "duration": "2–3 hours",
+      "best_time": "Morning, October to May",
+      "cost": "≈ ₹300–500 per group as a thank-you to the guide",
+      "image_query": "terraced farms South Sikkim village",
+      "wiki": "",
+      "summary": "An easy walk along the terraces and footpaths of the village with a member of your host family, through maize and vegetable plots, orange trees and shaded cardamom gullies. The best way to understand what a South Sikkim farm grows, and what a year of work looks like.",
+      "body": [
+        "Borong's footpaths follow the contours of the slope, so much of this walk is gentle, with short climbs between terraces. Depending on the season you pass maize ripening in late summer, mustard and vegetables in winter, and in the shaded gullies clumps of large cardamom, the spice that pays for school fees and house repairs across the district.",
+        "Your guide is usually someone from the household, so the walk is as much conversation as sightseeing. Ask about the cardamom harvest, which runs from about August to November, how the pods are dried in smoky kilns, and how village life has changed since the road arrived. In October and November you may be invited to help.",
+        "We arrange this informally through the homestay rather than as a fixed tour, so timings are flexible. Wear sturdy shoes, carry water and a rain jacket, and ask before photographing people or homes. A small thank-you to whoever guides you is customary and appreciated."
+      ],
+      "good_for": ["families", "first-timers", "budget", "solo"],
+      "faqs": [
+        {"q": "What crops grow in Borong?", "a": "Mainly maize, rice on the lower terraces, vegetables, ginger, oranges and large cardamom in the shaded gullies. Sikkim is India's largest producer of large cardamom. The exact mix varies by family and altitude. Your hosts can show you what is in season during your stay."},
+        {"q": "Is the farm walk suitable for children?", "a": "Yes, for children who can walk a couple of hours on uneven paths. Most of the route follows the slope with short climbs. Keep an eye on them near terrace edges and streams, and carry snacks and water. In the monsoon, leeches and mud make it less pleasant."},
+        {"q": "Can we help with farm work?", "a": "Often, yes, if you ask your hosts. In autumn you may help pick or sort cardamom, and in spring with planting or weeding. Treat it as joining in rather than a performance, follow their lead, and do not be offended if a task is not suitable for guests."}
+      ]
+    },
+    {
+      "slug": "borong-ralang-old-monastery-afternoon",
+      "title": "Borong to Ralang: two monasteries by afternoon light",
+      "kind": "spiritual",
+      "duration": "3 hours",
+      "best_time": "2–5 pm, October to May",
+      "cost": "≈ ₹800–1,200 per car, donations optional",
+      "image_query": "Ralang Monastery Sikkim",
+      "wiki": "Ralang Monastery",
+      "summary": "A short drive or walk from Borong back towards Ravangla to the old Karma Rabtenling monastery of 1768 and the large Palchen Choeling institute beside it. Late afternoon is quiet, the light is soft on the walls and young monks are often in the courtyard.",
+      "body": [
+        "Ralang is 5 km from Borong on the road to Ravangla. Wikipedia's history of the monastery records that the original Ralang, Karma Rabtenling, was founded in 1768 where, according to tradition, grains thrown by the Karmapa from Tsurphu in Tibet came to rest. It was rebuilt between 1975 and 1981.",
+        "Close by stands Palchen Choeling, the new monastic institute completed in 1995 by the 12th Gyaltsab Rinpoche, with a large assembly hall, murals of the Kagyu lineage and classes for young monks. The contrast between the small old temple and the grand new one is the reason to see both.",
+        "Remove shoes and hats inside, walk clockwise, and ask before photographing monks or interiors. A small donation is welcome. If your stay falls on Pang Lhabsol or the 29th day of the 10th Tibetan month, Ralang holds masked cham dances; dates move each year, so check current status before you travel."
+      ],
+      "good_for": ["seniors", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How far is Ralang Monastery from Borong?", "a": "About 5 km, roughly 15–20 minutes by car on a narrow road, or about 1.5 hours on foot. Many guests visit Ralang on the drive in from Ravangla and again on a quiet afternoon from Borong. A reserved local car for the round trip costs about ₹800–1,200."},
+        {"q": "What is the difference between old and new Ralang?", "a": "The old monastery, Karma Rabtenling, dates from 1768 and is small and intimate. The new Palchen Choeling Monastic Institute, completed in 1995, is large, with a big assembly hall and many resident monks. They belong to the Kagyu school and stand within walking distance of each other."},
+        {"q": "Can visitors watch prayers at Ralang?", "a": "Usually yes, if you sit quietly at the back, remove your shoes and switch off your phone. Prayer times vary with the ritual calendar, so ask the evening before. Do not photograph during prayers unless a senior monk agrees, and avoid walking in front of people who are praying."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Borong worth visiting?", "a": "Yes, if you want a quiet farm village rather than a resort town. Borong offers simple homestays, wide Kangchenjunga views on clear mornings and, in winter, the Borong Tsachu hot spring by the Rangeet. It is not a sightseeing hub: there is little to tick off. Two nights, combined with Ravangla and Ralang, is the right pace."},
+    {"q": "How far is Borong from Ravangla?", "a": "About 17 km, roughly an hour by car, via Ralang Monastery. A reserved small car costs about ₹1,500–2,000 one way, and a few shared jeeps run each day for around ₹80–150 a seat. The last section of road is narrow, so allow extra time after rain."},
+    {"q": "When is the best time to visit the Borong hot spring?", "a": "December to February. The Rangeet is low and clear, the riverside pools are usable and local families camp beside the spring. From June to September the river floods the pools, and in October it is often still high. Conditions vary each year, so check current status before you travel."},
+    {"q": "Where can we stay in Borong?", "a": "In family homestays scattered across upper Borong, at about ₹1,200–2,000 per person a night with meals. Rooms are simple and clean, usually with attached bathrooms and hot water by geyser or bucket. There is no large hotel. If you want hotel comfort, stay in Ravangla and visit Borong as a day trip."},
+    {"q": "How do we get to Borong from Gangtok?", "a": "Drive about 82 km via Singtam and Ravangla, roughly 3.5–4 hours, for around ₹4,500–5,500 in a reserved small car. On a budget, take a shared jeep to Ravangla, about ₹250–400 a seat, then a local jeep or taxi to Borong. Fares are indicative; check current status before you travel."},
+    {"q": "What is the weather like in Borong?", "a": "At about 1,770 m Borong is mild. Expect roughly 15–24 °C by day in spring and autumn, and cold winter nights of about 3–6 °C with clear sunny days. Snow is rare. The monsoon, from June to September, brings heavy rain, leeches and occasional road slips."},
+    {"q": "Do we need a permit for Borong?", "a": "Indian nationals do not need a permit for Borong or anywhere in Namchi district. Foreign nationals need the standard Sikkim Restricted Area Permit, applied online through the e-FRRO portal since January 2026, but no extra protected-area permit. Hosts collect Sikkim's ₹50 entry fee. Check current status before you travel."},
+    {"q": "Is there mobile network and an ATM in Borong?", "a": "Mobile signal is patchy and depends on your network and where your homestay stands; data may be slow or absent. There is no ATM in the village and few places take cards. Withdraw enough cash in Ravangla or Namchi for your homestay, transport and small purchases."},
+    {"q": "Can we walk to Borong from Ravangla?", "a": "Yes, two ways. The easy option is to walk down the road via Ralang, about 17 km, with a car meeting you partway. The hard option crosses the Maenam ridge through the wildlife sanctuary, a long day with a steep descent that needs a local guide and an early start."}
+  ]
+}

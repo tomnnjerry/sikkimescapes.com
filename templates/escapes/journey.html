@@ -1,71 +1,146 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ j.title }}: {{ j.nights }} nights · Tales of Luxury{% endblock %}
-{% block description %}{{ j.meta_description }}{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ j.title }}, {{ j.nights }} nights{% if j.price_from_inr %} from {{ j.price_from_inr|inr }}{% endif %} · Sikkim Escapes{% endblock %}
+{% block description %}{{ j.meta_description|default:j.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ j.title }} · {{ j.nights }} nights{% endblock %}
+{% block og_description %}{{ j.summary|truncatechars:200 }}{% endblock %}
 {% block og_image %}{% with img=j|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
-{% block mast_class %}mast--dark{% endblock %}
 {% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
-{% block crumbs %}{% endblock %}
-{% block fab_label %}Ask about this journey{% endblock %}
+{% block rail_mark %}{% if j.max_altitude_m %}<div class="rail__mark" style="bottom:{{ j.max_altitude_m|rail_y }}%"><i></i><b>Top {{ j.max_altitude_m|split_alt }} m</b></div>{% endif %}{% endblock %}
 {% block content %}
-<section class="dark">
-  {% include "tales/partials/crumbs.html" with dark_crumbs=True %}
-  <div class="wrap phead">
-    <div class="phead__grid">
-      <div class="phead__text">
-        <div class="chip-row"><a class="chip" href="{{ r.url }}">{{ r.name }}</a><span class="chip" style="background: var(--malachite-2); color: var(--mist)">{{ j.nights }} nights · {{ j.days_count }} days</span><span class="chip" style="background: var(--malachite-2); color: var(--mist)">{{ j.pace }}</span></div>
-        <h1 class="h-xl">{{ j.title }}</h1>
-        <p class="lede">{{ j.summary }}</p>
-        <div class="ribbon" aria-label="Route">{% for s in j.stop_objs %}<a class="ribbon__stop" href="{{ s.obj.url }}"><span class="ribbon__dot"></span><b>{{ s.obj.name }}</b><small>{{ s.nights }} night{{ s.nights|pluralize }}</small></a>{% endfor %}</div>
-      </div>
-      {% photo j|first_img alt=j.title cls="arch ratio-hero" eager=True sizes="(max-width: 900px) 100vw, 40vw" %}
+{% url 'plan' as plan_url %}
+<div data-buybar-after>
+{% include "escapes/partials/phero.html" with h_title=j.title h_img=j|first_img h_kicker=j.tier_obj.name|add:" · "|add:r.name h_lede=j.summary h_ms_cap="Highest" h_ms_val=j.max_altitude_m|split_alt %}
+</div>
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="statrow">
+      <div class="stat"><small>Length</small><b>{{ j.nights }}N / {{ j.days_count }}D</b></div>
+      {% if j.price_from_inr %}<div class="stat"><small>From, per person</small><b>{{ j.price_from_inr|inr }}</b></div>{% endif %}
+      <div class="stat"><small>Tier</small><b>{{ j.tier_obj.name }}</b></div>
+      {% if j.max_altitude_m %}<div class="stat"><small>Highest point</small><b>{{ j.max_altitude_m|metres }}</b></div>{% endif %}
+      {% if j.best_label %}<div class="stat"><small>Best months</small><b>{{ j.best_label }}</b></div>{% endif %}
     </div>
   </div>
 </section>
 
-<section class="sec--tight">
+<section class="sec" style="padding-top:0">
   <div class="wrap split">
-    <div class="split__main">
-      <div class="block prose">{% for para in j.intro %}<p>{{ para }}</p>{% endfor %}</div>
-      <div class="block"><p class="eyebrow">Highlights</p><h2 class="h-l">Why this route works</h2><ol class="tips">{% for h in j.highlights %}<li>{{ h }}</li>{% endfor %}</ol></div>
-      <div class="block" id="days"><p class="eyebrow">Day by day</p><h2 class="h-l">The journey</h2>
-        <div class="days">{% for d in j.days %}<article class="day rv">
-          <div class="day__n"><small>Day</small>{{ d.day|pad2 }}</div>
-          <div><h3>{{ d.title }}</h3>
-            <div class="day__meta">{% if d.overnight %}<span>Overnight: {{ d.overnight }}</span>{% endif %}{% if d.drive %}<span>{{ d.drive }}</span>{% endif %}{% if d.meals %}<span>Meals: {{ d.meals }}</span>{% endif %}</div>
-            <p>{{ d.text }}</p></div>
-        </article>{% endfor %}</div></div>
-      {% atlas map_points r.slug route=True %}
-      <div class="inc"><div class="block yes"><p class="eyebrow">Included</p><ul>{% for x in j.includes %}<li>{{ x }}</li>{% endfor %}</ul></div>
-        <div class="block no"><p class="eyebrow">Not included</p><ul>{% for x in j.excludes %}<li>{{ x }}</li>{% endfor %}</ul></div></div>
-      {% if j.stay_objs %}<div class="block"><p class="eyebrow">Where you sleep</p><h2 class="h-l">The stays</h2><div class="grid grid--2" data-fill>{% for s in j.stay_objs %}{% include "tales/partials/card_stay.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div>{% endif %}
-      {% if j.good_to_know %}<div class="block"><p class="eyebrow">Good to know</p><ol class="tips">{% for x in j.good_to_know %}<li>{{ x }}</li>{% endfor %}</ol></div>{% endif %}
-      {% include "tales/partials/faq.html" with faqs=j.faqs %}
-    </div>
-    <aside class="split__aside">
-      <div class="panel panel--dark">
-        <h2 class="h-s">The ledger</h2>
-        <div class="ledger">
-          <div class="ledger__row"><span>From</span><span class="ledger__dots"></span><b>{{ j.price_from_inr|inr }}</b></div>
-          <div class="ledger__row"><span>Length</span><span class="ledger__dots"></span><b>{{ j.nights }} nights</b></div>
-          <div class="ledger__row"><span>Starts</span><span class="ledger__dots"></span><b>{{ j.start }}</b></div>
-          <div class="ledger__row"><span>Ends</span><span class="ledger__dots"></span><b>{{ j.end }}</b></div>
-          <div class="ledger__row"><span>Pace</span><span class="ledger__dots"></span><b>{{ j.pace }}</b></div>
-          {% if j.max_altitude_m %}<div class="ledger__row"><span>Highest point</span><span class="ledger__dots"></span><b>{{ j.max_altitude_m }} m</b></div>{% endif %}
-        </div>
-        <p class="small" style="color: var(--mist-3); margin: 14px 0 18px">Indicative, per person, twin sharing, at the hotels named. Your quote depends on dates and rooms.</p>
-        {% include "tales/partials/mbar.html" with bar=j.bar label=j.best_label %}
+    <div class="stack">
+      <div class="answer"><b>Short answer</b><p>{{ j.summary }}</p></div>
+
+      <div>
+        <h2 class="h3">Key facts</h2>
+        <dl class="ledger">
+          <div><dt>Nights</dt><dd>{{ j.nights }} nights, {{ j.days_count }} days</dd></div>
+          <div><dt>Tier</dt><dd>{{ j.tier_obj.name }}: {{ j.tier_obj.label }}</dd></div>
+          {% if j.pace %}<div><dt>Pace</dt><dd>{{ j.pace }}</dd></div>{% endif %}
+          {% if j.max_altitude_m %}<div><dt>Max altitude</dt><dd>{{ j.max_altitude_m|metres }}</dd></div>{% endif %}
+          {% if j.best_label %}<div><dt>Best months</dt><dd>{{ j.best_label }}</dd></div>{% endif %}
+          {% if j.stop_objs %}<div><dt>Route</dt><dd>{% for s in j.stop_objs %}{{ s.obj.name }} ({{ s.nights }}N){% if not forloop.last %} · {% endif %}{% endfor %}</dd></div>{% endif %}
+          {% if j.start %}<div><dt>Starts</dt><dd>{{ j.start }}</dd></div>{% endif %}
+          {% if j.end %}<div><dt>Ends</dt><dd>{{ j.end }}</dd></div>{% endif %}
+          {% if j.price_from_inr %}<div><dt>Per night</dt><dd>about {{ j.per_night|inr }} per person</dd></div>{% endif %}
+        </dl>
+        {% if j.bar %}<div class="mt" style="margin-top:18px">{% include "escapes/partials/mbar.html" with bar=j.bar label=j.best_label %}</div>{% endif %}
       </div>
-      {% include "tales/partials/quick_form.html" with qf_id="journey-aside" qf_title="Ask about this journey" qf_sub="Dates, rooms and a written quote within one working day." qf_land=r.slug qf_message="Journey: "|add:j.title %}
-      {% if j.themes %}<div class="chip-row">{% for t in j.themes %}<a class="chip chip--line" href="{{ t|theme_url }}">{{ t|theme_name }}</a>{% endfor %}</div>{% endif %}
+
+      {% if j.profile %}<div>
+        <p class="kicker">Altitude, night by night</p>
+        <h2 class="h3">How high you sleep</h2>
+        <div class="profile-box">{% profile j.profile %}</div>
+        <p class="small muted" style="margin-top:10px">Sleeping height each night. We sleep you lower than you visit wherever the road allows. Speak to your doctor before a high-altitude trip if you have heart or lung conditions.</p>
+      </div>{% endif %}
+
+      {% if map_points != "[]" %}<div>
+        <p class="kicker">The route</p>
+        <h2 class="h3">Where the road goes</h2>
+        {% atlas map_points j.region route=True %}
+      </div>{% endif %}
+
+      {% if j.intro %}<div class="prose">{% for para in j.intro %}<p>{{ para }}</p>{% endfor %}</div>{% endif %}
+
+      {% if j.highlights %}<div>
+        <p class="kicker">Highlights</p>
+        <h2 class="h2">What this trip is for</h2>
+        <div class="hl">{% for h in j.highlights %}<div class="rv">{% if h.title %}<h3>{{ h.title }}</h3><p>{{ h.text }}</p>{% else %}<p>{{ h }}</p>{% endif %}</div>{% endfor %}</div>
+      </div>{% endif %}
+
+      {% if j.days %}<div id="itinerary">
+        <p class="kicker">Day by day</p>
+        <h2 class="h2">The itinerary</h2>
+        <ol class="days">
+          {% for d in j.days %}<li class="day rv">
+            <span class="day__n" aria-hidden="true"><small>DAY</small><b>{{ d.day|pad2 }}</b></span>
+            <div>
+              <h3><span class="sr">Day {{ d.day }}: </span>{{ d.title }}</h3>
+              <div class="day__meta">
+                {% if d.overnight %}<span>{% icon "flag" %}Overnight {{ d.overnight }}</span>{% endif %}
+                {% if d.alt_m %}<span>{% icon "altitude" %}{% if d.overnight %}Sleep at {% endif %}{{ d.alt_m|metres }}</span>{% endif %}
+                {% if d.drive %}<span>{% icon "jeep" %}{{ d.drive }}</span>{% endif %}
+                {% if d.meals %}<span>Meals: {{ d.meals }}</span>{% endif %}
+              </div>
+              <p>{{ d.text }}</p>
+              {% if d.place_obj %}<a class="linkarrow small" href="{{ d.place_obj.url }}" style="margin-top:8px">About {{ d.place_obj.name }} {% icon "arrow" %}</a>{% endif %}
+            </div>
+          </li>{% endfor %}
+        </ol>
+      </div>{% endif %}
+
+      <div class="midcta panel panel--dark">
+        <div><b style="font:400 1.3rem/1.2 var(--serif);color:#fff">Want this for your dates?</b><p style="margin:4px 0 0">We send a day-by-day plan and an itemised price within one working day.</p></div>
+        <a class="btn btn--foil" href="{{ plan_url }}?journey={{ j.title|urlencode }}&land={{ j.region }}&from={{ request.path|urlencode }}" data-cta="journey-mid">Get my price</a>
+      </div>
+
+      {% if j.stay_objs %}<div>
+        <p class="kicker">Where you sleep</p>
+        <h2 class="h2">Stays on this trip</h2>
+        <div class="grid g2">{% for s in j.stay_objs %}{% include "escapes/partials/card_stay.html" %}{% endfor %}</div>
+        <p class="small muted" style="margin-top:12px">Or similar, depending on availability. We name the hotels in your written quote before you pay.</p>
+      </div>{% endif %}
+
+      {% if j.includes or j.excludes %}<div class="grid g2">
+        {% if j.includes %}<div class="panel"><h2 class="h3">Included</h2><ul class="ticks">{% for x in j.includes %}<li>{{ x }}</li>{% endfor %}</ul></div>{% endif %}
+        {% if j.excludes %}<div class="panel"><h2 class="h3">Not included</h2><ul class="ticks ticks--no">{% for x in j.excludes %}<li>{{ x }}</li>{% endfor %}</ul></div>{% endif %}
+      </div>{% endif %}
+
+      {% if j.good_to_know %}<div>
+        <p class="kicker">Before you book</p>
+        <h2 class="h2">Good to know</h2>
+        <ol class="numlist">{% for x in j.good_to_know %}<li><span>{{ x }}</span></li>{% endfor %}</ol>
+      </div>{% endif %}
+
+      {% include "escapes/partials/faq.html" with faqs=j.faqs faq_title="Questions about this trip" %}
+    </div>
+
+    <aside class="side" aria-label="Price and booking">
+      {% include "escapes/partials/receipt.html" %}
+      {% if not j.price_breakdown and j.price_from_inr %}<div class="panel"><span class="price"><small>From, per person</small><b>{{ j.price_from_inr|inr }}</b></span><p class="small muted" style="margin:10px 0 0">Indicative, twin sharing. Final price depends on dates, group size and rooms.</p></div>{% endif %}
+      {% if j.upgrade %}<div class="panel"><p class="kicker" style="margin-bottom:8px">Move up a tier</p><p style="margin:0">{{ j.upgrade }}</p></div>{% endif %}
+      <div class="btns">
+        <a class="btn btn--foil btn--block" href="{{ plan_url }}?journey={{ j.title|urlencode }}&land={{ j.region }}&from={{ request.path|urlencode }}" data-cta="journey-side-plan">Get my price for this trip</a>
+        {% if wa_base %}<a class="btn btn--wa btn--block" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="journey-side-whatsapp">{% icon "whatsapp" %} Ask on WhatsApp</a>{% endif %}
+        <a class="btn btn--ghost btn--block" href="{% url 'tier' j.tier %}">Other {{ j.tier_obj.name|lower }} trips</a>
+      </div>
+      <p class="small muted" style="margin:0">No payment to start. Permits through registered partners. Check current status before you travel.</p>
     </aside>
   </div>
 </section>
-<div class="buybar" data-buybar hidden>
-  <div class="wrap buybar__in">
-    <span class="buybar__t"><b>{{ j.title }}</b><small>{{ j.nights }} nights · from {{ j.price_from_inr|inr }} per person</small></span>
-    <a class="btn btn--brass" href="{% url 'plan' %}?land={{ r.slug }}&journey={{ j.title|urlencode }}&from={{ request.path|urlencode }}" data-cta="buybar">Check dates and price</a>
+
+{% if related %}<section class="sec sec--paper2" aria-labelledby="rel-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Also in "|add:r.name sh_title="Similar packages" sh_id="rel-h" sh_more_url=r.url sh_more="About "|add:r.name %}
+    <div class="grid g3" data-fill>{% for j in related %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% include "escapes/partials/cta.html" with cta_title="Send us your dates for this trip" %}
+
+<div class="buybar" data-buybar>
+  <div class="wrap">
+    <div class="buybar__t"><b>{{ j.title }}</b><small>{{ j.nights }} nights · {{ j.tier_obj.name }}{% if j.max_altitude_m %} · top {{ j.max_altitude_m|metres }}{% endif %}</small></div>
+    {% if j.price_from_inr %}<span class="price"><small>From, per person</small><b>{{ j.price_from_inr|inr }}</b></span>{% endif %}
+    <a class="btn btn--foil" href="{{ plan_url }}?journey={{ j.title|urlencode }}&land={{ j.region }}&from={{ request.path|urlencode }}" data-cta="buybar-plan">Get my price</a>
   </div>
 </div>
-{% if related %}<section class="sec paper"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">More in {{ r.name }}</p><h2 class="h-l">Other routes</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for j in related %}{% include "tales/partials/card_journey.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div></section>{% endif %}
 {% endblock %}

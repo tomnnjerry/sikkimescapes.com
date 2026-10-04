@@ -1,12 +1,149 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Permits for Ladakh, the North East and Nepal · Tales of Luxury{% endblock %}
-{% block description %}Which permits you need for each of our seven lands, for Indian and foreign travellers: Inner Line Permits, protected-area permits, park and trekking fees.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim permit checker for Indians and foreigners · Sikkim Escapes{% endblock %}
+{% block description %}Which Sikkim permits do you need? Nathu La, Tsomgo, Zuluk, Lachung, Gurudongmar, Dzongu, Goecha La and Cho La, for Indian and foreign nationals. Check current status before you travel.{% endblock %}
+{% block og_title %}Sikkim permit checker · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Trip tool 03</p><h1 class="h-xl">Permits, <span class="accent">land by land</span></h1>
-  <p class="lede">Rules change, sometimes mid-season. We apply for the permits a registered agent can arrange and confirm the rest when we quote. Check current status before you travel.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px">
-  <div class="faq">{% for r in regions %}<details{% if r.permits %} open{% endif %}><summary><span><span class="lbadge" data-land="{{ r.slug }}">{% icon r.slug %}</span> {{ r.name }}{% if not r.permits %} · no special permits{% endif %}</span></summary>
-    <div><p>{{ r.permits|default:"No special permits are needed for the usual routes. Carry photo ID; foreign nationals carry their passport and visa." }}</p><p><a href="{{ r.url }}#getting-there">Getting to {{ r.name }} →</a></p></div></details>{% endfor %}</div>
+{% include "escapes/partials/phero.html" with h_title="Which permits do you need" h_kicker="Permit checker" h_lede="Choose your nationality and the places you want to see. We tell you, place by place, what is allowed, on what conditions, and what is closed to you. We arrange every permit through Sikkim Tourism-registered partners." h_seed="permits" %}
+
+<section class="sec" aria-labelledby="pc-h">
+  <div class="wrap split">
+    <form class="form" id="pc" onsubmit="return false" aria-labelledby="pc-h">
+      <div>
+        <p class="kicker">Step 1</p>
+        <h2 class="h2" id="pc-h">Who is travelling</h2>
+      </div>
+      <div class="field">
+        <fieldset><legend>Nationality</legend>
+          <ul>
+            <li><label><input type="radio" name="nat" value="in" checked> Indian nationals (incl. NRIs with an Indian passport)</label></li>
+            <li><label><input type="radio" name="nat" value="fn"> Foreign nationals</label></li>
+          </ul>
+        </fieldset>
+        <p class="small muted" style="margin:8px 0 0">OCI cardholders, and citizens of Bhutan or Nepal: rules for you differ and have changed before. <a href="{% url 'contact' %}">Ask us</a> and we check with the permit office for your dates.</p>
+      </div>
+      <div class="form-grid">
+        <div class="field"><label for="pc-group">People in your group</label><input id="pc-group" type="number" min="1" max="30" value="2" inputmode="numeric"></div>
+        <div class="field"><fieldset><legend>Children</legend><ul><li><label><input type="checkbox" id="pc-kids"> A child under 5 is travelling</label></li></ul></fieldset></div>
+      </div>
+      <div>
+        <p class="kicker">Step 2</p>
+        <h2 class="h3">Where you want to go</h2>
+      </div>
+      <div class="field">
+        <fieldset><legend>Places</legend>
+          <ul>
+            <li><label><input type="checkbox" name="place" value="nathula" checked> Nathu La</label></li>
+            <li><label><input type="checkbox" name="place" value="tsomgo" checked> Tsomgo Lake and Baba Mandir</label></li>
+            <li><label><input type="checkbox" name="place" value="zuluk"> Zuluk and the Old Silk Route</label></li>
+            <li><label><input type="checkbox" name="place" value="lachung" checked> Lachung, Yumthang and Zero Point</label></li>
+            <li><label><input type="checkbox" name="place" value="lachen"> Lachen and Gurudongmar</label></li>
+            <li><label><input type="checkbox" name="place" value="dzongu"> Dzongu</label></li>
+            <li><label><input type="checkbox" name="place" value="goecha"> Dzongri and Goecha La trek</label></li>
+            <li><label><input type="checkbox" name="place" value="chola"> Cho La and Doklam</label></li>
+          </ul>
+        </fieldset>
+      </div>
+      <noscript><div class="empty">The checker needs JavaScript. The table below gives the same rules.</div></noscript>
+    </form>
+
+    <aside class="side">
+      <div class="panel" aria-live="polite">
+        <p class="kicker">Your verdicts</p>
+        <div class="stack--s" id="pc-out"></div>
+        <p class="small muted" style="margin:16px 0 0">Rules as we understand them in October 2026. Permits, openings and fees change, sometimes overnight: check current status before you travel.</p>
+      </div>
+      <a class="btn btn--foil btn--block" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="permit-tool">Let us arrange the permits</a>
+    </aside>
+  </div>
 </section>
+
+<section class="sec sec--paper2" aria-labelledby="pc-table">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="At a glance" sh_title="Permit rules by place" sh_id="pc-table" sh_text="The short version. Every protected-area permit is issued only through Sikkim Tourism-registered agents, and we apply for you with ID and photos, usually a day ahead." %}
+    <div class="tablewrap prose" style="max-width:none"><table>
+      <caption>Indicative rules, October 2026. Check current status before you travel.</caption>
+      <thead><tr><th scope="col">Place</th><th scope="col">Indian nationals</th><th scope="col">Foreign nationals</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Entering Sikkim</th><td>No permit. ₹50 tourist entry fee, collected by your hotel, valid 30 days.</td><td>Restricted Area Permit, online only on e-FRRO (indianfrro.gov.in) after you arrive in India; 24–48 h approval; 30 days, extendable by 30.</td></tr>
+        <tr><th scope="row">Nathu La</th><td>Permit about ₹200 per person; usually open Wednesday to Sunday.</td><td>Not allowed.</td></tr>
+        <tr><th scope="row">Tsomgo Lake and Baba Mandir</th><td>Protected-area permit through a registered agent.</td><td>One-day protected-area permit, groups of 2 or more, registered agent.</td></tr>
+        <tr><th scope="row">Zuluk and the Old Silk Route</th><td>Permit via Rongli.</td><td>Not allowed.</td></tr>
+        <tr><th scope="row">Lachung, Yumthang, Zero Point</th><td>Permit through registered agents and vehicles; minimum 2 nights.</td><td>Protected-area permit, groups of 2 or more, registered agent.</td></tr>
+        <tr><th scope="row">Lachen and Gurudongmar</th><td>Permit through registered agents; road reopened in September 2026.</td><td>Gurudongmar not allowed. Lachen and Thangu: ask us.</td></tr>
+        <tr><th scope="row">Dzongu</th><td>Permit needed: a reserved Lepcha area.</td><td>Ask us.</td></tr>
+        <tr><th scope="row">Dzongri and Goecha La</th><td>Trekking permits through a registered agent.</td><td>Protected-area permit, groups of 2 or more, registered agent.</td></tr>
+        <tr><th scope="row">Cho La and Doklam</th><td>Open to domestic tourists since 27 Sep 2025; limited vehicles a day.</td><td>Not allowed.</td></tr>
+      </tbody>
+    </table></div>
+    <p class="small muted">Children under 5 are not permitted in North Sikkim protected areas. Tourist vehicles must cross the Toong check post by 4:00 pm.</p>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" with cta_title="We handle the paperwork" cta_text="Tell us who is travelling and where. We check what is open for your dates, apply through registered partners and tell you exactly which ID and photos to bring." %}
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  var form = document.getElementById("pc"), out = document.getElementById("pc-out");
+  var CHECK = " Check current status before you travel.";
+  /* v: "ok" = allowed, "warn" = allowed with conditions or unclear, "no" = not allowed. Rules from content/FACTS.md. */
+  var PLACES = {
+    nathula: { name: "Nathu La (4,310 m)", north: false,
+      in: ["ok", "Allowed with a permit, about ₹200 per person, through a registered agent. We apply a day ahead with your ID and photos. Usually open Wednesday to Sunday, closed Monday and Tuesday, and closed by snow at times."],
+      fn: ["no", "Not allowed. Nathu La is open to Indian nationals only. Tsomgo Lake on the same road is possible."] },
+    tsomgo: { name: "Tsomgo Lake and Baba Mandir", north: false, pap: true,
+      in: ["ok", "Allowed with a protected-area permit through a registered agent, usually bundled with Baba Mandir as one day trip from Gangtok."],
+      fn: ["ok", "Allowed on a one-day protected-area permit, for groups of 2 or more, through a registered agent."] },
+    zuluk: { name: "Zuluk and the Old Silk Route", north: false,
+      in: ["ok", "Allowed with a permit issued via Rongli, through a registered agent."],
+      fn: ["no", "Not allowed. Zuluk and the Silk Route are for Indian nationals only."] },
+    lachung: { name: "Lachung, Yumthang and Zero Point", north: true, pap: true,
+      in: ["ok", "Allowed with a permit through Sikkim Tourism-registered agents and vehicles. Operators require a minimum 2-night North Sikkim stay, and tourist vehicles must cross the Toong check post by 4:00 pm."],
+      fn: ["ok", "Allowed on a protected-area permit, for groups of 2 or more, through a registered agent. Minimum 2-night stay; Toong check post by 4:00 pm."] },
+    lachen: { name: "Lachen and Gurudongmar", north: true,
+      in: ["warn", "Allowed with a permit through registered agents and vehicles. The road was repaired on 29 Aug 2026 and permits resumed around 11–12 Sep 2026 after the April landslide; this road has closed before at short notice. Minimum 2 nights; Toong check post by 4:00 pm."],
+      fn: ["no", "Gurudongmar is not allowed for foreign nationals. Whether foreigners may stay in Lachen or visit Thangu is unclear at present: ask us before you plan around it."] },
+    dzongu: { name: "Dzongu", north: true, unsureKids: true,
+      in: ["warn", "Permit needed. Dzongu is a reserved Lepcha area in North Sikkim, and outsiders need a permit to enter. We arrange it with your homestay booking: ask us for the current process."],
+      fn: ["warn", "Ask us. Dzongu needs a permit for every outsider, and the rules for foreign nationals are not clear enough for us to promise it."] },
+    goecha: { name: "Dzongri and Goecha La trek", north: false, pap: true,
+      in: ["ok", "Allowed. Trekking permits are arranged through a registered trekking agent before you leave Yuksom, with your ID and photos."],
+      fn: ["ok", "Allowed on a protected-area permit, for groups of 2 or more, through a registered agent."] },
+    chola: { name: "Cho La and Doklam", north: false,
+      in: ["warn", "Allowed for domestic tourists since 27 Sep 2025, with a limited number of vehicles each day, so book early and keep a back-up plan."],
+      fn: ["no", "Not allowed. Cho La and Doklam are open to domestic tourists only."] }
+  };
+  var LABEL = { ok: "Allowed", warn: "Allowed with conditions", no: "Not allowed" };
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;" }[c]; }); }
+  function card(v, title, text) {
+    return '<div class="verdict' + (v === "ok" ? "" : " verdict--" + v) + '"><b>' + esc(title) + ' <span class="chip' + (v === "ok" ? " chip--budget" : "") + '" style="margin-left:6px">' + esc(LABEL[v] || v) + '</span></b><p class="small" style="margin:6px 0 0">' + esc(text) + '</p></div>';
+  }
+  function draw() {
+    var natEl = form.querySelector("input[name=nat]:checked"), nat = natEl ? natEl.value : "in";
+    var group = parseInt(document.getElementById("pc-group").value, 10) || 1;
+    var kids = document.getElementById("pc-kids").checked;
+    var picked = Array.prototype.map.call(form.querySelectorAll("input[name=place]:checked"), function (i) { return i.value; });
+    var html = [];
+    if (nat === "fn") {
+      html.push(card("warn", "Entering Sikkim", "You need a Restricted Area Permit. Since 12 Jan 2026 there are no paper permits: apply online on the e-FRRO portal (indianfrro.gov.in) after you arrive in India. Approval takes 24–48 hours; the permit lasts 30 days and can be extended by 30. Hotels also collect the ₹50 tourist entry fee." + CHECK));
+    } else {
+      html.push(card("ok", "Entering Sikkim", "No permit needed to enter Sikkim. Hotels collect a ₹50 per person tourist entry fee at check-in, valid 30 days; under-5s are exempt."));
+    }
+    picked.forEach(function (k) {
+      var P = PLACES[k], rule = P[nat], v = rule[0], text = rule[1];
+      if (nat === "fn" && P.pap && v !== "no" && group < 2) { v = "warn"; text = "Needs a group of 2 or more. On your own, we can try to pair you with another traveller, but cannot promise it. " + text; }
+      if (kids && P.north && v !== "no") {
+        if (P.unsureKids) { v = "warn"; text += " Children under 5 are not permitted in North Sikkim protected areas: ask us whether this applies to Dzongu for your dates."; }
+        else { v = "no"; text = "Not with a child under 5: children under 5 are not permitted in North Sikkim protected areas. " + text; }
+      }
+      html.push(card(v, P.name, text + CHECK));
+    });
+    if (!picked.length) html.push('<div class="empty">Tick at least one place to see a verdict.</div>');
+    out.innerHTML = html.join("");
+  }
+  form.addEventListener("change", draw);
+  form.addEventListener("input", draw);
+  draw();
+})();
+</script>
 {% endblock %}

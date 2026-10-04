@@ -1,53 +1,248 @@
-{% extends "tales/base.html" %}
-{% block title %}Budget builder for a luxury trip to Nepal or India · Tales of Luxury{% endblock %}
-{% block description %}Estimate a planning range for a private luxury journey in Nepal or India by land, nights, travellers and hotel level.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim trip cost calculator (2026 rates) · Sikkim Escapes{% endblock %}
+{% block description %}Estimate what a Sikkim trip costs in rupees: rooms, shared jeep or private car, permits, fees and meals, by nights, travellers and comfort level. Indicative 2026 rates.{% endblock %}
+{% block og_title %}Sikkim trip cost calculator · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Trip tool 02</p><h1 class="h-xl">Budget <span class="accent">builder</span></h1>
-  <p class="lede">A planning range, not a quote. It covers hotels, a private car and driver, guides and transfers inside the region; it leaves out international flights, visas and personal spending.</p></div></header>
-<section class="wrap split" style="padding-bottom: 96px">
-  <form class="split__main form" id="bb" onsubmit="return false">
-    <div class="field"><label for="bb-land">Land</label><select id="bb-land">{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></div>
-    <div class="field"><label for="bb-level">Hotel level</label><select id="bb-level"><option value="0">Fine (4-star and heritage)</option><option value="1" selected>Luxury (5-star, best rooms)</option><option value="2">Signature (palace suites, top lodges)</option></select></div>
-    <div class="field"><label for="bb-nights">Nights</label><input id="bb-nights" type="number" min="3" max="30" value="10" inputmode="numeric"></div>
-    <div class="field"><label for="bb-pax">Travellers</label><input id="bb-pax" type="number" min="1" max="12" value="2" inputmode="numeric"></div>
-    <div class="field full"><label><input type="checkbox" id="bb-flights"> Add domestic flights inside the region</label></div>
-  </form>
-  <aside class="split__aside"><div class="panel panel--dark" aria-live="polite">
-    <p class="eyebrow">Planning range, per person</p>
-    <p class="tool-out" id="bb-pp">–</p>
-    <div class="ledger"><div class="ledger__row"><span>Whole party</span><span class="ledger__dots"></span><b id="bb-total">–</b></div>
-      <div class="ledger__row"><span>Per night, per person</span><span class="ledger__dots"></span><b id="bb-night">–</b></div></div>
-    <p class="small" style="color: var(--mist-3); margin-top: 16px">Ranges are our planning estimates for October to March, twin sharing. Peak dates such as Christmas, New Year and Diwali cost more. Your quote is itemised.</p>
-  </div><a class="btn btn--dark" href="{% url 'plan' %}">Get a real quote</a></aside>
+{% include "escapes/partials/phero.html" with h_title="What will Sikkim cost" h_kicker="Trip cost calculator" h_lede="A planning range from the rates we pay in 2026, itemised so you can see where the money goes. It starts and ends at Bagdogra (IXB) or New Jalpaiguri (NJP) and leaves out flights and trains." h_seed="trip-cost" %}
+
+<section class="sec" aria-labelledby="tb-h">
+  <div class="wrap split">
+    <form class="form" id="tb" onsubmit="return false" aria-labelledby="tb-h">
+      <div>
+        <p class="kicker">Your trip</p>
+        <h2 class="h2" id="tb-h">Tell us the basics</h2>
+      </div>
+      <div class="field">
+        <fieldset><legend>Districts</legend>
+          <ul>{% for r in regions %}<li><label><input type="checkbox" name="land" value="{{ r.slug }}"{% if r.slug == "east-sikkim" %} checked{% endif %}> {{ r.name }}</label></li>{% endfor %}</ul>
+        </fieldset>
+      </div>
+      <div class="form-grid">
+        <div class="field"><label for="tb-nights">Nights in Sikkim</label><input id="tb-nights" type="number" min="1" max="21" value="5" inputmode="numeric"></div>
+        <div class="field"><label for="tb-pax">Travellers</label><input id="tb-pax" type="number" min="1" max="12" value="2" inputmode="numeric"></div>
+      </div>
+      <div class="field">
+        <fieldset><legend>Comfort level</legend>
+          <ul>
+            <li><label><input type="radio" name="tier" value="budget" checked> Budget</label></li>
+            <li><label><input type="radio" name="tier" value="value"> Value</label></li>
+            <li><label><input type="radio" name="tier" value="comfort"> Comfort</label></li>
+            <li><label><input type="radio" name="tier" value="premium"> Premium</label></li>
+          </ul>
+        </fieldset>
+        <p class="small muted" id="tb-tier-note" style="margin:8px 0 0"></p>
+      </div>
+      <div class="field">
+        <fieldset><legend>Getting around</legend>
+          <ul>
+            <li><label><input type="radio" name="move" value="shared" checked> Shared jeeps</label></li>
+            <li><label><input type="radio" name="move" value="private"> Private car and driver</label></li>
+          </ul>
+        </fieldset>
+      </div>
+      <div class="field">
+        <fieldset><legend>Add-ons</legend>
+          <ul>
+            <li><label><input type="checkbox" id="tb-north"> North Sikkim permit trip (Lachung or Lachen, 2 nights)</label></li>
+            <li><label><input type="checkbox" id="tb-nathu"> Tsomgo, Baba Mandir and Nathu La day (Indians only)</label></li>
+            <li><label><input type="checkbox" id="tb-home"> Homestays where we can (meals included)</label></li>
+          </ul>
+        </fieldset>
+      </div>
+      <div class="stack--s" id="tb-notes" aria-live="polite"></div>
+      <noscript><div class="empty">The calculator needs JavaScript. Our <a href="{% url 'affordable' %}">Affordable Sikkim</a> page lists the same rates as a table.</div></noscript>
+    </form>
+
+    <aside class="side">
+      <div class="panel panel--dark" aria-live="polite" aria-atomic="true">
+        <p class="kicker">Per person, indicative</p>
+        <p class="tool-out" id="tb-pp">–</p>
+        <p class="small" style="margin-top:-6px" id="tb-party">Whole party: –</p>
+        <div class="receipt__bar" id="tb-bar" aria-hidden="true"></div>
+        <dl class="ledger ledger--dark" id="tb-lines"></dl>
+        <p class="small" style="margin:14px 0 0">Indicative 2026 rates, rounded to ₹500. Peak weeks (October, Christmas to New Year, May) cost more; monsoon and February cost less. Our planning fee appears as its own line on a real quote. Fees, permits and roads change: check current status before you travel.</p>
+      </div>
+      <a class="btn btn--foil btn--block" id="tb-plan" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="budget-tool">Get an exact, itemised quote</a>
+    </aside>
+  </div>
 </section>
+
+<section class="sec sec--paper2" aria-labelledby="tb-rates">
+  <div class="wrap">
+    {% url 'affordable' as aff_url %}{% include "escapes/partials/sechead.html" with sh_kicker="What we assume" sh_title="The rates behind the numbers" sh_id="tb-rates" sh_text="All indicative 2026 prices from the Gangtok desk. Real quotes use the exact hotels, dates and cars." sh_more_url=aff_url sh_more="Affordable Sikkim" %}
+    <dl class="costs">
+      <div><dt>Budget hotel room<small>Gangtok, Pelling, Lachung</small></dt><dd>₹1,500–3,000</dd></div>
+      <div><dt>Homestay with meals<small>Per person a night</small></dt><dd>₹1,200–2,500</dd></div>
+      <div><dt>Premium hotel room<small>Gangtok and Pelling's best</small></dt><dd>₹12,000–30,000</dd></div>
+      <div><dt>Small car and driver<small>Alto or WagonR class, per day</small></dt><dd>₹3,000–4,000</dd></div>
+      <div><dt>Shared jeep seat<small>Siliguri or NJP to Gangtok</small></dt><dd>₹350–500</dd></div>
+      <div><dt>North Sikkim 2N/3D, shared<small>Vehicle, room, meals, permit</small></dt><dd>₹6,500–9,000 pp</dd></div>
+      <div><dt>Nathu La permit<small>Indian nationals only</small></dt><dd>≈ ₹200 pp</dd></div>
+      <div><dt>Tsomgo permit and fees<small>Through a registered agent</small></dt><dd>₹200–400 pp</dd></div>
+      <div><dt>Sikkim tourist entry fee<small>Collected at check-in; under-5s free</small></dt><dd>₹50 pp</dd></div>
+    </dl>
+    <p class="small muted mt">Not included anywhere above: flights or trains to Bagdogra or NJP, travel insurance, tips, room heaters, ropeway and monastery tickets, and anything personal. Check current status before you travel.</p>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" with cta_title="Want the real number" cta_text="Send your dates and who is travelling. We reply within one working day with named hotels, the car, every permit and fee, and the total." %}
 {% endblock %}
 {% block scripts %}
 <script>
 (function () {
-  /* Planning estimates in INR per person per night, twin sharing, incl. car, guide, transfers.
-     [fine, luxury, signature] ranges as [low, high]. Edit here as rates change. */
-  var R = {
-    "nepal": [[14000,20000],[24000,36000],[45000,80000]],
-    "rajasthan": [[16000,24000],[30000,48000],[60000,120000]],
-    "ladakh": [[15000,22000],[24000,36000],[40000,65000]],
-    "north-east": [[13000,19000],[20000,30000],[32000,50000]],
-    "kerala": [[13000,20000],[24000,38000],[45000,75000]],
-    "goa": [[12000,20000],[24000,40000],[45000,85000]],
-    "up-bihar": [[13000,20000],[26000,42000],[48000,85000]]
+  /* =====================================================================
+     RATE TABLE: indicative 2026 INR, [low, high]. Edit here as rates change.
+     Keep in line with content/SCHEMA.md "Prices" and content/FACTS.md.
+     ===================================================================== */
+  var RATES = {
+    tier: {
+      //        room per room per night     meals per person per day   private vehicle per day      seats per vehicle
+      budget:  { room: [1500, 3000],  meals: [400, 700],   car: [3000, 4000], seats: 4, carName: "small car (Alto or WagonR class)" },
+      value:   { room: [3000, 5500],  meals: [600, 1000],  car: [3500, 4500], seats: 4, carName: "small private car" },
+      comfort: { room: [6000, 10000], meals: [900, 1600],  car: [4500, 6000], seats: 6, carName: "Innova or Xylo-class SUV" },
+      premium: { room: [12000, 30000], meals: [1500, 3000], car: [6000, 8000], seats: 6, carName: "top-condition SUV" }
+    },
+    homestay: [1200, 2500],          // per person per night, meals included
+    sharedTransfer: [350, 500],      // shared jeep seat, Siliguri / NJP to Gangtok, each way, per person
+    sharedLeg: [250, 500],           // shared jeep seat between districts, per leg, per person
+    localCar: [2500, 4000],          // reserved small car for a sightseeing day (shared-jeep trips), per car
+    north: {
+      sharedPackage: [6500, 9000],   // 2N/3D shared North Sikkim package from Gangtok, per person (vehicle, room, meals, permit)
+      privateSuv: [16000, 22000],    // 2N/3D private SUV, car only, per vehicle
+      permit: [200, 500]             // permit processing and local fees through a registered agent, per person
+    },
+    nathu: {
+      privateSuv: [6500, 9000],      // Tsomgo + Baba Mandir + Nathu La reserved SUV, per vehicle
+      sharedSeat: [1200, 1800],      // same circuit, shared seat, per person
+      permit: [200, 200],            // Nathu La permit, per person, Indian nationals only
+      tsomgo: [200, 400]             // Tsomgo permit and conservation fees, per person
+    },
+    silkRoutePermit: [200, 500],     // Pakyong / Old Silk Route permit via Rongli, per person, Indians only
+    entryFee: 50                     // Sikkim tourist entry fee per person, valid 30 days
   };
-  var F = 9000;
+  var TIER_NOTE = {
+    budget: "Clean budget hotels and family homestays, breakfast and often dinner.",
+    value: "Reliable mid-range hotels and the better homestays.",
+    comfort: "Resorts with views and heating, slower days.",
+    premium: "Sikkim's top hotels; few exist outside Gangtok and Pelling, so remote nights are the best available."
+  };
+
+  var form = document.getElementById("tb");
   var $ = function (id) { return document.getElementById(id); };
-  var fmt = function (n) { n = Math.round(n / 5000) * 5000; var s = String(n), t = s.slice(-3), h = s.slice(0, -3); if (h) t = h.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + "," + t; return "₹" + t; };
-  function calc() {
-    var r = R[$("bb-land").value], lv = +$("bb-level").value, n = Math.max(3, Math.min(30, +$("bb-nights").value || 3)), p = Math.max(1, Math.min(12, +$("bb-pax").value || 1));
-    var fl = $("bb-flights").checked ? F * 2 : 0;
-    var lo = r[lv][0] * n + fl, hi = r[lv][1] * n + fl;
-    $("bb-pp").textContent = fmt(lo) + " – " + fmt(hi);
-    $("bb-total").textContent = fmt(lo * p) + " – " + fmt(hi * p);
-    $("bb-night").textContent = fmt(r[lv][0]) + " – " + fmt(r[lv][1]);
+  function clamp(v, a, b) { v = parseInt(v, 10); return isNaN(v) ? a : Math.max(a, Math.min(b, v)); }
+  function r500(n) { return Math.round(n / 500) * 500; }
+  function fmt(n) {
+    n = Math.max(0, Math.round(n)); var s = String(n), t = s.slice(-3), h = s.slice(0, -3);
+    if (h) t = h.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + "," + t; return "₹" + t;
   }
-  ["bb-land","bb-level","bb-nights","bb-pax","bb-flights"].forEach(function (id) { $(id).addEventListener("input", calc); $(id).addEventListener("change", calc); });
+  function range(a) { var lo = r500(a[0]), hi = r500(a[1]); if (hi < 500 && a[1] > 0) hi = 500; if (lo === hi) return fmt(lo); return fmt(lo) + "–" + fmt(hi).slice(1); }
+  function add(a, b) { return [a[0] + b[0], a[1] + b[1]]; }
+  function mul(a, k) { return [a[0] * k, a[1] * k]; }
+  function val(name) { var el = form.querySelector("input[name=" + name + "]:checked"); return el ? el.value : ""; }
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;" }[c]; }); }
+
+  function calc() {
+    var lands = Array.prototype.map.call(form.querySelectorAll("input[name=land]:checked"), function (i) { return i.value; });
+    var nights = clamp($("tb-nights").value, 1, 21), pax = clamp($("tb-pax").value, 1, 12);
+    var tierKey = val("tier") || "budget", T = RATES.tier[tierKey], shared = val("move") !== "private";
+    var north = $("tb-north").checked, nathu = $("tb-nathu").checked, home = $("tb-home").checked;
+    var notes = [];
+    $("tb-tier-note").textContent = TIER_NOTE[tierKey];
+    if (!lands.length) lands = ["east-sikkim"];
+
+    var northNights = 0;
+    if (north) {
+      if (nights < 3) notes.push(["warn", "North Sikkim needs at least 2 nights there plus a night in Gangtok. We have priced 3 nights."]);
+      nights = Math.max(nights, 3);
+      northNights = 2;
+    }
+    var otherNights = nights - northNights;
+    var rooms = Math.ceil(pax / 2), cars = Math.ceil(pax / T.seats), days = nights + 1;
+
+    var stay = [0, 0], move = [0, 0], fees = [0, 0], meals = [0, 0];
+    var moveLabel = "", stayLabel = "";
+
+    // rooms and meals outside the North Sikkim package
+    if (home && (tierKey === "budget" || tierKey === "value")) {
+      stay = mul(RATES.homestay, pax * otherNights);
+      meals = mul([150, 350], pax * days);  // lunches and tea on the road; homestay rate covers breakfast and dinner
+      stayLabel = otherNights + " night" + (otherNights === 1 ? "" : "s") + ", homestays with meals";
+    } else {
+      if (home) notes.push(["warn", "Homestays fit the budget and value levels. We kept hotels for " + tierKey + "."]);
+      stay = mul(T.room, rooms * otherNights);
+      meals = mul(T.meals, pax * days);
+      stayLabel = otherNights + " night" + (otherNights === 1 ? "" : "s") + ", " + rooms + " room" + (rooms === 1 ? "" : "s");
+    }
+
+    // transport
+    if (shared) {
+      var legs = Math.max(0, lands.length - 1);
+      move = add(mul(RATES.sharedTransfer, pax * 2), mul(RATES.sharedLeg, pax * legs));
+      var carDays = Math.max(1, Math.ceil(otherNights / 2));
+      move = add(move, mul(RATES.localCar, Math.ceil(pax / 4) * carDays));
+      moveLabel = "Shared jeeps, plus a reserved car on " + carDays + " sightseeing day" + (carDays === 1 ? "" : "s");
+      if (lands.length > 2) notes.push(["warn", "Shared jeeps between " + lands.length + " districts means long, early days. A private car may suit better."]);
+    } else {
+      var carDaysP = days - (north ? 2 : 0) - (nathu ? 1 : 0);
+      move = mul(T.car, cars * Math.max(1, carDaysP));
+      moveLabel = cars + " " + T.carName + (cars === 1 ? "" : "s") + ", " + Math.max(1, carDaysP) + " day" + (carDaysP === 1 ? "" : "s");
+    }
+
+    // North Sikkim
+    if (north) {
+      if (shared) {
+        stay = add(stay, mul(RATES.north.sharedPackage, pax));
+        stayLabel += "; North Sikkim shared package (2 nights, vehicle, meals, permit)";
+      } else {
+        move = add(move, mul(RATES.north.privateSuv, Math.ceil(pax / 6)));
+        stay = add(stay, mul(T.room, rooms * 2));
+        meals = add(meals, mul(T.meals, pax * 2));
+        fees = add(fees, mul(RATES.north.permit, pax));
+        stayLabel += "; 2 nights in North Sikkim";
+        moveLabel += "; registered SUV for North Sikkim";
+      }
+      notes.push(["warn", "North Sikkim: permits only through registered agents and vehicles, tourist vehicles must pass the Toong check post by 4 pm, and children under 5 are not permitted in the protected areas."]);
+    }
+
+    // Nathu La
+    if (nathu) {
+      move = add(move, shared ? mul(RATES.nathu.sharedSeat, pax) : mul(RATES.nathu.privateSuv, Math.ceil(pax / 6)));
+      fees = add(fees, mul(add(RATES.nathu.permit, RATES.nathu.tsomgo), pax));
+      notes.push(["warn", "Nathu La is for Indian nationals only, usually open Wednesday to Sunday and closed by snow at times. Apply a day ahead with ID and photos."]);
+    }
+
+    // Silk Route permit when Pakyong is picked
+    if (lands.indexOf("pakyong") > -1) {
+      fees = add(fees, mul(RATES.silkRoutePermit, pax));
+      notes.push(["warn", "Zuluk and the Old Silk Route are for Indian nationals only; the permit is issued via Rongli."]);
+    }
+    if (lands.indexOf("north-sikkim") > -1 && !north) notes.push(["", "You picked North Sikkim. Tick the North Sikkim permit trip to include Lachung or Lachen; Dzongu and Mangan need their own arrangements."]);
+
+    fees = add(fees, mul([RATES.entryFee, RATES.entryFee], pax));
+
+    var lines = [
+      ["Rooms", stayLabel, stay],
+      ["Transport", moveLabel, move],
+      ["Permits and fees", "Includes ₹50 pp Sikkim entry fee", fees],
+      ["Meals", (home ? "Road meals" : "About " + fmt(T.meals[0]) + "–" + fmt(T.meals[1]).slice(1) + " pp a day"), meals]
+    ];
+    var total = [0, 0];
+    lines.forEach(function (l) { total = add(total, l[2]); });
+    var pp = [total[0] / pax, total[1] / pax];
+
+    $("tb-pp").textContent = range(pp);
+    $("tb-party").textContent = "Whole party of " + pax + ", " + nights + " night" + (nights === 1 ? "" : "s") + ": " + range(total);
+    $("tb-lines").innerHTML = lines.map(function (l) {
+      return '<div><dt>' + esc(l[0]) + '<br><span style="text-transform:none;letter-spacing:0;font:400 .78rem var(--sans)">' + esc(l[1]) + '</span></dt><dd>' + range(l[2]) + '</dd></div>';
+    }).join("");
+    var mid = (total[0] + total[1]) / 2 || 1;
+    $("tb-bar").innerHTML = lines.map(function (l) { return '<i style="width:' + (((l[2][0] + l[2][1]) / 2) / mid * 100).toFixed(1) + '%" title="' + esc(l[0]) + '"></i>'; }).join("");
+    $("tb-notes").innerHTML = notes.map(function (n) { return '<div class="verdict' + (n[0] ? ' verdict--' + n[0] : '') + '"><p class="small" style="margin:0">' + esc(n[1]) + '</p></div>'; }).join("");
+    var plan = $("tb-plan"), base = plan.getAttribute("href").split("&")[0];
+    plan.href = base + (lands.length === 1 ? "&land=" + lands[0] : "");
+  }
+  form.addEventListener("input", calc);
+  form.addEventListener("change", calc);
   calc();
 })();
 </script>

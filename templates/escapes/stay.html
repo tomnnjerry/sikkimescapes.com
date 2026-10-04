@@ -1,37 +1,58 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ s.name }}{% if s.place_obj %}, {{ s.place_obj.name }}{% endif %} · Tales of Luxury{% endblock %}
-{% block description %}{{ s.summary|truncatechars:158 }}{% endblock %}
-{% block body_attrs %} data-land="{{ s.region_obj.slug }}"{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ s.name }}{% if s.place_obj %}, {{ s.place_obj.name }}{% endif %} · Sikkim Escapes{% endblock %}
+{% block description %}{{ s.meta_description|default:s.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ s.name }}{% if s.place_obj %}, {{ s.place_obj.name }}{% endif %}{% endblock %}
+{% block og_image %}{% with img=s|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ s.region }}"{% endblock %}
 {% block content %}
-<header class="phead wrap">
-  <div class="phead__grid">
-    <div class="phead__text">
-      <div class="chip-row"><a class="chip" href="{{ s.region_obj.url }}">{{ s.region_obj.name }}</a><span class="chip chip--line">{{ s.kind }}</span>{% if s.brand %}<span class="chip chip--line">{{ s.brand }}</span>{% endif %}</div>
-      <h1 class="h-xl">{{ s.name }}</h1>
-      <div class="answer">{{ s.summary }}</div>
+{% with r=s.region_obj p=s.place_obj %}
+{% if p %}{% include "escapes/partials/phero.html" with h_title=s.name h_img=s|first_img h_kicker=s.tier_obj.name|add:" "|add:s.kind|add:" · "|add:p.name h_lede=s.summary h_short=True h_ms_cap=p.name h_ms_val=p.altitude_m|split_alt %}
+{% else %}{% include "escapes/partials/phero.html" with h_title=s.name h_img=s|first_img h_kicker=s.tier_obj.name|add:" · "|add:r.name h_lede=s.summary h_short=True %}{% endif %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="answer"><b>Short answer</b><p>{{ s.summary }}</p></div>
+      {% if s.body %}<div class="prose">{% for para in s.body %}<p>{{ para }}</p>{% endfor %}</div>{% endif %}
+      {% if s.why %}<div>
+        <p class="kicker">Why we book it</p>
+        <h2 class="h2">What it does well</h2>
+        <ul class="ticks">{% for w in s.why %}<li>{{ w }}</li>{% endfor %}</ul>
+      </div>{% endif %}
+      {% if s.images|length > 1 %}<div class="gallery">{% for img in s.images|slice:":5" %}{% photo img alt=s.name %}{% endfor %}</div>{% endif %}
+      {% include "escapes/partials/faq.html" with faqs=s.faqs faq_title="Questions about "|add:s.name %}
     </div>
-    {% photo s|first_img alt=s.name cls="arch ratio-hero" eager=True sizes="(max-width: 900px) 100vw, 40vw" %}
+
+    <aside class="side" aria-label="At a glance">
+      <dl class="ledger">
+        <div><dt>Tier</dt><dd>{{ s.tier_obj.name }}</dd></div>
+        {% if s.kind %}<div><dt>Type</dt><dd>{{ s.kind|capfirst }}</dd></div>{% endif %}
+        {% if p %}<div><dt>Place</dt><dd><a href="{{ p.url }}">{{ p.name }}</a></dd></div>{% endif %}
+        {% if p.altitude_m %}<div><dt>Altitude</dt><dd>{{ p.altitude_m|metres }}</dd></div>{% endif %}
+        <div><dt>District</dt><dd><a href="{{ r.url }}">{{ r.name }}</a></dd></div>
+        {% if s.price_band %}<div><dt>Price band</dt><dd>{{ s.price_band }}</dd></div>{% endif %}
+        {% if s.best_for %}<div><dt>Best for</dt><dd>{{ s.best_for|join:", "|capfirst }}</dd></div>{% endif %}
+      </dl>
+      <p class="small muted" style="margin:0">Price bands are indicative and change by season. We confirm the rate in your written quote. Check current status before you travel.</p>
+      {% include "escapes/partials/quick_form.html" with qf_id="stay-side" qf_title="Price a trip with this stay" qf_land=s.region qf_message="I would like to stay at "|add:s.name %}
+      {% if s.website %}<a class="linkarrow small" href="{{ s.website }}" rel="noopener nofollow" target="_blank">Official website {% icon "arrow" %}</a>{% endif %}
+    </aside>
   </div>
-</header>
-<section class="sec--tight"><div class="wrap split">
-  <div class="split__main">
-    <div class="block prose">{% for para in s.body %}<p>{{ para }}</p>{% endfor %}</div>
-    <div class="block"><p class="eyebrow">Why we book it</p><ol class="tips">{% for w in s.why %}<li>{{ w }}</li>{% endfor %}</ol></div>
-    {% include "tales/partials/faq.html" with faqs=s.faqs %}
+</section>
+
+{% if s.journey_objs %}<section class="sec sec--paper2" aria-labelledby="sj-h">
+  <div class="wrap">
+    {% url 'journeys' as j_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Packages" sh_title="Trips that use this stay" sh_id="sj-h" sh_more_url=j_url sh_more="Every package" %}
+    <div class="grid g3" data-fill>{% for j in s.journey_objs %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=s.region %}</div>
   </div>
-  <aside class="split__aside">
-    <div class="panel panel--dark"><h2 class="h-s">The ledger</h2><div class="ledger">
-      {% if s.place_obj %}<div class="ledger__row"><span>Place</span><span class="ledger__dots"></span><b><a href="{{ s.place_obj.url }}" style="color: inherit">{{ s.place_obj.name }}</a></b></div>{% endif %}
-      <div class="ledger__row"><span>Type</span><span class="ledger__dots"></span><b>{{ s.kind|capfirst }}</b></div>
-      {% if s.best_for %}<div class="ledger__row"><span>Best for</span><span class="ledger__dots"></span><b>{{ s.best_for|join:", " }}</b></div>{% endif %}
-      <div class="ledger__row"><span>Rates</span><span class="ledger__dots"></span><b>On request</b></div>
-    </div>{% if s.website %}<p class="small" style="margin: 16px 0 0"><a href="{{ s.website }}" rel="noopener" target="_blank" style="color: var(--brass)">Official website</a></p>{% endif %}</div>
-    <a class="btn btn--dark" href="{% url 'plan' %}?land={{ s.region }}&from={{ request.path|urlencode }}">Ask us to book {{ s.name }}</a>
-    <p class="small muted">We do not publish room rates: they change daily. We quote the room category you want for your dates.</p>
-  </aside>
-</div></section>
-{% if s.journey_objs %}<section class="sec paper"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Journeys</p><h2 class="h-l">Routes that stay here</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for j in s.journey_objs|slice:":3" %}{% include "tales/partials/card_journey.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=s.region_obj.slug %}</div></div></section>{% endif %}
-{% if others %}<section class="sec"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Also in {{ s.region_obj.name }}</p><h2 class="h-l">Other stays</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for s in others %}{% include "tales/partials/card_stay.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=s.region_obj.slug %}</div></div></section>{% endif %}
+</section>{% endif %}
+
+{% if others %}<section class="sec" aria-labelledby="so-h">
+  <div class="wrap">
+    {% url 'stays' as st_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Also in "|add:r.name sh_title="Other stays nearby" sh_id="so-h" sh_more_url=st_url sh_more="Every stay" %}
+    <div class="grid g3" data-fill>{% for s in others %}{% include "escapes/partials/card_stay.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+{% endwith %}
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

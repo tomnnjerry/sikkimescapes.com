@@ -1,10 +1,29 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Travel styles: palaces, safaris, Ayurveda, festivals and more · Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim trip ideas by theme · Sikkim Escapes{% endblock %}
+{% block description %}Plan Sikkim around what you care about: monasteries, lakes and passes, snow, rhododendrons, village homestays, food and tea, festivals, treks and family trips.{% endblock %}
+{% block og_title %}Sikkim trip ideas by theme{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Travel styles</p><h1 class="h-hero">Start from <span class="accent">a feeling</span></h1>
-  <p class="lede">Every way into the seven lands. Each style page gathers the places, journeys, stays and experiences that suit it.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px"><div class="toc">
-  {% for row in rows %}<a class="toc__row" href="{{ row.t.url }}"><span class="lbadge">{% icon "sparkle" %}</span><span class="toc__name"><b>{{ row.t.name }}</b><span>{{ row.t.tagline }}</span></span><span class="toc__when">Explore</span><span class="toc__arrow" aria-hidden="true">→</span></a>{% endfor %}
-</div></section>
+{% include "escapes/partials/phero.html" with h_title="Start from what you love" h_kicker="Themes" h_lede="Monasteries on their prayer days, lakes above 3,500 m, rhododendron weeks, family homestays and festival dates. Each theme gathers the places, packages and stays that fit it." h_seed="themes" %}
+
+<section class="sec">
+  <div class="wrap">
+    {% if rows %}<div class="grid g3">
+      {% for row in rows %}<a class="card card--text rv" href="{{ row.t.url }}"><div class="card__body">
+        <p class="kicker" style="margin:0">{{ row.t.tagline }}</p>
+        <h3>{{ row.t.name }}</h3>
+        <p>{{ row.t.summary|truncatewords:32 }}</p>
+        <div class="card__foot"><span class="small muted">{% if row.n %}{{ row.n }} package{{ row.n|pluralize }}{% else %}Built to order{% endif %}</span><span class="linkarrow">Explore {% icon "arrow" %}</span></div>
+      </div></a>{% endfor %}
+    </div>{% else %}<div class="empty">Themes are being added.</div>{% endif %}
+  </div>
+</section>
+
+<section class="sec sec--paper2 sec--tight" aria-labelledby="more-h">
+  <div class="wrap">
+    <p class="kicker" id="more-h">Other ways to plan</p>
+    <div class="pills"><a href="{% url 'homestays' %}">{% icon "village" %}Homestays</a><a href="{% url 'affordable' %}">{% icon "rupee" %}Affordable Sikkim</a><a href="{% url 'seasons' %}">{% icon "calendar" %}Month by month</a><a href="{% url 'festivals' %}">{% icon "flag" %}Festival calendar</a><a href="{% url 'experiences' %}">{% icon "compass" %}Experiences</a><a href="{% url 'altitude' %}">{% icon "altitude" %}Altitude ladder</a></div>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" with cta_title="Tell us the theme, we will find the valley" %}
 {% endblock %}

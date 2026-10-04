@@ -1,20 +1,64 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ t.name }} in Nepal and India · Tales of Luxury{% endblock %}
-{% block description %}{{ t.summary|truncatechars:158 }}{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ t.name }} in Sikkim: places, packages, stays · Sikkim Escapes{% endblock %}
+{% block description %}{{ t.meta_description|default:t.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ t.name }} in Sikkim{% endblock %}
+{% block og_image %}{% with img=places.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Travel style</p><h1 class="h-hero">{{ t.name }}</h1>
-  <p class="lede" style="font-family: var(--display); font-style: italic; color: var(--ink)">{{ t.tagline }}</p>
-  <div class="answer">{{ t.summary }}</div></div></header>
-<section class="sec--tight"><div class="wrap split">
-  <div class="split__main"><div class="block prose">{% for para in t.intro %}<p>{{ para }}</p>{% endfor %}</div></div>
-  {% if region_pages %}<aside class="split__aside"><div class="panel panel--line"><p class="eyebrow" style="margin-bottom: 12px">{{ t.name }} by land</p>
-    <div class="ledger">{% for r in region_pages %}<a class="ledger__row" href="{% url 'region_theme' r.slug t.slug %}" style="text-decoration: none"><span>{{ r.name }}</span><span class="ledger__dots"></span><b>Open</b></a>{% endfor %}</div></div></aside>{% endif %}
-</div></section>
-{% if journeys %}<section class="sec paper"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Journeys</p><h2 class="h-l">Routes in this style</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for j in journeys %}{% include "tales/partials/card_journey.html" %}{% endfor %}{% include "tales/partials/fill.html" %}</div></div></section>{% endif %}
-{% if places %}<section class="sec"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Places</p><h2 class="h-l">Where it fits best</h2></div></div>
-  <div class="grid grid--4" data-fill>{% for p in places %}{% include "tales/partials/card_place.html" %}{% endfor %}{% include "tales/partials/fill.html" %}</div></div></section>{% endif %}
-{% if stays %}<section class="sec paper"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Stays</p><h2 class="h-l">Rooms that suit it</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for s in stays|slice:":9" %}{% include "tales/partials/card_stay.html" %}{% endfor %}{% include "tales/partials/fill.html" %}</div></div></section>{% endif %}
+{% include "escapes/partials/phero.html" with h_title=t.name|add:" in Sikkim" h_img=places.0|first_img h_kicker=t.tagline h_lede=t.summary h_short=True %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="answer"><b>Short answer</b><p>{{ t.summary }}</p></div>
+      {% if t.intro %}<div class="prose">{% for para in t.intro %}<p>{{ para }}</p>{% endfor %}</div>{% endif %}
+    </div>
+    <aside class="side">
+      <div class="statrow">
+        <div class="stat"><small>Places</small><b>{{ places|length }}</b></div>
+        <div class="stat"><small>Packages</small><b>{{ journeys|length }}</b></div>
+        <div class="stat"><small>Stays</small><b>{{ stays|length }}</b></div>
+      </div>
+      {% if region_pages %}<div class="panel"><p class="kicker" style="margin-bottom:8px">By district</p><div class="rows">{% for r in region_pages %}<a href="{% url 'region_theme' r.slug t.slug %}" data-land="{{ r.slug }}"><b>{{ t.name }} in {{ r.name }}</b><small>{% icon r.icon %}</small></a>{% endfor %}</div></div>{% endif %}
+    </aside>
+  </div>
+</section>
+
+{% if journeys %}<section class="sec sec--paper2" aria-labelledby="tj-h">
+  <div class="wrap">
+    {% url 'journeys' as j_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Packages" sh_title="Trips built around it" sh_id="tj-h" sh_text="Sorted by price. Indicative per person, twin sharing." sh_more_url=j_url sh_more="Every package" %}
+    <div class="grid g3" data-fill>{% for j in journeys|dictsort:"price_from_inr" %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+{% if places %}<section class="sec" aria-labelledby="tp-h">
+  <div class="wrap">
+    {% with tl=t.name|lower %}{% include "escapes/partials/sechead.html" with sh_kicker="Where to go" sh_title="Places for "|add:tl sh_id="tp-h" %}{% endwith %}
+    <div class="grid g4" data-fill>{% for p in places %}{% include "escapes/partials/card_place.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+{% if experiences %}<section class="sec sec--paper2" aria-labelledby="te-h">
+  <div class="wrap">
+    {% url 'experiences' as e_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Things to do" sh_title="Experiences on the way" sh_id="te-h" sh_more_url=e_url sh_more="Every experience" %}
+    <div class="grid g4" data-fill>{% for e in experiences|slice:":8" %}{% include "escapes/partials/card_exp.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+{% if stays %}<section class="sec" aria-labelledby="ts-h">
+  <div class="wrap">
+    {% url 'stays' as st_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Where to sleep" sh_title="Stays that fit" sh_id="ts-h" sh_more_url=st_url sh_more="Every stay" %}
+    <div class="grid g3" data-fill>{% for s in stays|slice:":6" %}{% include "escapes/partials/card_stay.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+{% if not places and not journeys %}<section class="sec sec--tight"><div class="wrap"><div class="empty">We are still adding places for this theme. <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">Tell us what you want</a> and we will plan it.</div></div></section>{% endif %}
+
+<section class="sec sec--tight" aria-labelledby="ot-h">
+  <div class="wrap">
+    <p class="kicker" id="ot-h">Other themes</p>
+    <div class="pills">{% for x in nav_themes %}{% if x.slug != t.slug %}<a href="{{ x.url }}">{{ x.name }}</a>{% endif %}{% endfor %}</div>
+  </div>
+</section>
+
+{% with tl=t.name|lower %}{% include "escapes/partials/cta.html" with cta_title="Plan a "|add:tl|add:" trip with us" %}{% endwith %}
 {% endblock %}

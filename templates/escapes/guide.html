@@ -1,38 +1,65 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ g.title }} · Tales of Luxury{% endblock %}
-{% block description %}{{ g.meta_description }}{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ g.title }} · Sikkim Escapes{% endblock %}
+{% block description %}{{ g.meta_description|default:g.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ g.title }}{% endblock %}
+{% block og_description %}{{ g.summary|truncatechars:200 }}{% endblock %}
 {% block og_image %}{% with img=g|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain">
-  <div class="phead__text" style="margin-top: 32px">
-    <div class="chip-row"><a class="chip" href="{{ r.url }}">{{ r.name }}</a><span class="chip chip--line">{{ g.category }}</span><span class="chip chip--line">{{ g.read_min }} min read</span></div>
-    <h1 class="h-xl">{{ g.title }}</h1>
-    <p class="small muted">By {{ SITE.byline }}</p>
-    <div class="answer">{{ g.summary }}</div>
+{% include "escapes/partials/phero.html" with h_title=g.title h_img=g|first_img h_kicker=r.name|add:" guide" h_short=True %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <p class="small muted" style="margin:0 0 14px">{% icon "book" %} {{ g.read_min }} min read · By {{ SITE.byline|default:"Sikkim Escapes Desk" }}{% if g.category %} · {{ g.category|capfirst }}{% endif %}</p>
+    <div class="answer"><b>Short answer</b><p>{{ g.summary }}</p></div>
   </div>
-</header>
-{% if g.images %}<div class="wrap">{% photo g|first_img alt=g.title cls="ratio-pano" eager=True sizes="100vw" %}</div>{% endif %}
-<section class="sec--tight"><div class="wrap split">
-  <article class="split__main">
-    {% for s in g.sections %}<section class="block" id="{{ s.anchor }}">
-      <h2 class="h-m">{{ s.heading }}</h2>
-      <div class="prose{% if not forloop.first %} prose--plain{% endif %}">{% for para in s.paras %}<p>{{ para }}</p>{% endfor %}
-        {% if s.list %}<ul>{% for x in s.list %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}</div>
-      {% if s.table %}<div class="tbl-wrap"><table class="tbl"><thead><tr>{% for h in s.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead>
-        <tbody>{% for row in s.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}
-    </section>{% endfor %}
-    {% include "tales/partials/faq.html" with faqs=g.faqs %}
-  </article>
-  <aside class="split__aside">
-    <nav class="panel panel--line" aria-label="Contents"><p class="eyebrow" style="margin-bottom: 12px">Contents</p>
-      <div class="toc-side">{% for s in g.sections %}<a href="#{{ s.anchor }}">{{ s.heading }}</a>{% endfor %}<a href="#faq-h">Questions</a></div></nav>
-    {% if g.related_objs %}<div class="panel panel--paper"><p class="eyebrow" style="margin-bottom: 12px">Places in this guide</p>
-      <div class="ledger">{% for p in g.related_objs %}<a class="ledger__row" href="{{ p.url }}" style="text-decoration: none"><span>{{ p.name }}</span><span class="ledger__dots"></span><b>{{ p.best_label }}</b></a>{% endfor %}</div></div>{% endif %}
-    <a class="btn btn--dark" href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}">Plan {{ r.name }} with us</a>
-  </aside>
-</div></section>
-{% if more %}<section class="sec paper"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Keep reading</p><h2 class="h-l">More on {{ r.name }}</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for g in more %}{% include "tales/partials/card_guide.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div></section>{% endif %}
-{% include "tales/partials/nudge.html" with nudge_land=r.name nudge_slug=r.slug %}
+</section>
+
+<section class="sec" style="padding-top:0">
+  <div class="wrap split">
+    <article class="prose">
+      {% for sec in g.sections %}<section id="{{ sec.anchor }}" aria-labelledby="{{ sec.anchor }}-h">
+        <h2 id="{{ sec.anchor }}-h">{{ sec.heading }}</h2>
+        {% for para in sec.paras %}<p>{{ para }}</p>{% endfor %}
+        {% if sec.list %}<ul>{% for li in sec.list %}<li>{{ li }}</li>{% endfor %}</ul>{% endif %}
+        {% if sec.table.rows %}<div class="tablewrap"><table>
+          {% if sec.table.head %}<thead><tr>{% for h in sec.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead>{% endif %}
+          <tbody>{% for row in sec.table.rows %}<tr>{% for c in row %}{% if forloop.first %}<th scope="row" style="background:none;font:600 .95rem var(--sans);text-transform:none;letter-spacing:0">{{ c }}</th>{% else %}<td>{{ c }}</td>{% endif %}{% endfor %}</tr>{% endfor %}</tbody>
+        </table></div>{% endif %}
+        {% if forloop.counter == 3 and not forloop.last %}<div class="midcta panel">
+          <div><b style="font:400 1.2rem/1.2 var(--serif)">Planning {{ r.name }}?</b><p class="small muted" style="margin:4px 0 0">We turn this into a priced, day-by-day plan for your dates.</p></div>
+          <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}" data-cta="guide-mid">Get my price</a>
+        </div>{% endif %}
+      </section>{% endfor %}
+      <p class="small muted">Rules, fees, fares and road status change often. Check current status before you travel.</p>
+    </article>
+
+    <aside class="side" aria-label="On this page">
+      {% if g.sections %}<nav aria-label="Sections">
+        <p class="kicker" style="margin-bottom:8px">On this page</p>
+        <div class="toc-side">{% for sec in g.sections %}<a href="#{{ sec.anchor }}">{{ sec.heading }}</a>{% endfor %}{% if g.faqs %}<a href="#faq-h">Questions</a>{% endif %}</div>
+      </nav>{% endif %}
+      {% include "escapes/partials/quick_form.html" with qf_id="guide-side" qf_title="Ask the Gangtok desk" qf_land=g.region qf_message="Read: "|add:g.title %}
+    </aside>
+  </div>
+</section>
+
+{% if g.related_objs %}<section class="sec sec--paper2" aria-labelledby="gp-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Places in this guide" sh_title="Where it applies" sh_id="gp-h" sh_more_url=r.url sh_more="About "|add:r.name %}
+    <div class="grid g4" data-fill>{% for p in g.related_objs|slice:":8" %}{% include "escapes/partials/card_place.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if g.faqs %}<section class="sec"><div class="wrap wrap--narrow">{% include "escapes/partials/faq.html" with faqs=g.faqs faq_title="Questions travellers ask" %}</div></section>{% endif %}
+
+{% if more %}<section class="sec sec--paper2" aria-labelledby="gm-h">
+  <div class="wrap">
+    {% url 'guides' as g_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Keep reading" sh_title="More "|add:r.name|add:" guides" sh_id="gm-h" sh_more_url=g_url sh_more="Every guide" %}
+    <div class="grid g3" data-fill>{% for g in more %}{% include "escapes/partials/card_guide.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% include "escapes/partials/nudge.html" with nudge_land=r.name nudge_slug=r.slug %}
+{% include "escapes/partials/cta.html" %}
 {% endblock %}
