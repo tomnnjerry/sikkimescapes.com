@@ -880,3 +880,36 @@ body { background-color: var(--paper); background-image: radial-gradient(rgba(12
 .foot__top { grid-template-columns: minmax(0, .85fr) minmax(0, 1.5fr); }
 .foot__card b { word-break: normal; overflow-wrap: anywhere; font-size: .92rem; }
 @media (max-width: 1000px) { .foot__top { grid-template-columns: 1fr; } }
+
+/* Light surfaces that sit inside dark sections keep dark, readable text.
+   (.dark forces light text on everything; these cards, panels and forms are white.) */
+.dark :is(.card, .panel:not(.panel--dark), .answer, .receipt, .story, .verdict, .finder, .faq details, .result-list a, .result-list > div, .stat--light) { color: var(--ink); }
+.dark :is(.card, .panel:not(.panel--dark), .answer, .receipt, .story, .verdict, .result-list a, .result-list > div) :is(p, li, dd, span, small) { color: var(--ink-2); }
+.dark :is(.card, .panel:not(.panel--dark), .answer, .receipt, .story, .verdict) :is(.muted, .small, small, .receipt__sub) { color: var(--ink-3); }
+.dark :is(.card, .panel:not(.panel--dark), .answer, .receipt, .story, .verdict) :is(h1, h2, h3, h4, b, strong) { color: var(--ink); }
+.dark :is(.card, .panel:not(.panel--dark), .answer, .receipt, .story, .verdict) a:not(.btn):hover { color: var(--accent-ink); }
+.dark .panel:not(.panel--dark) .field label, .dark .panel:not(.panel--dark) .field legend { color: var(--ink-3); }
+.dark .panel:not(.panel--dark) .field input:not([type=checkbox]):not([type=radio]), .dark .panel:not(.panel--dark) .field select, .dark .panel:not(.panel--dark) .field textarea { background: var(--card); border-color: var(--line); color: var(--ink); }
+.dark .panel:not(.panel--dark) .field select option { color: var(--ink); }
+.dark .panel:not(.panel--dark) .btn--ghost { color: var(--ink); --b: var(--ink); }
+.dark .panel:not(.panel--dark) .btn--ghost:hover { color: #fff; }
+.dark .ticks li { color: rgba(255, 255, 255, .9); }
+.dark .small { color: rgba(244, 239, 230, .8); }
+.dark .linkarrow { color: var(--f1); }
+
+/* dark variants must win over the light card/panel gradients above */
+.card.card--land { background: var(--sheen), var(--grad); }
+.panel.panel--dark { background: var(--sheen), var(--grad); color: #fff; }
+.panel.panel--dark :is(h1, h2, h3, h4, b, strong, dd) { color: #fff; }
+.panel.panel--dark :is(p, li, dt, span, small, .muted) { color: rgba(255, 255, 255, .82); }
+.dark .alm th { color: rgba(255, 255, 255, .78); }
+.dark .alm th[scope=row] a { color: #fff; }
+.alm td.v1 a, .dark .alm td.v1 a { color: var(--accent-ink); font-weight: 800; }
+.alm td.v1 { background: color-mix(in srgb, var(--accent) 45%, #fff); }
+.alm thead td { background: none; }
+/* ladder labels sit on their own dark capsule so long names stay readable past the end of a short bar */
+.ladder__bar span { z-index: 1; margin-left: 8px; padding: 4px 12px; background: rgba(10, 20, 36, .74); border-radius: 6px; text-shadow: none; }
+.ladder__bar small { color: rgba(255, 255, 255, .85); }
+/* the altimeter rail label only fits where the page has a wide left gutter */
+.rail__mark b { display: none; }
+@media (min-width: 1760px) { .rail__mark b { display: block; } }
