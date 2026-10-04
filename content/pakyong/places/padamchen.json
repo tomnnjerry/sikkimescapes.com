@@ -1,0 +1,345 @@
+{
+  "slug": "padamchen",
+  "name": "Padamchen",
+  "region": "pakyong",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Phadamchen village Sikkim forest",
+  "lat": 27.2417,
+  "lng": 88.7566,
+  "altitude_m": 2200,
+  "local_name": null,
+  "tagline": "Forest village halfway up the Old Silk Route",
+  "meta_description": "Padamchen (Phadamchen), Sikkim: forest village at about 2,200 m on the Old Silk Route, a gentle first night before Zuluk. Permit, costs, stays and tips.",
+  "summary": "Padamchen, also spelt Phadamchen, is a small forest village at about 2,200 m on the Old Silk Route between Lingtam and Zuluk, inside the Pangolakha Wildlife Sanctuary area. It is the stop we recommend most for a first night: high enough to start acclimatising, low enough for families. A Silk Route permit from Rongli is needed, for Indian nationals only.",
+  "intro": [
+    "Padamchen sits roughly halfway between the warm Rongli valley and the cold uplands of Zuluk and Nathang. The road climbs steadily through mixed forest of oak, magnolia and rhododendron, and the village lies on a bend with homestays, a few tea shops and an army presence along the road. Wikipedia names Phadamchen among the hamlets of the Pangolakha Wildlife Sanctuary, which covers about 124 km2.",
+    "Because it is at about 2,200 m, Padamchen gives your body a night at moderate height before you go on to Zuluk at about 2,800 m and Nathang at about 3,750 m. Families, older travellers and anyone arriving from the plains the same day do better here than pushing on. Zuluk is about 13 km and 45 minutes further up, and Lingtam about 12 km below.",
+    "Padamchen is inside the protected area. Indian visitors need the Silk Route permit processed at Rongli, which many homestays now arrange in advance from scanned documents. Foreigners are not permitted. Rules and fees can change, so check current status before you travel."
+  ],
+  "story": {
+    "title": "A forest village on the trade road",
+    "text": "Padamchen lies on the same road that carried wool, fur and goods between Kalimpong and Tibet. Wikipedia's article on Dzuluk records that traders used the Zuluk area as an overnight base on the route that ran through Pedong, Aritar, Zuluk and Jelep La to the Chumbi valley, and Wikipedia's article on Jelep La says the pass was frequently used for trade during the British Raj, with Kalimpong as the contact point. The Kalimpong route is described as passing Rongli, Rhenock and Pedong, so a village like Padamchen, a day's walk above Rongli, fits as a stage. The forest around it is now part of Pangolakha Wildlife Sanctuary, set up in 2002. Wikipedia's article on the sanctuary names Phadamchen among its hamlets and says forest eco-development committees have been set up in villages including Phadamchen, so the village has a formal role in protecting the trees you pass through.",
+    "source": "Wikipedia: Dzuluk; Wikipedia: Jelep La; Wikipedia: Pangolakha Wildlife Sanctuary"
+  },
+  "little_known": [
+    {
+      "fact": "Wikipedia lists Phadamchen among the hamlets inside Pangolakha Wildlife Sanctuary and among six villages where forest eco-development committees have been set up.",
+      "source": "Wikipedia: Pangolakha Wildlife Sanctuary"
+    },
+    {
+      "fact": "Pangolakha Wildlife Sanctuary spans about 1,760 to 4,390 m, so its forests change from oak and magnolia near Padamchen to alpine scrub on the ridges above Nathang.",
+      "source": "Wikipedia: Pangolakha Wildlife Sanctuary"
+    },
+    {
+      "fact": "Wikipedia's bird list for the sanctuary includes kalij pheasant, blood pheasant, white-crested laughingthrush, bar-throated minla and rufous sibia, so the forest edge here is worth an early walk.",
+      "source": "Wikipedia: Pangolakha Wildlife Sanctuary"
+    }
+  ],
+  "facts": [
+    [
+      "Best months",
+      "Mar–May and Oct–Dec; pleasant most of the year"
+    ],
+    [
+      "Nights we suggest",
+      "1"
+    ],
+    [
+      "From Gangtok",
+      "≈ 85 km · 4 h via Rongli"
+    ],
+    [
+      "Altitude",
+      "≈ 2,200 m (sources vary)"
+    ],
+    [
+      "Known for",
+      "Forest stay, first night on the Silk Route"
+    ],
+    [
+      "Permit",
+      "Silk Route permit via Rongli, Indian nationals only"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "1",
+  "highlights": [
+    {
+      "title": "Forest walks at the village edge",
+      "text": "Short paths follow old shortcuts between road bends through oak, magnolia and rhododendron. Early morning is best for birds. Ask your host which paths are in use and safe, and avoid walking after heavy rain."
+    },
+    {
+      "title": "Rhododendron in April and May",
+      "text": "The forest around Padamchen flowers with rhododendron in spring. Colour varies with the year and altitude, so we never promise a peak week. Roadside stops give easy views."
+    },
+    {
+      "title": "A gentle first night",
+      "text": "At about 2,200 m you sleep higher than Rongli but well below Zuluk and Nathang. For most families this is the easiest way to begin the climb."
+    },
+    {
+      "title": "Homestay food",
+      "text": "Family homestays serve dal, rice, seasonal vegetables, pickles and momos, usually with dinner and breakfast included at about ₹1,200–1,800 per person. Ask what is growing that month."
+    },
+    {
+      "title": "Base for Zuluk sunrise",
+      "text": "Zuluk is about 13 km and 45 minutes up the road, so a pre-dawn drive to Thambi View Point is possible from Padamchen. Carry warm layers and keep the permit with you."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Shared jeep",
+      "text": "No shared jeeps run all the way for tourists. Take a shared jeep from Gangtok or Siliguri to Rongli, about ₹200–400 a seat, finish the permit there and hire a permit-registered local vehicle for the last stretch of about 20 km. Most visitors come by reserved car."
+    },
+    {
+      "mode": "Private car",
+      "text": "From Gangtok about 85 km and 4 hours via Pakyong, Rorathang and Rongli, with the permit stop at Rongli. A reserved small car for a Gangtok–Padamchen–Zuluk loop costs around ₹4,500–6,000 a day, more for an SUV. Check current status before you travel."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "About 130 km and 5.5–6 hours via Sevoke, Rangpo and Rorathang. NH10 can close after monsoon landslides; the alternative is via Kalimpong and Pedong. Pakyong Airport has no scheduled flights, so plan on Bagdogra (IXB) or NJP."
+    }
+  ],
+  "costs": [
+    [
+      "Silk Route permit via Rongli",
+      "≈ ₹200–500 per person through an agent"
+    ],
+    [
+      "Homestay with dinner and breakfast",
+      "≈ ₹1,200–1,800 per person a night"
+    ],
+    [
+      "Shared jeep Gangtok to Rongli",
+      "≈ ₹200–300 a seat"
+    ],
+    [
+      "Reserved car per day, Silk Route",
+      "≈ ₹4,500–6,000 (small car); SUV more"
+    ],
+    [
+      "Tea and momos",
+      "≈ ₹100–200"
+    ]
+  ],
+  "where_to_stay": "Padamchen has a cluster of family homestays at about ₹1,200–1,800 per person with dinner and breakfast; our padamchen-homestays listing covers them. Quality ranges from simple rooms to newer ones with attached bathrooms, so check what you are booking. Lingtam below is warmer and Zuluk above is colder, if you want to adjust. Most homestays can arrange the Rongli permit from scanned documents before you arrive. We do not name individual families here, so ask us for current options.",
+  "stays": [
+    "padamchen-homestays"
+  ],
+  "tips": [
+    "Send ID scans to your homestay in advance so the permit is waiting at Rongli.",
+    "Carry two passport photos and photo ID for every traveller, children included.",
+    "Bring layers: nights are cold from November to March and rainy in the monsoon.",
+    "Walk only on paths your host recommends, and avoid wet slopes.",
+    "Do not promise yourself a red panda; sightings are rare and we never guarantee wildlife."
+  ],
+  "themes": [
+    "village-homestays",
+    "flowers-and-forests",
+    "birds-and-wildlife",
+    "offbeat-sikkim"
+  ],
+  "nearby": [
+    "lingtam",
+    "zuluk",
+    "rongli",
+    "thambi-view-point"
+  ],
+  "experiences": [
+    {
+      "slug": "padamchen-forest-edge-birding",
+      "title": "Early morning forest-edge birding",
+      "kind": "wildlife",
+      "duration": "2 hours",
+      "best_time": "Oct–Dec and Mar–May, 6–8 am",
+      "cost": "≈ ₹300–600 for a local guide",
+      "image_query": "Laughingthrush Sikkim forest bird",
+      "wiki": "Pangolakha Wildlife Sanctuary",
+      "summary": "A quiet early walk on forest paths near the village, listening for laughingthrushes, minlas and yuhinas in the mixed oak and magnolia forest.",
+      "body": [
+        "Padamchen's forest is part of the wider Pangolakha landscape, which Wikipedia describes as a biodiversity hotspot where the Palearctic and Indomalayan realms meet. Its bird list includes the white-crested laughingthrush, bar-throated minla, rufous sibia and whiskered yuhina.",
+        "Start around 6 am with a local guide who knows the paths. Walk slowly, listen first and carry binoculars if you have them. Birds are busiest in the first two hours after sunrise. Wear dull colours and keep voices low.",
+        "We never promise a species. Red pandas live in forests of this belt, but sightings are rare and nobody should chase one. Stay on the paths, take your litter with you and do not use recorded calls."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "photographers",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "What birds can we see near Padamchen?",
+          "a": "Common forest birds such as laughingthrushes, minlas, yuhinas, sibias and sunbirds are the likely ones, according to the sanctuary's bird list on Wikipedia. Pheasants are possible but shy. Sightings depend on the season and weather, so we do not promise any species."
+        },
+        {
+          "q": "Do we need a guide?",
+          "a": "A local guide is useful for paths and for spotting. Expect about ₹300–600 for a morning, agreed beforehand. Your homestay can arrange this. Forest edges are safer with someone who knows the tracks."
+        },
+        {
+          "q": "Can we see red pandas?",
+          "a": "Very unlikely. Red pandas live in forests like these, but they are shy, mostly nocturnal and rarely seen. Treat any sighting as luck. Do not follow animals or use lights. We do not promise wildlife sightings."
+        }
+      ]
+    },
+    {
+      "slug": "padamchen-rhododendron-road-walk",
+      "title": "Rhododendron roadside walk",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Late Mar–May, flowering varies",
+      "cost": "Free",
+      "image_query": "Rhododendron Sikkim forest road",
+      "wiki": "",
+      "summary": "An easy stroll along the Silk Route road and nearby forest lanes in spring, when rhododendron and magnolia flower above the village. Timing varies year to year.",
+      "body": [
+        "Rhododendrons grow across the Sikkim hills, and the belt above 2,000 m near Padamchen flowers in spring. Peak weeks change with altitude and weather, so we never promise a date. Late March to May is the usual window; ask your host what is in bloom.",
+        "Walk the road in the morning, when traffic is light and the light is soft. Stay on the verge, listen for vehicles on bends and do not pick flowers or branches. The forest is part of a protected sanctuary.",
+        "Carry a rain jacket, because afternoon cloud and showers are common in spring. Mist can hide the view, but it also brings out colour. Combine the walk with tea at a roadside stall."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "couples",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "When do the rhododendrons bloom?",
+          "a": "Usually from late March through May around 2,000–3,000 m, with the exact timing shifting with the weather and the species. Padamchen is on the lower side of the belt, so earlier than Zuluk. Ask your homestay what is in bloom when you travel."
+        },
+        {
+          "q": "Is it safe to walk on the road?",
+          "a": "It is a narrow hill road with army and tourist vehicles. Walk on the inner side, avoid blind bends and keep children close. Early morning is quietest. Do not walk after dark."
+        },
+        {
+          "q": "Can we pick rhododendron flowers?",
+          "a": "No. The forest is inside a protected wildlife sanctuary, and picking flowers or branches is not allowed and not respectful. Take photographs and leave the plants. Take your litter with you."
+        }
+      ]
+    },
+    {
+      "slug": "padamchen-homestay-dinner-and-hearth",
+      "title": "Homestay dinner and evening by the hearth",
+      "kind": "food",
+      "duration": "evening",
+      "best_time": "Oct–Mar for cold evenings",
+      "cost": "Included in homestay ≈ ₹1,200–1,800",
+      "image_query": "Sikkim homestay dinner dal bhat",
+      "wiki": "",
+      "summary": "An evening in a family homestay: dinner cooked in the home kitchen, tea by a stove and an early night after the climb from Rongli.",
+      "body": [
+        "Most Padamchen homestays include dinner and breakfast. Meals are home-style: rice, dal, seasonal vegetables, greens, pickles and a meat or egg dish if you want. Vegetarian is easy. Ask your host what grows nearby in that month and what they would cook for their own family.",
+        "Evenings are cool even in summer, and cold from November to March, so a stove or hot water bottle is common in winter. Sit with the family if invited, and ask about the village and the road. Do not ask people to perform or pose.",
+        "Electricity, hot water and mobile signal can be limited. Bring a torch and a power bank. Book ahead around October and long weekends, and confirm what is included before you travel."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "solo",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "What is included in the homestay price?",
+          "a": "Usually a room, dinner and breakfast, at about ₹1,200–1,800 per person. Packed lunch or tea may cost extra. Confirm what is included when you book, and ask about hot water and bathroom type."
+        },
+        {
+          "q": "Is vegetarian food available?",
+          "a": "Yes. Rice, dal, vegetables, greens and pickles are staples, and hosts adapt easily. Tell them in advance about allergies or Jain needs. Eggs and meat are served as extra dishes."
+        },
+        {
+          "q": "Will there be mobile signal and electricity?",
+          "a": "Signal is patchy and can drop in rain, and power cuts happen. Most homestays have inverters or lamps. Bring a power bank and a torch, download maps in advance and tell family not to expect constant contact."
+        }
+      ]
+    },
+    {
+      "slug": "padamchen-sanctuary-village-drive",
+      "title": "Silk Route forest drive to Zuluk view",
+      "kind": "nature",
+      "duration": "half day",
+      "best_time": "Mar–May and Oct–Dec; mornings best",
+      "cost": "≈ ₹2,000–3,000 per car (shared)",
+      "image_query": "Silk Route road Sikkim forest drive",
+      "wiki": "Pangolakha Wildlife Sanctuary",
+      "summary": "A short drive up the forest road to the first Zuluk viewpoints and back, to see the sanctuary's changing forest and decide whether to stay higher.",
+      "body": [
+        "The road from Padamchen climbs from about 2,200 m to Zuluk at about 2,800 m, passing oak, then rhododendron and conifer. Wikipedia gives the sanctuary's range as 1,760 to 4,390 m, and you travel through a good part of it.",
+        "Stop at designated pull-offs only. Army convoys use the road, so photograph only where permitted and avoid military installations. Keep your permit, ID and photocopies with you for checkpoints.",
+        "The drive takes about 45 minutes one way. Go early, when light is good, then return to Padamchen for breakfast or continue to Thambi View Point if you plan to. Check current status of road and permits before you travel."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "seniors",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "Are photographs allowed along the road?",
+          "a": "Scenery is fine, but not military installations, convoys or personnel. Follow signs and your driver's advice. Photography near check posts can be restricted. Ask if unsure."
+        },
+        {
+          "q": "Do we need our permit on this drive?",
+          "a": "Yes. Carry the permit, original ID for every traveller and copies, and show them at check posts. The permit is for Indian nationals only. Check current status before you travel."
+        },
+        {
+          "q": "How long does the drive to Zuluk take?",
+          "a": "About 45 minutes for 13 km, longer behind trucks or after rain. Landslides can slow or stop traffic. Add buffer time and check current status before you travel."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Padamchen known for?",
+      "a": "Padamchen, also spelt Phadamchen, is known as a forest village at about 2,200 m on the Old Silk Route, halfway between Rongli and Zuluk. It is the usual first night for families and acclimatisation. It has simple homestays and forest walks."
+    },
+    {
+      "q": "Is Padamchen better than Zuluk for a first night?",
+      "a": "For most families, yes. Padamchen at about 2,200 m is gentler than Zuluk at about 2,800 m, and the climb is spread over two days. Zuluk gives you the zigzag road and Thambi sunrise, so many travellers stay at both."
+    },
+    {
+      "q": "Do I need a permit for Padamchen?",
+      "a": "Yes. The Silk Route is a protected area. Indian nationals need a permit, processed at Rongli by an agent, driver or homestay, for about ₹200–500 per person. Foreigners cannot go. Check current status before you travel."
+    },
+    {
+      "q": "How far is Padamchen from Rongli?",
+      "a": "About 20 km, taking around 1 hour on the winding road, including Lingtam on the way. Landslides or army convoys can add time. Check current status before you travel."
+    },
+    {
+      "q": "How cold does Padamchen get?",
+      "a": "Winter nights can reach near freezing, with occasional frost, though heavy snow is rare at this height. Summer nights are cool. Spring and autumn days are pleasant but nights need a jacket. Bring layers in any season."
+    },
+    {
+      "q": "Can foreigners stay in Padamchen?",
+      "a": "No. The Old Silk Route beyond Rongli is for Indian nationals only. Foreign visitors can base themselves at Aritar or Rhenock and do day trips outside the protected belt. Rules can change, so check current status before you travel."
+    },
+    {
+      "q": "Are there ATMs in Padamchen?",
+      "a": "No. The nearest dependable ATMs are at Rongli and Rhenock. Carry enough cash for homestays, food and permits, because card and UPI signal can fail."
+    },
+    {
+      "q": "Is Padamchen good for seniors and young children?",
+      "a": "Generally yes, because the altitude is moderate. The road is long and winding, so motion sickness is common. For very young children, ask us about current rules and sleep at Padamchen rather than Nathang."
+    },
+    {
+      "q": "What wildlife lives near Padamchen?",
+      "a": "The sanctuary holds birds such as kalij pheasant and laughingthrushes, and mammals such as red panda and Himalayan black bear are reported in the wider area. Sightings are rare. We never promise wildlife."
+    }
+  ]
+}
