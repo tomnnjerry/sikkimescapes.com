@@ -1,0 +1,173 @@
+{
+  "slug": "dzongri-goecha-la",
+  "name": "Dzongri and Goecha La",
+  "region": "west-sikkim",
+  "kind": "trek",
+  "wiki": "Goecha La",
+  "image_query": "Goecha La trek Kangchenjunga view",
+  "lat": 27.4753,
+  "lng": 88.1602,
+  "altitude_m": 4020,
+  "local_name": null,
+  "tagline": "Sikkim's classic trek from Yuksom to the face of Kangchenjunga",
+  "meta_description": "Dzongri and Goecha La trek from Yuksom: 6 nights to Dzongri (4,020 m) or 10–11 to the Goecha La viewpoint (about 4,570 m). Permits, costs, season, altitude.",
+  "summary": "Dzongri and Goecha La are the two goals of Sikkim's best-known trek, which starts at Yuksom and climbs through Khangchendzonga National Park. Dzongri, a meadow at about 4,020 m, takes 5–6 days return. The Goecha La viewpoint, at about 4,570 m facing Kangchenjunga, takes 9 walking days. A registered agency, licensed guide and park permit are required.",
+  "intro": [
+    "The trail leaves the top of Yuksom (1,780 m) and follows the Prek Chu valley north into Khangchendzonga National Park. It climbs through warm broadleaf forest to Sachen, then through oak, magnolia and rhododendron past Bakhim to Tshoka at about 3,000 m, and on through Phedang to the open meadows of Dzongri at about 4,020 m. The Sikkim Forest Department describes the full route to Goecha La as about 45 km.",
+    "Dzongri is where the short trek ends. A pre-dawn climb to Dzongri Top, at about 4,200 m, gives sunrise on Kabru, Rathong, Kangchenjunga and Pandim. The long trek continues to Thansing and Lamuney, passes Samiti Lake in the dark and climbs to the first viewpoint below Goecha La, at about 4,570 m by the Forest Department's figure, directly facing the south-east face of Kangchenjunga (8,586 m). That is a full day of 10–12 hours on foot.",
+    "The pass itself, given as 4,940 m on Wikipedia, and the higher viewpoints are closed to protect the alpine zone. No one treks here alone: rules require a registered Sikkim trekking agency, a licensed guide and park permits, and foreigners need a Protected Area Permit in a group of two or more. The seasons are April to mid-May for rhododendrons and late September to November for clear views. We do not run treks in the June–August monsoon."
+  ],
+  "story": {
+    "title": "The summit that climbers leave untouched",
+    "text": "The mountain at the end of this trail has a climbing history shaped by respect. Wikipedia's article on Kangchenjunga records that when Joe Brown and George Band made the first ascent on 25 May 1955, from the Nepal side, they stopped just short of the true summit. They were keeping a promise given to Tashi Namgyal, the Chogyal of Sikkim, that the top of the mountain would remain inviolate, because Kangchenjunga is worshipped in Sikkim as Dzö-nga, the guardian deity of the land. The same article notes that the Indian side of the mountain is off limits to climbers. The peaks you see from Dzongri Top have their own stories. Wikipedia notes that in 1883 the British climber William Woodman Graham and two Swiss mountaineers reported reaching within 30–40 ft of the summit of Kabru, and that in 1907 two Norwegians came within 50–60 ft before strong winds turned them back. Standing at Dzongri at sunrise, with Kabru and Kangchenjunga turning gold, you can see why the Chogyal asked for that promise.",
+    "source": "Wikipedia: Kangchenjunga"
+  },
+  "little_known": [
+    {"fact": "Wikipedia's Goecha La article lists twelve peaks seen on the trek from Dzongri Top, Thansing and Goecha La, including Kangchenjunga (8,586 m), Kabru North (7,353 m), Simvo (6,812 m) and Pandim (6,691 m).", "source": "Wikipedia: Goecha La"},
+    {"fact": "Camping at Samiti Lake, below the Goecha La viewpoint, is forbidden: the lake is sacred to both Bhutia and Lepcha communities, and the Forest Department enforces the rule.", "source": "Sikkim Forest Department; Wikipedia: Samiti Lake"},
+    {"fact": "The Sikkim Forest Department gives the Goecha La–Dzongri route as about 45 km long and the Goecha La viewpoint as 4,570 m, lower than the 4,940 m Wikipedia gives for the pass itself.", "source": "Sikkim Forest Department press note, 2025; Wikipedia: Goecha La"}
+  ],
+  "facts": [
+    ["Best months", "Apr–mid-May and late Sep–Nov"],
+    ["Nights we suggest", "6 (Dzongri) or 10 (Goecha La) from NJP"],
+    ["From Gangtok", "≈ 150 km to Yuksom · 6.5–7.5 h, then on foot"],
+    ["Altitude", "Dzongri 4,020 m; Goecha La viewpoint ≈ 4,570 m"],
+    ["Known for", "Kangchenjunga sunrise, rhododendron forest, high meadows"],
+    ["Permit", "Park permit via registered agency; foreigners also need RAP and PAP"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "6–10",
+  "highlights": [
+    {"title": "Sunrise from Dzongri Top", "text": "From the Dzongri camp, a pre-dawn climb of about an hour reaches Dzongri Top at around 4,200 m. As the sun rises, Kabru, Rathong, Kangchenjunga and Pandim light up in a line across the north. Cloud often lifts briefly after sunrise, so be patient."},
+    {"title": "The rhododendron belt", "text": "Between Bakhim and Phedang the trail climbs through forest dense with rhododendron trees. From April to mid-May they flower red, pink and white, with magnolias lower down. It is the reason many trekkers choose the spring season over autumn's clearer skies."},
+    {"title": "Samiti Lake at dawn", "text": "On the summit-day start from Lamuney, the trail passes Samiti Lake, sacred to Bhutia and Lepcha communities. On the way back in daylight, Pandim often reflects in the still water. No camping is allowed at the lake."},
+    {"title": "Face to face with Kangchenjunga", "text": "The first viewpoint below Goecha La, at about 4,570 m, looks straight at the south-east face of Kangchenjunga. Groups reach it around sunrise after a 3 am start, spend a short time and walk back to Thansing."},
+    {"title": "Forest, meadow and moraine in one trek", "text": "In under a week you walk from subtropical forest above the Prek Chu through oak and fir, rhododendron and juniper, to open alpine meadows and glacial moraine. It is the clearest way to see how Sikkim's altitude shapes its landscape."},
+    {"title": "A trail run by local teams", "text": "Guides, cooks, porters and pack animal handlers on this trail mostly come from Yuksom and nearby villages. Choosing a registered local team keeps the money in the valley and gives you people who know every bend and campsite."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "To reach the trailhead, take a shared jeep from Siliguri or Gangtok to Gyalshing or Jorethang, then a local jeep to Yuksom, indicatively ₹500–900 in total and a long day. Many agencies offer shared transport from NJP to Yuksom for about ₹2,000–3,500 return per person."},
+    {"mode": "Private car", "text": "From Pelling to Yuksom, about 40 km and 2 hours, indicatively ₹2,500–3,500 one way. From Gangtok, about 150 km and 6.5–7.5 hours. Beyond Yuksom there is no road: the trek is on foot, with pack animals or porters carrying the loads."},
+    {"mode": "From Bagdogra / NJP", "text": "About 170 km and 6.5–7.5 hours to Yuksom via Melli, Jorethang, Legship and Tashiding, indicatively ₹6,500–8,500 by private car. Arrive the day before the trek starts. NH10 closes after heavy rain; the alternative is via Darjeeling. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Dzongri group trek (5–6 days)", "≈ ₹13,000–18,000 per person"],
+    ["Goecha La group trek (9 walking days)", "≈ ₹22,000–30,000 per person plus GST"],
+    ["Private trek for two (Goecha La)", "≈ ₹45,000–70,000 per person"],
+    ["Park fee (Indians / foreigners, 7 days)", "≈ ₹350 / ≈ ₹560; check current status"],
+    ["Offloading a rucksack", "≈ ₹400–600 per day"],
+    ["Shared transport NJP–Yuksom return", "≈ ₹2,000–3,500 per person"]
+  ],
+  "where_to_stay": "On the trail, groups sleep in tents at designated campsites at Sachen, Tshoka, Dzongri, Thansing and Lamuney; the Forest Department also runs basic trekkers' huts at Tshoka, Dzongri and Thansing, though in season most groups camp. Your first and last nights are in Yuksom, where Yuksum Residency and Hotel Tashigang are practical value hotels and village homestays cost about ₹1,200–2,200 per person with meals. Book Yuksom early for October and April–May, when trekking groups fill rooms.",
+  "stays": ["yuksum-residency-yuksom", "hotel-tashigang-yuksom", "yuksom-village-homestays"],
+  "tips": [
+    "Keep the rest day at Dzongri; it is the most important acclimatisation day of the trek.",
+    "Book only with a team registered with Sikkim Tourism; only registered agents can process park permits.",
+    "Break in your boots and train for six to eight weeks; aim to walk 10 km with a light pack comfortably.",
+    "Carry out all your rubbish; the park checks bags for plastic at Yuksom.",
+    "Descend at once if a headache worsens or you feel breathless at rest, and tell your guide."
+  ],
+  "themes": ["treks-and-walks", "lakes-and-passes", "flowers-and-forests", "photography"],
+  "nearby": ["yuksom", "khangchendzonga-national-park", "dubdi-monastery", "norbugang"],
+  "experiences": [
+    {
+      "slug": "dzongri-short-trek",
+      "title": "The Dzongri trek: six nights from NJP",
+      "kind": "adventure",
+      "duration": "5–6 days on foot (6 nights from NJP)",
+      "best_time": "Apr–mid-May and Oct–Nov",
+      "cost": "≈ ₹13,000–18,000 per person, group trek",
+      "image_query": "Dzongri meadow prayer flags Sikkim",
+      "wiki": "Khangchendzonga National Park",
+      "summary": "The short version of Sikkim's classic trek: Yuksom to Sachen, Tshoka and Dzongri, a sunrise climb to Dzongri Top over Kabru, Kangchenjunga and Pandim, and back down, in five to six walking days with a registered local team.",
+      "body": [
+        "The Dzongri trek uses the first and finest part of the Goecha La trail. Day one climbs from Yuksom to Sachen at about 2,200 m through warm forest above the Prek Chu. Day two crosses to Bakhim and climbs to Tshoka at about 3,000 m. Day three goes through the rhododendron belt to Phedang and on to the open meadows of Dzongri at about 4,020 m.",
+        "Next morning, leave by about 4 am for Dzongri Top at around 4,200 m for sunrise on the Kangchenjunga range, then descend to Tshoka. A last day returns to Yuksom.",
+        "It is moderate but still takes you above 4,000 m in four days, so fitness, a slow pace and plenty of water matter. Group departures cost roughly ₹13,000–18,000 per person including tents, food, guide and park fees. Check current status before you travel."
+      ],
+      "good_for": ["first-timers", "couples", "solo", "budget"],
+      "faqs": [
+        {"q": "How many days is the Dzongri trek?", "a": "Usually five to six walking days from Yuksom and back: Yuksom to Sachen, Sachen to Tshoka, Tshoka to Dzongri, a sunrise climb to Dzongri Top and descent to Tshoka, then Tshoka to Yuksom. With the drives from NJP, most trips are six nights in total."},
+        {"q": "Is the Dzongri trek good for beginners?", "a": "It is one of the better first high-altitude treks in Sikkim, because it is short and the views from Dzongri Top are close to those on the full trek. It still climbs above 4,000 m in four days, so you need to be fit, walk slowly and report any symptoms of altitude sickness to your guide."},
+        {"q": "How much does the Dzongri trek cost?", "a": "Group departures from Yuksom cost roughly ₹13,000–18,000 per person, including tents, food, guide, cook and park fees. Add shared transport from NJP, about ₹2,000–3,500 return, offloading at ₹400–600 a day if you want a porter, and nights in Yuksom. Figures are indicative for 2026."}
+      ]
+    },
+    {
+      "slug": "goecha-la-viewpoint-summit-day",
+      "title": "Summit day to the Goecha La viewpoint",
+      "kind": "adventure",
+      "duration": "10–12 hours",
+      "best_time": "Late Sep–Nov for clear skies; Apr–May",
+      "cost": "Part of a 10–11 night Goecha La trek, ≈ ₹22,000–30,000",
+      "image_query": "Goecha La viewpoint Kangchenjunga sunrise",
+      "wiki": "Goecha La",
+      "summary": "The long day at the heart of the Goecha La trek: a 3 am start from Lamuney, past Samiti Lake in the dark, over moraine to the viewpoint at about 4,570 m facing Kangchenjunga at sunrise, and the walk back to Thansing.",
+      "body": [
+        "Summit day begins around 3 am at Lamuney, at about 4,180 m. By headlamp, the trail passes Samiti Lake and climbs over moraine and boulders to the first viewpoint below Goecha La, at about 4,570 m by the Forest Department's figure. If the weather holds, you arrive near sunrise, with the south-east face of Kangchenjunga directly ahead.",
+        "Groups stay a short time, as cold and wind are severe, then walk back past Samiti Lake, now in daylight with Pandim reflected in it, to Thansing. The whole day covers about 14–16 km and takes 10–12 hours.",
+        "The pass itself and the higher viewpoints are closed to protect the alpine zone. Whether you go depends on weather and your health, not the schedule; a good guide will turn back if needed. Check current status before you travel."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Can I reach the actual Goecha La pass?", "a": "Normally no. Trekkers stop at the first viewpoint below the pass, at about 4,570 m by the Forest Department's figure, which faces Kangchenjunga directly. The pass itself, given as 4,940 m on Wikipedia, and the higher viewpoints have been closed to protect the alpine zone. Check current status before you travel."},
+        {"q": "What time does summit day start on the Goecha La trek?", "a": "Usually around 3 am from Lamuney, by headlamp, to reach the viewpoint near sunrise when the sky is most likely to be clear. Temperatures at that hour are well below freezing in October and November. Carry warm layers, gloves, a hat and a headlamp with spare batteries."},
+        {"q": "How hard is summit day on the Goecha La trek?", "a": "It is the hardest day: 10–12 hours and about 14–16 km over moraine and boulders, starting in the dark and reaching about 4,570 m. Fit trekkers who have acclimatised well manage it. If you feel unwell at Lamuney, tell your guide and stay back; the view is not worth the risk."}
+      ]
+    },
+    {
+      "slug": "dzongri-rhododendron-season-trek",
+      "title": "Spring trek through the rhododendron belt",
+      "kind": "nature",
+      "duration": "5–9 days on foot",
+      "best_time": "Mid-April to mid-May",
+      "cost": "≈ ₹13,000–30,000 per person, group trek",
+      "image_query": "rhododendron forest Tshoka Phedang Sikkim",
+      "wiki": "",
+      "summary": "Time the Dzongri or Goecha La trek for April and early May, when the forest between Bakhim and Phedang flowers in red, pink and white rhododendrons, with magnolias lower down and milder nights than autumn.",
+      "body": [
+        "The trail between Bakhim and Phedang climbs through one of the finest rhododendron forests in the Sikkim Himalaya. From about mid-April to mid-May, depending on the year, the trees flower in reds, pinks and whites, and the forest floor is scattered with fallen petals. Lower down, near Sachen, magnolias flower earlier in spring.",
+        "Spring nights are milder than in autumn, which suits first-time trekkers. The trade-off is more afternoon cloud, so mountain views from Dzongri Top and the Goecha La viewpoint are best in the early morning and less certain than in October.",
+        "Flowering moves uphill as spring advances, so dates matter. Tell us your dates and we will advise on timing. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "couples", "first-timers"],
+      "faqs": [
+        {"q": "When do rhododendrons bloom on the Goecha La trail?", "a": "Usually from about mid-April to mid-May in the forest between Bakhim and Phedang, with lower species flowering earlier and higher ones into May. The timing shifts each year with snow and temperature. If flowers are your main reason for trekking, aim for the last two weeks of April."},
+        {"q": "Is spring or autumn better for the Dzongri trek?", "a": "Spring, April to mid-May, brings rhododendrons, milder nights and more afternoon cloud. Autumn, late September to November, brings the clearest mountain views and very cold nights. Choose spring for forest and flowers, autumn for the best chance of seeing Kangchenjunga clearly."},
+        {"q": "Can I pick rhododendron flowers on the trek?", "a": "No. The trail is inside Khangchendzonga National Park, where collecting plants, flowers, seeds and rocks is forbidden. Photograph them instead. Stay on the trail to avoid trampling young plants, and do not break branches for firewood; cooking on the trek uses gas or kerosene."}
+      ]
+    },
+    {
+      "slug": "samiti-lake-sacred-waters",
+      "title": "Samiti Lake and the sacred landscape",
+      "kind": "spiritual",
+      "duration": "30–60 minutes on summit day",
+      "best_time": "Late Sep–Nov and Apr–May",
+      "cost": "Part of the Goecha La trek",
+      "image_query": "Samiti Lake Pandim reflection",
+      "wiki": "Samiti Lake",
+      "summary": "Pause at Samiti Lake on the way back from the Goecha La viewpoint, a glacial lake sacred to the Bhutia and Lepcha communities, where Pandim reflects in still water on calm mornings and camping is forbidden.",
+      "body": [
+        "Samiti Lake lies in the upper valley between Lamuney and the Goecha La viewpoint. On summit day you pass it in the dark, but on the way back to Thansing, in daylight, it is worth a quiet pause. On a still morning the snow ridges of Pandim reflect in its green water.",
+        "The lake is sacred to the Bhutia and Lepcha communities, part of the wider sacred landscape around Kangchenjunga that the Buddhist tradition calls Demazong. That is why the Forest Department forbids camping here, and why guides ask trekkers to keep their voices low.",
+        "Do not wash, throw anything or step into the water. Walk around prayer flags and cairns clockwise, and leave everything as you found it. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Can I camp at Samiti Lake?", "a": "No. Camping at Samiti Lake is forbidden because the lake is sacred to the Bhutia and Lepcha communities, and the Forest Department enforces the rule. Groups camp at Lamuney or Thansing and pass the lake on summit day. Check current status before you travel."},
+        {"q": "Where is Samiti Lake on the Goecha La trek?", "a": "It lies between Lamuney and the Goecha La viewpoint, at roughly 4,200–4,300 m. You pass it by headlamp on the way up to the viewpoint and again in daylight on the way back to Thansing, which is the best time to see it, often with Pandim reflected in the water."},
+        {"q": "Why is Samiti Lake sacred?", "a": "It is part of the sacred landscape around Kangchenjunga, which Sikkim's Buddhists call Demazong and the Lepcha also hold sacred. Lakes, caves and peaks in Khangchendzonga National Park are places of pilgrimage, and this is one reason UNESCO listed the park for its cultural as well as natural value."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days does the Goecha La trek take?", "a": "The classic route takes 9 walking days from Yuksom and back, so most trips are 10–11 nights from NJP including the drives. That includes a rest and acclimatisation day at Dzongri. The shorter Dzongri trek takes 5–6 days from Yuksom, about six nights from NJP."},
+    {"q": "How much does the Goecha La trek cost?", "a": "Group departures from Yuksom cost roughly ₹22,000–30,000 per person plus GST, including tents, food, guide, cook and park fees. Add ₹2,000–3,500 for shared transport from NJP and offloading at ₹400–600 a day if you want a porter. A private trek for two costs about ₹45,000–70,000 per person. Figures are indicative for 2026."},
+    {"q": "Do I need a permit for Dzongri and Goecha La?", "a": "Yes. Every trekker needs a Khangchendzonga National Park permit and must register at Yuksom through a registered trekking agency with a licensed guide. Foreign nationals also need Sikkim's Restricted Area Permit via the e-FRRO portal and a Protected Area Permit, issued to groups of two or more. Check current status before you travel."},
+    {"q": "Can I do the Goecha La trek without a guide?", "a": "No. Solo and unguided trekking is not allowed in Khangchendzonga National Park. Every group registers at Yuksom with a registered local guide, and permits are checked on the trail. A guide also matters for safety, since weather above Dzongri changes fast and summit day starts in the dark."},
+    {"q": "What is the best month for Goecha La?", "a": "October and early November give the clearest views of Kangchenjunga and the most stable weather, with very cold nights. April to mid-May is rhododendron season, with milder nights and more afternoon cloud. Avoid June to August, when monsoon rain, leeches and cloud make the trail slippery and views rare."},
+    {"q": "How difficult is the Goecha La trek?", "a": "Moderate to difficult. You climb from 1,780 m to about 4,570 m, walk 5–8 hours on most days and face a 10–12 hour summit day starting around 3 am. Previous trekking helps but is not essential if you train for six to eight weeks and can walk 10 km with a light pack comfortably."},
+    {"q": "How do I avoid altitude sickness on the Dzongri trek?", "a": "Walk slowly, drink 3–4 litres of water a day, eat well, avoid alcohol and keep the rest day at Dzongri. The trail gains about 2,200 m in three days from Yuksom. Tell your guide at once about headache, nausea or breathlessness at rest; descending is the cure for anything worse than mild symptoms."},
+    {"q": "Where do you sleep on the Goecha La trek?", "a": "Mostly in tents at designated campsites at Sachen, Tshoka, Dzongri, Thansing and Lamuney. Tshoka, Dzongri and Thansing also have basic Forest Department trekkers' huts, but in season most groups camp. Your first and last nights are in a Yuksom hotel or homestay."},
+    {"q": "Can children do the Dzongri trek?", "a": "Fit teenagers who walk regularly usually manage the Dzongri trek well with a slow pace. For younger children we do not recommend it, because the trek climbs above 4,000 m in four days and altitude sickness is harder to spot in children. A day walk from Yuksom into the forest is a better family option."}
+  ]
+}

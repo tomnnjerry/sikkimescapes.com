@@ -1,0 +1,172 @@
+{
+  "slug": "tharpu",
+  "name": "Tharpu and Mangardzong",
+  "region": "soreng",
+  "kind": "heritage site",
+  "wiki": "",
+  "image_query": "Mangardzong Tharpu Soreng Sikkim",
+  "lat": 27.1422,
+  "lng": 88.1908,
+  "altitude_m": 880,
+  "local_name": null,
+  "tagline": "The fort site of the last Mangar raja, in a warm paddy valley",
+  "meta_description": "Tharpu and Mangardzong, Soreng district: the story of Mangar raja Sintu Pati Sen and the Chogyal, Raja Tar, paddy terraces, how to get there and costs.",
+  "summary": "Tharpu is a farming village at about 880 m in Soreng district, about 13 km below Soreng town on the road to Daramdin. It holds Mangardzong, the site the district links with Sintu Pati Sen, a Mangar raja who, as told locally, defied the first Chogyal. Come for the story, the paddy terraces and a quiet half day.",
+  "intro": [
+    "Tharpu lies low in Soreng district, at about 880 m, on the road from Jorethang and Nayabazar up to Daramdin and Sombaria. It is a farming village of paddy terraces, maize and orange trees, warm for most of the year, and about 13 km by road from Soreng town. Few travellers stop, but the village holds one of the most interesting historical stories in western Sikkim.",
+    "The Soreng district administration lists Mangardzong in Tharpu as a historic site. According to local people, it says, a Mangar ruler named Sintu Pati Sen governed this area around 1600 and refused to give up his title to Chogyal Phuntsog Namgyal, the first king of Sikkim. He won a first battle, the account continues, but was later attacked with Tibetan help and killed in a meadow still called Raja Tar. The state government has been building a memorial at the site.",
+    "The Mangar, or Magar, people are one of Sikkim's Nepali-speaking communities, and the district festival page describes Barahimizong, the Mangar day of ancestor worship whose name ends in zong, fort. Visiting Tharpu is a chance to hear a history from the point of view of a community that rarely features in Sikkim's royal chronicles. Combine it with Daramdin, 6 km up the road, and a walk through the paddy fields."
+  ],
+  "story": {
+    "title": "Barahimizong and the meaning of zong",
+    "text": "The Soreng district administration's festival page describes Barahimizong, a festival of the Mangar (Magar) community observed on the fifth day of Mangar Purnima. In the Mangar language, it explains, barahi means god, minaat or mi means worship or prayer, and zong means fort, and the festival is named for the day the Mangar worship their forefathers, their kul devta. The same word, zong, ends the name of Mangardzong in Tharpu, which the district describes as the seat of Sintu Pati Sen, a Mangar raja who, according to local people, ruled here around 1600 and refused to surrender his title to Chogyal Phuntsog Namgyal. Wikipedia's Magars article notes that the name is also spelled Mangar and Mongar, and that Magars are native to Nepal and Northeast India. We have not found a written source that ties its celebration specifically to Tharpu, so ask locally whether a gathering is held at the Mangardzong site.",
+    "source": "Soreng district administration, soreng.nic.in (Festivals; Mangardzong); Wikipedia: Magars"
+  },
+  "little_known": [
+    {"fact": "The district dates Sintu Pati Sen's rule to around 1600, according to local people, while Wikipedia gives 1642 for Phuntsog Namgyal's consecration as first Chogyal, so the dates in the oral account are approximate.", "source": "soreng.nic.in (Mangardzong); Wikipedia: Phuntsog Namgyal"},
+    {"fact": "The meadow where, according to the local account, the Mangar raja was finally killed is still called Raja Tar, tar being the Nepali word for a flat stretch of land.", "source": "soreng.nic.in (Mangardzong); as told locally"},
+    {"fact": "The district festival page explains Barahimizong word by word: barahi means god, mi or minaat means worship, and zong means fort, the same zong as in Mangardzong.", "source": "soreng.nic.in (Festivals)"}
+  ],
+  "facts": [
+    ["Best months", "October–March"],
+    ["Nights we suggest", "0 (half day from Soreng or Daramdin)"],
+    ["From Gangtok", "≈ 110 km · 4.5–5 h via Jorethang"],
+    ["Altitude", "≈ 880 m"],
+    ["Known for", "Mangardzong fort site, Mangar history, paddy terraces"],
+    ["Permit", "Not needed for Indians; foreigners need Sikkim's RAP (e-FRRO)"]
+  ],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Mangardzong, the Mangar raja's fort site", "text": "The site the district links with Sintu Pati Sen, a Mangar ruler who, as told locally, refused to surrender his title to the first Chogyal and was later killed after a Tibetan-backed attack. The government has been building a memorial here; check current status before you travel."},
+    {"title": "Raja Tar", "text": "The meadow where, according to the local account, the raja was chased through the jungle and killed. It keeps the name Raja Tar, the king's flat. Ask a local guide to point it out and tell the story; there is no signboard we know of."},
+    {"title": "Paddy terraces through the year", "text": "At about 880 m, Tharpu is warm enough for paddy. Fields are flooded and planted around June and July, turn green through the monsoon and gold before harvest in October and November. The district site lists paddy cultivation among things visitors can see here."},
+    {"title": "A Mangar perspective on Sikkim's history", "text": "Most Sikkim histories follow the Chogyals. Mangardzong tells the story of a ruler who resisted them, preserved by the Mangar community and recorded by the district. Hearing it on the spot, from local people, adds depth to visits to Rabdentse and other royal sites."},
+    {"title": "Walk on to Daramdin", "text": "Daramdin, about 6 km up the road, has its own Lepcha story of a tower of clay pots and village homestays. Walking or driving between the two in a morning gives you two of the district's oral histories in one half day."},
+    {"title": "Warm winter days", "text": "From November to February, when Rinchenpong and Okhrey are cold, Tharpu's days often reach 18–22 °C. That makes it a comfortable stop for families and older travellers, though it gets hot and humid from April and very wet from June."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Jeeps between Jorethang and Daramdin or Sombaria pass through Tharpu, about an hour from Jorethang for roughly ₹70–120 a seat. Ask the driver to drop you at Tharpu. From Siliguri, take a shared jeep to Jorethang (3.5–4 hours, ₹250–350) and change. Returning, flag down a jeep on the main road."},
+    {"mode": "Private car", "text": "Tharpu is about 23 km from Jorethang via the Akar bridge and Nayabazar, about 13 km from Soreng town and 6 km below Daramdin. A small car for a half-day visit from Soreng or Daramdin costs about ₹1,500–2,000. From Gangtok, allow 4.5–5 hours for about 110 km via Melli and Jorethang."},
+    {"mode": "From Bagdogra / NJP", "text": "Tharpu is roughly 110–120 km from Bagdogra and NJP, 4–4.5 hours by car via Sevoke, Melli and Jorethang, about ₹4,500–6,000 for a small car. NH10 along the Teesta closes after monsoon slides, when drivers go via Kalimpong or Darjeeling. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Jorethang–Tharpu", "≈ ₹70–120 a seat"],
+    ["Half-day car from Soreng", "≈ ₹1,500–2,000"],
+    ["Local guide", "≈ ₹500–1,000"],
+    ["Meal (thali) nearby", "≈ ₹120–200"],
+    ["Mangardzong entry", "No fee known; check on site"]
+  ],
+  "where_to_stay": "Tharpu has no tourist accommodation that we would book. The district site lists The Orchid Hotel and Hotel Namgjong in Soreng town and Mustang Homestay for visitors to Mangardzong; The Orchid Hotel at Pragati Chowk costs about ₹1,500–3,000 a room. Daramdin, 6 km up the road, has village homestays with Limbu and Lepcha families at about ₹1,200–2,000 per person with meals. Most travellers see Tharpu as a half day from either base.",
+  "stays": ["the-orchid-hotel-soreng"],
+  "tips": [
+    "Go with a local guide; the story of Sintu Pati Sen is told best by people whose families have kept it.",
+    "Check whether memorial construction at Mangardzong is complete before making a special trip.",
+    "Visit from October to March, when the valley is dry and pleasant; April to September is hot, humid and wet.",
+    "Carry water, a hat and sunscreen; Tharpu is low and sunny compared with the ridges.",
+    "Combine Tharpu with Daramdin, 6 km up the road, and sleep in Daramdin or Soreng."
+  ],
+  "themes": ["crafts-and-culture", "offbeat-sikkim", "village-homestays"],
+  "nearby": ["daramdin", "soreng", "sombaria", "jorethang"],
+  "experiences": [
+    {
+      "slug": "tharpu-mangardzong-story-visit",
+      "title": "Mangardzong and the story of the Mangar raja",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Morning, October–March",
+      "cost": "Free; local guide ≈ ₹500–1,000",
+      "image_query": "Mangardzong Tharpu Sikkim",
+      "wiki": "",
+      "summary": "Visit the Mangardzong site in Tharpu with a local guide and hear how Sintu Pati Sen, a Mangar raja, is remembered as refusing to surrender his title to Sikkim's first Chogyal, winning a battle and finally being killed at Raja Tar.",
+      "body": [
+        "The Soreng district administration lists Mangardzong as a historic site in Tharpu. Its account, which it attributes to local people, says that around 1600 a Mangar ruler, Sintu Pati Sen, governed this area. In the time of Chogyal Phuntsog Namgyal, other rulers in Sikkim surrendered their titles, but Sintu Pati Sen refused and went to war against the Chogyal. He won. Later, the account says, the Chogyal attacked Mangardzong with Tibetan soldiers, chased the raja through the jungle, and killed him in a meadow still known as Raja Tar.",
+        "We tell this as the district does: an oral history kept by the community. Wikipedia gives 1642 for Phuntsog Namgyal's consecration, so the date of around 1600 should be read loosely. What matters is the perspective. Most written histories of Sikkim follow the Namgyal dynasty; Mangardzong preserves the memory of a ruler who resisted it, and of the Mangar people who lived here before the kingdom took its later shape.",
+        "The state government has been building a memorial at the site, and the district described it as under construction; check current status before you travel. A local guide, about ₹500–1,000, can show you the site and, if possible, Raja Tar, and tell the story in the version his or her family knows. Allow about two hours. Be respectful at any shrine or memorial, and ask before photographing people."
+      ],
+      "good_for": ["families", "solo", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Who was Sintu Pati Sen?", "a": "According to the Soreng district administration, drawing on local accounts, he was a Mangar raja who ruled the Tharpu area around 1600, refused to surrender his title to Chogyal Phuntsog Namgyal, won a first battle, and was later killed at Raja Tar after an attack with Tibetan help. We present it as oral history."},
+        {"q": "Is the Mangardzong memorial open to visitors?", "a": "The district has described the memorial as under construction by the state government. The site can usually be seen, but facilities and access may change as work progresses. Check current status before you travel, and ask us or locals in Soreng before making a special trip."},
+        {"q": "How long should I spend at Mangardzong?", "a": "About two hours with a guide, including the story and, if possible, a look at Raja Tar. It fits easily into a half day from Soreng or Daramdin, and combines well with Daramdin's Stairway to Heaven site, about 6 km up the road."}
+      ]
+    },
+    {
+      "slug": "tharpu-paddy-terrace-walk",
+      "title": "Paddy terrace walk in the Tharpu valley",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "July for planting; October–November for harvest",
+      "cost": "Free; guide ≈ ₹500–800",
+      "image_query": "paddy terraces Sikkim harvest",
+      "wiki": "",
+      "summary": "Walk the paddy terraces around Tharpu, warm enough at about 880 m for rice, which the district lists among things visitors can see. Green in the monsoon, gold before the October–November harvest, and worked by hand.",
+      "body": [
+        "Rice needs warmth and water, and Tharpu, at about 880 m in a sheltered valley, has both. The district site lists paddy cultivation among the activities visitors can see here. Terraces are flooded and planted by hand around June and July, often by groups of neighbours working together, and harvested in October and November, when sheaves are cut, stacked and threshed on the terraces themselves.",
+        "A walk along the bunds, the narrow earth walls between terraces, shows how much work these fields take. A local guide, about ₹500–800, can explain how water is channelled from springs and streams, which families share labour at planting and harvest, and how paddy fits alongside maize, vegetables and oranges on the higher slopes. Ask before joining in or photographing people at work.",
+        "Allow about two hours. October and November are the most comfortable months, with harvest under way and clear skies. July is wet and humid, with leeches on the bunds, but the planting is worth seeing if you do not mind the rain. Wear shoes you do not mind getting muddy, stay on the bunds and never walk through standing crops."
+      ],
+      "good_for": ["photographers", "families", "couples", "budget"],
+      "faqs": [
+        {"q": "When is paddy harvested in Tharpu?", "a": "Usually in October and November, depending on the year's rains. Planting is around June and July. The Soreng district site lists paddy cultivation among things visitors can see in Tharpu, and harvest time is the most comfortable and photogenic season to visit."},
+        {"q": "Can visitors help with paddy planting or harvest?", "a": "Sometimes, if a family invites you, but it is their livelihood, not a show. Go with a local guide, ask first, and accept a no politely. Watching and asking questions is welcome; wading into fields uninvited is not."},
+        {"q": "Is the terrace walk suitable for children?", "a": "Yes, with care. Bunds are narrow and slippery when wet, so hold small children's hands and avoid the monsoon months. October and November are the best time, when fields are drier and the weather is pleasant."}
+      ]
+    },
+    {
+      "slug": "tharpu-to-daramdin-valley-walk",
+      "title": "Walk from Tharpu up to Daramdin",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "October–March, morning",
+      "cost": "Free",
+      "image_query": "Soreng district Sikkim farmland road",
+      "wiki": "",
+      "summary": "Walk about 6 km up the road and village paths from Tharpu to Daramdin, climbing gently through paddy, maize and orange trees, and finish at the Stairway to Heaven site and a village lunch. Two oral histories joined by an easy morning on foot.",
+      "body": [
+        "Tharpu and Daramdin are about 6 km apart on the road that climbs from Jorethang towards Sombaria, with a gain of roughly 70–100 m, so the walk is gentle by Sikkim standards. The road winds through paddy terraces, maize fields, bamboo and orange trees, with houses and small shops along the way. Village paths cut some corners; ask locally before taking them.",
+        "Start after visiting Mangardzong and hearing the story of the Mangar raja, and end in Daramdin with the Lepcha story of the tower of clay pots at the Stairway to Heaven site. Between them, the two places hold oral histories from two different communities, a reminder of how mixed this corner of Sikkim is. Lunch at a Daramdin eatery or homestay costs about ₹120–250.",
+        "Allow about two hours at an easy pace. Walk facing traffic and step off the road when jeeps pass; drivers take bends fast. Carry water, a hat and sunscreen, since the valley is sunny and warm even in winter. From April it gets hot, and from June to September wet and leech-ridden, so October to March is best."
+      ],
+      "good_for": ["solo", "couples", "families", "budget"],
+      "faqs": [
+        {"q": "How far is Daramdin from Tharpu?", "a": "About 6 km by road, with a gentle climb of roughly 70–100 m. Most people walk it in about two hours with stops. A jeep or car covers it in 10–15 minutes if you prefer to drive one way."},
+        {"q": "Is the Tharpu to Daramdin walk on a road?", "a": "Mostly yes, on the main road with light traffic, plus a few village short-cuts. Walk facing traffic and step well aside for vehicles on bends. Ask locally before using short-cuts through fields and keep to the paths."},
+        {"q": "What is the best time for the Tharpu to Daramdin walk?", "a": "October to March, in the morning, when it is dry and comfortably warm. From April the valley gets hot and humid, and from June to September rain, mud and leeches make walking unpleasant."}
+      ]
+    },
+    {
+      "slug": "tharpu-lower-soreng-loop-drive",
+      "title": "Lower Soreng loop: Soreng, Tharpu and Daramdin",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "October–March",
+      "cost": "Small car ≈ ₹2,000–2,500",
+      "image_query": "Soreng Sikkim valley villages",
+      "wiki": "",
+      "summary": "A half-day drive from Soreng down to Tharpu's Mangardzong site and up to Daramdin's Stairway to Heaven, with a stop at the Sarva Dharma Kendra and a village lunch. Two oral histories and the warm farm valleys of lower Soreng district.",
+      "body": [
+        "This loop links the lower villages of Soreng district that most visitors drive straight past. From Soreng town, the road drops about 13 km to Tharpu at about 880 m, where you visit the Mangardzong site and hear the story of the Mangar raja Sintu Pati Sen. From there it is about 6 km up to Daramdin, whose name comes from the Lepcha word for flat land, for the Stairway to Heaven site and the clay-pot tower story.",
+        "In Daramdin, stop at the Sri Sathya Sai Sarva Dharma Kendra, which Wikipedia names as the village's main attraction, and eat lunch at a local eatery or homestay. Return to Soreng by the direct road, about 15 km, or carry on up to Sombaria and Okhrey if you are heading for Barsey. The whole loop is about 35 km and takes four to five hours with stops.",
+        "A small car for the half day costs about ₹2,000–2,500. A local guide, about ₹500–1,000, adds the stories at both sites. October to March is best; the valleys are warm and humid in summer and wet in the monsoon. Check current status of the memorial work at both Mangardzong and the Stairway to Heaven before you go."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "How long does the lower Soreng loop take?", "a": "About four to five hours for roughly 35 km, including time at Mangardzong, the Stairway to Heaven site in Daramdin and lunch. It fits a morning or an afternoon from Soreng, or can be done on the way to Sombaria and Okhrey."},
+        {"q": "How much does a car for the loop cost?", "a": "About ₹2,000–2,500 for a small car for the half day from Soreng, indicative 2026 rates. Agree the route and waiting time with the driver first. Adding a local guide costs about ₹500–1,000 more."},
+        {"q": "Can I do the loop by shared jeep?", "a": "Partly. Jeeps run between Jorethang, Tharpu, Daramdin and Sombaria, and between Daramdin and Soreng, but waits can be long and services thin out after midday. A reserved car is much easier for a half day."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Tharpu in Sikkim?", "a": "Tharpu is a village in Soreng district, which was part of West Sikkim until December 2021. It lies at about 880 m on the road from Jorethang to Daramdin and Sombaria, about 23 km from Jorethang, 13 km below Soreng town and 6 km below Daramdin."},
+    {"q": "What is Mangardzong?", "a": "A historic site in Tharpu that the Soreng district administration links with Sintu Pati Sen, a Mangar raja who, according to local people, ruled around 1600, refused to surrender his title to the first Chogyal and was later killed at Raja Tar. The state government has been building a memorial there."},
+    {"q": "Is Tharpu worth visiting?", "a": "Yes, as a half day, for travellers interested in history and village life. The Mangardzong story offers a rare non-royal view of Sikkim's past, and the paddy terraces are lovely at harvest. There are no hotels or big viewpoints, so sleep in Soreng or Daramdin."},
+    {"q": "How do I get to Tharpu?", "a": "By car, about 23 km from Jorethang via Nayabazar or 13 km from Soreng town. Shared jeeps between Jorethang and Daramdin or Sombaria pass through; ask to be dropped at Tharpu. From Siliguri or NJP, allow 4–4.5 hours by car. NH10 closes after monsoon slides; check current status before you travel."},
+    {"q": "Who are the Mangar people?", "a": "The Mangar, also spelled Magar or Mongar, are a Tibeto-Burman community native to Nepal and Northeast India, according to Wikipedia, and one of Sikkim's Nepali-speaking communities. The Soreng district site describes their festival Barahimizong, a day of ancestor worship. Mangardzong in Tharpu is tied to their history in Sikkim."},
+    {"q": "Do I need a permit to visit Tharpu?", "a": "Indian nationals do not need a special permit. Foreign nationals need Sikkim's Restricted Area Permit, applied for online on the e-FRRO portal after arriving in India since January 2026. Sikkim's ₹50 tourist fee is collected by accommodation. Check current status before you travel."},
+    {"q": "Is there an entry fee at Mangardzong?", "a": "We are not aware of one, but the site has been under development as a memorial, and fees or opening hours may be introduced. Check on site or ask us before you travel. A local guide costs about ₹500–1,000 and is the best way to hear the story."},
+    {"q": "What is the weather like in Tharpu?", "a": "Warm. At about 880 m, winter days often reach 18–22 °C, with cool nights. From April it becomes hot and humid, and June to September bring heavy rain. October to March is the best time to visit, with clear skies and harvest activity in October and November."},
+    {"q": "Where should I stay when visiting Tharpu?", "a": "In Soreng town, about 13 km away, where The Orchid Hotel and other budget hotels cost about ₹1,500–3,000 a room, or in Daramdin, 6 km up the road, in village homestays at about ₹1,200–2,000 per person with meals. Tharpu itself has no tourist accommodation we would book."}
+  ]
+}

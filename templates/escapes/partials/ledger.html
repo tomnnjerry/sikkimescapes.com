@@ -1,0 +1,1 @@
+{% if facts %}<dl class="ledger{% if dark %} ledger--dark{% endif %}">{% for k, v in facts %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}</dl>{% endif %}

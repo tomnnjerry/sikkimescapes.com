@@ -1,37 +1,108 @@
-{% extends "tales/base.html" %}
-{% block title %}Season finder: where to go in Nepal and India each month · Tales of Luxury{% endblock %}
-{% block description %}Choose a month and see which places in Nepal, Rajasthan, Ladakh, North East India, Kerala, Goa and UP &amp; Bihar are at their best.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim season finder: where to go each month · Sikkim Escapes{% endblock %}
+{% block description %}Choose a month and, if you like, a district. See which Sikkim places are at their best or good that month, from Gangtok and Pelling to Lachung and Zuluk.{% endblock %}
+{% block og_title %}Sikkim season finder · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Trip tool 01</p><h1 class="h-xl">Season <span class="accent">finder</span></h1>
-  <p class="lede">Choose a month. Places rated best for that month come first, then good ones.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px">
-  <div class="filters" role="group" aria-label="Month">{% for m in months %}<button type="button" class="js-month" data-m="{{ forloop.counter0 }}" aria-pressed="{% if forloop.counter0 == now %}true{% else %}false{% endif %}">{{ m|slice:":3" }}</button>{% endfor %}</div>
-  <div class="filters" role="group" aria-label="Land"><button type="button" class="js-land" data-r="" aria-pressed="true">All lands</button>{% for r in regions %}<button type="button" class="js-land" data-r="{{ r.slug }}" aria-pressed="false">{{ r.name }}</button>{% endfor %}</div>
-  <p class="tool-out" style="color: var(--brass-ink)" aria-live="polite" id="sf-head"></p>
-  <div class="grid grid--2" id="sf-out"></div>
-  <noscript><p>The season finder needs JavaScript. The <a href="{% url 'seasons' %}">season almanac</a> shows the same information without it.</p></noscript>
+{% include "escapes/partials/phero.html" with h_title="Season finder" h_kicker="Trip tools" h_lede="Pick a month. Places rated best for that month come first, then the good ones. Narrow it to one district if you already know where you are going." h_seed="season-finder" %}
+
+<section class="sec" aria-labelledby="sf-h">
+  <div class="wrap">
+    <h2 class="sr" id="sf-h">Choose a month and district</h2>
+    <form class="filters" id="sf-form" onsubmit="return false" aria-label="Season finder">
+      <div role="group" aria-label="Month" style="display:flex;gap:6px;flex-wrap:wrap">
+        {% for m in months %}<button type="button" class="js-month" data-m="{{ forloop.counter0 }}" aria-pressed="{% if forloop.counter0 == now %}true{% else %}false{% endif %}" aria-label="{{ m }}">{{ m|slice:":3" }}</button>{% endfor %}
+      </div>
+      <label class="sr" for="sf-region">District</label>
+      <select id="sf-region">
+        <option value="">All six districts</option>
+        {% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}
+      </select>
+    </form>
+
+    <div aria-live="polite">
+      <p class="kicker" id="sf-kicker">Where to go</p>
+      <h2 class="h2" id="sf-head">Sikkim at its best</h2>
+      <p class="muted" id="sf-sub"></p>
+      <div class="split mt" style="align-items:start">
+        <div class="stack--s" id="sf-out"></div>
+        <aside class="side">
+          <div class="panel">
+            <h3>Read the month</h3>
+            <p class="small muted">Weather, road notes and what is on, for the month you picked.</p>
+            <div class="btns"><a class="btn btn--ghost btn--sm" id="sf-month-link" href="{% url 'seasons' %}">Sikkim this month</a><a class="btn btn--ghost btn--sm" id="sf-region-link" href="{% url 'lands' %}" hidden>District in this month</a></div>
+          </div>
+          <div class="panel panel--dark">
+            <h3>Want it priced</h3>
+            <p class="small">Tell us the month and the people travelling. We send a day-by-day plan with every cost listed.</p>
+            <a class="btn btn--foil btn--block" id="sf-plan" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="season-tool">Get my price</a>
+          </div>
+        </aside>
+      </div>
+    </div>
+    <noscript><div class="empty mt">The season finder needs JavaScript. The <a href="{% url 'seasons' %}">season guide</a> shows the same ratings district by district.</div></noscript>
+  </div>
 </section>
+
+<section class="sec sec--paper2 sec--tight" aria-labelledby="sf-how">
+  <div class="wrap wrap--narrow">
+    <p class="kicker">How we rate</p>
+    <h2 class="h3" id="sf-how">Best, good and not now</h2>
+    <p class="muted">Every place carries a 12-month rating from the Gangtok desk. Best means clear weather, open roads and the reason you came (flowers, snow, views or a festival). Good means worth it with a caveat, such as cloud or cold. Places not shown are closed by snow, cut off by monsoon slides, or simply better another time. Roads and permits change every year: check current status before you travel.</p>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" %}
 {% endblock %}
 {% block scripts %}
 <script>
 (function () {
   var data = {{ data|safe }};
-  var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  var MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  var REGIONS = { {% for r in regions %}"{{ r.slug }}": "{{ r.name|escapejs }}"{% if not forloop.last %}, {% endif %}{% endfor %} };
+  var monthUrl = "{% url 'sikkim_month' 'january' %}";
+  var regionUrl = "{% url 'region_month' 'east-sikkim' 'january' %}";
+  var planUrl = "{% url 'plan' %}?from={{ request.path|urlencode }}";
   var m = {{ now }}, r = "";
-  var out = document.getElementById("sf-out"), head = document.getElementById("sf-head");
-  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]; }); }
-  function draw() {
-    var rows = data.filter(function (p) { return p.b[m] > 0 && (!r || p.rs === r); }).sort(function (a, b) { return b.b[m] - a.b[m]; });
-    head.textContent = "At their best in " + months[m];
-    out.innerHTML = rows.map(function (p) {
-      return '<a class="result" href="' + esc(p.u) + '">' + (p.i ? '<img src="' + esc(p.i.split("?")[0]) + '" alt="" loading="lazy">' : '<span></span>') +
-        '<span><b>' + esc(p.n) + '</b><br><span class="small muted">' + esc(p.r) + ' · ' + esc(p.k) + '</span></span>' +
-        '<span class="chip">' + (p.b[m] === 2 ? "Best" : "Good") + '</span></a>';
-    }).join("") || '<p class="muted">Nothing rated well for this combination. Try another month.</p>';
+  var out = document.getElementById("sf-out"), head = document.getElementById("sf-head"), sub = document.getElementById("sf-sub");
+  var sel = document.getElementById("sf-region");
+  try { var q = new URLSearchParams(location.search); if (q.get("land") && REGIONS[q.get("land")]) { r = q.get("land"); sel.value = r; } var qm = MONTHS.map(function (x) { return x.toLowerCase(); }).indexOf((q.get("month") || "").toLowerCase()); if (qm > -1) m = qm; } catch (e) {}
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[c]; }); }
+  function row(p) {
+    var img = p.i ? '<img src="' + esc(p.i) + '" alt="" loading="lazy" width="64" height="48" style="width:64px;height:48px;object-fit:cover;border-radius:8px;flex:none">' : "";
+    return '<a href="' + esc(p.u) + '"><span style="display:flex;gap:14px;align-items:center;min-width:0">' + img +
+      '<span><b>' + esc(p.n) + '</b><br><span class="small muted">' + esc(p.r) + (p.k ? ' · ' + esc(p.k) : '') + '</span></span></span>' +
+      '<span class="chip' + (p.b[m] === 2 ? ' chip--budget' : '') + '">' + (p.b[m] === 2 ? 'Best' : 'Good') + '</span></a>';
   }
-  document.querySelectorAll(".js-month").forEach(function (b) { b.addEventListener("click", function () { m = +b.dataset.m; document.querySelectorAll(".js-month").forEach(function (o) { o.setAttribute("aria-pressed", String(o === b)); }); draw(); }); });
-  document.querySelectorAll(".js-land").forEach(function (b) { b.addEventListener("click", function () { r = b.dataset.r; document.querySelectorAll(".js-land").forEach(function (o) { o.setAttribute("aria-pressed", String(o === b)); }); draw(); }); });
+  function group(title, list) {
+    if (!list.length) return "";
+    return '<div><h3 class="h3">' + esc(title) + ' <span class="small muted">' + list.length + ' place' + (list.length === 1 ? '' : 's') + '</span></h3><div class="result-list">' + list.map(row).join("") + '</div></div>';
+  }
+  function draw() {
+    var pool = data.filter(function (p) { return !r || p.rs === r; });
+    var byName = function (a, b) { return a.n.localeCompare(b.n); };
+    var best = pool.filter(function (p) { return p.b[m] === 2; }).sort(byName);
+    var good = pool.filter(function (p) { return p.b[m] === 1; }).sort(byName);
+    var where = r ? REGIONS[r] : "Sikkim";
+    head.textContent = where + " in " + MONTHS[m];
+    sub.textContent = best.length + good.length ? (best.length + " at their best, " + good.length + " good. " + (pool.length - best.length - good.length) + " better another month.") : "";
+    out.innerHTML = (group("At their best", best) + group("Good, with a caveat", good)) ||
+      '<div class="empty">Nothing in ' + esc(where) + ' is rated well for ' + esc(MONTHS[m]) + '. Try a neighbouring month or another district, or <a href="' + esc(planUrl) + '">ask us</a>.</div>';
+    var slug = MONTHS[m].toLowerCase();
+    var ml = document.getElementById("sf-month-link"), rl = document.getElementById("sf-region-link");
+    ml.href = monthUrl.replace("january", slug);
+    ml.textContent = "Sikkim in " + MONTHS[m];
+    if (r) { rl.hidden = false; rl.href = regionUrl.replace("east-sikkim", r).replace("january", slug); rl.textContent = REGIONS[r] + " in " + MONTHS[m]; } else { rl.hidden = true; }
+    document.getElementById("sf-plan").href = planUrl + "&month=" + encodeURIComponent(MONTHS[m]) + (r ? "&land=" + r : "");
+  }
+  document.querySelectorAll(".js-month").forEach(function (b) {
+    b.setAttribute("aria-pressed", String(+b.getAttribute("data-m") === m));
+    b.addEventListener("click", function () {
+      m = +b.getAttribute("data-m");
+      document.querySelectorAll(".js-month").forEach(function (o) { o.setAttribute("aria-pressed", String(o === b)); });
+      draw();
+    });
+  });
+  sel.addEventListener("change", function () { r = sel.value; draw(); });
   draw();
 })();
 </script>

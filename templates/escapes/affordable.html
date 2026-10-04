@@ -1,0 +1,92 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Affordable Sikkim: budget packages and real costs · Sikkim Escapes{% endblock %}
+{% block description %}Sikkim on a budget, honestly priced: packages from under ₹10,000 per person, real shared-jeep fares, homestay and room rates, permit fees and the costs people forget.{% endblock %}
+{% block og_title %}Affordable Sikkim, priced honestly{% endblock %}
+{% block og_image %}{% with img=bands.0.journeys.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block content %}
+{% include "escapes/partials/phero.html" with h_title="Affordable Sikkim" h_kicker="Honest prices" h_lede="Most people in Sikkim travel by shared jeep and sleep in family-run lodges and homestays. So can you. Here is every package by price band, with the real costs of jeeps, rooms and permits so you can budget before you talk to us." h_seed="affordable" %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="answer"><b>Short answer</b><p>A Gangtok weekend with shared jeeps and a budget hotel can cost under ₹10,000 per person from NJP. A 5–6 night trip that includes North Sikkim usually starts around ₹13,000–20,000 per person on a budget. Every price here is indicative, per person, twin sharing, and every package shows how it breaks down. Check current status before you travel.</p></div>
+  </div>
+</section>
+
+<section class="sec" style="padding-top:0" aria-labelledby="bands-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Start from your budget" sh_title="Four price bands" sh_id="bands-h" sh_text="Per person, twin sharing, from Bagdogra, NJP or Gangtok." %}
+    <div class="bands">
+      {% for b in bands %}<a class="bandcard{% if forloop.first %} bandcard--hot{% endif %} rv" href="{% url 'band' b.slug %}">{% icon "rupee" %}<small>Per person</small><b>{{ b.name }}</b><small>{% if b.journeys %}{{ b.journeys|length }} package{{ b.journeys|length|pluralize }} · from {{ b.journeys.0.price_from_inr|inr }}{% else %}Built to order{% endif %}</small></a>{% endfor %}
+    </div>
+
+    <div class="mt" data-tabs>
+      <div class="tabs" role="tablist" aria-label="Packages by price band">
+        {% for b in bands %}{% if b.journeys %}<button class="tab" type="button" id="tab-{{ b.slug }}" aria-controls="panel-{{ b.slug }}"{% if forloop.first %} aria-selected="true"{% endif %}>{{ b.name }} <small>{{ b.journeys|length }}</small></button>{% endif %}{% endfor %}
+      </div>
+      {% for b in bands %}{% if b.journeys %}<div id="panel-{{ b.slug }}" role="tabpanel" aria-labelledby="tab-{{ b.slug }}">
+        <div class="grid g3" data-fill>{% for j in b.journeys|slice:":6" %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+        <p class="mt" style="margin-top:20px"><a class="linkarrow" href="{% url 'band' b.slug %}">All {{ b.journeys|length }} package{{ b.journeys|length|pluralize }} {{ b.name|lower }} {% icon "arrow" %}</a></p>
+      </div>{% endif %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+{% if regions %}<section class="sec sec--paper2" aria-labelledby="dist-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="By district" sh_title="The cheapest way into each district" sh_id="dist-h" %}
+    <div class="grid g3">
+      {% for row in regions %}<div class="panel rv" data-land="{{ row.r.slug }}">
+        <p class="kicker" style="margin-bottom:6px">{% icon row.r.icon %} {{ row.r.name }}</p>
+        {% if row.cheapest %}{% with j=row.cheapest.0 %}<h3 class="h3" style="margin-bottom:6px"><a href="{{ j.url }}" style="text-decoration:none">{{ j.title }}</a></h3>
+        <p class="small muted">{{ j.nights }} nights · {{ j.tier_obj.name }}</p>
+        <span class="price"><small>From, per person</small><b>{{ row.from|inr }}</b></span>{% endwith %}
+        {% else %}<p class="small muted">No package listed yet. We price trips here to order.</p>{% endif %}
+        <p style="margin:14px 0 0"><a class="linkarrow small" href="{% url 'region_budget' row.r.slug %}">{{ row.r.name }} on a budget {% icon "arrow" %}</a></p>
+      </div>{% endfor %}
+    </div>
+  </div>
+</section>{% endif %}
+
+{% if costs %}<section class="sec" aria-labelledby="costs-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Real costs" sh_title="What things cost on the ground" sh_id="costs-h" sh_text="Indicative 2026 prices we see on the ground, place by place. Fares and rates change with season and fuel prices: check current status before you travel." %}
+    <dl class="costs">{% for c in costs %}<div><dt>{{ c.label }}<small><a href="{{ c.place.url }}">{{ c.place.name }}</a></small></dt><dd>{{ c.value }}</dd></div>{% endfor %}</dl>
+    <p class="mt" style="margin-top:24px"><a class="btn btn--ghost" href="{% url 'tool_budget' %}">{% icon "rupee" %} Work out your own trip cost</a></p>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--paper2" aria-labelledby="save-h">
+  <div class="wrap split split--even">
+    <div>
+      <p class="kicker">Spend less</p>
+      <h2 class="h2" id="save-h">Six ways to bring the price down</h2>
+      <p class="lede">None of these make the trip worse. Most make it slower and more local, which is usually better.</p>
+    </div>
+    <ol class="numlist">
+      <li><span>Share the car: four to six people in one vehicle cuts the biggest cost per head.</span></li>
+      <li><span>Use shared jeeps for long transfers such as NJP to Gangtok, priced per seat.</span></li>
+      <li><span>Sleep in homestays at about ₹1,200–2,500 per person with meals.</span></li>
+      <li><span>Travel from June to mid-September or in late January and February, outside the New Year week.</span></li>
+      <li><span>Stay two nights per stop. Fewer moves means fewer car days.</span></li>
+      <li><span>Budget the extras: the ₹50 Sikkim tourist fee, Zero Point cab charges, heaters and tips.</span></li>
+    </ol>
+  </div>
+</section>
+
+{% if budget_stays %}<section class="sec" aria-labelledby="bs-h">
+  <div class="wrap">
+    {% url 'homestays' as hs_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Budget stays" sh_title="Clean, simple rooms we book" sh_id="bs-h" sh_more_url=hs_url sh_more="Homestays" %}
+    <div class="grid g3" data-fill>{% for s in budget_stays %}{% include "escapes/partials/card_stay.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+{% if money %}<section class="sec sec--paper2" aria-labelledby="mg-h">
+  <div class="wrap">
+    {% url 'guides' as g_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Money guides" sh_title="Costs, explained district by district" sh_id="mg-h" sh_more_url=g_url sh_more="Every guide" %}
+    <div class="grid g3" data-fill>{% for g in money %}{% include "escapes/partials/card_guide.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec"><div class="wrap wrap--narrow">{% include "escapes/partials/faq.html" with faq_title="Budget questions" %}</div></section>
+{% include "escapes/partials/cta.html" with cta_title="Tell us your budget, we will build around it" %}
+{% endblock %}

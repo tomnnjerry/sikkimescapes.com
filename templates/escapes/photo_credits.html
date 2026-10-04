@@ -1,16 +1,24 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Photo credits · Tales of Luxury{% endblock %}
-{% block description %}Every photograph on Tales of Luxury comes from Wikimedia Commons under a free licence. Authors, licences and source links for every photo.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Photo credits · Sikkim Escapes{% endblock %}
+{% block description %}Every photograph on Sikkim Escapes comes from Wikimedia Commons under a free licence. Authors, licences and links to the original files.{% endblock %}
+{% block og_title %}Photo credits · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Photo credits</p><h1 class="h-xl">Every photograph, <span class="accent">credited</span></h1>
-  <p class="lede">Every photograph on this site comes from Wikimedia Commons under a free licence (CC0, public domain, CC BY or CC BY-SA). We thank each photographer. If you are an author and want a photo credited differently or removed, write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a>.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px"><div class="tbl-wrap"><table class="tbl">
-  <thead><tr><th scope="col">Photo</th><th scope="col">File</th><th scope="col">Author</th><th scope="col">Licence</th><th scope="col">Used for</th></tr></thead>
-  <tbody>{% for img in images %}<tr>
-    <td><img src="{{ img|src:500 }}" alt="" loading="lazy" style="width: 88px; height: 60px; object-fit: cover; border-radius: 4px"></td>
-    <td><a href="{{ img.source }}" rel="noopener" target="_blank">{{ img.file|slice:"5:" }}</a></td>
-    <td>{{ img.author }}</td>
-    <td>{% if img.license_url %}<a href="{{ img.license_url }}" rel="noopener license" target="_blank">{{ img.license }}</a>{% else %}{{ img.license }}{% endif %}</td>
-    <td class="small">{{ img.used_for }}</td></tr>{% endfor %}</tbody></table></div></section>
+{% include "escapes/partials/phero.html" with h_title="Every photo, credited" h_kicker="Photo credits" h_lede="Every photograph on this site comes from Wikimedia Commons under a free licence (public domain, CC0, CC BY or CC BY-SA). We thank each photographer." h_seed="photo-credits" %}
+
+<section class="sec" aria-labelledby="pcr-h">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{{ images|length }} photograph{{ images|length|pluralize }}</p><h2 class="h2" id="pcr-h">Authors and licences</h2><p>If you took one of these photos and want it credited differently or removed, write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a> and we will act within a few days.</p></div></div>
+    {% if images %}<div class="tablewrap prose" style="max-width:none"><table>
+      <thead><tr><th scope="col">Photo</th><th scope="col">File</th><th scope="col">Author</th><th scope="col">Licence</th><th scope="col">Used for</th></tr></thead>
+      <tbody>{% for img in images %}<tr>
+        <td><img src="{{ img|src:500 }}" alt="" loading="lazy" decoding="async" width="88" height="60" style="width:88px;height:60px;object-fit:cover;border-radius:6px"></td>
+        <td>{% if img.source %}<a href="{{ img.source }}" rel="noopener" target="_blank">{{ img.file|cut:"File:"|truncatechars:60 }}</a>{% else %}{{ img.file|cut:"File:"|truncatechars:60 }}{% endif %}</td>
+        <td>{{ img.author|default:"Unknown"|striptags|truncatechars:80 }}</td>
+        <td>{% if img.license_url %}<a href="{{ img.license_url }}" rel="noopener license" target="_blank">{{ img.license }}</a>{% else %}{{ img.license|default:"See source" }}{% endif %}</td>
+        <td class="small">{{ img.used_for }}</td>
+      </tr>{% endfor %}</tbody>
+    </table></div>
+    {% else %}<div class="empty">Photo credits appear here as soon as the photographs are added to the site.</div>{% endif %}
+  </div>
+</section>
 {% endblock %}

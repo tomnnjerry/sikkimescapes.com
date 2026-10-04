@@ -1,0 +1,59 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim homestays: village stays we book · Sikkim Escapes{% endblock %}
+{% block description %}Registered village homestays in Sikkim, from Lepcha houses in Dzongu to Bhutia villages in Lachung, at about ₹1,200–2,500 per person with meals. What to expect and how we book them.{% endblock %}
+{% block og_title %}Sikkim homestays we book{% endblock %}
+{% block og_image %}{% with img=stays.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block content %}
+{% include "escapes/partials/phero.html" with h_title="Village homestays in Sikkim" h_img=stays.0|first_img h_kicker="Stays · Homestays" h_lede="Sleep in the house and eat in the kitchen. Registered homestays in Lepcha, Bhutia, Limbu, Sherpa and Nepali-speaking villages, booked directly with families and paid fairly." h_short=True %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="answer"><b>Short answer</b><p>A Sikkim homestay usually costs about ₹1,200–2,500 per person a night with dinner and breakfast. Rooms are simple and clean, meals are what the family cooks, and the money stays in the village. It is the cheapest way to stay in Sikkim and the best way to meet the people who live there. Rates are indicative: check current status before you travel.</p></div>
+      {% if t.intro %}<div class="prose">{% for para in t.intro %}<p>{{ para }}</p>{% endfor %}</div>{% endif %}
+      <div class="grid g2">
+        <div class="panel"><h2 class="h3">What you get</h2><ul class="ticks"><li>A clean private room, sometimes with its own bathroom</li><li>Dinner and breakfast cooked by the family</li><li>Local knowledge: walks, monasteries, the farm</li><li>A quiet night in a village, not a bazaar</li></ul></div>
+        <div class="panel"><h2 class="h3">What to expect</h2><ul class="ticks ticks--no"><li>Hot water by bucket in some houses in winter</li><li>Early dinners and few menu choices</li><li>Weak mobile signal in some valleys</li><li>Cash only in many villages: carry enough</li></ul></div>
+      </div>
+    </div>
+    <aside class="side">
+      <div class="statrow">
+        <div class="stat"><small>Per person, with meals</small><b>₹1,200–2,500</b></div>
+        <div class="stat"><small>Homestays listed</small><b>{{ stays|length }}</b></div>
+      </div>
+      {% include "escapes/partials/quick_form.html" with qf_id="homestay-side" qf_title="Book a homestay with us" qf_message="I would like a homestay trip" %}
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2" aria-labelledby="hs-h">
+  <div class="wrap">
+    {% url 'stays' as st_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Homestays we book" sh_title="Families and villages we know" sh_id="hs-h" sh_more_url=st_url sh_more="Every stay" %}
+    {% if stays %}<div class="grid g3" data-fill>{% for s in stays %}{% include "escapes/partials/card_stay.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_title="Ask for a homestay" fill_text="Tell us the valley and the month. We check which families have rooms." %}</div>
+    {% else %}<div class="empty">We are adding homestays. <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask us</a> for one in the valley you want.</div>{% endif %}
+  </div>
+</section>
+
+{% if places %}<section class="sec" aria-labelledby="hp-h">
+  <div class="wrap">
+    {% if t %}{% include "escapes/partials/sechead.html" with sh_kicker="Homestay villages" sh_title="Where village stays work best" sh_id="hp-h" sh_more_url=t.url sh_more="The homestay theme" %}{% else %}{% include "escapes/partials/sechead.html" with sh_kicker="Homestay villages" sh_title="Where village stays work best" sh_id="hp-h" %}{% endif %}
+    <div class="grid g4" data-fill>{% for p in places %}{% include "escapes/partials/card_place.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--paper2" aria-labelledby="hr-h">
+  <div class="wrap wrap--narrow">
+    <p class="kicker">Good manners</p>
+    <h2 class="h2" id="hr-h">How to be a good guest</h2>
+    <ol class="numlist">
+      <li><span>Take your shoes off at the door and ask before you photograph people, the family altar or the inside of a prayer room.</span></li>
+      <li><span>Eat what is cooked, or tell us about allergies and diets beforehand so the family can plan.</span></li>
+      <li><span>Pay the agreed rate. If you want to give more, buy honey, cardamom or weaving from the family.</span></li>
+      <li><span>Keep the evenings quiet; most villages sleep early and farm at dawn.</span></li>
+      <li><span>Carry your plastic back down, and carry a refillable bottle.</span></li>
+    </ol>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" with cta_title="Tell us the valley, we will find the family" %}
+{% endblock %}

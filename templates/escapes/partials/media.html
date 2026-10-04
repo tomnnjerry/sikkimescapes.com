@@ -1,0 +1,1 @@
+{% load esc %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="{{ sizes|default:'(max-width: 640px) 100vw, 33vw' }}" alt="{{ alt }}" loading="lazy" decoding="async">{% else %}<span class="photo__ph">{% icon ph_icon|default:"altitude" "icon--lg" %}</span>{% endif %}

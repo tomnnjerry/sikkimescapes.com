@@ -1,0 +1,44 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim altitude ladder: every place by height · Sikkim Escapes{% endblock %}
+{% block description %}Every place we cover in Sikkim sorted by altitude, from river valleys below 1,500 m to lakes above 5,000 m, with plain advice on acclimatisation.{% endblock %}
+{% block og_title %}The Sikkim altitude ladder · Sikkim Escapes{% endblock %}
+{% block rail_mark %}{% if top %}<div class="rail__mark" style="bottom:{{ top|rail_y }}%"><i></i><b>{{ top|metres }}</b></div>{% endif %}{% endblock %}
+{% block content %}
+{% include "escapes/partials/phero.html" with h_title="The altitude ladder" h_kicker="Plan the climb" h_lede="Sikkim rises from about 280 m in the Teesta and Rangeet valleys to 8,586 m at Kangchenjunga in under 100 km. Here is every place we cover, lowest first." h_seed="altitude" h_ms_cap="Highest" h_ms_val=top|split_alt %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div>
+      <div class="answer rv" style="margin-bottom:28px"><b>Short answer</b><p>Below 2,500 m most people feel nothing. Between 2,500 and 3,500 m (Lachung, Lachen) sleep well, go slowly and drink water. Above 3,500 m (Yumthang, Tsomgo, Nathu La, Gurudongmar) visit by day and sleep lower. Headache, nausea or breathlessness at rest mean go down.</p></div>
+      {% if ladder %}<div class="ladder">
+        {% for p in ladder %}{% ifchanged %}{% if p.altitude_m < 1500 %}<h2 class="ladder__zone" id="valleys">Valleys · below 1,500 m</h2>{% elif p.altitude_m < 2500 %}<h2 class="ladder__zone" id="mid-hills">Mid-hills · 1,500 – 2,500 m</h2>{% elif p.altitude_m < 3500 %}<h2 class="ladder__zone" id="high">High · 2,500 – 3,500 m</h2>{% elif p.altitude_m < 4500 %}<h2 class="ladder__zone" id="alpine">Alpine · 3,500 – 4,500 m</h2>{% else %}<h2 class="ladder__zone" id="very-high">Very high · above 4,500 m</h2>{% endif %}{% endifchanged %}
+        <a class="ladder__row" href="{{ p.url }}" data-land="{{ p.region }}"><span class="ladder__alt">{{ p.altitude_m|split_alt }}<small class="muted" style="font-size:.6em"> m</small></span><span class="ladder__bar">{% widthratio p.altitude_m top 60 as w %}<i style="width:{{ w|add:40 }}%"></i><span>{{ p.name }}<small>{{ p.region_obj.name }}{% if p.kind %} · {{ p.kind }}{% endif %}</small></span></span></a>{% endfor %}
+      </div>
+      {% else %}<div class="empty">The ladder fills as we add places.</div>{% endif %}
+      <p class="small muted mt">Bar lengths grow with height up to the highest place we list ({{ top|metres }}); the scale starts part-way so every name stays readable. Altitudes are rounded and can differ by a few tens of metres between sources.</p>
+    </div>
+    <aside class="side">
+      <div class="panel">
+        <p class="kicker" style="margin-bottom:8px">Jump to a zone</p>
+        <nav class="toc-side" aria-label="Altitude zones"><a href="#valleys">Valleys, below 1,500 m</a><a href="#mid-hills">Mid-hills, 1,500 – 2,500 m</a><a href="#high">High, 2,500 – 3,500 m</a><a href="#alpine">Alpine, 3,500 – 4,500 m</a><a href="#very-high">Very high, above 4,500 m</a><a href="#acclimatise">How to acclimatise</a></nav>
+      </div>
+      <a class="btn btn--ghost btn--block" href="{% url 'tool_altitude' %}">{% icon "altitude" %} Check a package's altitude</a>
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="acclimatise" aria-labelledby="acc-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Acclimatisation" sh_title="How to handle the height" sh_id="acc-h" sh_text="Plain advice, not medical advice. If you have heart or lung conditions, are pregnant or are travelling with small children, speak to your doctor before a high trip." %}
+    <div class="grid g3">
+      <div class="panel rv"><h3>Climb in steps</h3><p class="small">Spend your first night around Gangtok (about 1,650 m) before Lachung or Lachen. Above 3,000 m, try not to raise the height you sleep at by more than about 500 m a night, and add a rest day for every 1,000 m.</p></div>
+      <div class="panel rv"><h3>Visit high, sleep low</h3><p class="small">Gurudongmar (about 5,150 m), Zero Point and Nathu La are day visits. Go early, stay an hour or less at the top, and come back down to sleep. Never try Gurudongmar the same day you arrive from Gangtok.</p></div>
+      <div class="panel rv"><h3>Know the warning signs</h3><p class="small">Mild headache, poor sleep and breathlessness on stairs are common. Confusion, a bad headache that does not ease, vomiting, breathlessness at rest or unsteady walking mean descend at once and see a doctor.</p></div>
+      <div class="panel rv"><h3>Small things that help</h3><p class="small">Drink water steadily, eat well, skip alcohol on the first high nights and walk slowly. Keep warm: cold makes everything harder. Ask your doctor before the trip about medicines; do not take them on a stranger's say-so.</p></div>
+      <div class="panel rv"><h3>Children and older travellers</h3><p class="small">Children under five are not allowed into North Sikkim's protected areas. For young children and older travellers we plan lower overnight stops and shorter high days. Check current status before you travel.</p></div>
+      <div class="panel rv"><h3>Insurance</h3><p class="small">Hold travel insurance that covers medical treatment and evacuation at the heights on your route. Some policies exclude travel above a set height, so read the small print.</p></div>
+    </div>
+  </div>
+</section>
+{% include "escapes/partials/cta.html" with cta_title="Want a route that climbs gently?" cta_text="Tell us who is travelling and we will plan the overnight heights as carefully as the hotels, with every cost shown." %}
+{% endblock %}

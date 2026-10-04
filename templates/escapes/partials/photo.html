@@ -1,4 +1,4 @@
-{% load tales %}<figure class="photo {{ cls }}">
-  <div class="photo__frame">{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="{{ sizes }}" alt="{{ alt }}" {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async" width="{{ img.width }}" height="{{ img.height }}">{% else %}<div class="noimg">{{ alt|default:"Photograph to come" }}</div>{% endif %}</div>
+{% load esc %}<figure class="photo{% if cls %} {{ cls }}{% endif %}">
+  <div class="photo__frame">{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="{{ sizes }}" alt="{{ alt }}" {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async"{% if img.width %} width="{{ img.width }}" height="{{ img.height }}"{% endif %}>{% else %}<div class="photo__ph">{% icon "altitude" "icon--lg" %}<span class="sr">{{ alt|default:"Photograph to come" }}</span></div>{% endif %}</div>
   {% if img and credit %}<figcaption>Photo: <a href="{{ img.source }}" rel="noopener" target="_blank">{{ img|short_credit }}</a>, Wikimedia Commons</figcaption>{% endif %}
 </figure>

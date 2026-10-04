@@ -1,0 +1,172 @@
+{
+  "slug": "dzongu",
+  "name": "Dzongu",
+  "region": "north-sikkim",
+  "kind": "valley",
+  "wiki": "",
+  "image_query": "Dzongu Lepcha village North Sikkim",
+  "lat": 27.52,
+  "lng": 88.5,
+  "altitude_m": 1200,
+  "local_name": null,
+  "tagline": "The Lepcha reserve across the Teesta from Mangan",
+  "meta_description": "Dzongu, North Sikkim: reserved Lepcha area with family homestays, cardamom, waterfalls and Tholung Monastery. Permits, honest costs and respectful travel tips.",
+  "summary": "Dzongu is a reserved area for the Lepcha people on the west bank of the Teesta, opposite Mangan, roughly 3–4 hours from Gangtok. Outsiders need a permit issued in Mangan. There are no hotels: you stay with Lepcha families in homestays, walk among cardamom and paddy, and learn about the people generally considered Sikkim's earliest inhabitants.",
+  "intro": [
+    "Dzongu is a block of steep valleys on the west bank of the Teesta, running up the Rongyong river from the gorge below Mangan towards the Kangchenjunga massif. Villages such as Lingthem, Lingdong, Passingdang and Hee Gyathang cling to the slopes between about 700 m by the river and 2,000 m and more higher up, with cardamom under alder trees, terraced paddy, orange and bamboo groves, waterfalls and hot springs. The upper valleys reach into the buffer zone of Khangchendzonga National Park.",
+    "What makes Dzongu different is its status. A royal notification of the Chogyal era reserved the land for the Lepcha of Dzongu, so outsiders, including Lepcha from elsewhere, may not buy land or settle here. That is why there are no hotels and no resort strip, only family homes that take guests. Visitors need a permit issued by the district administration in Mangan, which most hosts arrange in advance. Check current status before you travel.",
+    "Dzongu is not a sightseeing circuit. It suits travellers who want to slow down: walk between villages, eat farm food, sit by the hearth, and hear how the Lepcha, who call themselves Rongkup, keep their language, their Mun and Bongthing priests and their Buddhist practice alive. The valley also carries recent history, from the 2007–08 protests against hydropower projects to the 2023 flood and the bridge repairs that followed. Two nights is the right stay."
+  ],
+  "story": {
+    "title": "The hunger strike for a valley",
+    "text": "In the mid-2000s Sikkim planned a chain of hydropower projects on the Teesta and its tributaries, several of them inside or affecting Dzongu. Many Dzongu Lepchas feared that tunnels, roads and a large outside workforce would undo the protections of the reserve. A group called Affected Citizens of Teesta, known as ACT, organised the opposition, and on 20 June 2007 its members began a hunger strike in Gangtok. Live History India, which has written about the protest, puts the first phase at 93 days, followed by relay fasts and further protests over the next few years. In the end the state dropped several of the Dzongu projects, while others on the Rongyong went ahead. Some of the young people involved then looked for a way to earn a living from the land without selling it, and homestays were one answer. According to the Peaceful Societies project at the University of North Carolina at Greensboro, Dzongu homestays grew from around 2008. When you sit in a Dzongu kitchen today, you may well be the guest of someone who took part.",
+    "source": "Live History India (2017) on the Dzongu protests; Peaceful Societies project, UNC Greensboro"
+  },
+  "little_known": [
+    {"fact": "Under the Chogyal-era reservation, not even a Lepcha from outside Dzongu may buy land inside it; the protection belongs to the Lepcha of Dzongu themselves.", "source": "Live History India; Sikkim Escapes Dzongu guide"},
+    {"fact": "Tholung Monastery in upper Dzongu keeps sealed boxes of relics, said to have been brought there for safety during the Gorkha invasions, shown to the public only once every three years.", "source": "Wikipedia, Tholung Monastery"},
+    {"fact": "In August 2025 the Border Roads Organisation opened a modular bridge over the Teesta at Sankalang, restoring a road link to Dzongu after earlier bridges were swept away.", "source": "The Week / PTI, 13 Aug 2025"}
+  ],
+  "facts": [
+    ["Best months", "October–December, March–May"],
+    ["Nights we suggest", "2"],
+    ["From Gangtok", "≈ 75–90 km · 3–4 h, depending on village"],
+    ["Altitude", "≈ 700–2,000 m; main villages around 1,200 m"],
+    ["Known for", "Lepcha reserve, homestays, cardamom, Tholung"],
+    ["Permit", "Dzongu permit from the district administration, Mangan"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "A Lepcha family homestay", "text": "The only way to stay in Dzongu is with a family. Rooms range from simple farmhouse bedrooms to newer cottages, and meals come from the fields: red rice, nettle soup, fern shoots, local chicken or pork and millet. Evenings by the hearth, hearing the family's own stories, are the reason to come."},
+    {"title": "Cardamom and paddy terraces", "text": "Large cardamom grows in the shade of alder on the slopes, harvested and smoke-dried from about September to November. Lower down, terraced rice fields turn green in summer and gold in autumn. Walk between villages with a host and see how a Lepcha farming year runs."},
+    {"title": "Tholung Monastery", "text": "High in upper Dzongu, inside the buffer zone of Khangchendzonga National Park at about 2,400 m, Tholung Monastery keeps relics shown publicly only once every three years, at the Kamsel ceremony. Reaching it means a long drive and a walk. Ask us about current access."},
+    {"title": "Waterfalls and hot springs", "text": "Dzongu's streams drop off the valley walls in long falls, and there are hot springs in the upper valley that local people consider sacred. Ask your host which you can visit and how to behave there, and never bathe without asking. Many paths are damaged after each monsoon."},
+    {"title": "Namsoong at the turn of the year", "text": "Namsoong, the Lepcha new year, falls around December and January by the Lepcha calendar. Its best known public celebration is at Namprikdang on the Teesta at the edge of Dzongu, with prayers, archery, games and food. If invited, follow your host's lead and ask before photographing."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Take a shared jeep from Gangtok's Vajra stand to Mangan, about 2.5–3 hours for ₹250–350 a seat. From Mangan, local shared jeeps run to some Dzongu villages, or your host can collect you for a fee. Have your permit arranged first."},
+    {"mode": "Private car", "text": "A reserved car from Gangtok reaches Lower Dzongu villages in about 3 hours and Upper Dzongu in 3.5–4 hours, via Mangan and the bridges over the Teesta. Roads inside Dzongu are narrow and often under repair after the monsoon. Check current status before you travel."},
+    {"mode": "From Bagdogra / NJP", "text": "It is a full day of 6–8 hours from Bagdogra or NJP via Gangtok, or via Singtam without entering Gangtok. NH10 closes after slides in the monsoon, when drivers use the Kalimpong or Algarah roads. We suggest a night in Gangtok first."}
+  ],
+  "costs": [
+    ["Homestay with all meals", "≈ ₹1,500–2,500 per person a night"],
+    ["Shared jeep Gangtok–Mangan", "≈ ₹250–350 a seat"],
+    ["Host pickup Mangan–Dzongu", "≈ ₹800–1,500 per vehicle"],
+    ["Reserved car Gangtok–Dzongu", "≈ ₹4,000–5,500 one way"],
+    ["Village guide for a day walk", "≈ ₹800–1,500"],
+    ["Dzongu permit", "Small fee or free; arranged by your host"]
+  ],
+  "where_to_stay": "Dzongu has no hotels by design. Lepcha families in Lingthem, Lingdong, Passingdang, Hee Gyathang and other villages host guests in their homes for about ₹1,500–2,500 per person a night with meals. Mayal Lyang Homestay at Passingdang, run by Gyatso Lepcha and his family, was one of the first and remains a good choice for walkers and birdwatchers. We also match travellers to other families we know according to comfort and walking ability. For a hotel night, Mangan across the river has simple options.",
+  "stays": ["mayal-lyang-homestay-dzongu", "dzongu-lepcha-homestays"],
+  "tips": [
+    "Send your host ID copies and photos a week ahead so the Dzongu permit is ready when you arrive.",
+    "Bring cash from Mangan or Gangtok; there are no ATMs in the reserve.",
+    "Ask before photographing people, shrines, sacred springs or the inside of homes.",
+    "Pack leech socks and a rain jacket from May to September, and wear shoes with grip all year.",
+    "Mobile signal is patchy in many villages, so tell family you may be out of reach."
+  ],
+  "themes": ["village-homestays", "crafts-and-culture", "offbeat-sikkim", "birds-and-wildlife"],
+  "nearby": ["mangan", "tholung-monastery", "singhik", "naga-waterfall"],
+  "experiences": [
+    {
+      "slug": "dzongu-lepcha-kitchen-and-hearth",
+      "title": "Cooking with a Lepcha family in Dzongu",
+      "kind": "food",
+      "duration": "3 hours",
+      "best_time": "Evenings, October–May",
+      "cost": "Included with a homestay stay",
+      "image_query": "Lepcha food Dzongu homestay",
+      "wiki": "Lepcha people",
+      "summary": "Join your host family in the kitchen for a Lepcha meal from their own fields: rice, greens, nettle or fern, local meat and perhaps chi, the home-brewed millet drink. A slow evening that tells you more about Dzongu than any sightseeing.",
+      "body": [
+        "In a Dzongu home the kitchen is where guests end up. A wood fire burns in the hearth, rice cooks in a heavy pot, and whatever the season offers goes into the curry: young fern shoots in spring, nettle for soup, squash, beans, wild greens collected from the forest edge, and on some days local chicken or pork. Your hosts will show you what each plant is and where it grows.",
+        "Many families brew chi, a fermented millet drink that is part of Lepcha hospitality and ritual. If it is offered and you do not drink, it is fine to say so politely. Food is usually eaten together, and portions are generous. Ask about what grows when, how cardamom prices have changed, and what the family thinks about the future of the valley.",
+        "This is a family evening, not a demonstration, so let your hosts set the pace and help with small tasks if invited. Tell us in advance about vegetarian, Jain or allergy needs; hosts plan meals with ingredients from their own fields and the Mangan market."
+      ],
+      "good_for": ["couples", "solo", "families", "budget"],
+      "faqs": [
+        {"q": "What food do Dzongu homestays serve?", "a": "Expect home cooking from the family's fields: rice, dal, seasonal vegetables, forest greens such as fern shoots and nettle, and often local chicken, pork or eggs. Meals are simple, fresh and filling. Vegetarian food is easy to arrange if you tell your host in advance."},
+        {"q": "What is chi in Lepcha homes?", "a": "Chi is a fermented millet drink brewed at home by many Lepcha families and offered to guests and at rituals. It is mildly alcoholic and served warm in some homes. Accept a sip if you wish, or decline politely; nobody will mind. Do not ask hosts to sell it to you as a souvenir."},
+        {"q": "Can I help cook at a Dzongu homestay?", "a": "Usually yes, if your host is happy for you to join. Most families welcome guests in the kitchen and will let you wash vegetables, stir a pot or learn how a dish is made. Ask first, follow their lead and remember it is their home, not a cookery class."}
+      ]
+    },
+    {
+      "slug": "dzongu-village-to-village-walk",
+      "title": "A village-to-village walk in Dzongu",
+      "kind": "village",
+      "duration": "4–5 hours",
+      "best_time": "October–April mornings",
+      "cost": "≈ ₹800–1,500 for a village guide",
+      "image_query": "Dzongu village terraces Sikkim",
+      "wiki": "",
+      "summary": "Walk old footpaths between Dzongu villages with a local guide, past cardamom groves, paddy terraces, prayer flags and streams. Moderate effort, big views across to Mangan, and a feel for how the reserve's families live and farm.",
+      "body": [
+        "Before roads reached Dzongu, people moved between villages on foot, and many of those paths are still used. A typical walk links two or three villages in Lower or Upper Dzongu, with a drive back. You pass houses with prayer flags, cardamom under the trees, terraces of rice or maize, and small shrines and stones that your guide may explain.",
+        "Expect steep sections and uneven steps. Altitudes are modest, mostly between 900 m and 1,600 m, but the climbing adds up, and humidity makes it hard work outside winter. October to April gives the best weather and the clearest views across the Teesta to Mangan and up the valley towards the snows.",
+        "Go with a guide from the village: many paths cross private land and sacred places, and your guide can introduce you to neighbours. Keep to the path, do not pick plants and ask before taking photographs. In the monsoon, leeches and slips make walking unpleasant, and we suggest shorter outings."
+      ],
+      "good_for": ["couples", "solo", "photographers"],
+      "faqs": [
+        {"q": "How difficult are walks in Dzongu?", "a": "Moderate. Paths are steep and uneven, with many steps, though altitudes are only around 900–1,600 m. Fit walkers manage a 4–5 hour village walk easily; others can choose a shorter loop. Wear shoes with grip, carry water and expect mud after rain. Your host will suggest a route that suits you."},
+        {"q": "Do I need a guide to walk in Dzongu?", "a": "We strongly recommend one. Paths are unmarked, many cross private fields, and some places are sacred and should not be entered. A village guide costs about ₹800–1,500 for the day and the money stays in the community. Your homestay can arrange one."},
+        {"q": "Are there leeches in Dzongu?", "a": "Yes, from about May to September, when the forest is wet. Wear leech socks or tuck trousers into socks, carry salt, and check your legs after walks. Leeches are harmless but unpleasant. From October to April they are mostly absent, which is one reason we prefer those months."}
+      ]
+    },
+    {
+      "slug": "dzongu-cardamom-harvest-visit",
+      "title": "The cardamom harvest in Dzongu",
+      "kind": "craft",
+      "duration": "2–3 hours",
+      "best_time": "September–November",
+      "cost": "Usually included with a homestay; tip for the family",
+      "image_query": "large cardamom harvest Sikkim",
+      "wiki": "Black cardamom",
+      "summary": "In autumn, follow a Dzongu family to their cardamom grove under the alder trees and watch the pods being cut, sorted and dried over a wood-fired kiln. The smell of spice smoke fills the valley in these weeks.",
+      "body": [
+        "Large cardamom has long been a mainstay of the Dzongu economy. The plants grow in the shade of trees on the steep slopes above the villages, and in autumn families cut the clusters of red pods close to the ground, carry them home in baskets, and separate the pods by hand. It is hard, careful work on steep land.",
+        "The pods are then dried in a bhatti, a kiln where they sit on a rack above a slow wood fire for a day or more. The smoke gives Sikkim's large cardamom its typical flavour. Dried pods are sacked and sold to traders in Mangan and further down the highway. Ask your hosts how disease and swinging prices have affected their groves; many families now rely on homestays as a second income.",
+        "Harvest visits depend on the family's timetable, so this is arranged through your homestay, not booked as a tour. Keep out of the way of workers on narrow paths, and do not walk into groves without your host."
+      ],
+      "good_for": ["photographers", "families", "solo"],
+      "faqs": [
+        {"q": "When can I see cardamom drying in Dzongu?", "a": "Usually from about September to November, when families harvest and dry their large cardamom. Exact weeks depend on altitude and the year. Tell us your dates and we will ask our host families whether they expect to be harvesting. Outside the season you can still visit the groves."},
+        {"q": "Can I buy cardamom from Dzongu farmers?", "a": "If a family has dried cardamom and is happy to sell a small amount, you can buy it directly. Prices follow the market. Do not push if they say no: most of the crop is committed to traders. Carry it sealed, since the smoky smell is strong."},
+        {"q": "Why is large cardamom important in Dzongu?", "a": "Large cardamom has long been the main cash crop of Dzongu and much of North Sikkim, suited to the shaded, humid slopes. It pays for school fees and house repairs in many families. Disease and price swings have hurt growers, which is part of why homestay tourism matters here."}
+      ]
+    },
+    {
+      "slug": "dzongu-river-and-waterfall-day",
+      "title": "Streams, falls and hot springs of Dzongu",
+      "kind": "nature",
+      "duration": "Half day to full day",
+      "best_time": "October–December, March–April",
+      "cost": "≈ ₹1,500–2,500 for a local car and guide",
+      "image_query": "waterfall Dzongu North Sikkim",
+      "wiki": "",
+      "summary": "Spend a day with your host visiting the waterfalls, river bends and, where open, the hot springs of Dzongu, places that the Lepcha treat as sacred. Go gently, follow local rules and expect damaged roads after each monsoon.",
+      "body": [
+        "Dzongu is cut by streams that fall in long white ribbons from the forest into the Rongyong and the Teesta. Some falls are close to the road; others need a short walk on a slippery path. In Lepcha belief, mountains, lakes, rivers and springs are home to spirits and deities, so these are not just picnic spots. Your host will tell you which places are fine to visit and what to avoid.",
+        "Upper Dzongu has hot springs that local people use and revere. Whether visitors can bathe depends on the place and on the community's rules at the time, so always ask first. Keep noise low, take every scrap of rubbish away, and do not leave offerings unless your host suggests it.",
+        "The October 2023 flood and later monsoons damaged roads and bridges across the district, and some points are harder to reach than in older travel stories. Check current status before you travel, and avoid riverbanks in the monsoon."
+      ],
+      "good_for": ["photographers", "couples", "families"],
+      "faqs": [
+        {"q": "Are there hot springs in Dzongu?", "a": "Yes, upper Dzongu has hot springs that local people use and consider sacred. Access and whether visitors may bathe depend on the place and on current community rules and road conditions. Ask your host or us before planning around them, and never bathe without permission."},
+        {"q": "Can we swim in Dzongu rivers?", "a": "We advise against it. Rivers are fast, cold and can rise suddenly, especially below dams and after rain, and some pools are sacred. Enjoy the water from the bank. If your host says a place is safe for a paddle in winter, follow their judgement and stay close to the edge."},
+        {"q": "What is the best season for Dzongu waterfalls?", "a": "Falls are fullest from July to September but roads are least reliable then. October and November give a good balance of water and safe roads, with clear skies. In late winter some falls thin out, though the walking weather is pleasant. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Do I need a permit to visit Dzongu?", "a": "Yes. Dzongu is a reserved Lepcha area, and visitors who are not from Dzongu need a permit issued by the district administration in Mangan. Most homestays apply for guests in advance with copies of ID and photos. If you apply yourself, go to Mangan on a weekday morning. Check current status before you travel."},
+    {"q": "Can foreigners visit Dzongu?", "a": "Rules for foreign nationals in Dzongu have changed over the years and are applied case by case. Foreigners first need the online Sikkim restricted area permit. Please ask us before you plan, so we can check the current position with the district administration. Check current status before you travel."},
+    {"q": "Why is Dzongu a reserved area?", "a": "A royal notification of the Chogyal era reserved Dzongu for the Lepcha of Dzongu, protecting their land and way of life. Under it, outsiders, including Lepchas from elsewhere, may not buy land or settle there. That is why Dzongu has no hotels, and why visitors need a permit."},
+    {"q": "How far is Dzongu from Gangtok?", "a": "Dzongu villages are roughly 75–90 km from Gangtok, which takes 3–4 hours by car via Mangan, depending on which village you stay in and road conditions inside the reserve. Shared jeeps run to Mangan, from where hosts can collect you. Monsoon slides can add hours."},
+    {"q": "Where do you stay in Dzongu?", "a": "Only in homestays run by Lepcha families, because hotels are not permitted in the reserve. Rooms range from simple to comfortable, and meals are home-cooked. Expect to pay about ₹1,500–2,500 per person a night with meals. Mayal Lyang Homestay at Passingdang is one well-established option."},
+    {"q": "How many days do you need in Dzongu?", "a": "Two nights is ideal. One night feels rushed after the drive, and two lets you walk between villages, visit a waterfall or a cardamom grove and spend unhurried evenings with your hosts. Add a third if you want to try for Tholung Monastery, which needs a long day."},
+    {"q": "What is the best time to visit Dzongu?", "a": "October to December gives clear skies, harvest activity and comfortable walking, and March to May brings warm days and flowers. Namsoong, the Lepcha new year, falls around December and January. June to September is the monsoon, with leeches, heavy rain and road damage."},
+    {"q": "Is Dzongu suitable for seniors and children?", "a": "Yes, with care. Altitudes are low, around 1,200 m in the main villages, but paths are steep and homes may have outside toilets, which is Lepcha custom. Choose a homestay with easy access and tell us about mobility needs. For children under five, ask us first: North Sikkim's protected areas do not admit them, and we check the current Dzongu rule for each trip."},
+    {"q": "How should visitors behave in Dzongu?", "a": "Be a respectful guest in someone's homeland. Ask before photographing people, shrines or homes, dress modestly, keep to paths, and do not enter sacred springs, lakes or groves without your host. Pay fairly and directly, carry your rubbish out, and keep music and voices low in villages."}
+  ]
+}

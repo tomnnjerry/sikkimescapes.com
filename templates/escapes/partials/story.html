@@ -1,0 +1,7 @@
+{% load esc %}{% if story.text %}<article class="story" id="story">
+  {% contour story_seed|default:"story" "contour" 10 1 %}
+  <p class="kicker">{{ story_kicker|default:"The story" }}</p>
+  <h2 class="h3">{{ story.title }}</h2>
+  <div class="story__text"><p>{{ story.text|linebreaksbr }}</p></div>
+  {% if story.source %}<p class="story__src">{% icon "book" %}<span>Source: {{ story.source }}</span></p>{% endif %}
+</article>{% endif %}

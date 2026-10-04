@@ -1,26 +1,76 @@
-{% extends "tales/base.html" %}
-{% block title %}About Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}About Sikkim Escapes: a Sikkim-only desk in Gangtok · Sikkim Escapes{% endblock %}
+{% block description %}Who we are and what we do: Sikkim-only trips from shared-jeep budget escapes to premium tours, priced line by line, permits handled, stories sourced.{% endblock %}
+{% block og_title %}About Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">About us</p><h1 class="h-hero">Seven lands, <span class="accent">nothing else</span></h1>
-  <p class="lede">Tales of Luxury plans private journeys in Nepal, Rajasthan, Ladakh, North East India, Kerala, Goa, and Uttar Pradesh with Bihar. We chose these seven because we know their roads, seasons and rooms well enough to plan them by hand.</p></div></header>
-<section class="sec--tight"><div class="wrap split">
-  <div class="split__main">
-    <div class="block prose"><p>Every journey we plan is private: one party, one car, guides chosen for the places you visit. A single planner shapes the route with you, books every stay and stays on WhatsApp while you travel.</p>
-      <p>We write the way we plan. Our pages give distances in kilometres, drive times in hours, altitudes in metres and prices in rupees, and they say plainly when something changes year to year, like permits, park seasons and festival dates.</p>
-      <p>Our photographs come from Wikimedia Commons under free licences, and each one names its photographer. We would rather show a credited picture of the real place than a styled one of somewhere else.</p></div>
-    <div class="block"><p class="eyebrow">How a journey comes together</p><ol class="tips">
-      <li>You tell us the dates, who is travelling and what you hope to feel.</li><li>We send a first route with named hotels and an indicative price.</li>
-      <li>We refine it together: rooms, pace, guides, the one dinner that matters.</li><li>You book with a deposit; we confirm every service in writing.</li>
-      <li>On the road, your planner is a message away.</li></ol></div>
-    <div class="block"><p class="eyebrow">Company details</p><div class="ledger">
-      <div class="ledger__row"><span>Registered name</span><span class="ledger__dots"></span><b>[LEGAL NAME]</b></div>
-      <div class="ledger__row"><span>Tourism registration</span><span class="ledger__dots"></span><b>[REGISTRATION NO.]</b></div>
-      <div class="ledger__row"><span>GSTIN</span><span class="ledger__dots"></span><b>[GSTIN]</b></div>
-      <div class="ledger__row"><span>Office</span><span class="ledger__dots"></span><b>{{ SITE.address }}</b></div></div></div>
+{% include "escapes/partials/phero.html" with h_title="One state, done properly" h_kicker="About us" h_lede="Sikkim Escapes plans trips in Sikkim and nowhere else. We work from Gangtok, we price every trip line by line, and we tell you the stories behind the valleys you drive through." h_seed="about" %}
+
+<section class="sec" aria-labelledby="ab-h">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="answer"><b>In short</b><p>A Gangtok travel desk for Sikkim's six districts. Budget, value, comfort or premium; shared jeeps or a private car; homestays or the best hotels. Prices are indicative until we send a written, itemised quote.</p></div>
+      <div class="prose">
+        <h2 class="h2" id="ab-h">Why only Sikkim</h2>
+        <p>Sikkim is small, but it changes fast: from river valleys under 300 m to passes above 4,000 m within a day's drive, with permits, check posts and road closures that shift from season to season. Knowing one state well, road by road, is more useful to you than knowing a whole region a little.</p>
+        <p>So we do not sell trips to Darjeeling or to the countries next door. We mention Bagdogra, New Jalpaiguri and Siliguri only because that is where every Sikkim trip begins and ends.</p>
+        <h2>What we do</h2>
+        <ul>
+          <li>Plan trips across all six districts, from a Gangtok weekend to two weeks on the Silk Route and in the west.</li>
+          <li>Book the rooms, the car and driver or the shared-jeep seats, and the guides where you want them.</li>
+          <li>Apply for protected-area permits through Sikkim Tourism-registered partners, with your ID and photos.</li>
+          <li>Stay on call from the moment you land at Bagdogra or step off at NJP until you are back on the plains.</li>
+        </ul>
+        <h2>What makes us different</h2>
+        <p><strong>Honest prices.</strong> Every package shows what the money pays for: rooms, car, permits and fees, and our planning fee. Our tools and guides list real shared-jeep fares, homestay rates and permit fees so you can budget before you speak to anyone.</p>
+        <p><strong>Rooted stories.</strong> The Lepcha, Bhutia, Limbu, Nepali, Sherpa, Rai, Tamang and Newar histories behind each place, told with a source you can check. Where a story is local tradition with no written source, we say "as told locally" and keep it short. We do not invent legends.</p>
+        <p><strong>Altitude taken seriously.</strong> Every place carries its height and every package its altitude profile, so you can see the climb before you book.</p>
+        <h2>What we will not do</h2>
+        <ul>
+          <li>Publish reviews, ratings or awards we cannot show you.</li>
+          <li>Hide a fee until the end, or quote a price that leaves out permits.</li>
+          <li>Take commission from the shops and workshops we visit.</li>
+          <li>Promise a pass or road is open. We check current status before you travel, and tell you if it changes.</li>
+        </ul>
+      </div>
+    </div>
+    <aside class="side">
+      <div class="panel">
+        <h3>The site in numbers</h3>
+        <p class="small muted">What we have written up so far, not claims about customers.</p>
+        <div class="statrow">
+          <div class="stat"><b>{{ counts.regions }}</b><small>districts</small></div>
+          <div class="stat"><b>{{ counts.places }}</b><small>places</small></div>
+          <div class="stat"><b>{{ counts.journeys }}</b><small>packages</small></div>
+          <div class="stat"><b>{{ counts.stays }}</b><small>stays</small></div>
+          <div class="stat"><b>{{ counts.guides }}</b><small>guides</small></div>
+          <div class="stat"><b>{{ counts.experiences }}</b><small>experiences</small></div>
+        </div>
+      </div>
+      <div class="panel">
+        <h3>Find us</h3>
+        <dl class="ledger" style="box-shadow:none;padding:0">
+          <div><dt>Office</dt><dd>{{ SITE.address }}</dd></div>
+          <div><dt>Email</dt><dd><a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a></dd></div>
+          {% if tel %}<div><dt>Phone</dt><dd><a href="tel:{{ tel }}">{{ SITE.phone }}</a></dd></div>{% endif %}
+        </dl>
+        <div class="btns" style="margin-top:14px"><a class="btn btn--ghost btn--sm" href="{% url 'contact' %}">Contact</a><a class="btn btn--ghost btn--sm" href="{% url 'how_we_work' %}">How we work</a></div>
+      </div>
+    </aside>
   </div>
-  <aside class="split__aside"><div class="panel panel--dark"><h2 class="h-s">What you can count on</h2><div class="stats" style="grid-template-columns: 1fr 1fr">
-    
-    </div>{% include "tales/partials/trust.html" with dark=True %}</div></aside>
-</div></section>
+</section>
+
+<section class="sec sec--paper2" aria-labelledby="ab-more">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Before you book" sh_title="The small print, in plain words" sh_id="ab-more" %}
+    <div class="rows">
+      <a href="{% url 'how_we_work' %}"><b>How we work</b><small>From first message to the drive back down</small></a>
+      <a href="{% url 'policies' %}"><b>Policies</b><small>Bookings, payments, refunds and privacy</small></a>
+      <a href="{% url 'photo_credits' %}"><b>Photo credits</b><small>Every photo, its author and its licence</small></a>
+      <a href="{% url 'faq' %}"><b>Questions</b><small>Answers about travelling with us and each district</small></a>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--tight"><div class="wrap">{% include "escapes/partials/trust.html" %}</div></section>
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

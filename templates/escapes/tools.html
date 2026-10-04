@@ -1,13 +1,55 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Trip tools: season finder, budget builder, permits · Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim trip tools: season, cost, permits, altitude · Sikkim Escapes{% endblock %}
+{% block description %}Free Sikkim planning tools: find where to go each month, estimate a trip's cost in rupees, check permits for Indians and foreigners, and see a package's altitude day by day.{% endblock %}
+{% block og_title %}Sikkim trip tools · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Trip tools</p><h1 class="h-hero">Plan it <span class="accent">yourself, first</span></h1>
-  <p class="lede">Three tools our planners use every day. Free, no sign-up, and nothing you enter leaves your browser.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px"><div class="toc">
-  <a class="toc__row" href="{% url 'tool_season' %}"><span class="lbadge">{% icon "calendar" %}</span><span class="toc__name"><b>Season finder</b><span>Pick a month and see every place at its best</span></span><span class="toc__when">Every land</span><span class="toc__arrow" aria-hidden="true">→</span></a>
-  <a class="toc__row" href="{% url 'tool_budget' %}"><span class="lbadge">{% icon "star" %}</span><span class="toc__name"><b>Budget builder</b><span>A planning range for nights, travellers and hotel level</span></span><span class="toc__when">INR</span><span class="toc__arrow" aria-hidden="true">→</span></a>
-  <a class="toc__row" href="{% url 'tool_permits' %}"><span class="lbadge">{% icon "shield" %}</span><span class="toc__name"><b>Permits</b><span>What each land asks of Indian and foreign travellers</span></span><span class="toc__when">Check current status</span><span class="toc__arrow" aria-hidden="true">→</span></a>
-  <a class="toc__row" href="{% url 'seasons' %}"><span class="lbadge">{% icon "compass" %}</span><span class="toc__name"><b>Season almanac</b><span>Every land, every month, on one page</span></span><span class="toc__when">Month by month</span><span class="toc__arrow" aria-hidden="true">→</span></a>
-</div></section>
+{% include "escapes/partials/phero.html" with h_title="Trip tools" h_kicker="Plan before you ask us" h_lede="Four small tools we use at the Gangtok desk every day: where to go this month, what a trip really costs, which permits you need, and how high each night of a package sleeps." h_seed="tools" %}
+
+<section class="sec" aria-labelledby="tools-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Free, no sign-up" sh_title="Pick a tool" sh_id="tools-h" sh_text="Each one works in your browser. Nothing you type is sent to us unless you ask for a quote." %}
+    <div class="grid g4">
+      <a class="card card--text rv" href="{% url 'tool_season' %}"><div class="card__body">
+        <span class="badge">{% icon "calendar" %}</span>
+        <h3>Season finder</h3>
+        <p>Choose a month and a district. See which places are at their best, which are good, and which to leave for another time.</p>
+        <div class="card__foot"><span class="small muted">Month by month</span><span class="linkarrow">Open {% icon "arrow" %}</span></div>
+      </div></a>
+      <a class="card card--text rv" href="{% url 'tool_budget' %}"><div class="card__body">
+        <span class="badge">{% icon "rupee" %}</span>
+        <h3>Trip cost calculator</h3>
+        <p>Nights, travellers, comfort level, shared jeep or private car. Get an itemised range for rooms, transport, permits and meals.</p>
+        <div class="card__foot"><span class="small muted">Indicative 2026 rates</span><span class="linkarrow">Open {% icon "arrow" %}</span></div>
+      </div></a>
+      <a class="card card--text rv" href="{% url 'tool_permits' %}"><div class="card__body">
+        <span class="badge">{% icon "permit" %}</span>
+        <h3>Permit checker</h3>
+        <p>Indian or foreign national? Tick the places you want to see and get a plain verdict for each: allowed, allowed with conditions, or not allowed.</p>
+        <div class="card__foot"><span class="small muted">Nathu La, North Sikkim, Silk Route</span><span class="linkarrow">Open {% icon "arrow" %}</span></div>
+      </div></a>
+      <a class="card card--text rv" href="{% url 'tool_altitude' %}"><div class="card__body">
+        <span class="badge">{% icon "altitude" %}</span>
+        <h3>Altitude check</h3>
+        <p>Choose any of our packages to see its height profile night by night, with big jumps flagged and plain advice on acclimatising.</p>
+        <div class="card__foot"><span class="small muted">Every package</span><span class="linkarrow">Open {% icon "arrow" %}</span></div>
+      </div></a>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2" aria-labelledby="more-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Read alongside" sh_title="The pages behind the tools" sh_id="more-h" %}
+    <div class="rows">
+      <a href="{% url 'seasons' %}"><b>Season guide</b><small>Every district, every month</small></a>
+      <a href="{% url 'affordable' %}"><b>Affordable Sikkim</b><small>Packages by price band, with real costs</small></a>
+      <a href="{% url 'altitude' %}"><b>The altitude ladder</b><small>Every place we cover, from 280 m to 5,000 m and above</small></a>
+      <a href="{% url 'guides' %}"><b>Guides</b><small>Permits, money, seasons and stories, district by district</small></a>
+      <a href="{% url 'journeys' %}"><b>All packages</b><small>Each with a price breakdown and a day-by-day plan</small></a>
+    </div>
+    <p class="small muted mt">Tools give planning estimates and general rules. Permits, fees, road openings and prices change, sometimes at a day's notice: check current status before you travel.</p>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" with cta_title="Rather we did the sums" cta_text="Send your dates, the people travelling and a rough budget. We reply within one working day with a day-by-day plan and an itemised price." %}
 {% endblock %}

@@ -1,0 +1,58 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim in {{ month }}: weather, where to go, prices · Sikkim Escapes{% endblock %}
+{% block description %}Sikkim in {{ month }}: weather in every district, where to go, which roads and passes are open, festivals and packages at their best this month.{% endblock %}
+{% block og_title %}Sikkim in {{ month }} · Sikkim Escapes{% endblock %}
+{% block content %}
+{% include "escapes/partials/phero.html" with h_title="Sikkim in "|add:month h_kicker="Month by month" h_lede="District by district: the weather, where we would go and what to watch for on the roads." h_seed="sikkim-"|add:month %}
+
+<section class="sec sec--tight" style="padding-bottom:0">
+  <div class="wrap">
+    <nav class="pills" aria-label="Months">{% for m, slug in months %}<a href="{% url 'sikkim_month' slug %}"{% if forloop.counter0 == i %} aria-current="page" style="background:var(--ink);color:#fff;border-color:var(--ink)"{% endif %}>{{ m|slice:":3" }}</a>{% endfor %}</nav>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    {% if faqs %}<div class="answer rv"><b>Short answer</b><p>{{ faqs.0.a }}</p></div>{% endif %}
+    <div class="grid g2 mt">
+      {% for x in rows %}<article class="panel rv" data-land="{{ x.r.slug }}">
+        <div style="display:flex;justify-content:space-between;gap:12px;align-items:start">
+          <h2 class="h3" style="margin:0"><a href="{% url 'region_month' x.r.slug month|lower %}" style="text-decoration:none">{{ x.r.name }}</a></h2>
+          <span class="chip{% if x.rating == 2 %} chip--budget{% elif x.rating == 1 %} chip--comfort{% endif %}">{% if x.rating == 2 %}Best{% elif x.rating == 1 %}Good{% else %}Off season{% endif %}</span>
+        </div>
+        {% if x.md.weather %}<p class="small muted" style="margin:6px 0 10px">{% icon "calendar" %} {{ x.md.weather }}</p>{% endif %}
+        {% if x.md.summary %}<p class="small">{{ x.md.summary|truncatewords:50 }}</p>{% endif %}
+        {% if x.go %}<p class="small" style="margin:0 0 10px"><b>Go to:</b> {% for p in x.go %}<a href="{{ p.url }}">{{ p.name }}</a>{% if not forloop.last %} · {% endif %}{% endfor %}</p>{% endif %}
+        <a class="linkarrow" href="{% url 'region_month' x.r.slug month|lower %}">{{ x.r.name }} in {{ month }} {% icon "arrow" %}</a>
+      </article>{% endfor %}
+    </div>
+  </div>
+</section>
+
+{% if festivals %}<section class="sec sec--paper2" aria-labelledby="f-h">
+  <div class="wrap">
+    {% url 'festivals' as f_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Festivals" sh_title="On the calendar in "|add:month sh_id="f-h" sh_text="Most dates follow the lunar calendar and move each year. Ask us for the date in the year you travel." sh_more_url=f_url sh_more="Festival calendar" %}
+    <div class="grid g4" data-fill>{% for f in festivals %}{% include "escapes/partials/card_fest.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec" aria-labelledby="j-h">
+  <div class="wrap">
+    {% url 'journeys' as j_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Packages" sh_title="Trips at their best in "|add:month sh_id="j-h" sh_text="Cheapest first. Indicative prices per person, twin sharing." sh_more_url=j_url sh_more="Every package" %}
+    {% if journeys %}<div class="grid g4" data-fill>{% for j in journeys %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+    {% else %}<div class="empty">No package is rated best for {{ month }}, but plenty of trips still work. <a href="{% url 'plan' %}?month={{ month }}">Ask the Gangtok desk</a>.</div>{% endif %}
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap wrap--narrow">
+    {% include "escapes/partials/faq.html" with faq_title="Sikkim in "|add:month %}
+    <nav class="pager" aria-label="Other months">
+      <a class="btn btn--ghost" href="{% url 'sikkim_month' prev %}">{{ prev_name }}</a>
+      <a class="btn btn--ghost" href="{% url 'seasons' %}">All months</a>
+      <a class="btn btn--ghost" href="{% url 'sikkim_month' next %}">{{ next_name }} {% icon "arrow" %}</a>
+    </nav>
+  </div>
+</section>
+{% include "escapes/partials/cta.html" with cta_title="Travelling in "|add:month|add:"?" %}
+{% endblock %}

@@ -1,0 +1,172 @@
+{
+  "slug": "uttarey",
+  "name": "Uttarey",
+  "region": "west-sikkim",
+  "kind": "village",
+  "wiki": "Uttarey",
+  "image_query": "Uttarey village Sikkim",
+  "lat": 27.2689,
+  "lng": 88.0921,
+  "altitude_m": 2000,
+  "local_name": null,
+  "tagline": "A forest village on the Singalila Ridge by the Nepal border",
+  "meta_description": "Uttarey (about 2,000 m): homestays, a Kagyu monastery, Mainbus waterfall and the Singalila trails near the Nepal border, 35 km from Pelling. Costs and tips.",
+  "summary": "Uttarey is a homestay village at about 2,000 m on the northern slopes of the Singalila Ridge, about 35 km and 1.5–2 hours west of Pelling, past Dentam and the Singshore Bridge. It has a Kagyu monastery, forest walks to Mainbus waterfall and trails towards Chewabhanjang on the Nepal border. Stay 1–3 nights.",
+  "intro": [
+    "Uttarey is the last village of any size on the road west from Pelling, close to the Nepal border in Gyalshing district (West Sikkim). The district administration gives its height as about 6,600 ft, roughly 2,000 m, which makes it a little cooler than Pelling and much cooler than the Dentam valley below. Houses and fields climb a slope ringed by forest of oak, magnolia and rhododendron, and the long Singalila Ridge rises behind.",
+    "The village has become a homestay stop over the last two decades. Families with Limbu, Bhutia and Nepali roots host guests in simple rooms and cook with produce from their fields. The district names its sights plainly: the Kagyu gompa, a monastery in the forest with wall paintings, Mainbus waterfall, and Chewabhanjang, a pass about 10 km away that it calls the gateway to Nepal. Beyond that, the attraction is the place itself: cool air, birdsong and very little traffic.",
+    "Most travellers reach Uttarey on a day trip from Pelling, crossing the Singshore Bridge on the way. That leaves an hour for lunch and a short walk. We suggest at least one night: dawn on the ridge, a forest walk to the waterfall, an evening by the kitchen fire. Trekkers also use Uttarey as the start of the Singalila routes that follow the border ridge north towards the Khangchendzonga area."
+  ],
+  "story": {
+    "title": "The trail to Chewabhanjang and the Singalila Ridge",
+    "text": "Uttarey sits at the foot of the Singalila Ridge, the long north–south spur that runs from the Kangchenjunga massif down to the hills near Darjeeling and forms much of the border between Sikkim and Nepal. About 10 km above the village is Chewabhanjang (also spelled Chiwa Bhanjyang), a pass on the ridge that the Gyalshing district administration describes as the gateway to Nepal. Paths over passes like this were used for generations by people on both sides for trade, grazing and family visits; ask your hosts what they remember, as told locally. The district also lists the Singalila trek, which leaves Uttarey for Chewabhanjang and continues north along the ridge through Dhor, Sikkim Megu and Dafey Bhir to Gomathang, in the high country south of Dzongri, best from mid-May to October. It is one of the least walked routes in Sikkim. Today the pass is a border point, not an official crossing for foreign travellers, so treat the trail as a forest walk and check current status before you travel.",
+    "source": "Gyalshing district administration: Utteray; Adventures; Wikipedia: Singalila Ridge; Chiwa Bhanjyang"
+  },
+  "little_known": [
+    {"fact": "The Gyalshing district administration describes the Singshore Bridge, on the road to Uttarey, as said to be the second highest bridge in Asia, a claim also repeated on Wikipedia.", "source": "Gyalshing district administration: Utteray"},
+    {"fact": "Uttarey is the end point of a rhododendron trek route listed by the district: Hilley, Barsey, Jorbutey, Kalijar, Chewabhanjang and down to Uttarey, best from March to May.", "source": "Gyalshing district administration: Adventures"},
+    {"fact": "From the Kagyu monastery in the forest above Uttarey, the district administration notes, you can see the Dentam peak and the river in the valley below.", "source": "Gyalshing district administration: Utteray"}
+  ],
+  "facts": [
+    ["Best months", "Oct–Dec and Mar–May"],
+    ["Nights we suggest", "1–3"],
+    ["From Gangtok", "≈ 150 km · 7–8 h (≈ 35 km beyond Pelling)"],
+    ["Altitude", "About 2,000 m"],
+    ["Known for", "Homestays, forest walks, Kagyu gompa, Singalila trails"],
+    ["Permit", "Not needed for Indians in the village; foreigners need the Sikkim RAP"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–3",
+  "highlights": [
+    {"title": "Singshore Bridge on the way", "text": "The road from Dentam crosses the Singshore Bridge, about 240 m long and more than 100 m above a forested gorge, before climbing to Uttarey. Stop, walk across and back, and look down into the gorge. It is the classic photograph of this road."},
+    {"title": "The Kagyu gompa in the forest", "text": "The village monastery of the Kagyu school stands among trees above the houses. The district administration mentions its wall paintings and the view to the Dentam peak and river below. Visit quietly, walk clockwise, remove shoes inside and ask before taking photographs."},
+    {"title": "Mainbus waterfall walk", "text": "A forest and field walk of about 4–5 hours there and back leads to Mainbus waterfall, which the district lists among Uttarey's sights. Go with a local guide or your host's directions, carry a packed lunch, and expect mud and leeches after rain."},
+    {"title": "Ridge walks towards Chewabhanjang", "text": "Trails climb from the village through oak and rhododendron towards the Singalila Ridge and the Chewabhanjang pass, about 10 km away on the Nepal border. A half-day walk up to around 2,300 m gives wide valley views in clear weather and thick blossom in April."},
+    {"title": "Homestay evenings", "text": "Uttarey is quiet after dark. Dinner is home-cooked rice, dal, seasonal greens, pickles and often chicken or pork, served early, with conversation by the kitchen fire. Ask your hosts about their festivals and the old paths to Nepal."},
+    {"title": "Cold, clear winter mornings", "text": "From December to February nights drop near freezing and the ridge can get light snow, but mornings are often clear. Rooms are not heated, so ask for extra blankets and pack thermals. It is the quietest time of year in the village."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run between Gyalshing and Uttarey via Dentam a few times a day, mostly in the morning, indicatively ₹150–250 a seat and about 2.5 hours. Return jeeps leave Uttarey early in the day; your host can tell you when and where to wait."},
+    {"mode": "Private car", "text": "From Pelling, about 35 km and 1.5–2 hours via Dentam and the Singshore Bridge, indicatively ₹2,500–3,500 one way or ₹3,000–4,000 for a day return. From Gangtok, about 150 km and 7–8 hours via Legship and Gyalshing."},
+    {"mode": "From Bagdogra / NJP", "text": "About 165–175 km and 7–8 hours via Melli, Jorethang, Legship, Gyalshing and Dentam, indicatively ₹7,000–9,000 by private car. Most travellers break the journey in Pelling. NH10 closes after heavy rain; the alternative is via Darjeeling. Check current status before you travel."}
+  ],
+  "costs": [
+    ["Shared jeep Gyalshing–Uttarey", "≈ ₹150–250 a seat"],
+    ["Private car Pelling–Uttarey", "≈ ₹2,500–3,500 one way"],
+    ["Homestay", "≈ ₹1,200–2,200 per person with meals"],
+    ["Local guide for a day walk", "≈ ₹1,000–1,500"],
+    ["Meal (thali)", "≈ ₹150–250"]
+  ],
+  "where_to_stay": "Uttarey is a homestay village, and that is the way to stay here. Families around the village host guests in simple rooms, some with shared bathrooms, at indicatively ₹1,200–2,200 per person with meals; we list them together as Uttarey village homestays and book a family that suits your group. There are a few small lodges but no hotels of Pelling's standard. If you want a comfort or premium room, stay in Pelling, at The Elgin Mount Pandim or Norbu Ghang Retreat and Spa, and visit Uttarey by day.",
+  "stays": ["uttarey-village-homestays"],
+  "tips": [
+    "Stay at least one night; a day trip leaves time for little more than lunch and the bridge.",
+    "Carry cash from Pelling or Gyalshing; there is no reliable ATM and mobile data can be weak.",
+    "Pack warm layers in every season, and thermals from November to February.",
+    "Do not try to cross into Nepal at Chewabhanjang; treat the border trails as forest walks only.",
+    "Leave Pelling by early afternoon, as the narrow road is best driven in daylight."
+  ],
+  "themes": ["village-homestays", "treks-and-walks", "flowers-and-forests", "offbeat-sikkim"],
+  "nearby": ["singshore-bridge", "dentam", "hee-bermiok", "pelling"],
+  "experiences": [
+    {
+      "slug": "uttarey-mainbus-waterfall-walk",
+      "title": "Forest walk to Mainbus waterfall",
+      "kind": "nature",
+      "duration": "4–5 hours",
+      "best_time": "Oct–Nov and Mar–May",
+      "cost": "≈ ₹1,000–1,500 for a local guide",
+      "image_query": "Uttarey forest waterfall Sikkim",
+      "wiki": "",
+      "summary": "Walk from your homestay through terraced fields and mixed forest to Mainbus waterfall, one of the sights the Gyalshing district administration lists near Uttarey, at an easy pace with a packed lunch and a local guide.",
+      "body": [
+        "Mainbus waterfall (also written Mainebas) is the walk most Uttarey families suggest to guests. The route leaves the village on paths between terraces and houses, then enters forest of oak, magnolia and, higher up, rhododendron. A local guide keeps you on the right path at the many junctions and points out plants, birds and the uses villagers make of the forest.",
+        "Allow four to five hours there and back at an easy pace, with time to rest by the falls and eat a packed lunch from your homestay. The waterfall is fullest after the monsoon in September and October, and the forest is greenest and flowering in March to May.",
+        "Wear shoes with good grip; the paths are muddy after rain and leeches appear from June to September. Carry water, a rain jacket and a small bag for your rubbish."
+      ],
+      "good_for": ["families", "couples", "solo", "budget"],
+      "faqs": [
+        {"q": "How long is the walk to Mainbus waterfall from Uttarey?", "a": "Plan four to five hours there and back at an easy pace, including a rest and lunch at the falls. The exact route and time depend on where your homestay is in the village and on the state of the paths. Your host or a local guide will set the route and pace for your group."},
+        {"q": "Is the Mainbus waterfall walk difficult?", "a": "It is an easy to moderate village and forest walk with some ups and downs and narrow stretches. Children used to walking and fit older travellers manage it well. After rain the paths are slippery and leeches appear, so good shoes and a guide matter more in the wetter months."},
+        {"q": "When is Mainbus waterfall at its best?", "a": "September to early November, after the monsoon, when the water is full and the skies start to clear. In spring, March to May, the flow is lower but the forest is in leaf and flower. We avoid June to August, when the paths are slippery and the road to Uttarey sees landslides."}
+      ]
+    },
+    {
+      "slug": "uttarey-kagyu-gompa-visit",
+      "title": "Morning at the Uttarey Kagyu monastery",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Year-round, early morning",
+      "cost": "Free; donation welcome",
+      "image_query": "Uttarey monastery Sikkim",
+      "wiki": "",
+      "summary": "Walk up through the forest to the village monastery of the Kagyu school, which the district administration notes for its wall paintings and its view over the Dentam peak and valley, and sit quietly through the morning.",
+      "body": [
+        "The Gyalshing district administration describes the Kagyu gompa in Uttarey as a highly revered place of worship for the village, set in dense forest, with wall paintings inside and a view across to the Dentam peak and the river below. It is a working village monastery, not a museum, and its rhythms follow the community's calendar.",
+        "Walk up early from your homestay, when mist often hangs in the trees and butter lamps may be lit. If the caretaker is there and the hall is open, remove your shoes, walk clockwise and sit at the side. Ask before photographing the paintings or people, and leave a small donation.",
+        "Afterwards, sit outside and watch the light come up over the valley towards Dentam. Your hosts can tell you which days bring prayers or festivals."
+      ],
+      "good_for": ["seniors", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Is there a monastery in Uttarey?", "a": "Yes. The district administration describes a Kagyu gompa set in forest above the village, revered by local people and known for its wall paintings and its view to the Dentam peak and the river below. It is a small community monastery, so opening depends on the caretaker; ask your homestay host the evening before."},
+        {"q": "Can visitors take photographs inside the Uttarey monastery?", "a": "Ask first. Many monasteries in Sikkim do not allow photography inside the main hall, especially of the altar and murals. Outside photography of the building and the view is generally fine. Be quiet, walk clockwise around the monastery and any chortens, and do not touch offerings or statues."},
+        {"q": "What should I wear to visit the monastery?", "a": "Modest clothes that cover shoulders and knees, and shoes you can slip off easily at the door. Mornings are cold at 2,000 m, so bring a warm layer and socks for the stone or wooden floor. Hats come off inside, and a small cash donation in the box is customary."}
+      ]
+    },
+    {
+      "slug": "uttarey-singalila-ridge-day-walk",
+      "title": "Half-day walk up towards the Singalila Ridge",
+      "kind": "adventure",
+      "duration": "4–6 hours",
+      "best_time": "Mar–May for flowers; Oct–Dec for views",
+      "cost": "≈ ₹1,000–1,500 for a local guide",
+      "image_query": "Singalila Ridge rhododendron forest",
+      "wiki": "Singalila Ridge",
+      "summary": "Climb from Uttarey through oak and rhododendron forest on the trail towards Chewabhanjang, to about 2,300 m for wide views over the valley, with a local guide, and return the same day without crossing the border.",
+      "body": [
+        "The Singalila Ridge runs north–south along the Sikkim–Nepal border, and Uttarey sits on its lower northern slopes. The trail towards Chewabhanjang, a pass about 10 km above the village, climbs steadily through mixed forest that becomes dense rhododendron as you gain height.",
+        "With a local guide, a half-day walk takes you to around 2,300 m, to clearings with views back over Uttarey and across to Dentam and the ridges towards Pelling. In March and April the rhododendrons here are thick with red and pink blossom; from October to December the air is clear and you may see the Kangchenjunga range to the north.",
+        "The route depends on weather and season, and cloud can close in quickly. Carry water, snacks, a warm layer and a rain jacket. This is a forest walk, not a border crossing: turn back well before the pass unless you have the right permissions. Check current status before you travel."
+      ],
+      "good_for": ["couples", "solo", "photographers"],
+      "faqs": [
+        {"q": "How far is Chewabhanjang from Uttarey?", "a": "The district administration gives about 10 km. It is a steady climb through forest on a trail, best done as a full day with a local guide. Most of our guests walk part of the way, to about 2,300 m, and return. Rules near the border change, so check current status before you travel."},
+        {"q": "Can I cross into Nepal at Chewabhanjang?", "a": "Not as a foreign traveller: it is not an official crossing for foreigners. Indian and Nepali nationals have traditionally used local paths here, but rules and security checks change, and we do not plan crossings. Treat the trail as a forest walk and turn back before the border."},
+        {"q": "Will I see rhododendrons on the Uttarey ridge walk?", "a": "Yes, in season. The forest above Uttarey has many rhododendron trees, which usually flower from late March to early May, peaking in April at around 2,300–2,800 m. Timing varies with the year's weather. Ask us or your host close to your dates."}
+      ]
+    },
+    {
+      "slug": "uttarey-singalila-trek",
+      "title": "The Singalila trek north from Uttarey",
+      "kind": "adventure",
+      "duration": "5–8 days",
+      "best_time": "Mid-May to October (district listing); Oct–Nov preferred",
+      "cost": "≈ ₹3,500–6,000 per person per day, group trek",
+      "image_query": "Singalila Ridge trek Sikkim",
+      "wiki": "Singalila Ridge",
+      "summary": "A remote, seldom-walked trek that the district administration lists from Uttarey over Chewabhanjang and north along the Singalila Ridge through Dhor, Sikkim Megu and Dafey Bhir to Gomathang, in high country south of Dzongri, for experienced trekkers only.",
+      "body": [
+        "The Gyalshing district administration lists the Singalila trek as Uttarey, Chewabhanjang, Dhor (Wahong), Sikkim Megu, Dafey Bhir and Gomathang or Boktok, with the season given as mid-May to October. It follows the Singalila Ridge north along the Nepal border into high, open country, with lakes, yak pastures and views of the Kangchenjunga range.",
+        "This is a serious, remote trek: long days, few trails marked on the ground, camps far from roads and altitudes above 4,000 m. It needs a registered Sikkim trekking agency, a guide who has walked it, full camping support and the forest and other permits that apply to the border area. Rules here change and some sections may be restricted, so check current status before you travel.",
+        "We plan it only for experienced trekkers with time to acclimatise. For a first Himalayan trek, the Dzongri trail from Yuksom is better supported."
+      ],
+      "good_for": ["solo", "photographers"],
+      "faqs": [
+        {"q": "What is the Singalila trek from Uttarey?", "a": "A remote trek listed by the Gyalshing district administration that climbs from Uttarey to Chewabhanjang and follows the Singalila Ridge north through Dhor, Sikkim Megu and Dafey Bhir to Gomathang. It runs along the Nepal border into high country south of Dzongri and is one of the least walked routes in Sikkim."},
+        {"q": "Do I need permits for the Singalila trek?", "a": "Yes. Expect forest department permits and registration through a registered Sikkim trekking agency, and checks near the border. Foreign nationals face extra restrictions in border areas and should ask us before planning. Rules for this route change and some sections may be closed, so check current status before you travel."},
+        {"q": "Is the Singalila trek suitable for beginners?", "a": "No. It is remote, high and lightly used, with long days, changeable weather and camps above 4,000 m. It suits experienced trekkers with full camping support and a guide who knows the route. Beginners should start with the Dzongri trek from Yuksom, which is better supported and has a clear trail."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Uttarey?", "a": "Uttarey is a village in Gyalshing district (West Sikkim) at about 2,000 m, close to the Nepal border on the northern slopes of the Singalila Ridge. By road it is about 35 km and 1.5–2 hours west of Pelling, via Dentam and the Singshore Bridge, and about 150 km from Gangtok."},
+    {"q": "Is Uttarey worth visiting?", "a": "Yes, if you want a quiet village night with forest walks, home cooking and cool air rather than sights. It has a Kagyu monastery, Mainbus waterfall, the ridge trails towards Chewabhanjang and the Singshore Bridge on the approach. Travellers who need hotels, shops and nightlife will prefer Pelling."},
+    {"q": "How far is Uttarey from Pelling?", "a": "About 35 km, or 1.5–2 hours by car, via Dentam and the Singshore Bridge. A private car costs indicatively ₹2,500–3,500 one way, or ₹3,000–4,000 for a day return. Shared jeeps run from Gyalshing in the morning. The road is narrow, so avoid driving it after dark."},
+    {"q": "What is the altitude of Uttarey?", "a": "The district administration gives about 6,600 ft, roughly 2,000 m. That is a little lower than Upper Pelling but Uttarey feels colder, with more forest and cloud. There is no real altitude risk at this height, but nights drop near freezing in winter, and rooms are not heated."},
+    {"q": "Can I see Kangchenjunga from Uttarey?", "a": "On clear mornings, mostly from October to March, you can see the Kangchenjunga range from viewpoints above the village, at a lower angle across forested ridges. The view is less dramatic than from Pelling, and summer cloud often hides it. A short walk up the ridge trail improves the view."},
+    {"q": "Where do I stay in Uttarey?", "a": "In a family homestay. Uttarey has several, at indicatively ₹1,200–2,200 per person with meals; some rooms share a bathroom. We book them as Uttarey village homestays, matching a family to your group. There are no hotels of Pelling's standard, so comfort and premium travellers usually visit by day."},
+    {"q": "When is the best time to visit Uttarey?", "a": "October to December for clear views and dry trails, and March to May for rhododendrons. January and February are cold, sometimes with snow on the ridge. June to September is wet, with leeches on the trails and slides on the road, so we avoid it. Check current status before you travel."},
+    {"q": "Do I need a permit for Uttarey?", "a": "Indian citizens do not need a permit to visit the village. Foreign nationals need Sikkim's Restricted Area Permit, applied for online on the e-FRRO portal. Treks along the Singalila Ridge and near the border need further permits and a registered agency. Check current status before you travel."},
+    {"q": "Is there mobile network and an ATM in Uttarey?", "a": "Mobile coverage is patchy: calls usually work in parts of the village, but data can be weak or absent, especially in bad weather. There is no ATM you can rely on. Carry enough cash from Pelling or Gyalshing for your homestay, guide, car and small purchases."}
+  ]
+}

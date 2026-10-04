@@ -1,12 +1,25 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Routes, distances and drive times · Tales of Luxury{% endblock %}
-{% block description %}How to get between the main places in Nepal, Rajasthan, Ladakh, North East India, Kerala, Goa and UP &amp; Bihar: road distances, drive times, flights and trains.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Getting around Sikkim: road guides and fares · Sikkim Escapes{% endblock %}
+{% block description %}How to get between places in Sikkim by shared jeep, private car or on foot: distances, honest drive times, indicative fares and what to see on the way.{% endblock %}
+{% block og_title %}Getting around Sikkim · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Routes</p><h1 class="h-hero">Between <span class="accent">the places</span></h1>
-  <p class="lede">Real distances and realistic times by private car, flight and train, with the stops worth making on the way.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px"><div class="grid grid--2">
-  {% for r in regions %}{% if r.routes %}<div class="panel panel--line"><h2 class="h-m" style="margin-bottom: 18px"><span class="lbadge" data-land="{{ r.slug }}">{% icon r.slug %}</span> {{ r.name }}</h2>
-    <div class="ledger">{% for rt in r.routes %}<a class="ledger__row" href="{{ rt.url }}" style="text-decoration: none"><span>{{ rt.from_obj.name }} → {{ rt.to_obj.name }}</span><span class="ledger__dots"></span><b>{{ rt.distance_km }} km</b></a>{% endfor %}</div></div>{% endif %}{% endfor %}
-</div></section>
+{% include "escapes/partials/phero.html" with h_title="Getting between places" h_kicker="Road guides" h_lede="Distances, honest drive times and indicative fares for the roads you will actually use. In the hills, plan on 20 to 25 km an hour." h_seed="routes" %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="answer rv" style="margin-bottom:clamp(28px,4vw,48px)"><b>Before you plan a day on the road</b><p>Sikkim's roads are slow and change with the weather. Shared jeeps are the cheapest way between towns, a reserved car is the most flexible, and protected areas need a registered vehicle and a permit. NH10 from Siliguri closes after monsoon slides; the fallback is via Kalimpong or Algarah. Check current status before you travel.</p></div>
+    {% for r in regions %}{% if r.routes %}<div class="mt" data-land="{{ r.slug }}">
+      <h2 class="h3" style="display:flex;gap:10px;align-items:center"><span class="badge badge--dark" style="width:40px;height:40px">{% icon r.icon %}</span><a href="{{ r.url }}" style="text-decoration:none">{{ r.name }}</a></h2>
+      <div class="rows">{% for rt in r.routes %}<a href="{{ rt.url }}"><span><b>{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</b><br><small>{{ rt.summary|truncatewords:22 }}</small></span><small class="num">{% if rt.distance_km %}≈ {{ rt.distance_km }} km{% endif %} {% icon "arrow" %}</small></a>{% endfor %}</div>
+    </div>{% endif %}{% empty %}<div class="empty">Road guides are being written. <a href="{% url 'plan' %}">Ask the Gangtok desk</a>.</div>{% endfor %}
+  </div>
+</section>
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <p class="kicker">More planning help</p>
+    <div class="pills"><a href="{% url 'tool_permits' %}">{% icon "permit" %}Permit checker</a><a href="{% url 'tool_budget' %}">{% icon "rupee" %}Trip cost calculator</a><a href="{% url 'altitude' %}">{% icon "altitude" %}The altitude ladder</a><a href="{% url 'lands' %}">{% icon "compass" %}All districts</a></div>
+  </div>
+</section>
+{% include "escapes/partials/cta.html" with cta_title="Let us sort the cars and permits" %}
 {% endblock %}

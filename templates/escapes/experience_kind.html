@@ -1,25 +1,42 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ name }} experiences{% if r %} in {{ r.name }}{% else %} in Nepal and India{% endif %} · Tales of Luxury{% endblock %}
-{% block description %}Private {{ name|lower }} experiences{% if r %} in {{ r.name }}{% endif %}: {{ tagline|lower }}. {{ intro }}{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{% if r %}{{ name }} in {{ r.name }}{% else %}{{ name }} in Sikkim{% endif %}: experiences · Sikkim Escapes{% endblock %}
+{% block description %}{% if r %}{{ name }} experiences in {{ r.name }}{% else %}{{ name }} experiences across Sikkim{% endif %}: {{ tagline|lower }}. {{ exps|length }} ideas with time, cost and the best hour.{% endblock %}
+{% block og_title %}{% if r %}{{ name }} in {{ r.name }}{% else %}{{ name }} in Sikkim{% endif %} · Sikkim Escapes{% endblock %}
+{% block og_image %}{% with img=exps.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block body_attrs %}{% if r %} data-land="{{ r.slug }}"{% endif %}{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  {% if r %}<div class="chip-row"><a class="chip chip--land" href="{{ r.url }}">{% icon r.slug %} {{ r.name }}</a></div>{% else %}<p class="eyebrow">Experiences</p>{% endif %}
-  <h1 class="h-xl h-icon">{% icon kind %} {{ name }}{% if r %} in <span class="accent">{{ r.name }}</span>{% endif %}</h1>
-  <p class="lede" style="font-family: var(--display); font-style: italic; color: var(--ink)">{{ tagline }}</p>
-  <div class="answer">Private {{ name|lower }} experiences{% if r %} across {{ r.name }}{% else %} across our seven lands{% endif %}. {{ intro }}</div></div></header>
-<section class="wrap" style="padding-bottom: 72px">
-  {% if not r and lands %}<div class="filters" data-filter-group="#k-list" role="group" aria-label="Filter by land">
-    <button type="button" data-key="region" data-value="" aria-pressed="true">All lands</button>
-    {% for l in lands %}<button type="button" data-key="region" data-value="{{ l.slug }}" aria-pressed="false">{{ l.name }}</button>{% endfor %}</div>{% endif %}
-  <div class="grid grid--4" data-fill id="k-list">{% for e in exps %}{% include "tales/partials/card_exp.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div>
+{% if r %}{% include "escapes/partials/phero.html" with h_title=name|add:" in "|add:r.name h_img=exps.0|first_img h_kicker=r.official|add:" · Experiences" h_lede=tagline h_seed=r.slug|add:kind h_short=True %}
+{% else %}{% include "escapes/partials/phero.html" with h_title=name h_img=exps.0|first_img h_kicker="Sikkim experiences" h_lede=tagline h_seed=kind h_short=True %}{% endif %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="answer rv" style="margin-bottom:clamp(28px,4vw,48px)"><b>{% if r %}{{ name }} in {{ r.name }}{% else %}{{ name }} in Sikkim{% endif %}</b><p>{{ intro }}{% if exps %} {{ exps|length }} experience{{ exps|length|pluralize }} below, each with its time, cost and the best hour to go.{% endif %}</p></div>
+
+    {% if not r and lands|length > 1 %}<form class="filters" data-filters="exp-grid" onsubmit="return false">
+      <label class="sr" for="f-region">District</label>
+      <select id="f-region" data-filter="region"><option value="">All districts</option>{% for l in lands %}<option value="{{ l.slug }}">{{ l.name }}</option>{% endfor %}</select>
+      <button type="button" data-filter-reset>Reset</button>
+      <span class="filters__count" data-filter-count></span>
+    </form>{% endif %}
+
+    {% if exps %}<div class="grid g4" id="exp-grid" data-fill>{% for e in exps %}{% include "escapes/partials/card_exp.html" %}{% endfor %}{% if r %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}{% else %}{% include "escapes/partials/fill.html" %}{% endif %}</div>
+    <div class="empty" data-filter-empty hidden>No {{ name|lower }} experiences in that district yet. <a href="{% url 'plan' %}">Ask us</a> and we will suggest one.</div>
+    {% else %}<div class="empty">We are still writing up {{ name|lower }} experiences{% if r %} in {{ r.name }}{% endif %}. <a href="{% url 'plan' %}{% if r %}?land={{ r.slug }}{% endif %}">Tell us what you would like to do</a> and we will plan it.</div>{% endif %}
+  </div>
 </section>
-<section class="sec--tight wrap" style="padding-bottom: 96px">
-  {% if r %}<p class="eyebrow" style="margin-bottom: 14px">More in {{ r.name }}</p>
-    <div class="chip-row">{% for k, n in others %}<a class="chip" style="font-size: 12px; padding: 12px 18px" href="{% url 'region_kind' r.slug k %}">{{ n }}</a>{% endfor %}<a class="chip chip--line" style="font-size: 12px; padding: 12px 18px" href="{% url 'experience_kind' kind %}">{{ name }} in every land</a></div>
-  {% else %}<p class="eyebrow" style="margin-bottom: 14px">{{ name }} by land</p>
-    <div class="chip-row">{% for l in lands %}<a class="chip" style="--tint: {{ l.tint }}; --deep: {{ l.deep }}; font-size: 12px; padding: 12px 18px" href="{% url 'region_kind' l.slug kind %}">{{ name }} in {{ l.name }}</a>{% endfor %}</div>
-    <p class="eyebrow" style="margin: 28px 0 14px">Other kinds</p>
-    <div class="chip-row">{% for k, n in others %}<a class="chip chip--line" style="font-size: 12px; padding: 12px 18px" href="{% url 'experience_kind' k %}">{{ n }}</a>{% endfor %}</div>{% endif %}
-</section>
+
+{% if not r and lands %}<section class="sec sec--paper2 sec--tight" aria-labelledby="by-h">
+  <div class="wrap">
+    <p class="kicker" id="by-h">{{ name }} by district</p>
+    <div class="pills">{% for l in lands %}<a href="{% url 'region_kind' l.slug kind %}" data-land="{{ l.slug }}">{% icon l.icon %}{{ name }} in {{ l.name }}</a>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if others %}<section class="sec sec--tight" aria-labelledby="ok-h">
+  <div class="wrap">
+    <p class="kicker" id="ok-h">Other kinds of experience{% if r %} in {{ r.name }}{% endif %}</p>
+    <div class="pills">{% for k, n in others %}{% if r %}<a href="{% url 'region_kind' r.slug k %}">{% icon k %}{{ n }}</a>{% else %}<a href="{% url 'experience_kind' k %}">{% icon k %}{{ n }}</a>{% endif %}{% endfor %}<a href="{% url 'experiences' %}">All experiences</a>{% if r %}<a href="{{ r.url }}">{% icon r.icon %}The {{ r.name }} guide</a>{% endif %}</div>
+  </div>
+</section>{% endif %}
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

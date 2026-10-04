@@ -1,0 +1,66 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ r.name }} on a budget: costs and cheap trips · Sikkim Escapes{% endblock %}
+{% block description %}{{ r.name }} on a budget: our cheapest packages{% if lo %} from {{ lo|inr }} per person{% endif %}, real shared-jeep fares, room and homestay rates, and how to keep the cost down.{% endblock %}
+{% block og_title %}{{ r.name }} on a budget{% endblock %}
+{% block og_image %}{% with img=r|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block content %}
+{% include "escapes/partials/phero.html" with h_title=r.name|add:" on a budget" h_img=r|first_img h_kicker="Affordable Sikkim · "|add:r.official h_lede="The cheapest sensible ways to see "|add:r.name|add:", with real costs for jeeps, rooms and permits." h_short=True %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="statrow">
+      {% if lo %}<div class="stat"><small>Cheapest package, per person</small><b>{{ lo|inr }}</b></div>{% endif %}
+      <div class="stat"><small>Budget and value packages</small><b>{{ journeys|length }}</b></div>
+      <div class="stat"><small>Budget and value stays</small><b>{{ stays|length }}</b></div>
+      {% if r.best_label %}<div class="stat"><small>Best months</small><b style="font-size:1.3rem">{{ r.best_label }}</b></div>{% endif %}
+    </div>
+    <div class="answer" style="margin-top:20px"><b>Short answer</b><p>{% if r.money %}{{ r.money }}{% else %}Our cheapest {{ r.name }} trips are listed below with full price breakdowns.{% endif %}</p></div>
+  </div>
+</section>
+
+<section class="sec" style="padding-top:0" aria-labelledby="rj-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Cheapest first" sh_title="Budget and value packages" sh_id="rj-h" sh_text="Indicative per person, twin sharing. Every package shows what the money pays for." sh_more_url=r.url sh_more="About "|add:r.name %}
+    {% if journeys %}<div class="grid g3" data-fill>{% for j in journeys %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+    {% else %}<div class="empty">No budget package listed for {{ r.name }} yet. <a href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}">Tell us your budget</a> and we will build one.</div>{% endif %}
+  </div>
+</section>
+
+{% if costs %}<section class="sec sec--paper2" aria-labelledby="rc-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Real costs" sh_title="What things cost in "|add:r.name sh_id="rc-h" sh_text="Indicative 2026 fares and rates, place by place. They change with season and fuel prices: check current status before you travel." %}
+    <dl class="costs">{% for c in costs %}<div><dt>{{ c.label }}<small><a href="{{ c.place.url }}">{{ c.place.name }}</a></small></dt><dd>{{ c.value }}</dd></div>{% endfor %}</dl>
+    <p class="mt" style="margin-top:24px"><a class="btn btn--ghost" href="{% url 'tool_budget' %}">{% icon "rupee" %} Work out your own trip cost</a></p>
+  </div>
+</section>{% endif %}
+
+{% if r.permits %}<section class="sec sec--tight" aria-labelledby="rp-h">
+  <div class="wrap wrap--narrow">
+    <p class="kicker">Permits</p>
+    <h2 class="h3" id="rp-h">Permit costs and rules</h2>
+    <p>{{ r.permits }}</p>
+    <a class="linkarrow" href="{% url 'tool_permits' %}">Permit checker {% icon "arrow" %}</a>
+  </div>
+</section>{% endif %}
+
+{% if stays %}<section class="sec" aria-labelledby="rs-h">
+  <div class="wrap">
+    {% url 'homestays' as hs_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Where to sleep cheaply" sh_title="Budget and value stays" sh_id="rs-h" sh_more_url=hs_url sh_more="Homestays" %}
+    <div class="grid g3" data-fill>{% for s in stays %}{% include "escapes/partials/card_stay.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if money %}<section class="sec sec--paper2" aria-labelledby="rm-h">
+  <div class="wrap">
+    {% url 'guides' as g_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Money guides" sh_title="Costs explained" sh_id="rm-h" sh_more_url=g_url sh_more="Every guide" %}
+    <div class="grid g3" data-fill>{% for g in money %}{% include "escapes/partials/card_guide.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec"><div class="wrap wrap--narrow">
+  {% include "escapes/partials/faq.html" with faq_title="Budget questions about "|add:r.name %}
+  <p class="mt"><a class="linkarrow" href="{% url 'affordable' %}">Affordable Sikkim: every district {% icon "arrow" %}</a></p>
+</div></section>
+{% include "escapes/partials/cta.html" with cta_title="Tell us your budget for "|add:r.name %}
+{% endblock %}

@@ -1,26 +1,76 @@
-{% extends "tales/base.html" %}
-{% block title %}How we plan a private journey · Tales of Luxury{% endblock %}
-{% block description %}From first message to last transfer: how Tales of Luxury plans, quotes, books and looks after private journeys in Nepal and India.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}How we work: quotes, permits and prices · Sikkim Escapes{% endblock %}
+{% block description %}How a Sikkim Escapes trip works, step by step: your message, an itemised quote within one working day, a deposit, permits through registered partners, and one person to call.{% endblock %}
+{% block og_title %}How Sikkim Escapes works{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">How we work</p><h1 class="h-hero">Five steps, <span class="accent">no surprises</span></h1>
-  <p class="lede">You pay nothing until the plan is right. Here is exactly what happens between your first message and your last transfer.</p>
-  {% include "tales/partials/trust.html" %}</div></header>
-<section class="sec--tight"><div class="wrap narrow"><div class="days">
-  <article class="day rv"><div class="day__n"><small>Step</small>01</div><div><h2 class="h-m">You tell us the tale</h2><p>Dates, who is travelling, which lands interest you and what you hope to feel. Six questions online, a message on WhatsApp or a call. Rough answers are fine.</p></div></article>
-  <article class="day rv"><div class="day__n"><small>Step</small>02</div><div><h2 class="h-m">A first route within one working day</h2><p>Your planner sends a day-by-day route with named hotels and room categories, drive times and an indicative price per person. It is a draft to react to.</p></div></article>
-  <article class="day rv"><div class="day__n"><small>Step</small>03</div><div><h2 class="h-m">We refine it together</h2><p>Change the pace, swap a hotel, add a safari, drop a long drive. We revise until it is right, then send an itemised written quote.</p></div></article>
-  <article class="day rv"><div class="day__n"><small>Step</small>04</div><div><h2 class="h-m">You book with a deposit</h2><p>A [25]% deposit confirms the booking; the balance is due [45] days before departure. We confirm every hotel, car, guide and permit in writing. See <a href="{% url 'policy' 'payments' %}">payments</a> and <a href="{% url 'policy' 'refund-and-cancellation' %}">refunds and cancellations</a>.</p></div></article>
-  <article class="day rv"><div class="day__n"><small>Step</small>05</div><div><h2 class="h-m">On the road, a message away</h2><p>Your planner stays with your journey while you travel. A driver meets you at arrival, guides meet you at each site, and changes are handled while you are there.</p></div></article>
-</div></div></section>
-<section class="sec paper"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">What every journey includes</p><h2 class="h-l">The standard, not the extras</h2></div></div>
-  <div class="hl-list">
-    <div class="hl"><b>Private car and driver</b><p>For your party alone, for the whole route, with airport and station transfers.</p></div>
-    <div class="hl"><b>Guides who know the place</b><p>Specialist guides at each site, matched to what you want to know.</p></div>
-    <div class="hl"><b>Rooms chosen by category</b><p>We name the room, not only the hotel: lake-facing, garden suite, tent with a view.</p></div>
-    <div class="hl"><b>Permits and paperwork</b><p>We arrange the permits a registered agent can apply for and tell you about the rest.</p></div>
-    <div class="hl"><b>One planner throughout</b><p>The person who planned it is the person you message on the road.</p></div>
-    <div class="hl"><b>An itemised quote</b><p>Every line priced, taxes shown, nothing hidden in a total.</p></div>
-  </div></div></section>
-<section class="sec"><div class="wrap narrow">{% include "tales/partials/faq.html" with faqs=faqs faq_title="Before you book" %}</div></section>
+{% include "escapes/partials/phero.html" with h_title="How we work" h_kicker="From first message to the drive back down" h_lede="No payment to start, a written quote with every cost listed, permits handled through registered partners, and one person to call while you travel." h_seed="how-we-work" %}
+
+<section class="sec" aria-labelledby="hw-h">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="answer"><b>Short answer</b><p>You tell us dates, people and budget. Within one working day we send a day-by-day plan and an itemised price. You change what you like, pay a deposit to book, and we confirm every room, car and permit in writing.</p></div>
+      <div>
+        <p class="kicker">Six steps</p>
+        <h2 class="h2" id="hw-h">What happens when</h2>
+        <ol class="numlist mt">
+          <li><div><h3 class="h4">You tell us the basics</h3><p class="muted">Dates (or a month), how many people and their ages, roughly what you want to spend, and anything you already know you want: Gurudongmar, a homestay, a monastery festival. A form, an email or a WhatsApp message all work.</p></div></li>
+          <li><div><h3 class="h4">We send a plan and a price</h3><p class="muted">Within one working day: a day-by-day route with drive times and altitudes, the named hotels or homestays, the car, every permit and fee, and our planning fee as its own line.</p></div></li>
+          <li><div><h3 class="h4">You change it until it fits</h3><p class="muted">Move up or down a tier, add a night, swap a district. Each change comes back with a new itemised price, so you can see what it costs.</p></div></li>
+          <li><div><h3 class="h4">You book with a deposit</h3><p class="muted">Accept the quote in writing and pay the deposit. We confirm every service in writing. The <a href="{% url 'policy' 'payments' %}">payments policy</a> sets out when the balance is due.</p></div></li>
+          <li><div><h3 class="h4">We arrange the permits</h3><p class="muted">Protected areas such as Tsomgo, Nathu La, the Silk Route and North Sikkim need permits issued through Sikkim Tourism-registered agents. We apply through registered partners, usually a day ahead, with the ID and photos we ask you for. Foreign nationals apply for their own Restricted Area Permit online on e-FRRO; we tell you how. Check current status before you travel.</p></div></li>
+          <li><div><h3 class="h4">You travel with one person to call</h3><p class="muted">Your driver meets you at Bagdogra or NJP. If a road closes or a pass shuts, we reroute you and tell you what it changes, including the price.</p></div></li>
+        </ol>
+      </div>
+    </div>
+    <aside class="side">
+      <div class="panel panel--dark">
+        <h3>What a price includes</h3>
+        <ul class="ticks small"><li>Rooms, with the meals stated</li><li>Car and driver, or shared-jeep seats</li><li>Permits and fees, including the ₹50 Sikkim entry fee</li><li>Our planning fee, shown separately</li></ul>
+        <h3 style="margin-top:18px">What it leaves out</h3>
+        <ul class="ticks ticks--no small"><li>Flights or trains to Bagdogra or NJP</li><li>Travel insurance</li><li>Tips, heaters and personal spending</li></ul>
+      </div>
+      {% include "escapes/partials/quick_form.html" with qf_id="hww-aside" qf_title="Start with a message" %}
+    </aside>
+  </div>
+</section>
+
+{% if nav_tiers %}<section class="sec sec--paper2" aria-labelledby="hw-tiers">
+  <div class="wrap">
+    {% url 'journeys' as j_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Four ways to travel" sh_title="Pick the comfort, keep the route" sh_id="hw-tiers" sh_text="Every package comes at one of four levels. You can move any of them up or down." sh_more_url=j_url sh_more="Every package" %}
+    <div class="grid g4">
+      {% for t in nav_tiers %}<a class="card card--text rv" href="{% url 'tier' t.slug %}"><div class="card__body">
+        <span class="chip chip--{{ t.slug }}" style="align-self:flex-start">{{ t.name }}</span>
+        <h3>{{ t.label }}</h3>
+        <p>{{ t.text }}</p>
+        <div class="card__foot"><span class="small muted">{{ t.n }} package{{ t.n|pluralize }}</span><span class="linkarrow">See them {% icon "arrow" %}</span></div>
+      </div></a>{% endfor %}
+    </div>
+  </div>
+</section>{% endif %}
+
+<section class="sec" aria-labelledby="hw-promise">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="What you can hold us to" sh_title="Our working rules" sh_id="hw-promise" %}
+    <div class="hl grid g3">
+      <div><h3>Prices are indicative until quoted</h3><p>Website prices are "from" prices per person, twin sharing. Your written quote is the offer, valid for the days it states.</p></div>
+      <div><h3>Facts that change are flagged</h3><p>Permits, fees, road openings and festival dates move every year. We say so on every page and check again before you travel.</p></div>
+      <div><h3>Stories come with sources</h3><p>We name the book, article or institution behind each story, or say "as told locally". We never invent legends.</p></div>
+      <div><h3>Photos are credited</h3><p>Every photograph comes from Wikimedia Commons under a free licence, with its author named on our <a href="{% url 'photo_credits' %}">photo credits</a> page.</p></div>
+      <div><h3>No made-up praise</h3><p>We do not publish reviews, ratings or client numbers we cannot show you. Ask us for references instead.</p></div>
+      <div><h3>Your data stays with the trip</h3><p>We share only what a hotel, driver or permit office needs. See the <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p></div>
+    </div>
+    {% if counts.journeys %}<p class="small muted mt">On this site today: {{ counts.journeys }} package{{ counts.journeys|pluralize }}, {{ counts.places }} place{{ counts.places|pluralize }} and {{ counts.guides }} guide{{ counts.guides|pluralize }} across {{ counts.regions }} district{{ counts.regions|pluralize }}.</p>{% endif %}
+  </div>
+</section>
+
+{% if faqs %}<section class="sec sec--paper2" aria-labelledby="faq-h">
+  <div class="wrap wrap--narrow">
+    <p class="kicker">Questions travellers ask</p>
+    <h2 class="h2" id="faq-h">Good to know</h2>
+    <div class="faq">{% for f in faqs %}<details{% if forloop.first %} open{% endif %}><summary>{{ f.q }}</summary><div><p>{{ f.a }}</p></div></details>{% endfor %}</div>
+    <p class="mt"><a class="linkarrow" href="{% url 'faq' %}">Every question we have answered {% icon "arrow" %}</a></p>
+  </div>
+</section>{% endif %}
+
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

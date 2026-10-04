@@ -1,23 +1,56 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Season almanac: the best month for each of the seven lands · Tales of Luxury{% endblock %}
-{% block description %}When to visit Nepal, Rajasthan, Ladakh, North East India, Kerala, Goa and UP &amp; Bihar, month by month, with weather and where to go.{% endblock %}
-{% block mast_class %}mast--dark{% endblock %}
-{% block crumbs %}{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Best time to visit Sikkim, month by month · Sikkim Escapes{% endblock %}
+{% block description %}When to visit Sikkim: spring rhododendrons, clear October views, winter snow and the cheaper monsoon. Month by month for every district, with roads and permits.{% endblock %}
+{% block og_title %}Best time to visit Sikkim · Sikkim Escapes{% endblock %}
 {% block content %}
-<section class="dark sec" style="padding-top: 0">
-  {% include "tales/partials/crumbs.html" with dark_crumbs=True %}
+{% include "escapes/partials/phero.html" with h_title="Sikkim month by month" h_kicker="Seasons" h_lede="The same week can mean snow at Lachung and warm tea gardens in the south. Pick the month, then the district, or the other way round." h_seed="seasons" %}
+
+<section class="sec">
   <div class="wrap">
-    <div class="phead__text" style="margin: 40px 0 56px"><p class="eyebrow">The season almanac</p><h1 class="h-hero">Every land, <span class="accent">every month</span></h1>
-      <p class="lede">Choose a cell to read that land in that month: weather, where to go, festivals and the journeys that work.</p>
-      <div class="mkey"><span><i class="v2"></i>Best</span><span><i class="v1"></i>Good</span><span><i></i>Off season</span></div></div>
-    <div class="almanac"><div class="almanac__grid">
-      <span></span>{% for m in months_short %}<span class="hd">{{ m }}</span>{% endfor %}
-      {% for r in regions %}<a class="almanac__name" href="{{ r.url }}">{{ r.name }}</a>{% for c in r.bar %}<a class="almanac__cell v{{ c.v }}" href="{% url 'region_month' r.slug c.full|lower %}" aria-label="{{ r.name }} in {{ c.full }}"></a>{% endfor %}{% endfor %}
-    </div></div>
+    <div class="answer rv"><b>Short answer</b><p>March to May for rhododendrons and clear spring days, and October to December for the clearest mountain views. December to March brings snow up high. June to September is monsoon: cheaper, green and quieter, but landslides close roads, especially NH10 and North Sikkim. Check current status before you travel.</p></div>
+    <div class="grid g4 mt">
+      <div class="panel rv"><p class="kicker">Mar – May</p><h3>Spring</h3><p class="small">Rhododendrons from late March low down to May at Yumthang. Warm days, haze by afternoon, busy in May.</p></div>
+      <div class="panel rv"><p class="kicker">Jun – Sep</p><h3>Monsoon</h3><p class="small">Green, quiet and cheaper. Landslides close roads, so keep buffer days and travel light on plans.</p></div>
+      <div class="panel rv"><p class="kicker">Oct – Nov</p><h3>Clear season</h3><p class="small">The sharpest Kangchenjunga views of the year and the busiest weeks around the Puja holidays. Book early.</p></div>
+      <div class="panel rv"><p class="kicker">Dec – Feb</p><h3>Winter</h3><p class="small">Cold, dry and clear. Snow at Lachung and Tsomgo, high passes often shut, low valleys mild.</p></div>
+    </div>
   </div>
 </section>
-<section class="sec"><div class="wrap">
-  {% for m in months %}<div class="day"><div class="day__n" style="font-size: 32px">{{ m }}</div><div class="chip-row">
-    {% for r in regions %}<a class="chip" style="--tint: {{ r.tint }}; --deep: {{ r.deep }}; font-size: 12px; padding: 10px 16px" href="{% url 'region_month' r.slug m|lower %}">{{ r.name }} in {{ m }}</a>{% endfor %}</div></div>{% endfor %}
-</div></section>
+
+<section class="sec sec--paper2" aria-labelledby="m-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Pick a month" sh_title="Sikkim in each month" sh_id="m-h" %}
+    <div class="grid g6">{% for m in months %}<a class="bandcard rv" href="{% url 'sikkim_month' m|lower %}">{% icon "calendar" %}<small>{{ forloop.counter|pad2 }}</small><b style="font-size:1.35rem">{{ m }}</b></a>{% endfor %}</div>
+  </div>
+</section>
+
+{% if regions %}<section class="sec dark" aria-labelledby="alm-h">
+  {% contour "seasons-almanac" "contour" 12 2 %}
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="The almanac" sh_title="Every district, every month" sh_id="alm-h" sh_text="Tap a cell for that district in that month." %}
+    <div class="tablewrap"><table class="alm">
+      <thead><tr><td></td>{% for m in months_short %}<th scope="col">{{ m }}</th>{% endfor %}</tr></thead>
+      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}" style="color:#fff">{% icon r.icon %} {{ r.name }}</a></th>{% for c in r.bar %}<td class="v{{ c.v }}"><a href="{% url 'region_month' r.slug c.full|lower %}" aria-label="{{ r.name }} in {{ c.full }}">{% if c.v == 2 %}Best{% elif c.v == 1 %}Good{% endif %}</a></td>{% endfor %}</tr>{% endfor %}</tbody>
+    </table></div>
+    <p class="small" style="margin-top:16px">A planning guide, not a promise. Roads, passes and permits change every year: check current status before you travel.</p>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="d-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="By district" sh_title="Best months in each district" sh_id="d-h" %}
+    <div class="grid g2">{% for r in regions %}<div class="panel rv" data-land="{{ r.slug }}">
+      <h3><a href="{{ r.url }}" style="text-decoration:none">{{ r.name }}</a></h3>
+      <p class="small muted">Best {{ r.best_label|default:"see the calendar" }}</p>
+      {% include "escapes/partials/mbar.html" with bar=r.bar label=r.best_label %}
+    </div>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="pills"><a href="{% url 'festivals' %}">{% icon "flag" %}Festival calendar</a><a href="{% url 'tool_season' %}">{% icon "calendar" %}Season finder</a><a href="{% url 'altitude' %}">{% icon "altitude" %}The altitude ladder</a></div>
+  </div>
+</section>
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

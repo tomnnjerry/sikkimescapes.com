@@ -1,9 +1,50 @@
-{% extends "tales/base.html" %}
-{% block title %}Page not found · Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Page not found · Sikkim Escapes{% endblock %}
+{% block description %}This page does not exist or has moved. Search the site or start from a district, a package or the trip tools.{% endblock %}
+{% block head_extra %}<meta name="robots" content="noindex">{% endblock %}
 {% block content %}
-<section class="sec wrap narrow"><div class="phead__text">
-  <p class="eyebrow">404</p><h1 class="h-xl">This tale <span class="accent">is not written</span></h1>
-  <p class="lede">The page you asked for does not exist or has moved. Start from one of the seven lands.</p>
-  <div class="chip-row">{% for r in nav_regions %}<a class="chip" style="--tint: {{ r.tint }}; --deep: {{ r.deep }}; font-size: 12px; padding: 12px 18px" href="{{ r.url }}">{{ r.name }}</a>{% endfor %}</div>
-</div></section>
+<header class="phero">
+  {% contour "not-found" "contour" 14 2 %}
+  <div class="wrap phero__in phero__in--short">
+    <div></div>
+    <div class="phero__body">
+      <div>
+        <p class="kicker">Error 404</p>
+        <h1 class="h1">This road is closed</h1>
+        <p class="lede">The page you wanted does not exist, or it has moved. Search for it, or take one of the open roads below.</p>
+        <div class="btns" style="margin-top:22px">
+          <button class="btn btn--foil" type="button" data-search-open>{% icon "search" %} Search the site</button>
+          <a class="btn btn--ghost" href="{% url 'home' %}" style="--b:rgba(255,255,255,.5);color:#fff">Home page</a>
+        </div>
+      </div>
+      <span class="ms ms--lg" aria-hidden="true"><span class="ms__cap">Lost</span><span class="ms__val">404</span><span class="ms__unit">KM</span></span>
+    </div>
+  </div>
+</header>
+
+{% if nav_regions %}<section class="sec" aria-labelledby="nf-lands">
+  <div class="wrap">
+    {% url 'lands' as lands_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Six districts" sh_title="Start from a district" sh_id="nf-lands" sh_more_url=lands_url sh_more="All districts" %}
+    <div class="rows">{% for r in nav_regions %}<a href="{{ r.url }}"><b>{{ r.name }}</b><small>{{ r.official }}{% if r.tagline %} · {{ r.tagline }}{% endif %}</small></a>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--paper2" aria-labelledby="nf-pop">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Popular" sh_title="Where most people are headed" sh_id="nf-pop" %}
+    <div class="pills">
+      <a href="{% url 'journeys' %}">{% icon "route" %}All packages</a>
+      <a href="{% url 'affordable' %}">{% icon "rupee" %}Affordable trips</a>
+      <a href="{% url 'homestays' %}">{% icon "village" %}Homestays</a>
+      <a href="{% url 'seasons' %}">{% icon "calendar" %}Seasons</a>
+      <a href="{% url 'tool_permits' %}">{% icon "permit" %}Permit checker</a>
+      <a href="{% url 'tool_budget' %}">{% icon "rupee" %}Trip cost calculator</a>
+      <a href="{% url 'altitude' %}">{% icon "altitude" %}Altitude ladder</a>
+      <a href="{% url 'guides' %}">{% icon "book" %}Guides</a>
+      <a href="{% url 'contact' %}">{% icon "chat" %}Contact</a>
+      <a href="{% url 'html_sitemap' %}">{% icon "compass" %}Sitemap</a>
+    </div>
+    {% if nav_popular %}<div class="result-list mt">{% for j in nav_popular|slice:":4" %}<a href="{{ j.url }}"><span><b>{{ j.title }}</b><br><span class="small muted">{{ j.region_obj.name }} · {{ j.nights }} night{{ j.nights|pluralize }}</span></span>{% if j.price_from_inr %}<span class="price"><small>From</small><b>{{ j.price_from_inr|inr }}</b></span>{% endif %}</a>{% endfor %}</div>{% endif %}
+  </div>
+</section>
 {% endblock %}

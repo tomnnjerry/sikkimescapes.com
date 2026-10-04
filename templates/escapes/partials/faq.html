@@ -1,5 +1,5 @@
-{% if faqs %}<section class="block" aria-labelledby="faq-h">
-  <p class="eyebrow">Questions travellers ask</p>
-  <h2 class="h-l" id="faq-h">{{ faq_title|default:"Good to know" }}</h2>
+{% if faqs %}<section class="stack--s" aria-labelledby="faq-h">
+  <div><p class="kicker">Questions travellers ask</p>
+  <h2 class="h2" id="faq-h">{{ faq_title|default:"Good to know" }}</h2></div>
   <div class="faq">{% for f in faqs %}<details{% if forloop.first %} open{% endif %}><summary>{{ f.q }}</summary><div><p>{{ f.a }}</p></div></details>{% endfor %}</div>
 </section>{% endif %}

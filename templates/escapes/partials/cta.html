@@ -1,11 +1,12 @@
-<section class="sec paper" aria-labelledby="cta-h">
-  <div class="wrap cta-band">
-    <div class="block">
-      <p class="eyebrow">Begin a journey</p>
-      <h2 class="h-xl" id="cta-h">Tell us the <span class="accent">tale</span> you want</h2>
-      <p class="lede">Dates, who is travelling and what you hope to feel. A planner replies within one working day with a first route and an indicative price.</p>
-      {% include "tales/partials/trust.html" %}
+{% load esc %}<section class="sec dark cta" aria-labelledby="cta-h">
+  {% contour "cta" "contour" 12 2 %}
+  <div class="wrap cta__in">
+    <div>
+      <p class="kicker">Get my price</p>
+      <h2 class="h2" id="cta-h">{{ cta_title|default:"Tell us your dates and your budget" }}</h2>
+      <p class="lede">{{ cta_text|default:"Who is travelling, when, and roughly what you want to spend. The Gangtok desk replies within one working day with a day-by-day plan and an itemised price." }}</p>
+      <ul class="ticks" style="margin-top:18px"><li>No payment to start</li><li>Permits handled through registered partners</li><li>Every hotel, car and fee listed</li></ul>
     </div>
-    {% include "tales/partials/quick_form.html" with qf_id="cta-band" %}
+    {% include "escapes/partials/quick_form.html" with qf_id="cta-band" %}
   </div>
 </section>

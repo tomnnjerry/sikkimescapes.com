@@ -1,26 +1,62 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}The seven lands: Nepal, Rajasthan, Ladakh, North East, Kerala, Goa, UP &amp; Bihar · Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim's six districts: where to go and when · Sikkim Escapes{% endblock %}
+{% block description %}Sikkim's six districts compared: North, East, West and South Sikkim, Pakyong and Soreng. Best months, places, permits and packages for each.{% endblock %}
+{% block og_title %}Sikkim's six districts · Sikkim Escapes{% endblock %}
+{% block og_image %}{% with img=regions.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">The seven lands</p><h1 class="h-hero">Seven <span class="accent">tales</span></h1>
-  <p class="lede">We work in seven regions and nowhere else. Each one has its own seasons, permits and pace; start with the one that fits your month.</p></div></header>
-{% for r in regions %}
-<section class="sec--tight" style="--tint: {{ r.tint }}; --deep: {{ r.deep }}; border-top: 1px solid var(--line)">
-  <div class="wrap phead__grid" style="align-items: center">
-    <a href="{{ r.url }}" style="text-decoration: none">{% photo r|first_img alt=r.name cls="arch ratio-wide rv-arch" sizes="(max-width: 900px) 100vw, 55vw" %}</a>
-    <div class="block">
-      <span class="lbadge lbadge--lg" data-land="{{ r.slug }}">{% icon r.slug %}</span>
-      <h2 class="h-xl"><a href="{{ r.url }}" style="text-decoration: none">{{ r.name }}</a></h2>
-      <p class="lede">{{ r.summary }}</p>
-      <div class="ledger">
-        <div class="ledger__row"><span>Best months</span><span class="ledger__dots"></span><b>{{ r.best_label }}</b></div>
-        <div class="ledger__row"><span>Colours</span><span class="ledger__dots"></span><b>{{ r.palette }}</b></div>
-        <div class="ledger__row"><span>Start with</span><span class="ledger__dots"></span><b>{% for p in r.top_places|slice:":3" %}{{ p.name }}{% if not forloop.last %}, {% endif %}{% endfor %}</b></div>
-      </div>
-      {% include "tales/partials/mbar.html" with bar=r.bar label=r.best_label %}
-      <div class="btns"><a class="btn btn--dark" href="{{ r.url }}">Open the tale</a></div>
+{% include "escapes/partials/phero.html" with h_title="Where in Sikkim" h_kicker="Six districts · one small state" h_lede="Sikkim is about 115 km north to south, yet it climbs from roughly 280 m in the Teesta and Rangeet valleys to 8,586 m at Kangchenjunga. Each district has its own season, its own permits and its own people." h_seed="lands" %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="answer rv" style="margin-bottom:clamp(28px,4vw,48px)"><b>Short answer</b><p>For high lakes, snow and yak country go north. For Gangtok, Tsomgo Lake and Nathu La, the east. For Kangchenjunga views, monasteries and the Goecha La trail, the west. For tea, warm valleys and easy family days, the south. Pakyong holds the Old Silk Route above Zuluk, and Soreng the Barsey rhododendron forest.</p></div>
+    <div class="grid g3">
+      {% for r in regions %}<a class="card card--land rv" href="{{ r.url }}" data-land="{{ r.slug }}">
+        <div class="card__media">{% include "escapes/partials/media.html" with img=r|first_img alt=r.name ph_icon=r.icon sizes="(max-width: 860px) 100vw, 33vw" %}</div>
+        <div class="card__body">
+          <span class="badge">{% icon r.icon %}</span>
+          <span class="palette">{{ r.official }}</span>
+          <h3>{{ r.name }}</h3>
+          <p>{{ r.tagline }}</p>
+          <div class="card__meta" style="color:rgba(255,255,255,.75)">{% if r.best_label %}<span>{% icon "calendar" %}Best {{ r.best_label }}</span>{% endif %}<span>{{ r.places|length }} places</span>{% if r.journeys %}<span>{{ r.journeys|length }} packages</span>{% endif %}</div>
+        </div>
+      </a>{% empty %}<div class="empty">District guides are being written. <a href="{% url 'plan' %}">Ask the Gangtok desk</a> in the meantime.</div>{% endfor %}
+    </div>
+    <p class="small muted mt">Sikkim reorganised from four districts to six in December 2021: Pakyong was carved from East Sikkim and Soreng from West Sikkim, and the old four were renamed Gangtok, Mangan, Gyalshing and Namchi. Most travellers still say North, East, West and South Sikkim, so we use both names.</p>
+  </div>
+</section>
+
+{% if regions %}<section class="sec sec--paper2" aria-labelledby="cmp-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Side by side" sh_title="The districts compared" sh_id="cmp-h" %}
+    <div class="grid g2">
+      {% for r in regions %}<div class="panel rv" data-land="{{ r.slug }}">
+        <div style="display:flex;gap:14px;align-items:center;margin-bottom:12px"><span class="badge badge--dark">{% icon r.icon %}</span><div><h3 style="margin:0"><a href="{{ r.url }}" style="text-decoration:none">{{ r.name }}</a></h3><span class="small muted">{{ r.official }}{% if r.hq %} · HQ {{ r.hq }}{% endif %}</span></div></div>
+        {% if r.summary %}<p class="small">{{ r.summary|truncatewords:45 }}</p>{% endif %}
+        {% include "escapes/partials/mbar.html" with bar=r.bar label=r.best_label %}
+        {% if r.top_places %}<p class="small" style="margin:14px 0 0"><b>Start with:</b> {% for p in r.top_places|slice:":4" %}<a href="{{ p.url }}">{{ p.name }}</a>{% if not forloop.last %} · {% endif %}{% endfor %}</p>{% endif %}
+        <a class="linkarrow" href="{{ r.url }}" style="margin-top:12px">The {{ r.name }} guide {% icon "arrow" %}</a>
+      </div>{% endfor %}
     </div>
   </div>
 </section>
-{% endfor %}
+
+<section class="sec dark" aria-labelledby="alm-h">
+  {% contour "lands-almanac" "contour" 12 2 %}
+  <div class="wrap">
+    {% url 'seasons' as seasons_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Month by month" sh_title="When each district is at its best" sh_id="alm-h" sh_more_url=seasons_url sh_more="Full season guide" %}
+    <div class="tablewrap"><table class="alm">
+      <thead><tr><td></td>{% for m in months_short %}<th scope="col">{{ m }}</th>{% endfor %}</tr></thead>
+      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}" style="color:#fff">{% icon r.icon %} {{ r.name }}</a></th>{% for c in r.bar %}<td class="v{{ c.v }}"><a href="{% url 'region_month' r.slug c.full|lower %}" aria-label="{{ r.name }} in {{ c.full }}">{% if c.v == 2 %}Best{% elif c.v == 1 %}Good{% endif %}</a></td>{% endfor %}</tr>{% endfor %}</tbody>
+    </table></div>
+    <p class="small" style="margin-top:16px">A planning guide, not a promise. Roads, passes and permits change every year: check current status before you travel.</p>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <p class="kicker">Plan the height too</p>
+    <div class="pills"><a href="{% url 'altitude' %}">{% icon "altitude" %}The altitude ladder</a><a href="{% url 'tool_permits' %}">{% icon "permit" %}Permit checker</a><a href="{% url 'routes' %}">{% icon "route" %}Getting between places</a><a href="{% url 'affordable' %}">{% icon "jeep" %}Affordable Sikkim</a></div>
+  </div>
+</section>
+{% include "escapes/partials/cta.html" with cta_title="Not sure which district fits?" cta_text="Tell us your month, your budget and who is travelling. We match districts to all three and send a day-by-day plan with every cost shown." %}
 {% endblock %}

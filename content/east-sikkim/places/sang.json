@@ -1,0 +1,341 @@
+{
+  "slug": "sang",
+  "name": "Sang",
+  "region": "east-sikkim",
+  "kind": "village",
+  "wiki": "Sang Monastery",
+  "image_query": "Sang Monastery Sikkim",
+  "lat": 27.2548,
+  "lng": 88.5036,
+  "altitude_m": 1450,
+  "local_name": null,
+  "tagline": "A quiet Kagyu monastery village beyond Rumtek and Martam",
+  "meta_description": "Sang, Gangtok district: a 1912 Kagyu monastery with Phaya Lama's stone hand and foot prints, village walks and a slow day beyond Rumtek. Fares and tips.",
+  "summary": "Sang is a farming village on the slopes south-west of Rumtek, roughly 35–40 km and 1.5–2 hours from Gangtok at about 1,450 m. Its Karma Dubgyu Chokhorling monastery, built in 1912, keeps stone prints said to be the hand and footprint of the Tibetan teacher Phaya Lama. Few tourists come. No permit needed.",
+  "intro": [
+    "Beyond Rumtek and Martam, the road along the western side of the Ranikhola valley carries on through hamlets and farmland to Sang. It is a working village, not a resort: houses with kitchen gardens, terraced fields of rice, maize and vegetables, cardamom in the shady gullies, and a small bazaar of shops and tea stalls. The slopes of Fambong Lho Wildlife Sanctuary rise to the north-west.",
+    "Sang's landmark is its monastery, the Karma Dubgyu Chokhorling. Wikipedia records that it was built in 1912 and belongs to the Kagyu school of Tibetan Buddhism, like Rumtek. It keeps two flat stones, each bearing a footprint and a handprint attributed to Phaya Lama, a teacher from Tibet who stayed here for some years and meditated in a cave in a ravine nearby.",
+    "We send guests to Sang when they want something slower than the Gangtok circuit: a night in a Martam homestay with a morning drive or walk to Sang, a visit to the monastery while the village goes about its day, and tea at a roadside stall. Facilities are basic, signage is limited, and English is less widely spoken than in Gangtok, which is part of the charm."
+  ],
+  "story": {
+    "title": "Phaya Lama's prints in stone",
+    "text": "Many Himalayan monasteries keep a rock said to bear the mark of a great teacher, and Sang has two. According to Wikipedia's article on Sang Monastery, the Karma Dubgyu Chokhorling, built in 1912 and belonging to the Kagyu school, houses two flat stones, each with a footprint and a handprint of Phaya Lama, a prominent lama from Tibet who stayed at the monastery for a few years. He is also remembered for spending time in meditation in a cave in a ravine near the village. In Tibetan Buddhist practice, prints left in rock by realised teachers are treated as relics, signs of a presence that remains in the place, and pilgrims touch their foreheads to them as a blessing. We have not found a detailed written biography of Phaya Lama in English, and the stories told about him in the village go further than the written record; as told locally, the cave is still visited by people from Sang. Ask a monk to show you the stones, and if you would like to see the cave, ask the monastery or your homestay host to arrange a local guide: the path is steep and not marked.",
+    "source": "Wikipedia: Sang Monastery"
+  },
+  "little_known": [
+    {
+      "fact": "Sang Monastery's formal name is Karma Dubgyu Chokhorling; it was built in 1912 and follows the Kagyu school, the same broad tradition as nearby Rumtek.",
+      "source": "Wikipedia: Sang Monastery"
+    },
+    {
+      "fact": "The monastery keeps two flat stones, each bearing a footprint and a handprint attributed to Phaya Lama, a teacher from Tibet who stayed in Sang for a few years.",
+      "source": "Wikipedia: Sang Monastery"
+    },
+    {
+      "fact": "Phaya Lama is said to have meditated in a cave in a ravine near the monastery; the path to it is steep and unmarked, so go only with a local guide.",
+      "source": "Wikipedia: Sang Monastery; as told locally"
+    }
+  ],
+  "facts": [
+    [
+      "Best months",
+      "October–November and March–May"
+    ],
+    [
+      "Nights we suggest",
+      "Day trip, or 1 night in nearby Martam"
+    ],
+    [
+      "From Gangtok",
+      "≈ 35–40 km · 1.5–2 h via Ranipool and Rumtek"
+    ],
+    [
+      "Altitude",
+      "≈ 1,450 m"
+    ],
+    [
+      "Known for",
+      "1912 Kagyu monastery, Phaya Lama's stone prints, village life"
+    ],
+    [
+      "Permit",
+      "Not needed"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "0–1",
+  "highlights": [
+    {
+      "title": "Karma Dubgyu Chokhorling",
+      "text": "Sang's Kagyu monastery, built in 1912, is a modest, working monastery rather than a showpiece. Remove shoes, walk clockwise and sit quietly if prayers are on. Mornings are the best time to find the hall open and monks about."
+    },
+    {
+      "title": "Phaya Lama's hand and foot prints",
+      "text": "Two flat stones in the monastery each carry a footprint and a handprint attributed to Phaya Lama, a Tibetan teacher who stayed here. Ask a monk to show them, and follow the lead of local visitors in how to approach them."
+    },
+    {
+      "title": "The meditation cave",
+      "text": "In a ravine near the village is the cave where Phaya Lama is said to have meditated. Reaching it means a steep, unmarked path, so go only with a local guide arranged through the monastery or your host, and only in dry weather."
+    },
+    {
+      "title": "A village that is not on the circuit",
+      "text": "Sang sees few tourists. Drink tea at a stall in the bazaar, watch the school day start and end, and walk the lanes between fields. It is a good counterweight to Gangtok's crowds, a short drive from Martam."
+    },
+    {
+      "title": "The western valley road",
+      "text": "The drive from Gangtok via Ranipool, Rumtek and Martam runs along the western side of the Ranikhola valley, with views back to Gangtok on its ridge and down into terraced side valleys. Combine Sang with Rumtek and a Martam lunch for a full day."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Shared jeep",
+      "text": "A few shared jeeps run between Gangtok and Sang, mainly for villagers, for about ₹100–150 a seat. They leave early and return in the afternoon, and timings change, so ask your hotel for the current stand and confirm the return before you set off."
+    },
+    {
+      "mode": "Private car",
+      "text": "A reserved small car from Gangtok to Sang and back, with Rumtek on the way, costs about ₹3,000–4,000 for the day, indicatively. The road via Ranipool and Rumtek is about 35–40 km, 1.5–2 hours each way, narrow and slow after rain."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "Turn off NH10 at Ranipool and continue via Rumtek, about 5 hours from Bagdogra (IXB) or NJP. NH10 closes after monsoon slides; the alternative is via Kalimpong or Algarah. Most visitors stay in Gangtok or Martam first. Check current status before you travel."
+    }
+  ],
+  "costs": [
+    [
+      "Reserved car, Gangtok–Sang day with Rumtek",
+      "≈ ₹3,000–4,000"
+    ],
+    [
+      "Shared jeep from Gangtok",
+      "≈ ₹100–150 a seat"
+    ],
+    [
+      "Monastery entry",
+      "Free; offering welcome"
+    ],
+    [
+      "Local guide to the cave",
+      "≈ ₹500–1,000"
+    ],
+    [
+      "Tea and snacks in the bazaar",
+      "≈ ₹50–150"
+    ]
+  ],
+  "where_to_stay": "Sang has very few places for visitors to stay, and we do not list any by name. The easiest base is a family homestay in Martam, a short drive away on the same road, at about ₹1,500–2,500 per person a night with meals; we list these as Martam village homestays. Otherwise stay in Gangtok, about 1.5–2 hours away, at Mintokling Guest House on a budget, Netuk House for value or The Chumbi Residency for comfort, and visit Sang on a full-day drive with Rumtek.",
+  "stays": [
+    "martam-village-homestays"
+  ],
+  "tips": [
+    "Combine Sang with Rumtek and a Martam homestay lunch for a full day from Gangtok.",
+    "Visit the monastery in the morning, when the hall is most likely to be open.",
+    "Do not attempt the cave path alone; it is steep, unmarked and slippery after rain.",
+    "Carry cash; there is no reliable ATM in Sang.",
+    "Dress modestly and ask before photographing people in the village."
+  ],
+  "themes": [
+    "monasteries",
+    "offbeat-sikkim",
+    "village-homestays"
+  ],
+  "nearby": [
+    "martam",
+    "rumtek",
+    "fambong-lho",
+    "ranka-lingdum"
+  ],
+  "experiences": [
+    {
+      "slug": "sang-monastery-phaya-lama-prints",
+      "title": "Sang Monastery and Phaya Lama's prints",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Morning, October to May",
+      "cost": "Free; offering welcome",
+      "image_query": "Sang Monastery Sikkim prayer hall",
+      "wiki": "Sang Monastery",
+      "summary": "Visit the Karma Dubgyu Chokhorling, a Kagyu monastery built in 1912, and ask to see the two stones bearing a footprint and handprint attributed to the Tibetan teacher Phaya Lama. A quiet hour in a monastery few travellers reach.",
+      "body": [
+        "Sang Monastery stands above the village, a modest building with prayer flags, a courtyard and a small community of monks. Arrive in the morning, when the hall is most likely to be open. Leave your shoes at the door, walk clockwise and greet anyone you meet with a nod or a quiet tashi delek.",
+        "The monastery belongs to the Kagyu school, the same broad tradition as Rumtek, though it is much smaller and simpler. Its treasure is a pair of flat stones, each bearing a footprint and handprint attributed to Phaya Lama, a teacher from Tibet who stayed here for a few years. Local visitors touch their foreheads to such relics as a blessing. Follow their lead, or simply look.",
+        "There is no guided tour, and English may be limited, so a few words of Nepali or a local companion help. Leave a small offering if you wish, and do not photograph inside without permission. Combine the visit with tea in the bazaar and a walk among the fields."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "When was Sang Monastery built?",
+          "a": "Wikipedia records that Sang Monastery, the Karma Dubgyu Chokhorling, was built in 1912. It belongs to the Kagyu school of Tibetan Buddhism. That makes it older than the present Rumtek complex, inaugurated in 1966, though much smaller. The monastery is a working religious house, so visit quietly."
+        },
+        {
+          "q": "Who was Phaya Lama?",
+          "a": "According to Wikipedia, Phaya Lama was a prominent lama from Tibet who stayed at Sang Monastery for a few years and meditated in a cave in a nearby ravine. Two stones at the monastery bear a footprint and handprint attributed to him. We have not found a detailed English biography."
+        },
+        {
+          "q": "Is Sang Monastery open to visitors?",
+          "a": "Respectful visitors are generally welcome, especially in the morning. There is no formal visitor centre, so the hall may be closed at times. Ask a monk politely. Remove shoes, dress modestly and do not photograph inside without permission. A small offering is welcome."
+        }
+      ]
+    },
+    {
+      "slug": "sang-meditation-cave-walk",
+      "title": "Guided walk to Phaya Lama's cave",
+      "kind": "adventure",
+      "duration": "2–3 hours",
+      "best_time": "Dry mornings, October to May",
+      "cost": "≈ ₹500–1,000 for a local guide",
+      "image_query": "Sikkim forest ravine trail",
+      "wiki": "",
+      "summary": "With a local guide, follow a steep path down into the ravine near Sang to the cave where Phaya Lama is said to have meditated. A short, demanding walk to a place still held sacred by villagers.",
+      "body": [
+        "The cave lies in a ravine near the monastery, reached by a footpath that is steep, narrow and not signposted. Do not try to find it on your own. Ask at the monastery or your Martam homestay to arrange a guide from the village, who will know the current state of the path and whether the walk is sensible on the day.",
+        "Allow two to three hours for the return walk, including time at the cave. Wear shoes with good grip, carry water, and use a walking stick if you have one. The path is slippery after rain and leechy from June to September, so we only suggest it in dry weather between October and May.",
+        "At the cave, behave as you would in a shrine: speak quietly, do not touch offerings, and leave nothing behind. Your guide may light incense or butter lamps. This is not a trek for small children or anyone unsteady on steep ground."
+      ],
+      "good_for": [
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "How difficult is the walk to Phaya Lama's cave?",
+          "a": "Moderate to difficult for a short walk, because the path is steep, narrow and unmarked, and slippery after rain. Fit walkers with good shoes manage it with a guide. It is not suitable for small children, seniors with mobility issues or anyone uncomfortable on steep ground."
+        },
+        {
+          "q": "Can we find the cave without a guide?",
+          "a": "We strongly advise against it. The path is not signposted, branches through private land and forest, and conditions change after rain. A local guide from Sang, arranged through the monastery or your host, costs about ₹500–1,000 and makes the walk safer and more meaningful."
+        },
+        {
+          "q": "When is the best time to walk to the cave?",
+          "a": "Dry mornings between October and May. In the monsoon, from June to September, the path is slippery and leeches are active, and we do not recommend the walk. Start early to avoid afternoon cloud and heat in spring. Carry water and a snack."
+        }
+      ]
+    },
+    {
+      "slug": "sang-rumtek-martam-day-loop",
+      "title": "Rumtek, Martam and Sang in a day",
+      "kind": "village",
+      "duration": "Full day",
+      "best_time": "October to May",
+      "cost": "≈ ₹3,000–4,000 a car",
+      "image_query": "Ranikhola valley terraced fields Sikkim",
+      "wiki": "",
+      "summary": "A full day on the western side of the Ranikhola valley: Rumtek Monastery in the morning, lunch at a Martam homestay, and the quiet Kagyu monastery at Sang in the afternoon. Village Sikkim within a day of Gangtok.",
+      "body": [
+        "Leave Gangtok at about 8:30 am for Rumtek, an hour away via Ranipool. Carry photo ID for the security gate. Spend an hour at the main hall and Golden Stupa, then continue down the road to Martam, where a family we know serves lunch of home-grown rice, dal, greens and pickles, paid directly to the hosts.",
+        "In the afternoon drive on to Sang, about 30–45 minutes, for the 1912 Karma Dubgyu Chokhorling monastery and its stones bearing Phaya Lama's prints. Have tea at a stall in the bazaar and walk a little among the fields before heading back. You return to Gangtok by early evening.",
+        "A reserved small car for the day costs about ₹3,000–4,000 in 2026, and lunch about ₹400–700 per person. If the day feels long, split it: Rumtek and Martam on the way to a homestay night, and Sang the next morning before driving back."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "first-timers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Can we do Rumtek, Martam and Sang in one day from Gangtok?",
+          "a": "Yes, with a reserved car and an early start. Allow about nine hours: an hour each way to Rumtek, time at the monastery, lunch in Martam and the drive to Sang and back. A night in a Martam homestay makes the day more relaxed."
+        },
+        {
+          "q": "How much does a Rumtek–Martam–Sang day cost?",
+          "a": "Indicatively, about ₹3,000–4,000 for a small car for the day in 2026, plus about ₹400–700 per person for a homestay lunch and small offerings at the monasteries. Prices rise slightly in peak weeks. Check current rates before you travel. Pay homestay hosts in cash."
+        },
+        {
+          "q": "Is the road to Sang good?",
+          "a": "It is a narrow, mostly paved hill road with some rough stretches, slow in places and slower after rain. Drive times of 1.5–2 hours from Gangtok are realistic. In the monsoon, landslides can block it briefly, so check current status before you travel."
+        }
+      ]
+    },
+    {
+      "slug": "sang-bazaar-and-fields-stroll",
+      "title": "Tea in the bazaar and a stroll in the fields",
+      "kind": "village",
+      "duration": "1.5 hours",
+      "best_time": "Late morning or afternoon, October to May",
+      "cost": "≈ ₹50–150 for tea and snacks",
+      "image_query": "Sikkim village tea stall terraced fields",
+      "wiki": "",
+      "summary": "Slow down in Sang: sit with a glass of tea at a stall in the small bazaar, then walk the lanes between houses and terraced fields. No sights, just a working Sikkimese village going about its day.",
+      "body": [
+        "Sang's bazaar is a short row of shops and stalls selling groceries, hardware, tea and snacks to the villages around. Sit at a stall with a glass of milk tea or a plate of momos or alu dum, and watch the day go by: schoolchildren in uniform, farmers bringing produce, jeeps loading for Gangtok.",
+        "Then walk out along the lanes, past houses with flower pots and kitchen gardens, to the edge of the terraced fields. Depending on the season, you may see ploughing with oxen, rice planting, harvesting or maize drying under the eaves. Ask before photographing people, and keep to paths and field bunds.",
+        "English is less widely spoken here than in Gangtok, so a few words of Nepali help: namaste for hello, dhanyabad for thank you. People are generally curious and friendly. This is a gentle outing for anyone, and pairs well with the monastery visit."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "seniors",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "Is there anything to eat in Sang?",
+          "a": "Yes, simple food at tea stalls and small eateries in the bazaar: tea, momos, noodles, alu dum and sometimes a rice thali, for about ₹50–250. Choices are limited, so for a full meal plan lunch at a Martam homestay or in Gangtok."
+        },
+        {
+          "q": "Do people in Sang speak English or Hindi?",
+          "a": "Nepali is the common language. Many people speak Hindi and some speak English, especially younger people, but less than in Gangtok. A few words of Nepali are appreciated. A local companion or your homestay host can help with longer conversations."
+        },
+        {
+          "q": "Is Sang safe for solo travellers?",
+          "a": "Yes. Sang is a quiet farming village, and visitors are rare enough to be greeted with curiosity rather than hassle. Usual sense applies: dress modestly, ask before photographing people, and confirm your return transport before the last shared jeep leaves."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Sang in Sikkim?",
+      "a": "Sang is a village in Gangtok district (East Sikkim), on the western side of the Ranikhola valley beyond Rumtek and Martam, roughly 35–40 km by road from Gangtok. It is not the same as Sang in other states. Drivers usually go via Ranipool and Rumtek."
+    },
+    {
+      "q": "How do we reach Sang from Gangtok?",
+      "a": "By reserved car via Ranipool and Rumtek, about 1.5–2 hours, costing about ₹3,000–4,000 for a day trip with Rumtek. A few shared jeeps run for villagers at about ₹100–150 a seat, but times change and returns are early. Check current status before you travel."
+    },
+    {
+      "q": "What is there to see in Sang?",
+      "a": "The main sight is Sang Monastery, a Kagyu monastery built in 1912 that keeps stones bearing Phaya Lama's hand and foot prints. Add the cave where he meditated, reached with a local guide, and a walk around the bazaar and fields."
+    },
+    {
+      "q": "Is Sang worth visiting?",
+      "a": "For travellers who want quiet village Sikkim and have already seen Gangtok's main sights, yes. It is not a scenic highlight like Tsomgo Lake. Pair it with Rumtek and Martam for a full day, or a homestay night, rather than making a long trip just for Sang."
+    },
+    {
+      "q": "Are there hotels in Sang?",
+      "a": "Very few, and we do not list any by name. The easiest base is a family homestay in Martam nearby, about ₹1,500–2,500 per person a night with meals, or a hotel in Gangtok, 1.5–2 hours away. Book Martam homestays a few days ahead in October and May."
+    },
+    {
+      "q": "Do we need a permit for Sang?",
+      "a": "No. Sang lies outside the protected areas, so Indian travellers need no permit, and foreigners only need the Sikkim restricted area permit for entering the state. Carry ID if you also visit Rumtek, where there is a security check. There are no check posts on the way."
+    },
+    {
+      "q": "What is the altitude of Sang?",
+      "a": "About 1,450 m, a little lower than Gangtok. Days are mild for most of the year, and nights in December and January are cool, around 5–8 °C. Altitude is not a concern. In April and May days reach the mid-20s °C, and the monsoon months are warm and humid."
+    },
+    {
+      "q": "When is the best time to visit Sang?",
+      "a": "October and November for clear skies and harvest activity, and March to May for mild weather. The monsoon, from June to September, brings slow roads, mud and leeches. December to February is dry and cool, with some hazy days. Mornings are clearest in every season."
+    },
+    {
+      "q": "Can we combine Sang with Fambong Lho?",
+      "a": "Fambong Lho Wildlife Sanctuary lies on the ridge to the north-west, but access is usually from the Ranka side and needs forest permission and a guide. Doing both in one day is a stretch. We usually suggest Fambong Lho as a separate day trip from Gangtok."
+    }
+  ]
+}

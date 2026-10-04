@@ -1,11 +1,22 @@
-{% extends "tales/base.html" %}
-{% block title %}{% if ok %}Subscribed{% else %}Please check your email{% endif %} · Tales of Luxury{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{% if ok %}You are subscribed{% else %}Subscription not saved{% endif %} · Sikkim Escapes{% endblock %}
+{% block description %}The Sikkim Escapes monthly letter: road news, permit changes, real prices and one story from the hills.{% endblock %}
+{% block head_extra %}<meta name="robots" content="noindex">{% endblock %}
 {% block content %}
-<section class="sec wrap narrow"><div class="phead__text">
-  {% if ok %}<p class="eyebrow">Subscribed</p><h1 class="h-xl">The Folio letter <span class="accent">is on its way</span></h1>
-  <p class="lede">One email a month. Unsubscribe from any letter with one click.</p>
-  <script>window.dataLayer=window.dataLayer||[];dataLayer.push({event:"sign_up",method:"newsletter"});</script>
-  {% else %}<p class="eyebrow">Not quite</p><h1 class="h-xl">That email did not look right</h1><p class="lede">Please go back and check the address.</p>{% endif %}
-  <div class="btns"><a class="btn btn--dark" href="{% url 'journal' %}">Read the Journal</a><a class="btn btn--ghost" href="{% url 'plan' %}">Plan a journey</a></div>
-</div></section>
+{% if ok %}{% include "escapes/partials/phero.html" with h_title="You are on the list" h_kicker="Monthly letter" h_lede="Once a month: which passes are open, what changed with permits and fees, and one story from the hills. Every letter has an unsubscribe link." h_seed="subscribed" %}
+{% else %}{% include "escapes/partials/phero.html" with h_title="That did not work" h_kicker="Monthly letter" h_lede="We could not save that email address. Please check it and try again from the form at the foot of any page." h_seed="subscribed" %}{% endif %}
+
+<section class="sec" aria-labelledby="sb-h">
+  <div class="wrap wrap--narrow stack--s">
+    {% if ok %}<div class="verdict"><b>Saved</b><p class="small" style="margin:6px 0 0">Thank you. We keep your email only for this letter and never share it. See our <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p></div>
+    {% else %}<div class="verdict verdict--no"><b>Not saved</b><p class="small" style="margin:6px 0 0">The address looked incomplete. If it keeps failing, write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a> and we will add you by hand.</p></div>{% endif %}
+    <h2 class="h3" id="sb-h">While you are here</h2>
+    <div class="rows">
+      <a href="{% url 'journal' %}"><b>The journal</b><small>Dated notes from the Gangtok desk</small></a>
+      <a href="{% url 'guides' %}"><b>Guides</b><small>Permits, money and seasons by district</small></a>
+      <a href="{% url 'affordable' %}"><b>Affordable Sikkim</b><small>Packages by price band</small></a>
+      <a href="{% url 'tools' %}"><b>Trip tools</b><small>Season finder, trip cost, permits, altitude</small></a>
+    </div>
+  </div>
+</section>
 {% endblock %}

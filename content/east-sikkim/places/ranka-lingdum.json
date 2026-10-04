@@ -1,0 +1,346 @@
+{
+  "slug": "ranka-lingdum",
+  "name": "Ranka and Lingdum",
+  "region": "east-sikkim",
+  "kind": "monastery",
+  "wiki": "Lingdum Monastery",
+  "image_query": "Lingdum Monastery Ranka Sikkim",
+  "lat": 27.3308,
+  "lng": 88.5794,
+  "altitude_m": 1420,
+  "local_name": null,
+  "tagline": "A Zurmang Kagyu monastery in the Ranka forest, 20 km from Gangtok",
+  "meta_description": "Lingdum (Pal Zurmang Kagyud) Monastery at Ranka near Gangtok: completed 1999, monks' prayers, Banjhakri Falls, Rumtek loop, cab fares and best times to visit.",
+  "summary": "Lingdum, also called Ranka Monastery or Pal Zurmang Kagyud, is a large Zurmang Kagyu monastery completed in 1999 in a forest clearing near Ranka village, about 20 km and 50 minutes from Gangtok at roughly 1,400 m. Spacious, quiet and rarely crowded, it pairs well with Rumtek. No permit needed.",
+  "intro": [
+    "Ranka is a scatter of villages and forest on the slopes west of Gangtok, across the Ranikhola from the capital and above the road to Rumtek. Its best-known landmark is Lingdum Monastery, a big, brightly painted complex set in a clearing among tall trees, about 20 km and 50 minutes by car from MG Marg. Wikipedia records that it was completed in 1999 and follows the Zurmang Kagyu tradition, a lineage whose mother monastery, Zurmang, lies in Kham in eastern Tibet.",
+    "Because it is new, Lingdum's murals, carved woodwork and gilded images are fresh and sharp, and the courtyard is wide and calm. A community of young monks studies and lives here, and their afternoon prayers, with long horns and drums echoing across the clearing, are the moment to aim for. On most weekdays you share the monastery with only a few other visitors.",
+    "On the way from Gangtok, the road passes close to Banjhakri Falls and Energy Park, a landscaped park around a waterfall that tells the story of the ban jhakri, the forest shaman of Sikkim's Nepali-speaking and Kirati traditions. Most visitors do Ranka and Lingdum as a half day with Rumtek, or as part of a full-day monastery round from Gangtok."
+  ],
+  "story": {
+    "title": "The forest shaman of Banjhakri Falls",
+    "text": "Long before the park was built, the waterfall near the road to Ranka was linked with the ban jhakri. In the Nepali language, ban means forest and jhakri means shaman or healer, and in the traditions of the Kirati peoples of Nepal and Sikkim, as summarised in Wikipedia's article on Banjhakri and Banjhakrini, the Banjhakri is a small, wild forest being who carries away children with the gift of healing and trains them in his cave, returning them as shamans more powerful than those taught by people. His fearsome partner, Banjhakrini, tests the children first. Nepali shamans regard the Banjhakri as the founder of their tradition. The park itself is recent. According to Wikipedia, Sikkim's then chief minister, Pawan Kumar Chamling, visited the falls during a trip to Ranka Monastery on 28 September 2004 and proposed a park to revive interest in the state's shamanic traditions. Today its paths lead past a waterfall about 30 m high and thatched shelters with figures of the jhakri, the Lepcha bongthing, the Limbu phedangba and other ritual healers, a reminder that Sikkim's spiritual life is wider than its monasteries.",
+    "source": "Wikipedia: Banjhakri and Banjhakrini; Wikipedia: Banjhakri Falls and Energy Park"
+  },
+  "little_known": [
+    {
+      "fact": "Lingdum was completed only in 1999, which makes it one of the youngest large monasteries near Gangtok; its colours and carvings are still unusually fresh.",
+      "source": "Wikipedia: Lingdum Monastery"
+    },
+    {
+      "fact": "The Banjhakri Falls park was proposed after Chief Minister Pawan Kumar Chamling saw the waterfall on a visit to Ranka Monastery on 28 September 2004.",
+      "source": "Wikipedia: Banjhakri Falls and Energy Park"
+    },
+    {
+      "fact": "The park's museum hall, run by the Sikkim Rural Energy Development Agency, explains solar and other renewable energy, and the grounds are lit by solar lamps.",
+      "source": "Wikipedia: Banjhakri Falls and Energy Park"
+    }
+  ],
+  "facts": [
+    [
+      "Best months",
+      "October–May"
+    ],
+    [
+      "Nights we suggest",
+      "Half day from Gangtok"
+    ],
+    [
+      "From Gangtok",
+      "≈ 20 km · 50 min"
+    ],
+    [
+      "Altitude",
+      "≈ 1,400 m at Lingdum"
+    ],
+    [
+      "Known for",
+      "Zurmang Kagyu monastery, monks' prayers, Banjhakri Falls"
+    ],
+    [
+      "Permit",
+      "Not needed"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0",
+  "highlights": [
+    {
+      "title": "Lingdum's main hall",
+      "text": "A large assembly hall with fresh murals, carved and painted pillars and gilded images, completed in 1999. Remove shoes, walk clockwise and sit quietly at the back if the monks are at prayer. Photography rules are posted or given at the door; ask first."
+    },
+    {
+      "title": "Afternoon prayers",
+      "text": "In the afternoon the young monks gather for prayers, and the sound of horns, drums and chanting carries across the forest clearing. Times vary, so ask on arrival; a visit around 3–4 pm often coincides with them."
+    },
+    {
+      "title": "The wide courtyard",
+      "text": "Lingdum's paved courtyard is one of the most spacious around Gangtok, framed by the monks' quarters and the forest. On weekdays it is almost empty, which makes it a calm place to sit after the busier Rumtek."
+    },
+    {
+      "title": "Banjhakri Falls and Energy Park",
+      "text": "A landscaped park around a waterfall about 30 m high, with figures of jhakri and other traditional healers and a small renewable energy museum. It is popular with Gangtok families at weekends; allow 45 minutes to an hour."
+    },
+    {
+      "title": "The Rumtek loop",
+      "text": "Lingdum lies on the same side of the valley as Rumtek, so the two make a natural half-day loop from Gangtok via Ranka and Ranipool. A reserved small car costs about ₹2,500–3,500 for the round, with time at both."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Shared jeep",
+      "text": "Shared jeeps run from Gangtok towards Ranka through the day from a stand in town (your hotel will know the current one), for about ₹50–100 a seat. From the Ranka road you may still need to walk to Lingdum, and return timings are uncertain, so most visitors hire a car."
+    },
+    {
+      "mode": "Private car",
+      "text": "A reserved small car from Gangtok to Lingdum and back costs about ₹1,500–2,500 with waiting, or ₹2,500–3,500 combined with Rumtek and Banjhakri Falls. The road is narrow in places and slow after rain; allow 50 minutes each way."
+    },
+    {
+      "mode": "From Bagdogra / NJP",
+      "text": "Reach Gangtok first, about 125 km and 4.5–5 hours from Bagdogra (IXB) or NJP on NH10, which closes after monsoon slides; the alternative is via Kalimpong or Algarah. Lingdum is then a half day from town. Check current status before you travel."
+    }
+  ],
+  "costs": [
+    [
+      "Lingdum entry",
+      "Free or a small fee; offering welcome"
+    ],
+    [
+      "Banjhakri Falls entry",
+      "≈ ₹50–100 per adult (indicative)"
+    ],
+    [
+      "Reserved small car, Lingdum return",
+      "≈ ₹1,500–2,500"
+    ],
+    [
+      "Lingdum + Rumtek + Banjhakri half day",
+      "≈ ₹2,500–3,500 a car"
+    ],
+    [
+      "Shared jeep towards Ranka",
+      "≈ ₹50–100 a seat"
+    ]
+  ],
+  "where_to_stay": "Most visitors stay in Gangtok, about 50 minutes away, and visit Ranka and Lingdum on a half day. Hidden Forest Retreat in lower Gangtok, a family-run garden property, is on the side of town that makes the Ranka road quick. For a night in the countryside, Martam village homestays lie beyond Rumtek on the same side of the valley, about 45 minutes from Lingdum. In central Gangtok, Mintokling Guest House suits a budget, Netuk House is good value, and The Chumbi Residency is a comfortable choice.",
+  "stays": [
+    "hidden-forest-retreat-gangtok",
+    "martam-village-homestays",
+    "mintokling-guest-house-gangtok",
+    "netuk-house-gangtok",
+    "chumbi-residency-gangtok"
+  ],
+  "tips": [
+    "Visit Lingdum in the afternoon to coincide with the monks' prayers, and Rumtek in the morning.",
+    "Carry photo ID for the Rumtek security check if you are doing the loop.",
+    "Banjhakri Falls is crowded on Sunday afternoons; go on a weekday morning.",
+    "Ask before photographing inside the Lingdum hall or photographing young monks.",
+    "The Ranka road is narrow and slow in the monsoon; keep extra time."
+  ],
+  "themes": [
+    "monasteries",
+    "crafts-and-culture",
+    "family-holidays"
+  ],
+  "nearby": [
+    "rumtek",
+    "fambong-lho",
+    "gangtok",
+    "martam"
+  ],
+  "experiences": [
+    {
+      "slug": "lingdum-monastery-afternoon-prayers",
+      "title": "Afternoon prayers at Lingdum Monastery",
+      "kind": "spiritual",
+      "duration": "1–1.5 hours",
+      "best_time": "3–4 pm, October to May",
+      "cost": "Free; offering welcome",
+      "image_query": "Lingdum Monastery monks prayer hall",
+      "wiki": "Lingdum Monastery",
+      "summary": "Time your visit to Lingdum for the young monks' afternoon prayers, when horns and drums echo across the forest clearing. Then walk the wide courtyard and look closely at the fresh murals of a monastery completed in 1999.",
+      "body": [
+        "Lingdum's setting does half the work: a large, bright monastery in a clearing ringed by tall trees, quiet except for birds and the sound of prayers. Arrive around 3 pm, leave your shoes at the entrance of the main hall and, if the monks are assembling, sit on the floor or a bench at the back. Prayers may last most of an hour.",
+        "The monastery follows the Zurmang Kagyu tradition, whose mother house, Zurmang, is in Kham in eastern Tibet. Inside, the murals show Kagyu masters, protector deities and scenes from the Buddha's life, painted in strong, fresh colours, and the pillars and beams are carved and gilded. Because it was completed only in 1999, nothing has faded yet.",
+        "When the prayers end, walk around the courtyard clockwise and look at the monks' quarters and the forest beyond. Young monks may be playing football or studying; smile, but do not photograph them without asking. Leave a small offering if you wish."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "seniors",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What time are prayers at Lingdum Monastery?",
+          "a": "Afternoon prayers often fall around 3–4 pm, with morning prayers early in the day, but times vary with the ritual calendar and study schedule. Ask at the monastery when you arrive, or call us the day before. On festival days, the schedule changes completely."
+        },
+        {
+          "q": "When was Lingdum Monastery built?",
+          "a": "Wikipedia records that Lingdum, also called Ranka Monastery or Pal Zurmang Kagyud Monastery, was completed in 1999. It follows the Zurmang Kagyu tradition. That makes it much newer than Rumtek, whose present main complex was inaugurated in 1966, or Enchey, built in 1909."
+        },
+        {
+          "q": "Is photography allowed inside Lingdum?",
+          "a": "Rules vary, and the monks may restrict photography inside the main hall, especially during prayers. Always ask at the door, never use flash, and do not photograph monks without permission. The courtyard and exterior can usually be photographed freely. A quiet request is almost always answered kindly."
+        }
+      ]
+    },
+    {
+      "slug": "banjhakri-falls-shaman-park",
+      "title": "Banjhakri Falls and the forest shaman",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Weekday mornings; July–October for full falls",
+      "cost": "≈ ₹50–100 per adult entry (indicative)",
+      "image_query": "Banjhakri Falls Gangtok",
+      "wiki": "Banjhakri Falls and Energy Park",
+      "summary": "Walk the paths of Banjhakri Falls and Energy Park, a landscaped park around a 30 m waterfall that tells the story of the ban jhakri, the forest shaman of Sikkim's Nepali-speaking and Kirati traditions, with figures of healers from several communities.",
+      "body": [
+        "Banjhakri Falls lies in a forested pocket near Gangtok on the way towards Ranka. Paved paths and footbridges wind down to a waterfall about 30 m high, fed by springs higher up, and through gardens of camellia, poinsettia and hydrangea. The falls are fullest from July to October, though the park is open year-round.",
+        "The park's theme is the ban jhakri, the forest shaman. In Nepali, ban means forest and jhakri means shaman, and in Kirati tradition the Banjhakri is said to carry off gifted children and train them as healers. Thatched shelters hold figures of the jhakri and of other ritual specialists of Sikkim's communities, including the Lepcha bongthing and the Limbu phedangba.",
+        "It is a family place, busy with Gangtok locals on Sunday afternoons, so go on a weekday morning for quiet. The paths are steep in places and slippery after rain. A small museum hall run by the state renewable energy agency explains solar power, and the park is lit by solar lamps."
+      ],
+      "good_for": [
+        "families",
+        "first-timers",
+        "budget"
+      ],
+      "faqs": [
+        {
+          "q": "What is a ban jhakri?",
+          "a": "In Nepali, ban means forest and jhakri means shaman or healer. In the traditions of the Kirati peoples of Nepal and Sikkim, the Banjhakri is a forest being who takes children with healing gifts to his cave and trains them as shamans. Nepali shamans regard him as the founder of their tradition, as Wikipedia summarises."
+        },
+        {
+          "q": "How far is Banjhakri Falls from Gangtok?",
+          "a": "Wikipedia gives it as about 7 km from Gangtok. A taxi takes around 20–30 minutes from MG Marg and costs about ₹500–800 return with waiting. It is easy to combine with Lingdum and Rumtek on a half-day car. Check current entry fees and timings before you travel."
+        },
+        {
+          "q": "Is Banjhakri Falls good for children?",
+          "a": "Yes. The paths, footbridges, lake and figures interest most children, and there is space to walk. Paths are steep in places and wet near the falls, so hold small children's hands and wear shoes with grip. Weekday mornings are calmer than weekends."
+        }
+      ]
+    },
+    {
+      "slug": "ranka-lingdum-rumtek-loop",
+      "title": "Lingdum and Rumtek in one half day",
+      "kind": "culture",
+      "duration": "4–5 hours",
+      "best_time": "Morning start, October to May",
+      "cost": "≈ ₹2,500–3,500 a car",
+      "image_query": "Rumtek Monastery and Lingdum Monastery Sikkim",
+      "wiki": "",
+      "summary": "Cross the valley from Gangtok for Sikkim's two great Kagyu monasteries in one trip: Rumtek, seat of the Karma Kagyu in exile, and Lingdum, the young Zurmang Kagyu monastery in the Ranka forest. A classic half day with a reserved car.",
+      "body": [
+        "Leave Gangtok around 9 am and go first to Rumtek, about 24 km and an hour away via Ranipool. Carry original photo ID for the security gate. Spend an hour in the main hall, rebuilt by the 16th Karmapa and inaugurated in 1966, and at the Golden Stupa that holds his relics. If you have time, ask the driver to stop at Old Rumtek, the original monastery below.",
+        "From Rumtek, drive across the slopes to Lingdum near Ranka, about 45 minutes to an hour, timed to arrive for the afternoon prayers. The contrast is the point: Rumtek is busy, guarded and historic; Lingdum is new, open and quiet. Both belong to the broad Kagyu school, but to different branches.",
+        "Return to Gangtok by about 5 pm, stopping at Banjhakri Falls if the family wants a break. A reserved small car for the loop costs about ₹2,500–3,500 in 2026. Lunch at a simple eatery near Rumtek costs about ₹150–250 per person."
+      ],
+      "good_for": [
+        "first-timers",
+        "families",
+        "couples",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Can we visit Rumtek and Lingdum on the same day?",
+          "a": "Yes, easily. They lie on the same side of the valley, about 45 minutes to an hour apart by road. A half day of 4–5 hours with a reserved car covers both comfortably. Visit Rumtek in the morning and Lingdum in the afternoon for the prayers."
+        },
+        {
+          "q": "How much does a Rumtek and Lingdum taxi cost?",
+          "a": "Indicatively, about ₹2,500–3,500 for a small car in 2026 for the half-day loop, with waiting time. Adding Banjhakri Falls or Old Rumtek may add a few hundred rupees. Agree the stops before you leave, and check current rates before you travel."
+        },
+        {
+          "q": "Which is better, Rumtek or Lingdum?",
+          "a": "They are different. Rumtek is historic and important as the Karmapa's seat in exile, with the Golden Stupa, but busier and guarded. Lingdum is newer, more spacious and quieter. If you have time, see both; if only one, choose Rumtek for history and Lingdum for calm."
+        }
+      ]
+    },
+    {
+      "slug": "lingdum-courtyard-photography",
+      "title": "Photographing Lingdum's courtyard and murals",
+      "kind": "craft",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, October to March",
+      "cost": "Free; offering welcome",
+      "image_query": "Lingdum Monastery courtyard Sikkim",
+      "wiki": "",
+      "summary": "With its fresh paintwork, symmetrical facade and forest backdrop, Lingdum is the most photogenic monastery near Gangtok. Late afternoon light brings out the colours. A short guide to shooting it well and respectfully.",
+      "body": [
+        "Lingdum's main hall faces a wide courtyard, and the symmetry of its painted facade, prayer flags and surrounding buildings rewards a wide lens. Late afternoon light, from about 3 pm in winter, warms the colours and throws soft shadows across the paving. On clear days the forest behind stays dark and makes the colours stand out.",
+        "Details reward a closer look: carved and painted window frames, door knockers, prayer wheels and the brightly painted eaves. These are the work of skilled artists and carvers in traditional Tibetan Buddhist styles. Ask a monk if there is anyone who can tell you about the paintings; sometimes there is, sometimes not.",
+        "Inside the hall, follow the rules you are given; often photography is not allowed during prayers. Do not photograph young monks without permission, and never ask them to pose. Keep tripods out of walkways. Leave as quietly as you came."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Is Lingdum good for photography?",
+          "a": "Yes. Its fresh paintwork, symmetrical facade, wide courtyard and forest setting make it one of the most photogenic monasteries near Gangtok. Late afternoon light is best. Respect photography rules inside the hall and ask before photographing monks. Weekday afternoons are the quietest."
+        },
+        {
+          "q": "Can we use a tripod at Lingdum?",
+          "a": "A tripod in the open courtyard is usually fine if you keep it out of walkways and away from people at prayer. Inside the hall, do not use one. If a monk asks you to stop, do so at once. A wide-angle lens is more useful here than a long one."
+        },
+        {
+          "q": "Are film shoots allowed at Lingdum?",
+          "a": "Commercial filming or professional shoots need permission from the monastery in advance. Personal photography with a phone or camera in the courtyard is generally fine. Wedding or pre-wedding shoots should not be attempted without clear permission. Drones should not be flown over the monastery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far is Lingdum Monastery from Gangtok?",
+      "a": "About 20 km, around 50 minutes by car via the road west of town towards Ranka. A reserved small car costs about ₹1,500–2,500 return with waiting, or ₹2,500–3,500 combined with Rumtek. The road is narrow in places and slow in the monsoon."
+    },
+    {
+      "q": "What is Lingdum Monastery also called?",
+      "a": "It is also called Ranka Monastery, after the nearby village, and Pal Zurmang Kagyud Monastery, after its lineage, the Zurmang Kagyu branch of Tibetan Buddhism. Drivers in Gangtok usually understand Ranka Monastery or Lingdum. On maps it may appear under any of the three names, so search for all of them."
+    },
+    {
+      "q": "Is there an entry fee at Lingdum?",
+      "a": "Usually there is no fee or only a small one; an offering in the donation box is welcome. Banjhakri Falls nearby charges a small entry fee, indicatively about ₹50–100 for an adult. Check current rates before you travel. Leave shoes at the hall door."
+    },
+    {
+      "q": "What is the best time to visit Lingdum?",
+      "a": "October to May, in the afternoon around 3–4 pm, when the monks often gather for prayers. Weekdays are quieter than weekends. In the monsoon, from June to September, the road can be slow and muddy, though the forest is at its greenest."
+    },
+    {
+      "q": "Do we need a permit for Ranka and Lingdum?",
+      "a": "No. Ranka and Lingdum lie outside the protected areas, so Indian travellers need no permit, and foreigners only need the Sikkim restricted area permit for entering the state. Carry ID anyway if you are also visiting Rumtek, where there is a security check."
+    },
+    {
+      "q": "Can we combine Lingdum with Rumtek?",
+      "a": "Yes. They are about 45 minutes to an hour apart on the same side of the valley. A half day of 4–5 hours with a reserved car covers both, and you can add Banjhakri Falls on the way back. It is one of the most popular half days from Gangtok."
+    },
+    {
+      "q": "Is Lingdum suitable for seniors?",
+      "a": "Yes. Cars park close to the entrance, the courtyard is level and paved, and the hall has only a few steps. At about 1,400 m, the altitude is lower than Gangtok and comfortable for most people. Bring a cushion if you plan to sit through prayers."
+    },
+    {
+      "q": "Are there restaurants near Lingdum?",
+      "a": "Choices are limited to small eateries and tea shops on the Ranka road and near Rumtek. Plan a proper lunch in Gangtok or a simple meal near Rumtek, about ₹150–250 per person. Carry water and snacks for children. Banjhakri Falls has small snack stalls."
+    },
+    {
+      "q": "What is Ranka known for besides the monastery?",
+      "a": "Ranka is a rural area of villages and forest across the valley from Gangtok. Close by are Banjhakri Falls and Energy Park, Rumtek Monastery, and the edges of Fambong Lho Wildlife Sanctuary, known for birding. It makes a calm half day away from the capital."
+    }
+  ]
+}

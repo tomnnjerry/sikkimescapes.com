@@ -1,6 +1,10 @@
-{% load tales %}<a class="card card--wide rv" href="{{ g.url }}" data-item data-region="{{ g.region }}" data-kind="{{ g.category }}" style="--tint: {{ g.region_obj.tint }}; --deep: {{ g.region_obj.deep }}">
-  {% photo g|first_img alt=g.title sizes="(max-width: 760px) 100vw, 33vw" credit=False %}
-  <span class="chip">{{ g.region_obj.name }} · {{ g.read_min }} min read</span>
-  <span class="card__title card__title--s">{{ g.title }}</span>
-  <p>{{ g.summary|truncatewords:24 }}</p>
+{% load esc %}<a class="card rv" href="{{ g.url }}" data-land="{{ g.region }}" data-item data-region="{{ g.region }}" data-kind="{{ g.category }}">
+  <div class="card__media">{% include "escapes/partials/media.html" with img=g|first_img alt=g.title ph_icon="book" %}
+    <span class="chip chip--land">{{ g.category|default:"guide" }}</span>
+  </div>
+  <div class="card__body">
+    <h3>{{ g.title }}</h3>
+    <p>{{ g.summary|truncatewords:24 }}</p>
+    <div class="card__meta"><span>{% icon "book" %}{{ g.read_min }} min read</span><span>{{ g.region_obj.name }}</span></div>
+  </div>
 </a>

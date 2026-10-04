@@ -1,0 +1,17 @@
+{% load esc %}{# page hero: needs h_title; optional h_img, h_kicker, h_lede, h_seed, h_short, h_ms_cap, h_ms_val, h_meta (safe html) #}
+<header class="phero">
+  {% if h_img %}<div class="phero__media"><img src="{{ h_img|src:1920 }}" srcset="{{ h_img|srcset }}" sizes="100vw" alt="" fetchpriority="high"></div>{% else %}{% contour h_seed|default:h_title "contour" 14 2 %}{% endif %}
+  <div class="wrap phero__in{% if h_short or not h_img %} phero__in--short{% endif %}">
+    {% include "escapes/partials/crumbs.html" %}
+    <div class="phero__body">
+      <div>
+        {% if h_kicker %}<p class="kicker">{{ h_kicker }}</p>{% endif %}
+        <h1 class="h1">{{ h_title }}</h1>
+        {% if h_lede %}<p class="lede">{{ h_lede }}</p>{% endif %}
+        {% if h_meta %}<div class="phero__meta">{{ h_meta|safe }}</div>{% endif %}
+      </div>
+      {% if h_ms_val %}<span class="ms ms--lg"><span class="ms__cap">{{ h_ms_cap|truncatechars:12 }}</span><span class="ms__val">{{ h_ms_val }}</span><span class="ms__unit">{{ h_ms_unit|default:"M" }}</span></span>{% endif %}
+    </div>
+  </div>
+  {% if h_img %}<p class="phero__credit">Photo: <a href="{{ h_img.source }}" rel="noopener" target="_blank">{{ h_img|short_credit }}</a>, Wikimedia Commons</p>{% endif %}
+</header>

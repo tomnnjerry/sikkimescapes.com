@@ -1,22 +1,34 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}Private experiences in Nepal and India · Tales of Luxury{% endblock %}
-{% block description %}Private experiences: safaris, dawn boats, palace dinners, monastery mornings, cooking and craft visits across seven lands.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Things to do in Sikkim: {{ count }} experiences · Sikkim Escapes{% endblock %}
+{% block description %}{{ count }} things to do in Sikkim, from monastery mornings and Lepcha homestays to high lakes and momo kitchens, each with time, cost and the best hour.{% endblock %}
+{% block og_title %}Things to do in Sikkim · Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Experiences</p><h1 class="h-hero">Hours <span class="accent">to plan around</span></h1>
-  <p class="lede">The moments a journey is remembered by. Every one is private and can be added to any route in its region.</p></div></header>
-<section class="wrap" style="padding-bottom: 96px">
-  <div class="chip-row" style="margin-bottom: 28px">{% for k, n in kind_links %}<a class="chip chip--line" style="font-size: 12px; padding: 12px 18px" href="{% url 'experience_kind' k %}">{{ n }}</a>{% endfor %}</div>
-  <div class="filters" data-filter-group="#ex-list" role="group" aria-label="Filter experiences">
-    <button type="button" data-key="region" data-value="" aria-pressed="true">All lands</button>
-    {% for r in regions %}<button type="button" data-key="region" data-value="{{ r.slug }}" aria-pressed="false">{{ r.name }}</button>{% endfor %}
-    <label>Kind <select data-key="kind"><option value="">Any</option>{% for k in kinds %}<option value="{{ k }}">{{ k|capfirst }}</option>{% endfor %}</select></label>
+{% include "escapes/partials/phero.html" with h_title="Things to do in Sikkim" h_kicker="Experiences" h_lede="Monastery mornings, family kitchens, rhododendron walks and high lakes. Each one with how long it takes, what it costs and the hour to go." h_seed="experiences" %}
+
+<section class="sec sec--tight" aria-labelledby="kinds-h">
+  <div class="wrap">
+    <p class="kicker" id="kinds-h">Start from what you like</p>
+    <div class="grid g3">
+      {% for k, name in kind_links %}<a class="card card--text rv" href="{% url 'experience_kind' k %}"><div class="card__body" style="flex-direction:row;align-items:center;gap:14px"><span class="badge">{% icon k %}</span><div><h3 style="font-size:1.15rem;margin:0">{{ name }}</h3><span class="small muted">{% if k in kinds %}See ideas{% else %}Ask us{% endif %}</span></div></div></a>{% endfor %}
+    </div>
   </div>
-  
-  <div id="ex-list">{% for r in regions %}<section class="block" data-section style="margin-bottom: 64px">
-    <h2 class="h-l"><span class="lbadge" data-land="{{ r.slug }}">{% icon r.slug %}</span> <a href="{{ r.url }}" style="text-decoration: none">{{ r.name }}</a></h2>
-    {% for p in r.places %}<div class="block" data-section style="margin-bottom: 24px"><h3 class="h-s"><a href="{{ p.url }}" style="text-decoration: none">{{ p.name }}</a></h3>
-      <div class="grid grid--4" data-fill>{% for e in p.experiences %}{% include "tales/partials/card_exp.html" %}{% endfor %}{% include "tales/partials/fill.html" %}</div></div>{% endfor %}
-  </section>{% endfor %}</div>
 </section>
+
+<section class="sec sec--paper2" aria-labelledby="all-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Every experience" sh_title="Filter by district and kind" sh_id="all-h" %}
+    <form class="filters" data-filters="exp-all" onsubmit="return false">
+      <label class="sr" for="fx-region">District</label>
+      <select id="fx-region" data-filter="region"><option value="">All districts</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+      <label class="sr" for="fx-kind">Kind</label>
+      <select id="fx-kind" data-filter="kind"><option value="">All kinds</option>{% for k in kinds %}<option value="{{ k }}">{{ k|kind_name }}</option>{% endfor %}</select>
+      <button type="button" data-filter-reset>Reset</button>
+      <span class="filters__count" data-filter-count></span>
+    </form>
+    {% if count %}<div class="grid g4" id="exp-all" data-fill>{% for r in regions %}{% for p in r.places %}{% for e in p.experiences %}{% include "escapes/partials/card_exp.html" %}{% endfor %}{% endfor %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+    <div class="empty" data-filter-empty hidden>Nothing matches yet. <a href="{% url 'plan' %}">Tell us what you would like to do</a> and we will plan it.</div>
+    {% else %}<div class="empty">Experiences are being written up. <a href="{% url 'plan' %}">Ask the Gangtok desk</a>.</div>{% endif %}
+  </div>
+</section>
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

@@ -1,0 +1,63 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ tv.name }} Sikkim packages and tours · Sikkim Escapes{% endblock %}
+{% block description %}{{ tv.name }} Sikkim tour packages: {{ tv.text|truncatechars:90 }} Sorted by price, with a full breakdown on each.{% endblock %}
+{% block og_title %}{{ tv.name }} Sikkim packages{% endblock %}
+{% block og_image %}{% with img=journeys.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block content %}
+{% include "escapes/partials/phero.html" with h_title=tv.name|add:" Sikkim trips" h_kicker="Packages · "|add:tv.label h_lede=tv.text h_seed=tier %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="statrow">
+      <div class="stat"><small>{{ tv.name }} packages</small><b>{{ journeys|length }}</b></div>
+      {% if journeys %}<div class="stat"><small>From, per person</small><b>{{ journeys.0.price_from_inr|inr }}</b></div>{% endif %}
+      <div class="stat"><small>Stays at this level</small><b>{{ stays|length }}</b></div>
+    </div>
+    <div class="answer" style="margin-top:20px"><b>Short answer</b><p>{{ tv.name }}: {{ tv.label }}. {{ tv.text }} Prices are indicative per person, twin sharing, and you can move any package up or down a tier.</p></div>
+  </div>
+</section>
+
+<section class="sec" style="padding-top:0" aria-labelledby="tj-h">
+  <div class="wrap">
+    <h2 class="h2 sr" id="tj-h">{{ tv.name }} packages</h2>
+    {% if journeys %}
+    <form class="filters" data-filters="tier-grid" aria-label="Filter packages" onsubmit="return false">
+      <label class="sr" for="t-region">District</label>
+      <select id="t-region" data-filter="region"><option value="">Any district</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+      <label class="sr" for="t-nights">Length</label>
+      <select id="t-nights" data-filter-range="nights"><option value="">Any length</option><option value="1-4">Up to 3 nights</option><option value="4-6">4 to 5 nights</option><option value="6-8">6 to 7 nights</option><option value="8-99">8 nights or more</option></select>
+      <button type="button" data-filter-reset>Clear</button>
+      <span class="filters__count" data-filter-count aria-live="polite">{{ journeys|length }} result{{ journeys|length|pluralize }}</span>
+    </form>
+    <div class="grid g3" id="tier-grid" data-fill>{% for j in journeys %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+    <div class="empty mt" data-filter-empty hidden>No {{ tv.name|lower }} package matches those filters. <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask us to build one</a>.</div>
+    {% else %}
+    <div class="empty">No fixed {{ tv.name|lower }} packages are listed yet. We build them to order: <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">tell us your dates</a>.</div>
+    {% endif %}
+  </div>
+</section>
+
+{% if stays %}<section class="sec sec--paper2" aria-labelledby="ts-h">
+  <div class="wrap">
+    {% url 'stays' as st_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Where you sleep" sh_title=tv.name|add:" stays we book" sh_id="ts-h" sh_more_url=st_url sh_more="Every stay" %}
+    <div class="grid g3" data-fill>{% for s in stays|slice:":6" %}{% include "escapes/partials/card_stay.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec" aria-labelledby="to-h">
+  <div class="wrap">
+    {% url 'journeys' as j_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Other tiers" sh_title="More or less comfort" sh_id="to-h" sh_more_url=j_url sh_more="Every package" %}
+    <div class="grid g3">
+      {% for o in others %}<a class="card card--text rv" href="{% url 'tier' o.slug %}"><div class="card__body">
+        <span class="chip chip--{{ o.slug }}" style="align-self:flex-start">{{ o.name }}</span>
+        <h3>{{ o.label }}</h3>
+        <p>{{ o.text }}</p>
+        <div class="card__foot"><span class="linkarrow">{{ o.name }} packages {% icon "arrow" %}</span></div>
+      </div></a>{% endfor %}
+    </div>
+    <p class="mt" style="margin-top:24px"><a class="btn btn--ghost" href="{% url 'affordable' %}">{% icon "rupee" %} Browse by price band instead</a></p>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" with cta_title="Tell us the comfort level you want" %}
+{% endblock %}

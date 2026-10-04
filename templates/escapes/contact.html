@@ -1,27 +1,57 @@
-{% extends "tales/base.html" %}
-{% block title %}Contact Tales of Luxury · talk to a planner{% endblock %}
-{% block description %}Talk to a Tales of Luxury planner by form, email{% if wa_base %}, WhatsApp{% endif %} or a call back. A first route and indicative price within one working day.{% endblock %}
-{% block cta %}{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Contact the Gangtok desk · Sikkim Escapes{% endblock %}
+{% block description %}Contact Sikkim Escapes by WhatsApp, phone or email, or send a quick enquiry. The Gangtok desk replies within one working day with a plan and an itemised price.{% endblock %}
+{% block og_title %}Contact Sikkim Escapes{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <p class="eyebrow">Contact</p><h1 class="h-hero">Talk to <span class="accent">a planner</span></h1>
-  <p class="lede">However you prefer. Every message reaches a person who plans journeys, not a call centre.</p></div></header>
-<section class="wrap" style="padding-bottom: 40px"><div class="grid grid--3">
-  <a class="panel panel--dark ccard" href="{% url 'plan' %}?from=/contact/" data-cta="contact-plan"><span class="eyebrow">Plan online</span><b class="h-s">Six questions</b><span>A first route and price within one working day.</span></a>
-  {% if wa_base %}<a class="panel panel--line ccard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="contact-whatsapp"><span class="eyebrow">WhatsApp</span><b class="h-s">Message a planner</b><span>Usually the fastest way to a quick answer.</span></a>{% endif %}
-  <a class="panel panel--line ccard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="contact-direct"><span class="eyebrow">{% if tel %}Call{% else %}Email{% endif %}</span><b class="h-s">{% if tel %}{{ SITE.phone }}{% else %}{{ SITE.email }}{% endif %}</b><span>[Office hours, IST]</span></a>
-</div></section>
-<section class="sec--tight" id="callback"><div class="wrap split">
-  <div class="split__main">
-    {% include "tales/partials/quick_form.html" with qf_id="callback" qf_kind="callback" qf_title="Request a call back" qf_sub="Leave a number and the best time to call. We call within one working day." qf_button="Call me back" qf_message="Please call me back." %}
+{% include "escapes/partials/phero.html" with h_title="Talk to the Gangtok desk" h_kicker="Contact" h_lede="Message us however suits you. We reply within one working day, usually with questions first and then a day-by-day plan and an itemised price." h_seed="contact" %}
+
+<section class="sec" aria-labelledby="ct-h">
+  <div class="wrap split">
+    <div class="stack--s">
+      <h2 class="h2" id="ct-h">Send a quick enquiry</h2>
+      <p class="muted">Name, email and a month are enough to start. Add the number of travellers and we can price it.</p>
+      {% include "escapes/partials/quick_form.html" with qf_id="contact" qf_title="Get a plan and a price" qf_sub="No payment to start. We reply within one working day." %}
+      <p class="small muted">Want to give us more detail, such as districts, budget and the trip you have in mind? Use the <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">full trip planner</a>.</p>
+    </div>
+    <aside class="side">
+      <div class="grid g2">
+        {% if wa_base %}<a class="card card--text" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="contact-whatsapp"><div class="card__body">
+          <span class="badge">{% icon "whatsapp" %}</span><h3>WhatsApp</h3><p>Quickest for short questions and for sending ID photos for permits.</p>
+        </div></a>{% endif %}
+        {% if tel %}<a class="card card--text" href="tel:{{ tel }}" data-cta="contact-call"><div class="card__body">
+          <span class="badge">{% icon "phone" %}</span><h3>Call</h3><p>{{ SITE.phone }}</p>
+        </div></a>{% endif %}
+        <a class="card card--text" href="mailto:{{ SITE.email }}" data-cta="contact-email"><div class="card__body">
+          <span class="badge">{% icon "chat" %}</span><h3>Email</h3><p style="word-break:break-word">{{ SITE.email }}</p>
+        </div></a>
+        <div class="card card--text"><div class="card__body">
+          <span class="badge">{% icon "compass" %}</span><h3>Office</h3><p>{{ SITE.address }}</p>
+        </div></div>
+      </div>
+      <div class="panel">
+        <h3>What helps us reply fast</h3>
+        <ul class="ticks small">
+          <li>Your dates, or the month and how many nights</li>
+          <li>Who is travelling, with the ages of any children (under-5s cannot enter North Sikkim protected areas)</li>
+          <li>Nationality, since some permits are for Indian nationals only</li>
+          <li>A rough budget per person</li>
+        </ul>
+      </div>
+      <div class="verdict verdict--warn"><b>Stay safe with payments</b><p class="small" style="margin:6px 0 0">We never ask for card numbers, OTPs or passwords by WhatsApp, email or phone. Bank details come only on a signed invoice. See our <a href="{% url 'policy' 'payments' %}">payments policy</a>.</p></div>
+    </aside>
   </div>
-  <aside class="split__aside">
-    <div class="panel panel--line"><h2 class="h-s" style="margin-bottom: 12px">Office</h2><div class="ledger">
-      <div class="ledger__row"><span>Address</span><span class="ledger__dots"></span><b>{{ SITE.address }}</b></div>
-      <div class="ledger__row"><span>Email</span><span class="ledger__dots"></span><b><a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a></b></div>
-      <div class="ledger__row"><span>Phone</span><span class="ledger__dots"></span><b>{{ SITE.phone }}</b></div>
-      <div class="ledger__row"><span>Hours</span><span class="ledger__dots"></span><b>[Mon–Sat, 10:00–19:00 IST]</b></div></div></div>
-    {% include "tales/partials/trust.html" %}
-  </aside>
-</div></section>
+</section>
+
+<section class="sec sec--paper2 sec--tight" aria-labelledby="ct-more">
+  <div class="wrap">
+    <p class="kicker" id="ct-more">Before you write</p>
+    <div class="pills">
+      <a href="{% url 'how_we_work' %}">{% icon "route" %}How we work</a>
+      <a href="{% url 'faq' %}">{% icon "book" %}Questions</a>
+      <a href="{% url 'tool_permits' %}">{% icon "permit" %}Permit checker</a>
+      <a href="{% url 'tool_budget' %}">{% icon "rupee" %}Trip cost calculator</a>
+      <a href="{% url 'affordable' %}">{% icon "jeep" %}Affordable trips</a>
+    </div>
+  </div>
+</section>
 {% endblock %}

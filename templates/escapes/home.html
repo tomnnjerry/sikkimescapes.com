@@ -1,126 +1,153 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block mast_class %}mast--dark{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Sikkim Escapes · Honest Sikkim trips and packages from Gangtok{% endblock %}
+{% block og_title %}Sikkim Escapes · Honest Sikkim trips from Gangtok{% endblock %}
+{% block og_image %}{% with img=climb.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block content %}
-<section class="dark hero">
+<section class="hero" aria-labelledby="hero-h">
+  {% with img=climb|last|first_img %}{% if img %}<div class="hero__media"><img src="{{ img|src:1920 }}" srcset="{{ img|srcset }}" sizes="100vw" alt="" fetchpriority="high"></div>{% endif %}{% endwith %}
+  {% contour "home-hero" "contour" 16 3 %}
+  <div class="wrap hero__in">
+    <div class="hero__copy">
+      <p class="kicker">Sikkim only · six districts · from Gangtok</p>
+      <h1 class="h1" id="hero-h">Sikkim, priced <em class="foiltext">honestly</em></h1>
+      <p class="lede">Shared-jeep weekends from under ₹10,000 to premium tours, with every cost shown, permits handled through registered partners and the Lepcha, Bhutia and Nepali stories behind each valley.</p>
+      <form class="finder" action="{% url 'plan' %}" method="get" data-cta-form="hero-finder">
+        <label><span>Where</span><select name="land"><option value="">Anywhere in Sikkim</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+        <label><span>When</span><select name="month"><option value="">Flexible</option>{% for m in months_full %}<option{% if m == month %} selected{% endif %}>{{ m }}</option>{% endfor %}</select></label>
+        <label><span>Budget per person</span><select name="budget"><option value="">Not sure yet</option>{% for b in bands %}<option value="{{ b.slug }}">{{ b.name }}</option>{% endfor %}</select></label>
+        <input type="hidden" name="from" value="/">
+        <button class="btn btn--foil" type="submit">Get my price</button>
+      </form>
+    </div>
+    <div class="hero__foot">
+      <div class="hero__proof"><span>{% icon "rupee" %}Itemised quotes</span><span>{% icon "permit" %}Permits handled</span><span>{% icon "jeep" %}Budget to premium</span><span>{% icon "story" %}Sourced local stories</span></div>
+      {% if climb %}{% with img=climb|last|first_img %}{% if img %}<small>Photo: {{ img|short_credit }}, Wikimedia Commons</small>{% endif %}{% endwith %}{% endif %}
+    </div>
+  </div>
+  <div class="hero__scale" aria-hidden="true"><span>Teesta valley</span><b>280 m</b><span>Kangchenjunga</span><b>8,586 m</b></div>
+</section>
+
+{% if cheapest %}<div class="ticker" aria-label="Lowest package prices">
+  <div class="ticker__in">{% for i in "12" %}{% for j in cheapest %}<span><i></i>{{ j.title }} <b>{{ j.price_from_inr|inr }}</b></span>{% endfor %}{% for b in bands %}{% if b.first %}<span><i></i>{{ b.name }}: {{ b.n }} package{{ b.n|pluralize }}</span>{% endif %}{% endfor %}{% endfor %}</div>
+</div>{% endif %}
+
+<section class="sec" aria-labelledby="lands-h">
   <div class="wrap">
-    <div class="hero__top">
-      <div class="hero__title">
-        <p class="eyebrow">Private journeys · Nepal &amp; India</p>
-        <h1 class="h-hero">Seven lands, <span class="accent">told slowly</span></h1>
-      </div>
-      <div class="hero__side">
-        <p class="lede">Palaces in Rajasthan, monasteries above 3,500 m in Ladakh, rice-boat nights in Kerala. We plan each journey by hand, with one planner from first call to last transfer.</p>
-        <div class="btns">
-          <a class="btn btn--brass" href="{% url 'plan' %}?from=/">Plan my journey</a>
-          <a class="btn btn--ghost" href="{% url 'lands' %}">Read the seven tales</a>
+    {% url 'lands' as lands_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Six districts" sh_title="Where in Sikkim" sh_id="lands-h" sh_text="Sikkim reorganised into six districts in 2021. Each has its own season, its own permits and its own colours." sh_more_url=lands_url sh_more="Map of every district" %}
+    <div class="grid g3">
+      {% for r in regions %}<a class="card card--land rv" href="{{ r.url }}" data-land="{{ r.slug }}">
+        <div class="card__media">{% include "escapes/partials/media.html" with img=r|first_img alt=r.name ph_icon=r.icon sizes="(max-width: 860px) 100vw, 33vw" %}</div>
+        <div class="card__body">
+          <span class="badge">{% icon r.icon %}</span>
+          <span class="palette">{{ r.official }}</span>
+          <h3>{{ r.name }}</h3>
+          <p>{{ r.tagline }}</p>
+          <div class="card__meta" style="color:rgba(255,255,255,.75)"><span>{% icon "calendar" %}Best {{ r.best_label }}</span><span>{{ r.places|length }} places</span>{% if r.journeys %}<span>{{ r.journeys|length }} packages</span>{% endif %}</div>
         </div>
-        <form class="finder" action="{% url 'plan' %}" method="get" data-cta-form="hero-finder">
-          <label><span>Where</span><select name="land"><option value="">Any of the seven lands</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
-          <label><span>When</span><select name="month"><option value="">Flexible</option>{% for m in months_full %}<option>{{ m }}</option>{% endfor %}</select></label>
-          <input type="hidden" name="from" value="/">
-          <button class="btn btn--brass" type="submit">Start planning</button>
-        </form>
-      </div>
-    </div>
-    <div class="fan" aria-label="The seven lands">
-      {% for r in regions %}{% with img=r|first_img %}
-      <a class="fan__item{% if forloop.counter == 2 %} is-active{% endif %}" href="{{ r.url }}" data-land="{{ r.slug }}">
-        {% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 50vw, 45vw" alt="{{ r.name }}" {% if forloop.counter < 3 %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>{% endif %}
-        <span class="fan__cap">
-          <span class="lbadge" data-land="{{ r.slug }}">{% icon r.slug %}</span>
-          <b>{{ r.name }}</b>
-          <span class="fan__more">
-            <p>{{ r.tagline }}. Best {{ r.best_label }}.</p>
-            <span class="fan__go">Open the tale</span>
-            {% if img %}<small>Photo: {{ img|short_credit }}, Wikimedia Commons</small>{% endif %}
-          </span>
-        </span>
-      </a>{% endwith %}{% endfor %}
+      </a>{% endfor %}
     </div>
   </div>
 </section>
 
-<section class="trustband"><div class="wrap">{% include "tales/partials/trust.html" %}</div></section>
-
-<div class="marquee" aria-hidden="true"><div class="marquee__track">{% for i in "12" %}{% for r in regions %}<span>{{ r.name }}</span>{% endfor %}{% endfor %}</div></div>
-
-<section class="sec" aria-labelledby="idx-h">
-  <div class="wrap split">
-    <div class="split__aside" style="top: 120px">
-      <p class="eyebrow">The index</p>
-      <h2 class="h-xl" id="idx-h">Choose a <span class="accent">tale</span></h2>
-      <p class="lede">Each land opens on its own map, its own seasons and the rooms we would book for you there.</p>
-      <svg class="seal" viewBox="0 0 132 132" aria-hidden="true"><defs><path id="c" d="M66 66m-50 0a50 50 0 1 1 100 0a50 50 0 1 1-100 0"/></defs><text><textPath href="#c">Seven lands · told slowly · by hand ·</textPath></text></svg>
-    </div>
-    <div class="split__main" style="gap: 0">
-      <div class="toc">
-        {% for r in regions %}<a class="toc__row" data-land="{{ r.slug }}" href="{{ r.url }}"{% with img=r|nth_img:1 %}{% if img %} data-img="{{ img|src:500 }}"{% endif %}{% endwith %}>
-          <span class="lbadge" data-land="{{ r.slug }}">{% icon r.slug %}</span>
-          <span class="toc__name"><b>{{ r.name }}</b><span>{% for p in r.top_places|slice:":5" %}{{ p.name }}{% if not forloop.last %}, {% endif %}{% endfor %}</span></span>
-          <span class="toc__when">Best {{ r.best_label }}</span>
-          <span class="toc__arrow" aria-hidden="true">→</span>
-        </a>{% endfor %}
-      </div>
-    </div>
-  </div>
-  <div class="toc__peek" aria-hidden="true"><img alt=""></div>
-</section>
-
-{% if featured %}
-<section class="sec paper" aria-labelledby="jr-h">
+<section class="sec sec--paper2" aria-labelledby="aff-h">
   <div class="wrap">
-    <div class="sec-head"><div><p class="eyebrow">Signature journeys</p><h2 class="h-l" id="jr-h">Routes we know by heart</h2></div><a class="link-arrow" href="{% url 'journeys' %}">Every journey →</a></div>
-    <div class="grid grid--4" data-fill>{% for j in featured %}{% include "tales/partials/card_journey.html" %}{% endfor %}{% include "tales/partials/fill.html" %}</div>
+    {% url 'affordable' as aff_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Affordable Sikkim" sh_title="Start from your budget" sh_id="aff-h" sh_text="Indicative prices per person, twin sharing, from Bagdogra or NJP. Every package shows what the money pays for." sh_more_url=aff_url sh_more="The affordable section" %}
+    <div class="bands">
+      {% for b in bands %}<a class="bandcard{% if forloop.first %} bandcard--hot{% endif %} rv" href="{% url 'band' b.slug %}">{% icon "rupee" %}<small>Per person</small><b>{{ b.name }}</b><small>{{ b.n }} package{{ b.n|pluralize }}{% if b.first %} · from {{ b.first.price_from_inr|inr }}{% endif %}</small></a>{% endfor %}
+    </div>
+    {% if cheapest %}<div class="grid g4 mt" data-fill>{% for j in cheapest %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>{% endif %}
   </div>
 </section>
-{% endif %}
+
+{% if climb %}<section class="sec climb" aria-labelledby="climb-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="The climb" sh_title="From river valleys to the Tibetan plateau" sh_id="climb-h" sh_text="Sikkim rises faster than almost anywhere on earth. Plan the height as carefully as the road." %}
+    <div class="climb__grid">
+      <div class="climb__sticky" aria-hidden="true">
+        {% for p in climb %}{% with img=p|first_img %}<div class="climb__img{% if forloop.first %} is-on{% endif %}">{% if img %}<img src="{{ img|src:1280 }}" alt="" loading="lazy">{% endif %}</div>{% endwith %}{% endfor %}
+        <div class="climb__meter"><small>Altitude</small><b><span data-climb-alt>{{ climb.0.altitude_m|split_alt }}</span><span>m</span></b></div>
+        <div class="climb__bar"><i></i></div>
+      </div>
+      <div class="climb__steps">
+        {% for p in climb %}<div class="climb__step{% if forloop.first %} is-on{% endif %}" data-alt="{{ p.altitude_m }}">
+          {% photo p|first_img alt=p.name credit=False %}
+          <span class="ms"><span class="ms__cap">{{ p.name|truncatechars:10 }}</span><span class="ms__val">{{ p.altitude_m|split_alt }}</span><span class="ms__unit">M</span></span>
+          <h3><a href="{{ p.url }}" style="text-decoration:none">{{ p.name }}</a></h3>
+          <p>{{ p.summary|truncatewords:40 }}</p>
+          <a class="linkarrow" href="{{ p.url }}">{{ p.region_obj.name }} · best {{ p.best_label }} {% icon "arrow" %}</a>
+        </div>{% endfor %}
+      </div>
+    </div>
+    <p class="mt"><a class="btn btn--ghost" href="{% url 'altitude' %}">{% icon "altitude" %} The full altitude ladder</a> <a class="btn btn--ghost" href="{% url 'tool_altitude' %}">Check a package's altitude</a></p>
+  </div>
+</section>{% endif %}
 
 <section class="sec dark" aria-labelledby="alm-h">
+  {% contour "almanac" "contour" 12 2 %}
   <div class="wrap">
-    <div class="sec-head"><div><p class="eyebrow">The season almanac</p><h2 class="h-l" id="alm-h">When each land <span class="accent">is at its best</span></h2></div>
-      <div class="mkey"><span><i class="v2"></i>Best</span><span><i class="v1"></i>Good</span><span><i></i>Off season</span></div></div>
-    <div class="almanac"><div class="almanac__grid">
-      <span></span>{% for m in months_short %}<span class="hd">{{ m }}</span>{% endfor %}
-      {% for r in regions %}<a class="almanac__name" href="{{ r.url }}">{{ r.name }}</a>{% for c in r.bar %}<a class="almanac__cell v{{ c.v }}{% if forloop.counter0 == month_i %} is-now{% endif %}" href="{{ r.url }}seasons/{{ c.full|lower }}/" aria-label="{{ r.name }} in {{ c.full }}"></a>{% endfor %}{% endfor %}
-    </div></div>
-    <p class="small" style="color: var(--mist-3); margin-top: 20px">A planning guide, not a promise. Passes, parks and permits change each year: check current status before you travel. The ringed column is this month. <a href="{% url 'seasons' %}">Open the full almanac</a></p>
+    {% url 'seasons' as seasons_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Month by month" sh_title="When each district is at its best" sh_id="alm-h" sh_more_url=seasons_url sh_more="Full season guide" %}
+    <div class="tablewrap"><table class="alm">
+      <thead><tr><td></td>{% for m in months_short %}<th scope="col">{{ m }}</th>{% endfor %}</tr></thead>
+      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}" style="color:#fff">{% icon r.icon %} {{ r.name }}</a></th>{% for c in r.bar %}<td class="v{{ c.v }}{% if forloop.counter0 == month_i %} is-now{% endif %}"><a href="{% url 'region_month' r.slug c.full|lower %}" aria-label="{{ r.name }} in {{ c.full }}">{% if c.v == 2 %}Best{% elif c.v == 1 %}Good{% endif %}</a></td>{% endfor %}</tr>{% endfor %}</tbody>
+    </table></div>
+    <p class="small" style="margin-top:16px">A planning guide, not a promise. Roads, passes and permits change every year: check current status before you travel. The outlined column is this month.</p>
   </div>
 </section>
 
-{% if in_season %}
-<section class="sec" aria-labelledby="now-h">
+{% if in_season %}<section class="sec" aria-labelledby="now-h">
   <div class="wrap">
-    <div class="sec-head"><div><p class="eyebrow">Right now</p><h2 class="h-l" id="now-h">At their best in {{ month }}</h2></div><a class="link-arrow" href="{% url 'tool_season' %}">Season finder →</a></div>
-    <div class="grid grid--4" data-fill>{% for p in in_season %}{% include "tales/partials/card_place.html" %}{% endfor %}{% include "tales/partials/fill.html" %}</div>
+    {% url 'sikkim_month' month|lower as month_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Right now" sh_title="At their best this month" sh_id="now-h" sh_more_url=month_url sh_more="Sikkim this month" %}
+    <div class="grid g4" data-fill>{% for p in in_season %}{% include "escapes/partials/card_place.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
   </div>
-</section>
-{% endif %}
+</section>{% endif %}
 
-<section class="sec paper" aria-labelledby="why-h">
+<section class="sec sec--paper2" aria-labelledby="tiers-h">
   <div class="wrap">
-    <div class="sec-head"><div><p class="eyebrow">How we work</p><h2 class="h-l" id="why-h">Three promises we keep</h2></div></div>
-    <div class="hl-list">
-      <div class="hl rv"><span class="lbadge lbadge--lg">{% icon "chat" %}</span><b>One planner, start to finish</b><p>One person shapes the route, books every stay and answers on WhatsApp while you travel.</p></div>
-      <div class="hl rv"><span class="lbadge lbadge--lg">{% icon "compass" %}</span><b>Only lands we know</b><p>We stay inside the regions we know, so the driver, the guide and the room are ones we have tested.</p></div>
-      <div class="hl rv"><span class="lbadge lbadge--lg">{% icon "shield" %}</span><b>Never a group coach</b><p>Private car, private guide, your hours. Every journey is for your party alone.</p></div>
+    {% url 'journeys' as j_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Four ways to travel" sh_title="Budget, value, comfort or premium" sh_id="tiers-h" sh_text="The same valleys at four levels of comfort. Move up or down a tier on any package." sh_more_url=j_url sh_more="Every package" %}
+    <div class="grid g4">
+      {% for t in tiers %}<a class="card card--text rv" href="{% url 'tier' t.slug %}"><div class="card__body">
+        <span class="chip chip--{{ t.slug }}" style="align-self:flex-start">{{ t.name }}</span>
+        <h3>{{ t.label }}</h3>
+        <p>{{ t.text }}</p>
+        <div class="card__foot">{% if t.from %}<span class="price"><small>From, per person</small><b>{{ t.from|inr }}</b></span>{% else %}<span class="small muted">On request</span>{% endif %}<span class="linkarrow">{{ t.journeys|length }} shown {% icon "arrow" %}</span></div>
+      </div></a>{% endfor %}
     </div>
   </div>
 </section>
 
-<section class="sec" aria-labelledby="st-h">
+{% if facts %}<section class="sec" aria-labelledby="lk-h">
   <div class="wrap">
-    <div class="sec-head"><div><p class="eyebrow">Travel styles</p><h2 class="h-l" id="st-h">Start from a feeling</h2></div><a class="link-arrow" href="{% url 'themes' %}">All styles →</a></div>
-    <div class="chip-row">{% for t in themes %}<a class="chip chip--line" style="font-size: 12px; padding: 12px 18px" href="{{ t.url }}">{{ t.name }}</a>{% endfor %}</div>
+    {% url 'stories' as st_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Little known" sh_title="Things most visitors never hear" sh_id="lk-h" sh_text="Each one is sourced. Tap through to the place it belongs to." sh_more_url=st_url sh_more="Rooted stories" %}
+    {% include "escapes/partials/flags.html" %}
+  </div>
+</section>{% endif %}
+
+{% if stories %}<section class="sec sec--paper2" aria-labelledby="stories-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Rooted stories" sh_title="The people and histories behind the views" sh_id="stories-h" sh_more_url=st_url sh_more="Every story" %}
+    <div class="grid g3">{% for s in stories %}<a class="card card--text rv" href="{{ s.url }}" data-land="{{ s.obj.region }}"><div class="card__body">
+      <span class="chip chip--land" style="align-self:flex-start">{% icon "story" %}{{ s.obj.name }}</span>
+      <h3>{{ s.title }}</h3>
+      <p>{{ s.text|truncatewords:34 }}</p>
+      {% if s.source %}<div class="card__foot"><span class="small muted">Source: {{ s.source|truncatechars:70 }}</span></div>{% endif %}
+    </div></a>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if festivals or guides %}<section class="sec" aria-labelledby="read-h">
+  <div class="wrap">
+    {% url 'guides' as g_url %}{% include "escapes/partials/sechead.html" with sh_kicker="Read before you go" sh_title="Costs, permits and festivals" sh_id="read-h" sh_more_url=g_url sh_more="Every guide" %}
+    <div class="grid g4" data-fill>{% for f in festivals %}{% include "escapes/partials/card_fest.html" %}{% endfor %}{% for g in guides %}{% include "escapes/partials/card_guide.html" %}{% endfor %}{% include "escapes/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--tight" aria-labelledby="themes-h">
+  <div class="wrap">
+    <p class="kicker" id="themes-h">Start from a theme</p>
+    <div class="pills">{% for t in themes %}<a href="{{ t.url }}">{{ t.name }}</a>{% endfor %}<a href="{% url 'homestays' %}">{% icon "village" %}Homestays</a><a href="{% url 'tool_permits' %}">{% icon "permit" %}Permit checker</a></div>
   </div>
 </section>
 
-{% if festivals or guides %}
-<section class="sec paper" aria-labelledby="jn-h">
-  <div class="wrap">
-    <div class="sec-head"><div><p class="eyebrow">From the desk</p><h2 class="h-l" id="jn-h">Read before you go</h2></div><a class="link-arrow" href="{% url 'journal' %}">The Journal →</a></div>
-    <div class="grid grid--3" data-fill>{% for d in posts %}<a class="card card--wide rv" href="{{ d.url }}"{% if d.land %} data-land="{{ d.land }}"{% endif %}>{% photo d|first_img alt=d.title credit=False sizes="(max-width: 760px) 100vw, 33vw" %}<span class="chip">{{ d.category }} · {{ d.read_min }} min</span><span class="card__title card__title--s">{{ d.title }}</span><p>{{ d.summary|truncatewords:22 }}</p></a>{% endfor %}{% include "tales/partials/fill.html" %}</div>
-    {% if festivals %}<div style="margin-top: 56px" class="block"><p class="eyebrow">Coming up</p><div class="chip-row">{% for f in festivals %}<a class="chip" style="--tint: {{ f.region_obj.tint }}; --deep: {{ f.region_obj.deep }}; font-size: 12px; padding: 12px 18px" href="{{ f.url }}">{{ f.name }} · {{ f.when|truncatewords:4 }}</a>{% endfor %}</div></div>{% endif %}
-  </div>
-</section>
-{% endif %}
+<section class="sec sec--tight"><div class="wrap">{% include "escapes/partials/trust.html" %}</div></section>
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

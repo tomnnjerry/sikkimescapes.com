@@ -11,7 +11,7 @@ POLICIES = OrderedDict()
 POLICIES["refund-and-cancellation"] = {
     "title": "Refund and cancellation policy",
     "nav": "Refunds and cancellations",
-    "summary": "If you cancel, what you get back depends on how many days before departure you tell us in writing and on what the hotels, trains and airlines we booked will refund to us. We pass on every refund we receive, minus the charges set out below, within [14] working days of receiving it.",
+    "summary": "If you cancel, what you get back depends on how many days before departure you tell us in writing and on what the hotels, transport operators and permit offices we booked will refund to us. We pass on every refund we receive, minus the charges set out below, within [14] working days of receiving it.",
     "sections": [
         ("How to cancel", [
             "Write to us at the email address on your booking confirmation. Your cancellation takes effect on the day we receive it. A message on WhatsApp is welcome, but please follow it with an email so we have a written record.",
@@ -27,7 +27,7 @@ POLICIES["refund-and-cancellation"] = {
             ]},
         ]),
         ("Supplier terms that may be stricter", [
-            "Some services carry their own non-refundable terms, which we tell you about in your quote before you book. Common examples are peak-season palace hotel stays (Christmas, New Year, Diwali), luxury train cabins, national park safari permits, domestic flights on non-refundable fares and festival-period camps. Where a supplier refunds nothing, we cannot refund that part.",
+            "Some services carry their own non-refundable terms, which we tell you about in your quote before you book. Common examples are peak-week hotel stays (Durga Puja, Diwali, Christmas and New Year), protected-area permits once issued, trek permits and camp bookings, and flights or trains you ask us to book on non-refundable fares. Where a supplier refunds nothing, we cannot refund that part.",
         ]),
         ("If we have to change or cancel", [
             "If we cancel your journey for any reason other than events outside our control, we refund everything you have paid us in full.",
@@ -60,7 +60,7 @@ POLICIES["booking-terms"] = {
             "To book, accept the quote in writing and pay the deposit of [25]% of the total price. We then confirm every service in writing. The balance is due [45] days before departure; bookings made within [45] days are paid in full. See the payments policy for methods.",
         ]),
         ("Your responsibilities", [
-            "You must hold a valid passport and visa where required, the permits we tell you about for restricted areas, and travel insurance that covers medical evacuation and, for Ladakh and high Nepal, altitudes up to the highest point on your route. Please tell us about health conditions, mobility needs and diets when you book.",
+            "You must carry valid photo ID (and, for foreign nationals, a passport, Indian visa and the Restricted Area Permit for Sikkim), the documents we ask for to apply for protected-area permits, and travel insurance that covers medical evacuation at the altitudes on your route (Gurudongmar Lake is above 5,000 m). Please tell us about health conditions, mobility needs and diets when you book.",
         ]),
         ("Our responsibilities", [
             "We plan and book your journey with care and use suppliers we have worked with. Hotels, airlines, railways, parks and other suppliers provide their services under their own terms. Where something goes wrong on the ground, tell your planner straight away so we can help while you are still there.",
@@ -87,7 +87,7 @@ POLICIES["payments"] = {
                 "Deposit: [25]% of the total price, to confirm your booking.",
                 "Balance: due [45] days before departure.",
                 "Late bookings (within [45] days of departure): full payment at booking.",
-                "Some suppliers (luxury trains, festival-period camps, peak palace stays) need early payment; your quote will say so.",
+                "Some suppliers (peak-week hotels, trek operators and camps) need early payment; your quote will say so.",
             ]},
         ]),
         ("How you can pay", [
@@ -114,7 +114,7 @@ POLICIES["privacy"] = {
             "To reply to your enquiry, plan and book your journey, look after you while you travel, keep accounting records and, if you subscribed, send our monthly letter. We do not use your data for advertising profiles.",
         ]),
         ("Who we share it with", [
-            "Only the suppliers who provide a service you booked (hotels, airlines, railways, parks and permit offices, drivers and guides) and our accountants and payment providers. Some are outside India; we share only what each one needs.",
+            "Only the suppliers who provide a service you booked (hotels and homestays, permit offices and registered agents, drivers, guides and, if you ask us to book them, airlines and railways) and our accountants and payment providers. Some are outside India; we share only what each one needs.",
         ]),
         ("How long we keep it", [
             "Enquiries that do not lead to a booking: [24] months. Booking records: as long as Indian tax and accounting law requires, currently [8] years. Newsletter: until you unsubscribe.",
@@ -123,7 +123,7 @@ POLICIES["privacy"] = {
             "You can ask to see, correct or delete your personal data, or withdraw consent for our letter, by writing to [PRIVACY EMAIL]. We reply within [30] days. Under India's Digital Personal Data Protection Act you may also contact our grievance officer: [NAME, EMAIL].",
         ]),
         ("This website", [
-            "The site sets a security cookie for its forms and no advertising cookies. It loads fonts from Google Fonts, scripts from cdnjs and unpkg, and photographs from Wikimedia, and those services see your IP address when your browser requests their files. Our maps are drawn on our own server, with no map service. See the cookie policy for details.",
+            "The site sets a security cookie for its forms and no advertising cookies. It loads fonts from Google Fonts and photographs from Wikimedia, and those services see your IP address when your browser requests their files. Our maps are drawn on our own server, with no map service. See the cookie policy for details.",
         ]),
     ],
 }
@@ -137,7 +137,7 @@ POLICIES["cookies"] = {
             "csrftoken: set by our website software to protect forms from cross-site attacks. Expires after one year. Contains no personal data.",
         ]),
         ("Stored in your browser", [
-            "If you close the small planning prompt on guide pages, your browser remembers that for the rest of the visit (session storage) so we do not show it again. Nothing is sent to us.",
+            "If you close the small planning prompt that appears on longer pages, your browser remembers that for the rest of the visit (session storage) so we do not show it again. Nothing is sent to us.",
         ]),
         ("Analytics", [
             "[If you enable Google Analytics 4, list its cookies here (_ga, _ga_*) and add a consent banner before setting them.]",
@@ -154,7 +154,7 @@ POLICIES["disclaimer"] = {
             "Our guides, journeys and place pages describe conditions as we understand them when written. They are for planning, not a guarantee. Distances and drive times are typical, not exact. Prices are indicative.",
         ]),
         ("Health and altitude", [
-            "Our notes on altitude, heat and health are general advice, not medical advice. Please see a doctor before travelling, especially to Ladakh, high Nepal, Tawang or North Sikkim.",
+            "Our notes on altitude, heat and health are general advice, not medical advice. Please see a doctor before travelling, especially for North Sikkim, Nathu La, the Silk Route and treks such as Goecha La, which go above 3,500 m.",
         ]),
         ("Photographs", [
             "Photographs come from Wikimedia Commons under free licences and are credited to their authors. They show places as they were when photographed. See our photo credits page.",
@@ -175,7 +175,7 @@ POLICIES["accessibility"] = {
     "sections": [
         ("What we have done", [
             {"list": [
-                "Text contrast of at least 4.5:1, with each land's colours tested.",
+                "Text contrast of at least 4.5:1, with each district's colours tested.",
                 "Every page works with a keyboard, with visible focus outlines.",
                 "Photos have text alternatives; maps have a numbered list of every place shown.",
                 "Animations stop if your device asks for reduced motion.",
@@ -183,7 +183,7 @@ POLICIES["accessibility"] = {
             ]},
         ]),
         ("Travelling with access needs", [
-            "Many heritage sites have steps and uneven ground. Tell us about mobility, sight, hearing or other needs and we will check hotels, vehicles and sites for you before you book.",
+            "Many monasteries and viewpoints in Sikkim have steep steps and uneven ground. Tell us about mobility, sight, hearing or other needs and we will check hotels, vehicles and sites for you before you book.",
         ]),
         ("Contact", [
             "Write to [ACCESSIBILITY EMAIL] or call [PHONE].",

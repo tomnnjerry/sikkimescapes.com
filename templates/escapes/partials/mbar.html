@@ -1,1 +1,2 @@
-<div class="mbar" role="img" aria-label="Best months: {{ label }}">{% for c in bar %}<span class="v{{ c.v }}" title="{{ c.full }}"><i></i>{{ c.m|slice:":1" }}</span>{% endfor %}</div>
+<div><div class="months" role="img" aria-label="Best months: {{ label|default:'see calendar' }}">{% for c in bar %}<span class="v{{ c.v }}" title="{{ c.full }}">{{ c.m|slice:":1" }}</span>{% endfor %}</div>
+<div class="months-key"><span><i style="background:var(--accent-ink)"></i>Best</span><span><i style="background:color-mix(in srgb, var(--accent) 35%, var(--paper))"></i>Good</span><span><i style="background:var(--paper-3)"></i>Avoid or closed</span></div></div>
