@@ -1,26 +1,67 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ r.name }} in {{ month }}: weather, where to go, festivals · Tales of Luxury{% endblock %}
-{% block description %}{{ r.name }} in {{ month }}: {{ md.weather }}. Where to go, what is on and the journeys that work this month.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ r.name }} in {{ month }}: weather, where to go · Sikkim Escapes{% endblock %}
+{% block description %}{{ r.name }} in {{ month }}: {% if md.weather %}{{ md.weather }}. {% endif %}{% if rating == 2 %}One of the best months.{% elif rating == 1 %}A good month.{% else %}An off-season month.{% endif %} Where to go, festivals and packages.{% endblock %}
+{% block og_title %}{{ title }} · Sikkim Escapes{% endblock %}
+{% block og_image %}{% with img=r|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <div class="chip-row"><a class="chip chip--land" href="{{ r.url }}">{% icon r.slug %} {{ r.name }}</a><span class="chip chip--line">{% if rating == 2 %}Best season{% elif rating == 1 %}Good season{% else %}Off season{% endif %}</span></div>
-  <h1 class="h-xl">{{ r.name }} in <span class="accent">{{ month }}</span></h1>
-  <p class="lede" style="font-family: var(--display); font-style: italic; color: var(--ink)">{{ md.weather }}</p>
-  <div class="answer">{{ md.summary }}</div></div></header>
-<section class="sec--tight"><div class="wrap split">
-  <div class="split__main">
-    {% if go %}<div class="block"><p class="eyebrow">Where to go</p><h2 class="h-l">Our picks for {{ month }}</h2><div class="grid grid--3" data-fill>{% for p in go %}{% include "tales/partials/card_place.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div>{% endif %}
-    {% if md.tip %}<div class="answer" style="font-size: 17px">{{ md.tip }}</div>{% endif %}
-    {% if events %}<div class="block"><p class="eyebrow">What is on</p><h2 class="h-l">Festivals this month</h2><div class="grid grid--3" data-fill>{% for f in events %}<a class="card card--wide" href="{{ f.url }}">{% photo f|first_img alt=f.name credit=False sizes="33vw" %}<span class="card__title card__title--s">{{ f.name }}</span><span class="card__meta">{{ f.when }}</span></a>{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div>{% endif %}
-    {% if journeys %}<div class="block"><p class="eyebrow">Journeys</p><h2 class="h-l">Routes at their best in {{ month }}</h2><div class="grid grid--2" data-fill>{% for j in journeys|slice:":6" %}{% include "tales/partials/card_journey.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div>{% endif %}
-    {% include "tales/partials/faq.html" with faqs=faqs %}
+{% if rating == 2 %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Best month · "|add:r.official h_lede=md.weather h_seed=r.slug|add:month h_short=True %}
+{% elif rating == 1 %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Good month · "|add:r.official h_lede=md.weather h_seed=r.slug|add:month h_short=True %}
+{% else %}{% include "escapes/partials/phero.html" with h_title=title h_img=go.0|first_img h_kicker="Off season · "|add:r.official h_lede=md.weather h_seed=r.slug|add:month h_short=True %}{% endif %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="verdict{% if rating == 1 %} verdict--warn{% elif rating == 0 %} verdict--no{% endif %} rv">
+        <b>{% if rating == 2 %}Yes: {{ month }} is one of the best months for {{ r.name }}{% elif rating == 1 %}{{ month }} is a good month for {{ r.name }}, with some trade-offs{% else %}{{ month }} is off season in {{ r.name }}{% endif %}</b>
+        {% if md.summary %}<p style="margin:8px 0 0">{{ md.summary }}</p>{% endif %}
+      </div>
+      {% if md.weather or md.tip %}<dl class="ledger">
+        {% if md.weather %}<div><dt>Weather</dt><dd>{{ md.weather }}</dd></div>{% endif %}
+        <div><dt>Rating</dt><dd>{% if rating == 2 %}Best{% elif rating == 1 %}Good{% else %}Off season{% endif %}</dd></div>
+        {% if r.best_label %}<div><dt>Best months</dt><dd>{{ r.best_label }}</dd></div>{% endif %}
+      </dl>{% endif %}
+      {% if md.tip %}<div class="answer"><b>Our tip for {{ month }}</b><p>{{ md.tip }}</p></div>{% endif %}
+
+      {% if go %}<div>
+        {% include "escapes/partials/sechead.html" with sh_kicker="Where to go" sh_title="Our picks for "|add:month %}
+        <div class="grid g2" data-fill>{% for p in go %}{% include "escapes/partials/card_place.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+      </div>{% endif %}
+
+      {% if events %}<div>
+        {% include "escapes/partials/sechead.html" with sh_kicker="Festivals" sh_title="On the calendar in "|add:month %}
+        <div class="grid g2" data-fill>{% for f in events %}{% include "escapes/partials/card_fest.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+        <p class="small muted" style="margin-top:10px">Most festival dates follow the lunar calendar and move each year. Ask us for the date in the year you travel.</p>
+      </div>{% endif %}
+
+      <div>
+        {% include "escapes/partials/sechead.html" with sh_kicker="Packages" sh_title="Trips at their best in "|add:month %}
+        {% if journeys %}<div class="grid g2" data-fill>{% for j in journeys %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+        {% else %}<div class="empty">None of our {{ r.name }} packages is rated best for {{ month }}. We can still plan a trip that fits the weather: <a href="{% url 'plan' %}?land={{ r.slug }}&month={{ month }}">ask the Gangtok desk</a>.</div>{% endif %}
+      </div>
+
+      {% include "escapes/partials/faq.html" with faq_title=r.name|add:" in "|add:month %}
+
+      <nav class="pager" aria-label="Other months">
+        <a class="btn btn--ghost" href="{% url 'region_month' r.slug prev %}">{{ prev_name }}</a>
+        <a class="btn btn--ghost" href="{% url 'sikkim_month' month|lower %}">All Sikkim in {{ month }}</a>
+        <a class="btn btn--ghost" href="{% url 'region_month' r.slug next %}">{{ next_name }} {% icon "arrow" %}</a>
+      </nav>
+    </div>
+
+    <aside class="side">
+      <div class="panel">
+        <p class="kicker" style="margin-bottom:8px">{{ r.name }} through the year</p>
+        <div class="months">{% for c in r.bar %}<a href="{% url 'region_month' r.slug c.full|lower %}" title="{{ c.full }}" aria-label="{{ r.name }} in {{ c.full }}" style="text-decoration:none"><span class="v{{ c.v }}"{% if forloop.counter0 == i %} style="outline:2px solid var(--ink);outline-offset:1px"{% endif %}>{{ c.m|slice:":1" }}</span></a>{% endfor %}</div>
+        <a class="btn btn--foil btn--block" style="margin-top:16px" href="{% url 'plan' %}?land={{ r.slug }}&month={{ month }}&from={{ request.path|urlencode }}" data-cta="region-month-plan">Plan {{ r.name }} in {{ month }}</a>
+      </div>
+      {% if others %}<div class="panel">
+        <p class="kicker" style="margin-bottom:8px">Other districts in {{ month }}</p>
+        <div class="rows">{% for o in others %}<a href="{% url 'region_month' o.r.slug month|lower %}" data-land="{{ o.r.slug }}"><b style="font-size:1rem">{{ o.r.name }}</b><small>{% if o.rating == 2 %}Best{% elif o.rating == 1 %}Good{% else %}Off season{% endif %}</small></a>{% endfor %}</div>
+      </div>{% endif %}
+      <a class="linkarrow" href="{{ r.url }}">The full {{ r.name }} guide {% icon "arrow" %}</a>
+    </aside>
   </div>
-  <aside class="split__aside">
-    <div class="panel panel--dark"><h2 class="h-s">{{ r.name }} through the year</h2>{% include "tales/partials/mbar.html" with bar=r.bar label=r.best_label %}
-      <div class="pager" style="margin-top: 20px"><a href="{% url 'region_month' r.slug prev %}" style="color: var(--brass)">← {{ prev_name }}</a><a href="{% url 'region_month' r.slug next %}" style="color: var(--brass)">{{ next_name }} →</a></div></div>
-    <div class="panel panel--line"><p class="eyebrow" style="margin-bottom: 12px">Elsewhere in {{ month }}</p><div class="ledger">
-      {% for o in others %}<a class="ledger__row" href="{% url 'region_month' o.r.slug month|lower %}" style="text-decoration: none"><span>{{ o.r.name }}</span><span class="ledger__dots"></span><b>{% if o.rating == 2 %}Best{% elif o.rating == 1 %}Good{% else %}Off{% endif %}</b></a>{% endfor %}</div></div>
-  </aside>
-</div></section>
+</section>
+{% include "escapes/partials/cta.html" with cta_title="Travelling in "|add:month|add:"?" %}
 {% endblock %}

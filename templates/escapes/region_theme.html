@@ -1,26 +1,64 @@
-{% extends "tales/base.html" %}{% load tales %}
-{% block title %}{{ t.name }} in {{ r.name }} · Tales of Luxury{% endblock %}
-{% block description %}{{ t.name }} in {{ r.name }}: the places, journeys and stays we would choose. {{ t.tagline }}.{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}{{ t.name }} in {{ r.name }}: places, trips, stays · Sikkim Escapes{% endblock %}
+{% block description %}{{ t.name }} in {{ r.name }}: the places, packages and stays we would choose{% if places %}, from {% for p in places|slice:":3" %}{{ p.name }}{% if not forloop.last %}, {% endif %}{% endfor %}{% endif %}. {{ t.tagline }}.{% endblock %}
+{% block og_title %}{{ t.name }} in {{ r.name }} · Sikkim Escapes{% endblock %}
+{% block og_image %}{% with img=places.0|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
 {% block content %}
-<header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
-  <div class="chip-row"><a class="chip chip--land" href="{{ r.url }}">{% icon r.slug %} {{ r.name }}</a><a class="chip chip--line" href="{{ t.url }}">{{ t.name }}</a></div>
-  <h1 class="h-xl">{{ t.name }} in <span class="accent">{{ r.name }}</span></h1>
-  <div class="answer">In {{ r.name }}, {{ t.name|lower }} works best in {% for p in places|slice:":4" %}{{ p.name }}{% if not forloop.last %}, {% endif %}{% endfor %}. {{ t.summary }}</div></div></header>
-<section class="sec--tight"><div class="wrap split">
-  <div class="split__main"><div class="block prose prose--plain">{% for para in t.intro %}<p>{{ para }}</p>{% endfor %}</div></div>
-  <aside class="split__aside"><div class="panel panel--dark"><h2 class="h-s">The ledger</h2><div class="ledger">
-    
-    <div class="ledger__row"><span>Style</span><span class="ledger__dots"></span><b>{{ t.name }}</b></div>
-    <div class="ledger__row"><span>Colours</span><span class="ledger__dots"></span><b>{{ r.palette }}</b></div>
-    <div class="ledger__row"><span>Best months</span><span class="ledger__dots"></span><b>{{ r.best_label }}</b></div></div></div></aside>
-</div></section>
-<section class="sec paper"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Places</p><h2 class="h-l">Where to go</h2></div></div>
-  <div class="grid grid--4" data-fill>{% for p in places %}{% include "tales/partials/card_place.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div></section>
-{% if journeys %}<section class="sec"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Journeys</p><h2 class="h-l">Routes to start from</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for j in journeys %}{% include "tales/partials/card_journey.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div></section>{% endif %}
-{% if experiences %}<section class="sec dark"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Experiences</p><h2 class="h-l">Hours that fit the style</h2></div></div>
-  <div class="grid grid--4" data-fill>{% for e in experiences|slice:":8" %}{% include "tales/partials/card_exp.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div></section>{% endif %}
-{% if stays %}<section class="sec"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Stays</p><h2 class="h-l">Where we would book</h2></div></div>
-  <div class="grid grid--3" data-fill>{% for s in stays %}{% include "tales/partials/card_stay.html" %}{% endfor %}{% include "tales/partials/fill.html" with fill_land=r.slug %}</div></div></section>{% endif %}
+{% include "escapes/partials/phero.html" with h_title=t.name|add:" in "|add:r.name h_img=places.0|first_img h_kicker=r.official|add:" · Theme" h_lede=t.tagline h_seed=r.slug|add:t.slug h_short=True %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      <div class="answer rv"><b>Short answer</b><p>In {{ r.name }}, {{ t.name|lower }} works best in {% for p in places|slice:":4" %}{{ p.name }}{% if forloop.revcounter == 2 %} and {% elif not forloop.last %}, {% endif %}{% endfor %}.{% if journeys %} We have {{ journeys|length }} package{{ journeys|length|pluralize }} built around it.{% endif %} {{ t.summary }}</p></div>
+      {% if t.intro %}<div class="prose">{% for para in t.intro|slice:":2" %}<p>{{ para }}</p>{% endfor %}</div>{% endif %}
+    </div>
+    <aside class="side">
+      <dl class="ledger">
+        <div><dt>Theme</dt><dd><a href="{{ t.url }}">{{ t.name }}</a></dd></div>
+        <div><dt>District</dt><dd><a href="{{ r.url }}">{{ r.name }}</a></dd></div>
+        {% if r.best_label %}<div><dt>Best months</dt><dd>{{ r.best_label }}</dd></div>{% endif %}
+        <div><dt>Places</dt><dd>{{ places|length }}</dd></div>
+        {% if journeys %}<div><dt>Packages</dt><dd>{{ journeys|length }}</dd></div>{% endif %}
+      </dl>
+      <a class="btn btn--foil btn--block" href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}" data-cta="region-theme-plan">Price a {{ t.name|lower }} trip</a>
+    </aside>
+  </div>
+</section>
+
+{% if places %}<section class="sec sec--paper2" aria-labelledby="pl-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Places" sh_title="Where to go" sh_id="pl-h" %}
+    <div class="grid g4" data-fill>{% for p in places %}{% include "escapes/partials/card_place.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if journeys %}<section class="sec" aria-labelledby="j-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Packages" sh_title="Trips to start from" sh_id="j-h" sh_text="Indicative prices per person, twin sharing. Each one can be changed." %}
+    <div class="grid g4" data-fill>{% for j in journeys %}{% include "escapes/partials/card_journey.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if experiences %}<section class="sec dark" aria-labelledby="e-h">
+  {% contour r.slug|add:t.slug "contour" 12 2 %}
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Experiences" sh_title="Hours that fit the theme" sh_id="e-h" %}
+    <div class="grid g4" data-fill>{% for e in experiences|slice:":8" %}{% include "escapes/partials/card_exp.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if stays %}<section class="sec" aria-labelledby="s-h">
+  <div class="wrap">
+    {% include "escapes/partials/sechead.html" with sh_kicker="Stays" sh_title="Where we would book" sh_id="s-h" %}
+    <div class="grid g3" data-fill>{% for s in stays|slice:":9" %}{% include "escapes/partials/card_stay.html" %}{% endfor %}{% include "escapes/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="pills"><a href="{{ r.url }}">{% icon r.icon %}All of {{ r.name }}</a><a href="{{ t.url }}">{{ t.name }} across Sikkim</a><a href="{% url 'region_budget' r.slug %}">{% icon "jeep" %}{{ r.name }} on a budget</a></div>
+  </div>
+</section>
+{% include "escapes/partials/cta.html" %}
 {% endblock %}

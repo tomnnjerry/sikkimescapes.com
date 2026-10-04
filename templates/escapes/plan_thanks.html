@@ -1,19 +1,43 @@
-{% extends "tales/base.html" %}
-{% block title %}Thank you · Tales of Luxury{% endblock %}
-{% block cta %}{% endblock %}
-{% block fab %}{% endblock %}
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Thank you: your Sikkim enquiry is in · Sikkim Escapes{% endblock %}
+{% block description %}Your enquiry has reached the Sikkim Escapes desk in Gangtok. We reply within one working day with a day-by-day plan and an itemised price.{% endblock %}
+{% block head_extra %}<meta name="robots" content="noindex">{% endblock %}
 {% block content %}
-<section class="sec wrap"><div class="phead__grid" style="align-items: start">
-  <div class="phead__text">
-    <p class="eyebrow">Received</p><h1 class="h-xl">Your tale <span class="accent">has begun</span></h1>
-    <p class="lede">Thank you. A planner will reply within one working day with a first route and an indicative price.{% if wa_base %} If your dates are close, WhatsApp us and we will move you up the queue.{% endif %}</p>
-    <div class="btns">{% if wa_base %}<a class="btn btn--brass" href="{{ wa_base }}?text={{ wa_text }}" data-cta="thanks-whatsapp">WhatsApp a planner</a>{% endif %}<a class="btn btn--dark" href="{% url 'journal' %}">Read the Journal</a><a class="btn btn--ghost" href="{% url 'seasons' %}">Season almanac</a></div>
+{% include "escapes/partials/phero.html" with h_title="Thank you, it is with us" h_kicker="Enquiry received" h_lede="The Gangtok desk replies within one working day with a day-by-day plan and an itemised price. If you sent it on a Sunday or a holiday, give us until the next working day." h_seed="thanks" %}
+
+<section class="sec">
+  <div class="wrap split">
+    <div class="stack">
+      <div>
+        <p class="kicker">What happens now</p>
+        <h2 class="h2">Three things, in this order</h2>
+        <ol class="numlist">
+          <li><span><b>We check your dates.</b> Permits, road status and room availability for the districts you picked.</span></li>
+          <li><span><b>You get a plan and a price.</b> Every night, every drive, and the cost of rooms, car, permits and our fee on separate lines.</span></li>
+          <li><span><b>We adjust it with you.</b> Change hotels, nights or tier until it fits. No payment until you decide to book.</span></li>
+        </ol>
+      </div>
+      <div class="panel">
+        <h2 class="h3">While you wait</h2>
+        <p>Send ID and two passport photos per traveller once your dates are fixed if your trip includes North Sikkim, Tsomgo, Nathu La or the Silk Route; protected-area permits need them. Children under 5 are not permitted in North Sikkim protected areas. Check current status before you travel.</p>
+        <div class="btns"><a class="btn btn--ghost btn--sm" href="{% url 'tool_permits' %}">{% icon "permit" %} Permit checker</a><a class="btn btn--ghost btn--sm" href="{% url 'tool_altitude' %}">{% icon "altitude" %} Altitude check</a></div>
+      </div>
+    </div>
+    <aside class="side">
+      <div class="panel panel--dark">
+        <h2 class="h3">Something urgent?</h2>
+        <p>Travelling in the next few days, or need to change what you sent? Message us directly.</p>
+        <div class="btns">
+          {% if wa_base %}<a class="btn btn--wa btn--block" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="thanks-whatsapp" style="color:#fff">{% icon "whatsapp" %} WhatsApp</a>{% endif %}
+          {% if tel %}<a class="btn btn--foil btn--block" href="tel:{{ tel }}" data-cta="thanks-call">{% icon "phone" %} {{ SITE.phone }}</a>{% endif %}
+        </div>
+      </div>
+      <div class="rows">
+        <a href="{% url 'affordable' %}"><b>Affordable Sikkim</b><small>Packages by price</small></a>
+        <a href="{% url 'guides' %}"><b>Guides</b><small>Costs, permits, seasons</small></a>
+        <a href="{% url 'stories' %}"><b>Rooted stories</b><small>Before you go</small></a>
+      </div>
+    </aside>
   </div>
-  <div class="panel panel--dark"><h2 class="h-s">While you wait</h2><ol class="tips" style="color: var(--mist-2)">
-    <li>Check passport validity: six months beyond your return is the safe rule.</li>
-    <li>Note any dates that cannot move: they shape the route first.</li>
-    <li>Think about pace: how many hotel changes feel right to you.</li>
-    <li>Look at <a href="{% url 'how_we_work' %}" style="color: var(--brass)">how we work</a> and our <a href="{% url 'policy' 'refund-and-cancellation' %}" style="color: var(--brass)">refund policy</a>.</li></ol></div>
-</div></section>
-<script>window.dataLayer=window.dataLayer||[];dataLayer.push({event:"generate_lead"});</script>
+</section>
 {% endblock %}

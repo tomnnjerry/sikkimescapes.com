@@ -9,7 +9,7 @@
 <section class="sec">
   <div class="wrap split">
     <div>
-      <form class="form panel" method="post" action="{% url 'plan' %}" data-wizard data-cta-form="plan-full" novalidate-off>
+      <form class="form panel" method="post" action="{% url 'plan' %}" data-wizard data-cta-form="plan-full">
         {% csrf_token %}
         {% for h in form.hidden_fields %}{{ h }}{% endfor %}
         <ol class="wizard__steps" aria-hidden="true"><li class="is-on">Your trip</li><li>About you</li><li>Message</li></ol>
@@ -80,7 +80,6 @@
           <a class="btn btn--ghost btn--block" href="mailto:{{ SITE.email }}" data-cta="plan-email">{{ SITE.email }}</a>
         </div>
       </div>
-      {% include "escapes/partials/trust.html" %}
     </aside>
   </div>
 </section>

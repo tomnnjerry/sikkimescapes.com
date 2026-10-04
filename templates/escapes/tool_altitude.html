@@ -1,0 +1,154 @@
+{% extends "escapes/base.html" %}{% load esc %}
+{% block title %}Altitude check for every Sikkim package · Sikkim Escapes{% endblock %}
+{% block description %}See any Sikkim Escapes package's altitude day by day: where you sleep, how fast you climb, where the big jumps are, and plain advice on acclimatising.{% endblock %}
+{% block og_title %}Sikkim altitude check · Sikkim Escapes{% endblock %}
+{% block content %}
+{% include "escapes/partials/phero.html" with h_title="How high does this trip go" h_kicker="Altitude check" h_lede="Sikkim climbs from about 280 m in the Teesta valley to over 5,000 m at Gurudongmar in less than a day's drive. Pick a package to see where each night sleeps, and where the climb is steep enough to plan around." h_seed="altitude-check" %}
+
+<section class="sec" aria-labelledby="ac-h">
+  <div class="wrap">
+    <form class="filters" id="ac-form" onsubmit="return false">
+      <label class="sr" for="ac-pick">Package</label>
+      <select id="ac-pick" style="flex:1;min-width:240px"></select>
+      <span class="filters__count" id="ac-count"></span>
+    </form>
+
+    <div class="split" style="align-items:start">
+      <div class="stack--s" aria-live="polite">
+        <div>
+          <p class="kicker" id="ac-kicker">Altitude profile</p>
+          <h2 class="h2" id="ac-h">Choose a package</h2>
+          <p class="muted" id="ac-sub"></p>
+        </div>
+        <div class="profile-box" id="ac-chart"></div>
+        <div class="stack--s" id="ac-flags"></div>
+        <div class="tablewrap prose" style="max-width:none" id="ac-table"></div>
+      </div>
+      <aside class="side">
+        <div class="statrow" id="ac-stats"></div>
+        <div class="panel">
+          <h3>Acclimatising, plainly</h3>
+          <ul class="ticks small">
+            <li>Above about 3,000 m, try not to raise your sleeping altitude by more than 500 m a night. Day trips higher are fine if you come back down to sleep.</li>
+            <li>Take it slowly the first afternoon up high. Walk, do not run up steps.</li>
+            <li>Drink water steadily and skip alcohol and sleeping pills for the first two nights up high.</li>
+            <li>At the high lakes and passes (Gurudongmar, Nathu La, Zero Point) keep your stop short and warm.</li>
+            <li>Headache, nausea, dizziness or very poor sleep can mean altitude sickness. Do not go higher with symptoms; if they get worse, go down. Tell your driver: they turn back for this every season.</li>
+          </ul>
+          <ul class="ticks ticks--no small" style="margin-top:12px">
+            <li>This is general advice, not medical advice. If you have heart or lung conditions, are pregnant, or are travelling with young children or older relatives, see a doctor before booking a high trip.</li>
+            <li>Children under 5 are not permitted in North Sikkim protected areas. Check current status before you travel.</li>
+          </ul>
+        </div>
+        <a class="btn btn--foil btn--block" id="ac-plan" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="altitude-tool">Ask for a gentler version</a>
+        <a class="btn btn--ghost btn--block" href="{% url 'altitude' %}">The altitude ladder</a>
+      </aside>
+    </div>
+    <noscript><div class="empty mt">The altitude check needs JavaScript. Every <a href="{% url 'journeys' %}">package page</a> also shows its altitude profile.</div></noscript>
+  </div>
+</section>
+
+{% include "escapes/partials/cta.html" with cta_title="Worried about the height" cta_text="Tell us who is travelling. We can add a night at Lachung before Gurudongmar, swap a pass for a lower valley, or build a trip that stays below 3,000 m." %}
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  var data = {{ data|safe }};
+  var TIERS = { budget: "Budget", value: "Value", comfort: "Comfort", premium: "Premium" };
+  var GAIN = 500, GAIN_ABOVE = 3000, HIGH_NIGHT = 3500;
+  var $ = function (id) { return document.getElementById(id); };
+  var pick = $("ac-pick"), planBase = $("ac-plan").getAttribute("href");
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[c]; }); }
+  function n(x) { return Math.round(x).toLocaleString("en-IN"); }
+
+  data.forEach(function (j, i) { j._i = i; });
+  var list = data.filter(function (j) { return (j.p || []).length; })
+    .sort(function (a, b) { return (b.max || 0) - (a.max || 0) || a.t.localeCompare(b.t); });
+  $("ac-count").textContent = list.length + " packages";
+  if (!list.length) {
+    $("ac-h").textContent = "No packages to check yet";
+    $("ac-chart").outerHTML = '<div class="empty">Packages appear here as soon as they are published.</div>';
+    pick.disabled = true;
+    return;
+  }
+  pick.innerHTML = list.map(function (j) {
+    return '<option value="' + j._i + '">' + esc(j.t) + ' · ' + j.n + ' night' + (j.n === 1 ? '' : 's') + (j.max ? ' · up to ' + n(j.max) + ' m' : '') + '</option>';
+  }).join("");
+  try {
+    var q = new URLSearchParams(location.search).get("j");
+    if (q) list.forEach(function (j) { if (j.u.indexOf("/" + q + "/") > -1) pick.value = String(j._i); });
+  } catch (e) {}
+
+  function svg(pts, flagged) {
+    var W = 1000, H = 320, L = 64, R = 24, T = 34, B = 58;
+    var top = Math.max.apply(null, pts.map(function (p) { return p.alt; }));
+    var ymax = Math.max(3000, Math.ceil(top / 1000) * 1000 + (top % 1000 > 700 ? 500 : 0));
+    var sx = (W - L - R) / Math.max(1, pts.length - 1);
+    var X = function (i) { return pts.length === 1 ? (L + W - R) / 2 : L + i * sx; };
+    var Y = function (a) { return T + (H - T - B) * (1 - a / ymax); };
+    var o = ['<svg class="profile" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Sleeping altitude by day, highest ' + n(top) + ' metres" xmlns="http://www.w3.org/2000/svg">',
+      '<defs><linearGradient id="ac-fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="currentColor" stop-opacity=".38"/><stop offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient></defs>'];
+    for (var a = 0; a <= ymax; a += 1000) {
+      o.push('<line class="profile__grid" x1="' + L + '" y1="' + Y(a).toFixed(1) + '" x2="' + (W - R) + '" y2="' + Y(a).toFixed(1) + '"/><text class="profile__tick" x="' + (L - 10) + '" y="' + (Y(a) + 4).toFixed(1) + '" text-anchor="end">' + n(a) + ' m</text>');
+    }
+    [[GAIN_ABOVE, "Above 3,000 m: climb 500 m a night at most"], [HIGH_NIGHT, "Above 3,500 m: sleep lower if you can"]].forEach(function (b) {
+      if (b[0] < ymax) o.push('<line class="profile__band" x1="' + L + '" y1="' + Y(b[0]).toFixed(1) + '" x2="' + (W - R) + '" y2="' + Y(b[0]).toFixed(1) + '"/><text class="profile__bandlabel" x="' + (W - R) + '" y="' + (Y(b[0]) - 6).toFixed(1) + '" text-anchor="end">' + b[1] + '</text>');
+    });
+    var line = pts.map(function (p, i) { return X(i).toFixed(1) + "," + Y(p.alt).toFixed(1); });
+    o.push('<path d="M' + X(0).toFixed(1) + ',' + Y(0).toFixed(1) + ' L' + line.join(" L") + ' L' + X(pts.length - 1).toFixed(1) + ',' + Y(0).toFixed(1) + 'Z" fill="url(#ac-fill)"/>');
+    o.push('<polyline class="profile__line" points="' + line.join(" ") + '"/>');
+    var every = pts.length <= 9 ? 1 : 2;
+    pts.forEach(function (p, i) {
+      var x = X(i), y = Y(p.alt), hi = p.alt === top, fl = flagged[i];
+      o.push('<g class="profile__pt' + (hi ? ' is-top' : '') + '"><circle cx="' + x.toFixed(1) + '" cy="' + y.toFixed(1) + '" r="6"' + (fl ? ' style="stroke:var(--lt-red)"' : '') + '/><title>Day ' + esc(p.day) + ': ' + esc(p.name) + ' ' + n(p.alt) + ' m</title></g>');
+      if (fl) o.push('<circle cx="' + x.toFixed(1) + '" cy="' + y.toFixed(1) + '" r="12" fill="none" stroke="var(--lt-red)" stroke-width="2" stroke-dasharray="3 3"/>');
+      if (i % every === 0 || hi || fl) {
+        o.push('<text class="profile__day" x="' + x.toFixed(1) + '" y="' + (H - B + 22) + '" text-anchor="middle">Day ' + esc(p.day) + '</text>');
+        o.push('<text class="profile__name" x="' + x.toFixed(1) + '" y="' + (H - B + 40) + '" text-anchor="middle">' + esc((p.name || "").slice(0, 14)) + '</text>');
+      }
+      if (hi) o.push('<text class="profile__alt" x="' + x.toFixed(1) + '" y="' + (y - 14).toFixed(1) + '" text-anchor="middle">' + n(p.alt) + ' m</text>');
+    });
+    o.push("</svg>");
+    return o.join("");
+  }
+
+  function draw() {
+    var j = data[+pick.value];
+    if (!j) return;
+    var pts = j.p.filter(function (p) { return typeof p.alt === "number" && p.alt > 0; });
+    var flags = [], flagged = {}, last = pts.length - 1;
+    pts.forEach(function (p, i) {
+      var sleeps = i < last;  // the last day ends the trip, usually on the plains
+      if (i > 0 && sleeps) {
+        var gain = p.alt - pts[i - 1].alt;
+        if (p.alt > GAIN_ABOVE && gain > GAIN) { flagged[i] = 1; flags.push(["no", "Day " + p.day + ": sleeping altitude rises " + n(gain) + " m to " + n(p.alt) + " m at " + (p.name || "the overnight stop") + ". That is a big jump above 3,000 m: take the afternoon easy, or ask us to add a night lower down first."]); }
+      }
+      if (sleeps && p.alt > HIGH_NIGHT) { flagged[i] = 1; flags.push(["warn", "Day " + p.day + ": overnight above 3,500 m (" + n(p.alt) + " m at " + (p.name || "this stop") + "). Nights this high are when altitude sickness most often shows; keep the evening quiet and warm."]); }
+    });
+    var topSleep = Math.max.apply(null, pts.slice(0, Math.max(1, last)).map(function (p) { return p.alt; }).concat([0]));
+    if (j.max && j.max > topSleep + 300) flags.push(["warn", "The highest point is a day visit at about " + n(j.max) + " m. Short stops are fine for most healthy adults; come back down to sleep and turn back if anyone feels unwell."]);
+    if (!flags.length) flags.push(["ok", "No big jumps. Every night on this trip stays within the gentle guideline: no gain of more than 500 m a night above 3,000 m and no night above 3,500 m."]);
+
+    $("ac-kicker").textContent = (TIERS[j.tier] || "Package") + " · " + j.n + " night" + (j.n === 1 ? "" : "s");
+    $("ac-h").textContent = j.t;
+    $("ac-sub").innerHTML = 'Sleeping altitude for each day. <a href="' + esc(j.u) + '">See the full package</a>.';
+    $("ac-chart").innerHTML = pts.length ? svg(pts, flagged) : '<p class="muted">No altitude data for this package yet.</p>';
+    $("ac-flags").innerHTML = flags.map(function (f) {
+      return '<div class="verdict' + (f[0] === "ok" ? "" : " verdict--" + f[0]) + '"><p class="small" style="margin:0">' + esc(f[1]) + '</p></div>';
+    }).join("");
+    $("ac-table").innerHTML = '<table><caption>Day by day</caption><thead><tr><th scope="col">Day</th><th scope="col">Overnight</th><th scope="col">Altitude</th><th scope="col">Change</th></tr></thead><tbody>' +
+      pts.map(function (p, i) {
+        var d = i ? p.alt - pts[i - 1].alt : 0;
+        return '<tr><td>' + esc(p.day) + '</td><td>' + esc(p.name || (i === last ? "Departure" : "")) + (flagged[i] ? ' <span class="chip" style="color:var(--lt-red)">Check</span>' : '') + '</td><td>' + n(p.alt) + ' m</td><td>' + (i ? (d > 0 ? "+" : d < 0 ? "−" : "") + n(Math.abs(d)) + ' m' : '–') + '</td></tr>';
+      }).join("") + '</tbody></table>';
+    $("ac-stats").innerHTML =
+      '<div class="stat"><b>' + n(topSleep) + ' m</b><small>Highest night</small></div>' +
+      '<div class="stat"><b>' + (j.max ? n(j.max) + ' m' : '–') + '</b><small>Highest point</small></div>' +
+      '<div class="stat"><b>' + Object.keys(flagged).length + '</b><small>Days to watch</small></div>';
+    $("ac-plan").href = planBase + "&journey=" + encodeURIComponent(j.t);
+  }
+  pick.addEventListener("change", draw);
+  draw();
+})();
+</script>
+{% endblock %}
