@@ -47,6 +47,8 @@ python tools/build_outlines.py                     # rebuild map outlines from N
   (or the `SE_EMAIL`, `SE_PHONE`, `SE_WHATSAPP` environment variables).
 - Fill in every `[BRACKETED]` value in `escapes/policies.py` after legal review.
 - Production environment: `DJANGO_DEBUG=0`, `DJANGO_SECRET_KEY=<random>`, `DJANGO_ALLOWED_HOSTS`, optional `SE_GA4`.
+  Google AdSense loads with the built-in publisher ID and `/ads.txt` is served automatically; set `SE_ADSENSE` to
+  change the ID, or set it empty to turn ads off.
   Run `python manage.py collectstatic`, then set `SE_HASHED_STATIC=1`. HTTPS redirect is on by default when
   DEBUG is off (`SE_SSL_REDIRECT=0` to disable behind a proxy that already redirects); raise `SE_HSTS_SECONDS`
   once HTTPS is confirmed.

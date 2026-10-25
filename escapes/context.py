@@ -43,5 +43,6 @@ def site(request):
         "wa_base": f"https://wa.me/{wa}" if len(wa) >= 10 else "",
         "wa_text": quote(f"Hello Sikkim Escapes, I would like to plan a Sikkim trip. (Page: {S['url']}{request.path})"),
         "GA4": getattr(settings, "GA4_ID", ""),
+        "ADSENSE": getattr(settings, "ADSENSE_CLIENT", ""),
         "V": _asset_version(),
     }

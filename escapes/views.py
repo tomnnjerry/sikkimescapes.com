@@ -463,6 +463,13 @@ def robots(request):
     return HttpResponse(body, content_type="text/plain")
 
 
+def ads_txt(request):
+    """Authorises Google AdSense to sell ads on this domain."""
+    pub = getattr(settings, "ADSENSE_CLIENT", "").removeprefix("ca-")
+    body = f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n" if pub else ""
+    return HttpResponse(body, content_type="text/plain")
+
+
 def llms(request):
     cat = catalogue()
     lines = [f"# {settings.SITE['name']}", "",

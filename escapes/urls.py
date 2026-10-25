@@ -65,6 +65,7 @@ urlpatterns = [
     path("sitemap/", views.html_sitemap, name="html_sitemap"),
     path("robots.txt", views.robots, name="robots"),
     path("llms.txt", views.llms, name="llms"),
+    path("ads.txt", views.ads_txt, name="ads_txt"),
     # districts live at the top level: /north-sikkim/lachung/
     path("<district:region>/", views.region, name="region"),
     path("<district:region>/in/<slug:month>/", views.region_month, name="region_month"),
